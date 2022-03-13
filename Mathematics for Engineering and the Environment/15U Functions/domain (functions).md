@@ -19,7 +19,9 @@ f(x) - 2 &= e^{x}\\
 \end{align*}$$
 
 $$\begin{align*}
-0\leq f(x)< 3 
+0 \leq& f(x)< 3\\
+\ln (0 -2) \leq& x < \ln (3 -2)\\
+\ln (-2) \leq& x < 0 
 \end{align*}$$
 
 Hence the [[codomain (functions)|codomain]] is: $2\leq f(x) < e^{10} +2$
