@@ -11,3 +11,7 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[function]]
+
+![[domain (functions)]]
+
+![[codomain (functions)]]

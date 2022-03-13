@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["functions"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -18,4 +18,4 @@ There are two ways of representing a function:
 >> $x=$ input variable (an argument of $f$)
 >> $f=$ function of $x$
 
-Definitions that 
+The [[domain (functions)|domain]] and [[codomain (functions)|codomain]] are also relevent definitions that should be learned.
