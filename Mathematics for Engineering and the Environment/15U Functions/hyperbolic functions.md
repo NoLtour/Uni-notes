@@ -20,4 +20,6 @@ tags: ["Question","QFormat3"]
 
 > ### $$ \cosech x = \frac{1}{\sinh x} $$
 
+Fuck it I'm not even fixing the latex, this is just proof that these functions are stupid. Fuck them.
+
 > ### $$ \coth x = \frac{1}{\tanh x} $$
