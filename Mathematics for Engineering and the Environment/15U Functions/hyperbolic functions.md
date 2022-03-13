@@ -1,11 +1,12 @@
 ---
-aliases: ["hyperbolic function","cosh","sinh","tanh","sech","cosech","coth""]
+aliases: ["hyperbolic function","cosh","sinh","tanh","sech","cosech","coth"]
 tags: ["Question","QFormat3"]
 ---
 
-#### What are
+#### What are the
 ## Hyperbolic functions
-They are:
+### Normal ones
 
+> ### 
 
-As well as the inverse functiontions
+### Stupid ones (litterally just $\frac{1}{normal\:function}$ [[why the fuck do these have seperate function names so stupid|so dumb]])
