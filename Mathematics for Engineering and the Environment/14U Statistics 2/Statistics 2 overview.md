@@ -22,4 +22,6 @@ Heres the links:
 
 ![[binomial distribution]]
 
+![[standard error of the sample mean]]
+
 ![[hypothesis testing]]
