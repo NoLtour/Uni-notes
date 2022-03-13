@@ -16,4 +16,4 @@ Given a random sample of the population, the confidence interval is the likelyho
 
 ([[I mean it|I really really hate stats]])
 
-So for example if you use a [[confidence interval]] of 95% and your sample lies more than a [[standard error of the sample mean]] then that has a 5% likelyhood, he
+So for example if you use a [[confidence interval]] of 95% and your sample lies more than a [[standard error of the sample mean]] then that has a 5% likelyhood, so you can see how this could be useful in [[hypothesis testing]].
