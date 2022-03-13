@@ -26,5 +26,7 @@ Heres the links:
 
 ![[standard normal distirbution]]
 
+![[normal dist]]
+
 ![[hypothesis testing]]
 
