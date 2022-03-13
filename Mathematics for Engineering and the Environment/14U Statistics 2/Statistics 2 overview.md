@@ -26,6 +26,8 @@ Heres the links:
 
 ![[standard normal distirbution]]
 
+![[form distribution]]
+
 ![[normal distribution transformation]]
 
 ![[hypothesis testing]]
