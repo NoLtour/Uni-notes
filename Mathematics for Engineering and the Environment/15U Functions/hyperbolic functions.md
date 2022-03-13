@@ -1,11 +1,11 @@
 ---
-aliases: ["hyperbolic function"]
+aliases: ["hyperbolic function","cosh","sinh","tanh","sech","cosech","coth""]
 tags: ["Question","QFormat3"]
 ---
 
 #### What are
 ## Hyperbolic functions
 They are:
-- [[cosh (hyperbolic function)]]
-- [[sinh (hyperbolic function)]]
-- [[cosh (hyperbolic function)]]
+
+
+As well as the inverse functiontions
