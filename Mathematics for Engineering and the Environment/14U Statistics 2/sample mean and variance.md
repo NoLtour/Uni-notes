@@ -1,5 +1,5 @@
 ---
-aliases: ["sample mean","sample varience","sample normal distrobution"]
+aliases: ["sample mean","sample varience","sample standard variation"]
 tags: ["Question","QFormat3"]
 ---
 
