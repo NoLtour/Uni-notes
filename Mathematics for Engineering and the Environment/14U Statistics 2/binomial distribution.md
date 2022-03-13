@@ -9,6 +9,8 @@ tags: ["Question","QFormat3"]
 This is a discrete version of the [[normal distribution]]. Note that [[bernoulli trial]] is applicable here as well.
 ![[Pasted image 20220313113209.png]]
 
+Something to note is that as number of trials approaches infinity the [[normal distribution]] becomes a more and more accurate approximation of the [[binomial distribution]]. Hence why for large populations we use a [[normal distribution]].
+
 ### Probability of specific number of successes
 
 The probability of the actual number of successful trials for a given number of trials $n$ being equal to a value $k$ is given by:
@@ -38,4 +40,4 @@ The probability of the actual number of successful trials for a given number of 
 >> $P( k_{max} \geq N_{S} \geq k_{min} )=$ probability that the number of successful trials is equal to or between $k_{max}$ and $k_{min}$ for $n$ number of trials
 >> $\begin{pmatrix}n  \\  k\end{pmatrix}= \frac{n!}{(n-k)k!}$
 
-You probably wont be asked to manuall sum these, most calculators will have binomial distorbution specific functions so learn how to
+You probably wont be asked to manuall sum these, most calculators will have binomial distorbution specific functions so learn how to use those, else find something online that does it.
