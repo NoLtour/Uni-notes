@@ -23,3 +23,13 @@ tags: ["Question","QFormat3"]
 Fuck it I'm not even fixing the latex, this is just proof that these functions are stupid. Fuck them.
 
 > ### $$ \coth x = \frac{1}{\tanh x} $$
+
+### Inverse functions
+
+> ### $$ \sinh^{-1} x = \ln( x + \sqrt{x^{2} + 1} ) $$
+
+> ### $$ \cosh^{-1} x = \ln( x + \sqrt{x^{2} - 1} ) $$
+>>> where: $x\geq 1$
+
+> ### $$ \tanh^{-1} x = \frac{1}{2}\ln( x + \sqrt{x^{2} + 1} ) $$
+>>> where: $-1 < x < 1$
