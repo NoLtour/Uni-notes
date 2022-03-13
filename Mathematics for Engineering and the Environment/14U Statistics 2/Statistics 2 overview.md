@@ -26,7 +26,7 @@ Heres the links:
 
 ![[standard normal distirbution]]
 
-![[form distribution]]
+![[form of distribution]]
 
 ![[normal distribution transformation]]
 
