@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["unit normal distribution"]
 tags: ["Question","QFormat3"]
 ---
 
