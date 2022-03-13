@@ -9,8 +9,11 @@ tags: ["NotesPage"]
 ([[I do not like staaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaats|uuuuuuuuuuuuuuuugggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]]) 
 
 Heres the links:
-- 
-
+- [[sample mean and variance]]
+- [[normal distribution]]
+- [[binomial distribution]]
+- [[hypothesis testing]]
+- [[bernoulli trial]]
 
 ## Expanded articles
 ![[sample mean and variance]]
@@ -18,3 +21,5 @@ Heres the links:
 ![[normal distribution]]
 
 ![[binomial distribution]]
+
+![[hypothesis testing]]
