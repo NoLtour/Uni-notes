@@ -30,5 +30,7 @@ Heres the links:
 
 ![[normal distribution transformation]]
 
+![[confidence interval]]
+
 ![[hypothesis testing]]
 
