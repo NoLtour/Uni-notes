@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[domain (functions)]]
 
 ![[codomain (functions)]]
+
+![[hyperbolic functions]]
