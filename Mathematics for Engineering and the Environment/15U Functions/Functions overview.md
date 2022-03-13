@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[codomain (functions)]]
 
 ![[hyperbolic functions]]
+
+![[osborns rule]]
