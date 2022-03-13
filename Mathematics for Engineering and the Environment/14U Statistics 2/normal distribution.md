@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the
-## Normal distribution
+## Normal distribution ( $X \backsim N(\mu_{X},\sigma^{2}_{X})$ )
 This is where a [[bernoulli trial]] is applicable, and the following equation can be used to reonably accuratly determine the fraction of the total population that rests within a given range:
 
 > ### $$ P(x_{max}>X>x_{min}) = f_{pop} = \int^{x_{max}}_{x_{min}} \dfrac{e^{-\frac{1}{2} \left( \frac{x-\mu}{\sigma} \right)^{2} } }{\sigma\sqrt{2\pi}} \cdot dx $$ 
@@ -19,3 +19,4 @@ You do not need to know how to integrate this function (that's maths degree type
 
 (The following is a [[normal distribution]] graph, showing the equation $\frac{e^{-\frac{1}{2} \left( \frac{x-\mu}{\sigma} \right)^{2} } }{\sigma\sqrt{2\pi}}$)
 ![[Pasted image 20220313105429.png]]
+
