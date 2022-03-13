@@ -31,11 +31,11 @@ The probability of the actual number of successful trials for a given number of 
 > ### $$ P( k_{max} \geq N_{S} ) = P( k_{max}+1 > N_{S} ) $$
 > ### $$ P( N_{S} \geq k_{min} ) = P( N_{S} > k_{min}-1 ) $$
 > ### $$ P( \infty \geq N_{S} \geq -\infty ) = 1 $$
->> where:
+>> where: 
 >> $n=$ number of trials
 >> $p=$ probability of a trials success
 >> $N_{S}=$ number of successful trials for $n$ trials
 >> $P( k_{max} \geq N_{S} \geq k_{min} )=$ probability that the number of successful trials is equal to or between $k_{max}$ and $k_{min}$ for $n$ number of trials
 >> $\begin{pmatrix}n  \\  k\end{pmatrix}= \frac{n!}{(n-k)k!}$
 
-Generally
+You probably wont be asked to manuall sum these, most calculators will have binomial distorbution specific functions so learn how to
