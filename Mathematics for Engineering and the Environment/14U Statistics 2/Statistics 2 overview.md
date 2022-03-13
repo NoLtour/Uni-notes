@@ -26,7 +26,7 @@ Heres the links:
 
 ![[standard normal distirbution]]
 
-![[normal dist]]
+![[normal distribution transformation]]
 
 ![[hypothesis testing]]
 
