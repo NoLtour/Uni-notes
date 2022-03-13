@@ -5,4 +5,4 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Binomial distribution
-This is a discrete form of a [[sample mean and variance|sample normal distrobution]]
+This is a discrete version of the [[normal distribution]].

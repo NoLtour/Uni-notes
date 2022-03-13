@@ -28,6 +28,6 @@ Note that when considering small samples sizes the following equation needs to b
 >> where:
 >> $\bar{x}=$ [[sample mean and variance|sample mean]] 
 >> $\sigma^{2}=$ [[sample mean and variance|sample varience]]
->> $\sigma=$ [[sample mean and variance|sample normal distrobution]]
+>> $\sigma=$ [[sample mean and variance|sample standard variation]]
 >> $n=$ number of sampled values
 
