@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution transformation.md",
+            "file": "Mathematics for Engineering and the Environment/14U Statistics 2/confidence interval.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution transformation.md",
+                "file": "Mathematics for Engineering and the Environment/14U Statistics 2/confidence interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,9 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution transformation.md",
-    "Mathematics for Engineering and the Environment/14U Statistics 2/Statistics 2 overview.md",
     "Mathematics for Engineering and the Environment/14U Statistics 2/confidence interval.md",
+    "Mathematics for Engineering and the Environment/14U Statistics 2/Statistics 2 overview.md",
+    "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution transformation.md",
     "Mathematics for Engineering and the Environment/14U Statistics 2/standard normal distirbution.md",
     "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution.md",
     "Mathematics for Engineering and the Environment/14U Statistics 2/form of distribution.md",
