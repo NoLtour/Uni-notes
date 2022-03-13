@@ -7,9 +7,9 @@ tags: ["Question","QFormat3"]
 ## Normal distribution
 This is where a [[bernoulli trial]] is applicable, and the following equation can be used to reonably accuratly determine the fraction of the total population that rests within a given range:
 
-> ### $$ P(x_{max}>X>x_{min}) = \int^{x_{max}}_{x_{min}} \dfrac{e^{-\frac{1}{2} \left( \frac{x-\mu}{\sigma} \right)^{2} } }{\sigma\sqrt{2\pi}} $$ 
+> ### $$ f_{pop} = \int^{x_{max}}_{x_{min}} \dfrac{e^{-\frac{1}{2} \left( \frac{x-\mu}{\sigma} \right)^{2} } }{\sigma\sqrt{2\pi}} $$ 
 >> where:
->> $=$ 
+>> $f_{pop}$ The fraction of the population that 
 >> $=$
 >> $=$
 
