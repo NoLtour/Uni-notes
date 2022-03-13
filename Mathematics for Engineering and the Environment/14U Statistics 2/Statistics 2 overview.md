@@ -24,4 +24,7 @@ Heres the links:
 
 ![[standard error of the sample mean]]
 
+![[standard normal distirbution]]
+
 ![[hypothesis testing]]
+
