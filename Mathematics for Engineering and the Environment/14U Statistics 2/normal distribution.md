@@ -13,7 +13,7 @@ This is where a [[bernoulli trial]] is applicable, and the following equation ca
 >> $\mu=$ [[mean value by integration|mean value]]
 >> $\sigma=$ [[standard deviation for probabability functions|standard deviation]]
 
-You do not need to know how to integrate this function (that's maths degree type stuff) this is just to show you how the
+You do not need to know how to integrate this function (that's maths degree type stuff) this is just to show you where the values come from.
 
 (The following is a [[normal distribution]] graph, showing the equation $\frac{e^{-\frac{1}{2} \left( \frac{x-\mu}{\sigma} \right)^{2} } }{\sigma\sqrt{2\pi}}$)
 ![[Pasted image 20220313105429.png]]

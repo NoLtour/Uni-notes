@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution.md",
+            "file": "Mathematics for Engineering and the Environment/14U Statistics 2/binomial distribution.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution.md",
+                "file": "Mathematics for Engineering and the Environment/14U Statistics 2/binomial distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution.md",
     "Mathematics for Engineering and the Environment/14U Statistics 2/binomial distribution.md",
+    "Mathematics for Engineering and the Environment/14U Statistics 2/normal distribution.md",
     "Mathematics for Engineering and the Environment/14U Statistics 2/bernoulli trial.md",
     "Mathematics for Engineering and the Environment/14U Statistics 2/Statistics 2 overview.md",
     "Mathematics for Engineering and the Environment/13 Statistics 1/standard deviation for probabability functions.md",
