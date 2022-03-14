@@ -9,7 +9,7 @@ tags: []
 Page: 230
 Chapter: 4
 
-#### Read order
+### Read order
 
 1) [[Cartesian coordinates]]
 2) [[Scalars and vectors]]
@@ -17,3 +17,11 @@ Chapter: 4
 4) [[unit vector]]
 5) [[dot product (vectors)]]
 6) [[cross product (vectors)]]
+
+### Embed
+![[Cartesian coordinates]]
+![[Scalars and vectors]]
+![[Addition of vectors]]
+![[unit vector]]
+![[dot product (vectors)]]
+![[cross product (vectors)]]
