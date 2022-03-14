@@ -27,4 +27,4 @@ tags: ["NotesPage"]
 
 ![[vector equation of a plane]]
 
-![[perpendicular distance ]]
+![[perpendicular distance between a point and a plane]]
