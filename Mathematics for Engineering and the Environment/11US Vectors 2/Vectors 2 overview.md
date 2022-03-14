@@ -26,3 +26,5 @@ tags: ["NotesPage"]
 ![[vector equation of a line]]
 
 ![[vector equation of a plane]]
+
+![[perpendicular distance ]]
