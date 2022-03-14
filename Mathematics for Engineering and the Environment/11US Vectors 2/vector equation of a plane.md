@@ -18,4 +18,4 @@ tags: ["Question","QFormat3"]
 ### Implications
 You can use the perpendicular line $\underline{n}$ to find how other lines are oriented relative to the plane:
 - Vectors parallel to $\underline{n}$ will be perpendicular to the plane
-- Vectors perpendicular to $\underline{n}$ will be parallel to the plane (you can use [[dot product (vectors)|dot product]])
+- Vectors perpendicular to $\underline{n}$ will be parallel to the plane (you can use [[dot product (vectors)|dot product]] to test this)

@@ -16,3 +16,5 @@ This is a function that when applied to two vectors of equal dimentions produces
 >> where:
 >> $\theta=$ angle between vectors
 >> $\underline{a},\underline{b}=$ some [[Scalars and vectors|vector]]
+
+If two vectors have a dot product equal to zero they are perpendicular, this can be easily proven using $\cos(\theta) = \frac{\underline{a} \cdot \underline{b}}{|\underline{a}| \times |\underline{b}|}$
