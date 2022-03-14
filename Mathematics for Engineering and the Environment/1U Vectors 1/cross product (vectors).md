@@ -24,6 +24,6 @@ So instead you can calculate the [[cross product (vectors)|cross product]] using
 ![[Pasted image 20220225112254.png]]
 
 So here is the version for a 3D vector:
-> ### $$ \underline{a} \times \underline{b} = \begin{pmatrix} a_{i} \\ a_{j} \\ a_{k} \end{pmatrix} \times \begin{pmatrix} b_{i} \\ b_{j} \\ b_{k} \end{pmatrix} = \begin{pmatrix} a_{j} b_{k} - a_{k} b_{j} \\ a_{i} b_{k} - a_{k} b_{i} \\ a_{i} b_{j} - a_{j} b_{i} \end{pmatrix} $$ 
+> ### $$ \underline{a} \times \underline{b} = \begin{pmatrix} a_{i} \\ a_{j} \\ a_{k} \end{pmatrix} \times \begin{pmatrix} b_{i} \\ b_{j} \\ b_{k} \end{pmatrix} = \begin{pmatrix} a_{j} b_{k} - a_{k} b_{j} \\ a_{k} b_{i} - a_{i} b_{k} \\ a_{i} b_{j} - a_{j} b_{i} \end{pmatrix} $$ 
 >> where:
 >> $\underline{a}, \underline{b}=$ some [[Scalars and vectors|vectors]]
