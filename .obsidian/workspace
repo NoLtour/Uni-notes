@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/1U Vectors 1/cross product (vectors).md",
+            "file": "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/1U Vectors 1/cross product (vectors).md",
+                "file": "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
+    "Mathematics for Engineering and the Environment/1U Vectors 1/MEE Vectors 1.md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/cross product (vectors).md",
     "Mathematics for Engineering and the Environment/11US Vectors 2/Vectors 2 overview.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
@@ -122,8 +124,6 @@
     "Mathematics for Engineering and the Environment/15U Functions/why the fuck do these have seperate function names so stupid.md",
     "Mathematics for Engineering and the Environment/15U Functions/Functions overview.md",
     "Mathematics for Engineering and the Environment/15U Functions/hyperbolic functions.md",
-    "Mathematics for Engineering and the Environment/15U Functions/codomain (functions).md",
-    "Mathematics for Engineering and the Environment/15U Functions/domain (functions).md",
-    "Mathematics for Engineering and the Environment/15U Functions/function.md"
+    "Mathematics for Engineering and the Environment/15U Functions/codomain (functions).md"
   ]
 }
