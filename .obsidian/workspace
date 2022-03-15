@@ -7,11 +7,9 @@
         "id": "ef7c4208b9e4729a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
-            "mode": "preview",
-            "source": true
+            "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "range",
+                "query": "integra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
+                "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +114,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
+    "Mathematics for Engineering and the Environment/General org/integration.md",
+    "Mathematics for Engineering and the Environment/3 Intergration 1/Basic ideas and definitions/Intergration notation.md",
+    "Mathematics for Engineering and the Environment/3 Intergration 1/Definite and indefinite intergrals/indefinate integral.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
     "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/MEE Vectors 1.md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/cross product (vectors).md",
-    "Mathematics for Engineering and the Environment/11US Vectors 2/Vectors 2 overview.md",
-    "Mathematics for Engineering and the Environment/Overall Read order.md",
-    "Mathematics for Engineering and the Environment/14U Statistics 2/Statistics 2 overview.md",
-    "Mathematics for Engineering and the Environment/15U Functions/function.md",
-    "Mathematics for Engineering and the Environment/15U Functions/Functions overview.md"
+    "Mathematics for Engineering and the Environment/11US Vectors 2/Vectors 2 overview.md"
   ]
 }
