@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integral",
+                "query": "range",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/MEE Vectors 1.md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/cross product (vectors).md",
@@ -123,7 +125,6 @@
     "Mathematics for Engineering and the Environment/14U Statistics 2/Statistics 2 overview.md",
     "Mathematics for Engineering and the Environment/15U Functions/function.md",
     "Mathematics for Engineering and the Environment/15U Functions/Functions overview.md",
-    "Mathematics for Engineering and the Environment/13 Statistics 1/Statistics 1 overview.md",
-    "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf"
+    "Mathematics for Engineering and the Environment/13 Statistics 1/Statistics 1 overview.md"
   ]
 }
