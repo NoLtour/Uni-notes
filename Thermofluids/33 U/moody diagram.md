@@ -5,5 +5,6 @@ tags: ["Question","QFormat3"]
 
 #### What is a
 ## Moody diagram
-[[its funny because depression|Me irl]]
+([[its funny because depression|Me irl]])
 
+![[Pasted image 20220317164308.png]]
