@@ -17,5 +17,3 @@ tags: ["NotesPage"]
 ![[features of the boundary layer]]
 
 ![[boundary layers in pipes]]
-
-![[surface roughness and flow on a micro scale]]

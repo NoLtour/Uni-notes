@@ -32,7 +32,7 @@ More [[viscous flow|viscous]] fluids don't create [[eddy (fluids)|eddies]] as ea
 A more viscous fluid also "smooths" over the roughness better, like imagine a really rough pipe but with the outer wall coated in honey, it smooths the walls making flow easyer.
 
 #### Relative roughness
-A higher [[relative roughness]] contributes to increased likelyhood of the development of turbulent flow.
+A higher [[relative roughness]] contributes to increased likelyhood of the development of turbulent flow. On a micro scale there is the [[fluid no slip condition]] against the surface, this resaults in low speeds, hence low [[reynolds number]] and hence laminar flow adjasent to the wall (known as the [[features of the boundary layer|viscous sublayer]]). Beyond this layer the fluid is free to move faster 
 
 #### Flow speed
 ([[UNFINISHED STUFF]] higher speed = higher [[reynolds number]], so it should increase likelyhood of turbulence but I'm not sure?)
