@@ -11,10 +11,6 @@ tags: ["Question","QFormat3"]
 
 Finding the [[darcy-weisbach friction factor]] for a [[relative roughness]] and [[reynolds number]] is easy for laminar flow:
 
-> ### $$  = $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+![[darcy-weisbach friction factor#^753b11]]
 
-But for turbulent flow it is a massive pain in the ass (because [[smh how hard can it be lmao|modelling turbulent flow isn't easy]]) so
+But for turbulent flow it is a massive pain in the ass (because [[smh how hard can it be lmao|modelling turbulent flow isn't easy]]) so we use the [[moody diagram]] instead.
