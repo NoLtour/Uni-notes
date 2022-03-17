@@ -32,5 +32,7 @@ More [[viscous flow|viscous]] fluids don't create [[eddy (fluids)|eddies]] as ea
 A more viscous fluid also "smooths" over the roughness better, like imagine a really rough pipe but with the outer wall coated in honey, it smooths the walls making flow easyer.
 
 #### Relative roughness
-A higher [[relative roughness]] contributes to increased likelyhood of development of turbu
+A higher [[relative roughness]] contributes to increased likelyhood of the development of turbulent flow.
 
+#### Flow speed
+([[UNFINISHED STUFF]] higher speed = higher )
