@@ -16,6 +16,6 @@ The Reynolds number is the ratio of inertial forces to viscous forces within a f
 >> $Re=$ [[reynolds number]] 
 >> $U=$ flow speed
 >> $\rho=$ fluid density
->> $\mu=$ [[dynamic viscosity]]
+>> $\mu=$ [[viscosity]]
 >> $\nu=$ [[kinematic viscosity]]
 >> $L=$ characteristic linear dimension (This dimension is a matter of convention – for example radius and diameter are equally valid to describe spheres or circles, but one is chosen by convention. For aircraft or ships, the length or width can be used. For flow in a pipe, or for a sphere moving in a fluid, the internal diameter is generally used today.)
