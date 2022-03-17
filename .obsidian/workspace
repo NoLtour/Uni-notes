@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/33 U/boundary layer.md",
-            "mode": "preview",
+            "file": "Thermofluids/33 U/boundary layers in pipes.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/33 U/boundary layer.md",
+                "file": "Thermofluids/33 U/boundary layers in pipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "dc45a0a92ebe8148",
   "lastOpenFiles": [
+    "Thermofluids/33 U/boundary layers in pipes.md",
+    "Thermofluids/33 U/Reynolds number and surface friction notes.md",
     "Thermofluids/33 U/boundary layer.md",
     "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
-    "Thermofluids/33 U/Reynolds number and surface friction notes.md",
     "Thermofluids/33 U/features of the boundary layer.md",
     "Thermofluids/33 U/laminar flow regime.md",
     "Thermofluids/33 U/absolute roughness (pipe).md",
     "Thermofluids/33 U/eddy (fluids).md",
     "Thermofluids/33 U/effect of viscosity on flow.md",
-    "Thermofluids/33 U/factors that effect surface fricton.md",
-    "Thermofluids/33 U/relationship between turbulant flow and surface friction.md"
+    "Thermofluids/33 U/factors that effect surface fricton.md"
   ]
 }

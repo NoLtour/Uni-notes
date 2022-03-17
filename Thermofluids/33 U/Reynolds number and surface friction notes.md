@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[boundary layer]]
 
 ![[features of the boundary layer]]
+
+![[boundary layers in pipes]]
