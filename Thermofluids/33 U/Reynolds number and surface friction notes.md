@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[boundary layers in pipes]]
 
 ![[moody diagram]]
+
+![[pressure loss darcy weisbach equation]]
