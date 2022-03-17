@@ -29,8 +29,8 @@ Both [[viscosity]] and flow speed directly feed into [[reynolds number]] which c
 #### Viscosity
 More [[viscous flow|viscous]] fluids don't create [[eddy (fluids)|eddies]] as easily and are in general less likely to develop into turbulent flow, hence less viscous fluids are more likely to develop turbulence. This is due to the fact that the effect of internal shear forces on flow exceeds the effect of the roughness.
 
-A mo
+A more viscous fluid also "smooths" over the roughness better, like imagine a really rough pipe but with the outer wall coated in honey, it smooths the walls making flow easyer.
 
 #### Relative roughness
-More rough 
+A higher [[relative roughness]] contributes to increased likelyhood of development of turbu
 
