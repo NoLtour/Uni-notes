@@ -11,7 +11,8 @@ This is a layer of fluid near the rough surface that the fluid is interacting wi
 ![[Pasted image 20220317125249.png]]
 In the images above the boundary layer is everything below the limit of boundary layer.
 
-###
+### Types of boundary layer
+One of the most important descriptors of a boundary layer is at what points it's laminar or turbulent. Boundary layers generally start out in laminar flow and transition into turbulant flow as seen in the diagrams above, but depending on various factors LINKED HERE the le
 
 ### Boundary layer in pipes
 In pipes the boundary layer forms around the entire diameter and converges:
