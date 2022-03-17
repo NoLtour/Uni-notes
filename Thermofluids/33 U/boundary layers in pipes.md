@@ -34,7 +34,7 @@ A more viscous fluid also "smooths" over the roughness better, like imagine a re
 #### Relative roughness
 A higher [[relative roughness]] contributes to increased likelyhood of the development of turbulent flow. On a micro scale there is the [[fluid no slip condition]] against the surface, this resaults in low speeds, hence low [[reynolds number]] and hence laminar flow adjasent to the wall (known as the [[features of the boundary layer|viscous sublayer]]). Beyond this layer the fluid is free to move faster and so it becomes more likely to develop turbulence:
 ![[Pasted image 20220317155322.png]]
-Though if the surface is has a roughness profile where bits jolt out through the [[features of the boundary layer|viscous sublayer]] then turbulence will be induced due to [[vortex shedding]] as can be seen in the second image above. 
+Though if the surface has a roughness profile where bits jolt out through the [[features of the boundary layer|viscous sublayer]] then turbulence will be induced due to [[vortex shedding]] as can be seen in the second image above. 
 
 #### Flow speed
 ([[UNFINISHED STUFF]] higher speed = higher [[reynolds number]], so it should increase likelyhood of turbulence but I'm not sure?)

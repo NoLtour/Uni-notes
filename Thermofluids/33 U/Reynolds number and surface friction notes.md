@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[features of the boundary layer]]
 
 ![[boundary layers in pipes]]
+
+![[moody diagram]]
