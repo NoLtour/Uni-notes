@@ -11,6 +11,7 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[relative roughness]]
-![[factors that effect surface fricton]]
 
 ![[boundary layer]]
+
+![[features of the boundary layer]]
