@@ -17,3 +17,9 @@ The [[boundary layer]] starts out laminar, then it transitions into turbulent fl
 
 Here the [[boundary layer]] doesn't transition into turbulent flow. The flow is characterised by the parabella shaped velocity profile. This type of flow resaults in much more efficient flow with less internal friction and less skin drag resaulting in much lower pressure loss.
 
+### Determining conditions
+Many factors effect what type of flow is developed but mainly:
+- [[relative roughness]]
+- [[viscosity]]
+- fluid speed
+
