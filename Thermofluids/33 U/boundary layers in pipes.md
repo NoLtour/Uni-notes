@@ -15,4 +15,5 @@ The [[boundary layer]] starts out laminar, then it transitions into turbulent fl
 ### Laminar flow
 ![[Pasted image 20220317152159.png]]
 
-Here the [[boundary layer]] doesn't transition into turbulent flow. The 
+Here the [[boundary layer]] doesn't transition into turbulent flow. The flow is characterised by the parabella shaped velocity profile. This type of flow resaults in much more efficient flow with less internal friction and less skin drag resaulting in much lower pressure loss.
+
