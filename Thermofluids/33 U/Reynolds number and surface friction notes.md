@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Reynolds number and surface friction notes
 
 #### Intro and contents
 - 
@@ -11,3 +11,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[relative roughness]]
+![[factors that effect surface fricton]]
