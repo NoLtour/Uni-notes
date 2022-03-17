@@ -9,9 +9,12 @@ tags: ["Question","QFormat3"]
 
 ![[Pasted image 20220317164308.png]]
 
-Finding the [[]] for a [[relative roughness]] is easy for laminar flow, as can be seen in the diagram by the strait line you can just use:
+Finding the [[darcy-weisbach friction factor]] for a [[relative roughness]] and [[reynolds number]] is easy for laminar flow:
+
 > ### $$  = $$ 
 >> where:
 >> $=$ 
 >> $=$
 >> $=$
+
+But for turbulent flow it is a massive pain in the ass (because [[smh how hard can it be lmao|modelling turbulent flow isn't easy]]) so
