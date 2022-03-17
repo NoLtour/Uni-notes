@@ -11,4 +11,4 @@ This is a layer of fluid near the rough surface that the fluid is interacting wi
 In the images above the boundary layer is everything below the limit of boundary layer.
 In pipes the boundary layer forms around the entire diameter and converges:
 ![[Pasted image 20220317130048.png]]
-Although the flow maintains a [[turbulent flow regime]]
+Although the flow maintains a [[turbulent flow regime]] you can see the average flow profile, this is what goes into things like the [[kinetic energy correction factor]] 
