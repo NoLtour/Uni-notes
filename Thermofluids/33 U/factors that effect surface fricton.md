@@ -17,3 +17,4 @@ Reynolds number is determined by lots of other properties of the fluid, so think
 [[relationship between laminar flow and surface friction]]
 
 [[relationship between turbulant flow and surface friction]]
+
