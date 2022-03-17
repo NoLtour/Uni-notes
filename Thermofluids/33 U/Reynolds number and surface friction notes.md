@@ -18,3 +18,4 @@ tags: ["NotesPage"]
 
 ![[boundary layers in pipes]]
 
+![[surface roughness and flow on a micro scale]]

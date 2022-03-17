@@ -35,4 +35,4 @@ A more viscous fluid also "smooths" over the roughness better, like imagine a re
 A higher [[relative roughness]] contributes to increased likelyhood of the development of turbulent flow.
 
 #### Flow speed
-([[UNFINISHED STUFF]] higher speed = higher )
+([[UNFINISHED STUFF]] higher speed = higher [[reynolds number]], so it should increase likelyhood of turbulence but I'm not sure?)
