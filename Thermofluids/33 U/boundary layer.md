@@ -12,7 +12,7 @@ This is a layer of fluid near the rough surface that the fluid is interacting wi
 In the images above the boundary layer is everything below the limit of boundary layer.
 
 ### Types of boundary layer
-One of the most important descriptors of a boundary layer is at what points it's laminar or turbulent. Boundary layers generally start out in laminar flow and transition into turbulant flow as seen in the diagrams above, but depending on various factors LINKED HERE the length of the laminar flow varies and if the boundary layer reduces back onto the surface or the conditions are right then there my not even be substantial turbulant flow within the boundary layer.
+One of the most important descriptors of a boundary layer is at what points it's laminar or turbulent. Boundary layers generally start out in laminar flow and transition into turbulant flow as seen in the diagrams above, but depending on various factors there my not even be substantial turbulant flow within the boundary layer resaulting in a laminar boundary layer.
 Here is an example with an aerofoil, you can see in the rightmist diagram no 
 
 
