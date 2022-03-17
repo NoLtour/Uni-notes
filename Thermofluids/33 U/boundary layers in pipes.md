@@ -19,7 +19,13 @@ Here the [[boundary layer]] doesn't transition into turbulent flow. The flow is 
 
 ### Determining conditions
 Many factors effect what type of flow is developed but mainly:
-- [[relative roughness]]
 - [[viscosity]]
-- fluid speed
+- [[relative roughness]]
+- flow speed
+- (I would also assume density)
+
+Both [[viscosity]] and flow speed directly feed into [[reynolds number]] which can then be used to predict turbulent transition.
+
+#### Viscosity
+More [[viscous flow|viscous]] fluids 
 
