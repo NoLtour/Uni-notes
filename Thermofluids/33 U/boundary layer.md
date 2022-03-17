@@ -18,7 +18,7 @@ One of the most important descriptors of a boundary layer is at what points it's
 This is when the boundary layer has a [[laminar flow regime]], in laminar flow there is less skin friction drag than in turbulant flow but it is less stable which is why it often transitions into turbulent flow. Boundary layers alwayse start in laminar flow.
 
 #### Turbulent boundary layer flow
-Turbulent boundary layer sections are alwayse located downstream of laminar boundary layers (since boundary layers start out laminar)
+This is when the boundary layer has a [[turbulent flow regime]]. Turbulent boundary layer sections are alwayse located downstream of laminar boundary layers (since boundary layers start out laminar).
 
 ### Boundary layer in pipes
 In pipes the boundary layer forms around the entire diameter and converges:
