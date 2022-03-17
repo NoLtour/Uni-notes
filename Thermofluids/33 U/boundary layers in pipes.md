@@ -10,6 +10,9 @@ We know that [[boundary layer]]s start out laminar and can transition into turbu
 ### Turbulent flow
 ![[Pasted image 20220317151859.png]]
 
-As expected the [[boundary layer]] starts out laminar, it 
+The [[boundary layer]] starts out laminar, then it transitions into turbulent flow. In pipes turbulent flow is characterised by a U shaped velocity profile, note that the shape of the velocity profile is what gets used in determining the [[kinetic energy correction factor]] and is applicable to both turbulent and laminar flow in pipes.
 
 ### Laminar flow
+![[Pasted image 20220317152159.png]]
+
+Here the [[boundary layer]] doesn't transition into turbulent flow. The 
