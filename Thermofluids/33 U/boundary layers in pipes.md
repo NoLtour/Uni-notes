@@ -27,5 +27,10 @@ Many factors effect what type of flow is developed but mainly:
 Both [[viscosity]] and flow speed directly feed into [[reynolds number]] which can then be used to predict turbulent transition.
 
 #### Viscosity
-More [[viscous flow|viscous]] fluids 
+More [[viscous flow|viscous]] fluids don't create [[eddy (fluids)|eddies]] as easily and are in general less likely to develop into turbulent flow, hence less viscous fluids are more likely to develop turbulence. This is due to the fact that the effect of internal shear forces on flow exceeds the effect of the roughness.
+
+A mo
+
+#### Relative roughness
+More rough 
 
