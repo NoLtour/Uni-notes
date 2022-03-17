@@ -11,6 +11,8 @@ This is a layer of fluid near the rough surface that the fluid is interacting wi
 ![[Pasted image 20220317125249.png]]
 In the images above the boundary layer is everything below the limit of boundary layer.
 
+###
+
 ### Boundary layer in pipes
 In pipes the boundary layer forms around the entire diameter and converges:
 ![[Pasted image 20220317130048.png]]
