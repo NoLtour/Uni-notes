@@ -11,10 +11,9 @@ In real world situations all surfaces have some level of roughness, this of cour
 ### Equation
 Relative roughness is just the absolute roughness of a pipe divided by it's diameter:
 
-> ### $$  = $$ 
+> ### $$ k = \frac{\varepsilon}{D} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $k=$ [[relative roughness]] ([[UNFINISHED STUFF]], not sure what symbol to assosiate)
+>> $\varepsilon=$ [[absolute roughness (pipe)]]
+>> $D=$ pipe diameter
 
-[[reynolds number]]
