@@ -15,3 +15,5 @@ There are 2 things:
 Reynolds number is determined by lots of other properties of the fluid, so think of it's contribution to the surface friction as the contribution of the properties of the fluid and its movement characteristics.
 
 [[relationship between laminar flow and surface friction]]
+
+[[relationship between turbulant flow and surface friction]]
