@@ -16,7 +16,7 @@ The Reynolds number is the ratio of inertial forces to viscous forces within a f
 > ### $$ Re = \frac{UL}{\nu} = \frac{\rho U L}{\mu} $$ 
 >> where:
 >> $Re=$ [[reynolds number]] 
->> $U=$ flow speed
+>> $U=$ flow speed (local)
 >> $\rho=$ fluid density
 >> $\mu=$ [[viscosity]]
 >> $\nu=$ [[kinematic viscosity]]
