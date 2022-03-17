@@ -21,7 +21,7 @@ https://youtu.be/tiKH48EMgKE?t=129
 
 ### Sator core
 ![[Pasted image 20220204132921.png]]
-This is what sator cores generally look like, if you look carefully you can see some surface roughness, this is because sator cores are actually made of lots of thin layers attached together, this is to minamise the effect of [[eddy currents]] and increase efficiency.
+This is what sator cores generally look like, if you look carefully you can see some surface roughness, this is because sator cores are actually made of lots of thin layers attached together, this is to minamise the effect of [[eddy currents (electonics)]] and increase efficiency.
 
 The sator core has multiple functions:
 - It holds the wires in place
