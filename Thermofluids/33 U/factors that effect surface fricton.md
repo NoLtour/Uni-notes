@@ -7,6 +7,9 @@ tags: ["Question","QFormat3"]
 ## Factors that effect surface fricton
 ### Intro
 There are 2 things:
-- The transition from laminar to turbulant flow
 - [[reynolds number|Reynolds number]]
+- The transition from laminar to turbulant flow
 
+
+### Reynolds number
+Reynolds number is determined by lots of other properties of the fluid, so think of it's contribution to the surface friction as the contribution of the properties of the fluid and its net movement.
