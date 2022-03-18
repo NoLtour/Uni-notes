@@ -12,7 +12,13 @@ Note that the [[Tersca yield criterion#^3eb6a8|same restriction applies]].
 
 Read [[#Theory]] before [[#Useful bit]].
 ### Useful bit
+#### Equation
 
+> ### $$ \sigma_{RMS\:x'y'} = \sqrt{ \frac{1}{12} () } $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 
 ### Theory
