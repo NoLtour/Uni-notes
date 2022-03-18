@@ -29,3 +29,5 @@ You can also see that the max shear stress occurs at:
 >> $\sigma_{I},\sigma_{II}=$ [[points of intrest on mohrs circle|principal stresses]]
 >> $R=\sqrt{\left(\frac{\sigma_{xx}-\sigma_{yy}}{2}\right)^{2} + \sigma_{xy}^{2}}$ 
 >> (further variable elaboration can be found in [[mohrs circle#^1da227]])
+
+^765894
