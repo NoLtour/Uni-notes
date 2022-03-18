@@ -23,4 +23,5 @@ Read [[#Theory]] before [[#Useful bit]].
 ### Theory
 That guy:
 ![[Pasted image 20220318135000.png]]
-Predics that yielding is determined by the absolute maximum shear stress. Basically a root mean square approach.
+Predics that yielding is determined by the absolute maximum shear stress. Basically a root mean square approach:
+$$ \sigma_{RMS\:x'y'} = \sqrt{ \frac{\left(\frac{\sigma_{I}-\sigma_{II}}{2}\right)^{2} + \left(\frac{\sigma_{I}-\sigma_{III}}{2}\right)^{2} + \left(\frac{\sigma_{II}-\sigma_{III}}{2}\right)^{2} }{3} } $$
