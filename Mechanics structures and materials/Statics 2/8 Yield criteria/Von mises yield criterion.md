@@ -29,7 +29,9 @@ For uniaxle stress it can be simplified to:
 >> $\sigma_{I},\sigma_{II} =$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y'$
 
 #### Graph (uniaxle loading)
-Plotted 
+Plotted we can compare it to [[Tersca yield criterion#Graph uniaxle loading]] and see that this one is basically just an ellipse intersepting the corners of the other:
+![[Pasted image 20220318140822.png]]
+In experiments this theory also tends to be more accurate, though it is less conservative.
 
 ### Theory
 That guy:
