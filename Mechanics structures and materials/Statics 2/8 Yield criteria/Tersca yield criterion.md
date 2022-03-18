@@ -15,3 +15,4 @@ But to apply this in 3D we will need to apply [[mohrs circle]] to the other 2 pl
 ![[Pasted image 20220318132611.png]]
 Then we can use the same equation linked above to get max shear in each of those directions and then the maximum of all of those will be the absolute max shear:
 $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}-\sigma_{III}|, |\sigma_{II} - \sigma_{III}| ) $$
+If you are confused where $\sigma_{III}$ comes from note that $\sigma_{I}$ is just the max stress in $x'$ then $\sigma_{II}$ is just the max stress in $y'$ so $\sigma_{n}$ is just a way of expressing max force in some axis (after [[strain transformation for plane stress|strain transformation]]) so $\sigma_{III}$ is max stress in $z'$.
