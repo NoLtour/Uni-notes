@@ -22,12 +22,14 @@ For general use in 3D:
 
 For uniaxle stress it can be simplified to:
 
-> ### $$ \sigma_{RMS\:x'y'} = \frac{1}{2\sqrt{3}} \sqrt{ (\sigma_{I}-\sigma_{II})^{2} + (\sigma_{I}-\sigma_{III})^{2} + (\sigma_{II}-\sigma_{III})^{2} } $$ 
+> ### $$ \sigma_{max\:x'y'} = \sqrt{ \sigma_{I}^{2} + \sigma_{II}^{2} - \sigma_{I}\sigma_{II} } $$
+> ### $$ \sigma_{max\:x'y'} = \sqrt{ \sigma_{xx}^{2} + \sigma_{yy}^{2} + 3\sigma_{xy}^{2} - \sigma_{xx}\sigma_{yy} } $$ 
 >> where:
 >> $\sigma_{RMS\:x'y'}=$ The maximum shear stress
->> $\sigma_{I},\sigma_{II},\sigma_{III}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
+>> $\sigma_{I},\sigma_{II} =$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y'$
 
-
+#### Graph (uniaxle loading)
+Plotted 
 
 ### Theory
 That guy:

@@ -19,7 +19,7 @@ If we assume a state of uniaxle loading ([[aka]] where $\sigma_{III}= 0$) it can
 > ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}|, |\sigma_{II} | ) $$ 
 >> where:
 >> $\sigma_{max\:x'y'}=$ The maximum shear stress in uniaxle loading
->> $\sigma_{I},\sigma_{II}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
+>> $\sigma_{I},\sigma_{II}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y'$
 
 #### Graph (uniaxle loading)
 For a uniaxle stress state the graph looks like:
