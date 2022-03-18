@@ -11,4 +11,7 @@ So you know how in [[ductile material failure appearance|ductile failure]] you g
 Had the idea that what actually causes fracture is maximum shear. So going back to [[mohrs circle]] we can find maximum shear and when that reaches a maximum fracture should occur:
 ![[points of intrest on mohrs circle#^765894]]
 
-But to apply this in 3D we will need to apply [[mohrs circle]] to the other 2 planes as well to get
+But to apply this in 3D we will need to apply [[mohrs circle]] to the other 2 planes as well to get $\sigma_{III}$, $\sigma_{II}$ and $\sigma_{I}$:
+![[Pasted image 20220318132611.png]]
+Then we can use the same equation linked above to get max shear in each of those directions and then the maximum of all of those will be the absolute max shear:
+$$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}-\sigma_{III}|, |\sigma_{II} - \sigma_{III}| ) $$
