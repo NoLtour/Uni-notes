@@ -12,9 +12,9 @@ tags: ["Question","QFormat3"]
 >> $\sigma_{max\:x'y'}=$ The maximum shear stress in 3D
 >> $\sigma_{I},\sigma_{II},\sigma_{III}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
 
-If we assume a state of plane stress (where $\sigma_{III}= 0$) it can be written more simply as:
+If we assume a state of plane stress ([[aka]] where $\sigma_{III}= 0$) it can be written more simply as:
 
-> ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}|, |\sigma_{II} - \sigma_{III}| ) $$ 
+> ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}|, |\sigma_{II} | ) $$ 
 >> where:
 >> $\sigma_{max\:x'y'}=$ The maximum shear stress in 3D
 >> $\sigma_{I},\sigma_{II}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
