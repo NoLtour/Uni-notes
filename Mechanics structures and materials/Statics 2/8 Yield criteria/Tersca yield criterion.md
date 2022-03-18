@@ -5,6 +5,21 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Tersca yield criterion
+### Equation
+
+> ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}-\sigma_{III}|, |\sigma_{II} - \sigma_{III}| ) $$ 
+>> where:
+>> $\sigma_{max\:x'y'}=$ The maximum shear stress in 3D
+>> $\sigma_{I},\sigma_{II},\sigma_{III}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
+
+If we assume a state of plane stress (where $\sigma_{III}= 0$) it can be written more simply as:
+
+> ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}|, |\sigma_{II} - \sigma_{III}| ) $$ 
+>> where:
+>> $\sigma_{max\:x'y'}=$ The maximum shear stress in 3D
+>> $\sigma_{I},\sigma_{II}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
+
+
 ### Theory
 So you know how in [[ductile material failure appearance|ductile failure]] you get a sheared cup cone failure, well basically this lad:
 ![[Pasted image 20220318132137.png]]
