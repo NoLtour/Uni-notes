@@ -18,7 +18,7 @@ If we assume a state of plane stress ([[aka]] where $\sigma_{III}= 0$) it can be
 
 > ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}|, |\sigma_{II} | ) $$ 
 >> where:
->> $\sigma_{max\:x'y'}=$ The maximum shear stress in 3D
+>> $\sigma_{max\:x'y'}=$ The maximum shear stress in plane stress
 >> $\sigma_{I},\sigma_{II}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
 
 #### Graph ([[plane stress (generalised hookes law)|plane stress]])

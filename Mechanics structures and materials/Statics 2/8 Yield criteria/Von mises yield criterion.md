@@ -14,11 +14,10 @@ Read [[#Theory]] before [[#Useful bit]].
 ### Useful bit
 #### Equation
 
-> ### $$ \sigma_{RMS\:x'y'} = \sqrt{ \frac{1}{12} () } $$ 
+> ### $$ \sigma_{RMS\:x'y'} = \frac{1}{2\sqrt{3}} \sqrt{ (\sigma_{I}-\sigma_{II})^{2} + (\sigma_{I}-\sigma_{III})^{2} + (\sigma_{II}-\sigma_{III})^{2} } $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\sigma_{RMS\:x'y'}=$ The maximum shear stress
+>> $\sigma_{I},\sigma_{II},\sigma_{III}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
 
 
 ### Theory
