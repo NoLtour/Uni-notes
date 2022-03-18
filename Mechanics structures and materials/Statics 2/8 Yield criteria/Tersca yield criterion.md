@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### What is the
 ## Tersca yield criterion
 ### Useful parts
-Note that this should only be applied to [[ductility]] materials as the theory is derived from what occurs during [[ductile material failure appearance|ductile failure]].
+Note that this should only be applied to [[ductility|ductile]] materials as the theory is derived from what occurs during [[ductile material failure appearance|ductile failure]]. ^3eb6a8
 
 #### Equations
 > ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}-\sigma_{III}|, |\sigma_{II} - \sigma_{III}| ) $$ 
