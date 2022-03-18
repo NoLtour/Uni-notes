@@ -14,15 +14,15 @@ Note that this should only be applied to [[ductility|ductile]] materials as the 
 >> $\sigma_{max\:x'y'}=$ The maximum shear stress in 3D
 >> $\sigma_{I},\sigma_{II},\sigma_{III}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
 
-If we assume a state of plane stress ([[aka]] where $\sigma_{III}= 0$) it can be written more simply as:
+If we assume a state of uniaxle loading ([[aka]] where $\sigma_{III}= 0$) it can be written more simply as:
 
 > ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}|, |\sigma_{II} | ) $$ 
 >> where:
->> $\sigma_{max\:x'y'}=$ The maximum shear stress in plane stress
+>> $\sigma_{max\:x'y'}=$ The maximum shear stress in uniaxle loading
 >> $\sigma_{I},\sigma_{II}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
 
-#### Graph ([[plane stress (generalised hookes law)|plane stress]])
-For a plane stress state the graph looks like:
+#### Graph (uniaxle loading)
+For a uniaxle stress state the graph looks like:
 ![[Pasted image 20220318134009.png]]
 Some examples of stress states on that graph:
 ![[Pasted image 20220318134043.png]]

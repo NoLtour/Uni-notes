@@ -13,11 +13,20 @@ Note that the [[Tersca yield criterion#^3eb6a8|same restriction applies]].
 Read [[#Theory]] before [[#Useful bit]].
 ### Useful bit
 #### Equation
+For general use in 3D:
 
 > ### $$ \sigma_{RMS\:x'y'} = \frac{1}{2\sqrt{3}} \sqrt{ (\sigma_{I}-\sigma_{II})^{2} + (\sigma_{I}-\sigma_{III})^{2} + (\sigma_{II}-\sigma_{III})^{2} } $$ 
 >> where:
 >> $\sigma_{RMS\:x'y'}=$ The maximum shear stress
 >> $\sigma_{I},\sigma_{II},\sigma_{III}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
+
+For uniaxle stress it can be simplified to:
+
+> ### $$ \sigma_{RMS\:x'y'} = \frac{1}{2\sqrt{3}} \sqrt{ (\sigma_{I}-\sigma_{II})^{2} + (\sigma_{I}-\sigma_{III})^{2} + (\sigma_{II}-\sigma_{III})^{2} } $$ 
+>> where:
+>> $\sigma_{RMS\:x'y'}=$ The maximum shear stress
+>> $\sigma_{I},\sigma_{II},\sigma_{III}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
+
 
 
 ### Theory
