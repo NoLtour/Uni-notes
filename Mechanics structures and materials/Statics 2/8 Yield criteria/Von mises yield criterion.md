@@ -16,3 +16,6 @@ Read [[#Theory]] before [[#Useful bit]].
 
 
 ### Theory
+That guy:
+![[Pasted image 20220318135000.png]]
+Predics that yielding is determined by the absolute maximum shear stress. Basically a root mean square approach.
