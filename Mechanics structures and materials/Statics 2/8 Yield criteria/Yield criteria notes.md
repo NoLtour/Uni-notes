@@ -1,9 +1,9 @@
 ---
-aliases: [""]
+aliases: ["max yield stress","finding max yield"]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Yield criteria notes
 
 #### Intro and contents
 - 
@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[Tersca yield criterion]]
+
+![[Von mises yield criterion]]

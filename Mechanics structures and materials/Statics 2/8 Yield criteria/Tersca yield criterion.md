@@ -6,6 +6,8 @@ tags: ["Question","QFormat3"]
 #### What is the
 ## Tersca yield criterion
 ### Useful parts
+Note that this should only be applied to [[ductility]] materials as the theory is derived from what occurs during [[ductile material failure appearance|ductile failure]].
+
 #### Equations
 > ### $$ \sigma_{max\:x'y'} = \frac{1}{2} \max( |\sigma_{I} - \sigma_{II}|, |\sigma_{I}-\sigma_{III}|, |\sigma_{II} - \sigma_{III}| ) $$ 
 >> where:
@@ -19,7 +21,7 @@ If we assume a state of plane stress ([[aka]] where $\sigma_{III}= 0$) it can be
 >> $\sigma_{max\:x'y'}=$ The maximum shear stress in 3D
 >> $\sigma_{I},\sigma_{II}=$ are [[points of intrest on mohrs circle|principal stresses]] in $x',y',z'$
 
-#### Graph
+#### Graph ([[plane stress (generalised hookes law)|plane stress]])
 For a plane stress state the graph looks like:
 ![[Pasted image 20220318134009.png]]
 Some examples of stress states on that graph:
