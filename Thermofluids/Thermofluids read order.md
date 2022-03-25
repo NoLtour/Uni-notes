@@ -28,6 +28,8 @@ tags: ["NotesPage"]
 20) [[Hydrostatic pressure notes]] 
 21) [[Hydrostatic force notes]]
 22) [[Buoyancy and stability notes]]
+    
+### Hydro not so static(s) (that is [[awoif|the technical term]])
 23) [[Flow characterisation and visulisation notes]]
 24) [[conservation of mass in flow]]
 25) [[conservation of energy in flow notes]]
@@ -36,3 +38,5 @@ tags: ["NotesPage"]
 28) [[Steady flow energy equation notes]]
 29) 
 30) [[Steady mechanical energy equation notes]]
+31) 
+32) [[Introduction to viscous flow notes]]

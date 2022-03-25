@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
+            "file": "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
             "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "0cf8626678a108f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Second moment",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,20 +123,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191,
-    "collapsed": true
+    "width": 191
   },
-  "active": "ef7c4208b9e4729a",
+  "active": "0cf8626678a108f1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
+    "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
+    "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md",
+    "Thermofluids/10U Specific heats and the first law of thermodynamics/constant volume specific heat.md",
+    "Thermofluids/10U Specific heats and the first law of thermodynamics/specific heat capacity.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/types of dampening (dynamics).md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/Deteminants notes.md",
-    "images/Pasted image 20220203173926.png",
-    "images/Pasted image 20211011092939.png",
-    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
-    "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
-    "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
-    "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md"
+    "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/Deteminants notes.md"
   ]
 }
