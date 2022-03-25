@@ -27,3 +27,6 @@ Test 2:
 Test 3:
 11) [[Vectors 2 overview]]
 12) [[Integration 4 overview]]
+13) [[Statistics 1 overview]]
+14) [[Statistics 2 overview]]
+15) [[Functions overview]]

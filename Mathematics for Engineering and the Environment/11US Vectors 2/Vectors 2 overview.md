@@ -24,3 +24,7 @@ tags: ["NotesPage"]
 ![[calculus with vectors]]
 
 ![[vector equation of a line]]
+
+![[vector equation of a plane]]
+
+![[perpendicular distance between a point and a plane]]

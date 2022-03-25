@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["inviscid"]
 tags: ["Question","QFormat3"]
 ---
 
