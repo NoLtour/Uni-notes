@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Reynolds",
+                "query": "Lift eq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "6ac663d976b40c37",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
     "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
     "Mathematics for Engineering and the Environment/General org/integration.md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
@@ -124,7 +125,6 @@
     "Mechanics structures and materials/Statics 2/7 Strain measurement/practical real world method for measuring strain.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/Strain measurement notes.md",
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
-    "Mechanics structures and materials/Statics 2/8 Yield criteria U/Tersca yield criterion.md"
+    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md"
   ]
 }

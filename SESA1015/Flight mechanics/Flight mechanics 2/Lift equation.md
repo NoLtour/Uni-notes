@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What's the
 ## Lift equation
-> $$ L = \frac{1}{2}\rho V^{2}S C_L $$ 
+> ### $$ L = \frac{1}{2}\rho V^{2}S C_L $$ 
 >> where:
 >> $L =$ Lift
 >> $\rho =$ density of air
