@@ -113,3 +113,6 @@ def simulator(CLACDA, plotting=0):
         pl.show()
         
     return LapTime
+
+
+print( simulator( [0.2958, 0.0719] ) )
