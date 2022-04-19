@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[negative feedback and operational amplifiers]]
 
 ![[inverting operational amplifier]]
+
+![[non inv]]
