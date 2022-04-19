@@ -10,4 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[]]
+![[operational amplifier]]
