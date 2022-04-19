@@ -9,5 +9,9 @@ You get some usefull behaviour when you use negative feedback with an [[operatio
 ![[Pasted image 20220419143555.png]]
 Initially the voltage at $V_{+}$ would make $V_{out}$ spike to a really high value (usually createing a square wave as seen in [[operational amplifier#Generating square waves]]) but in this case since $V_{out}$ feeds back to $V_{-}$ you get the following set of equations:
 $$\begin{align*}
-V_{out} &= A_{OL}(V_{+}-V_{-}) 
+V_{out} &= A_{OL}(V_{+}-V_{-}) & V_{-} = V_{out}\\
+V_{out} &= A_{OL}(V_{+}-V_{out})\\
+V_{out} + A_{OL}V_{out} &= A_{OL}V_{+}\\
+V_{out} &= V_{+} \frac{A_{OL}}{1-A_{OL}}\\
+&& 
 \end{align*}$$
