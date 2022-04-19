@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[inverting operational amplifier]]
 
 ![[non inverting amplifier]]
+
+![[voltage follower]]

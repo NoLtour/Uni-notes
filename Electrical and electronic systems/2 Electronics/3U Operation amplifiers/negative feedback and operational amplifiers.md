@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### Describe
 ## Negative feedback and operational amplifiers
+
 You get some usefull behaviour when you use negative feedback with an [[operational amplifier]]:
 ![[Pasted image 20220419150913.png]]
 Initially the voltage at $V_{+}$ would make $V_{out}$ spike to a really high value (usually createing a square wave as seen in [[operational amplifier#Generating square waves]]) but in this case since $V_{out}$ feeds back to $V_{-}$ you get the following set of equations:
