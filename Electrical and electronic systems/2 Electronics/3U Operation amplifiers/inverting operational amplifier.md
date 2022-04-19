@@ -10,5 +10,5 @@ tags: ["Question","QFormat3"]
 Taking the [[negative feedback and operational amplifiers|golden rules of negative feedback op amps]] we can get the equation $V_{out} = $
 
 $$\begin{align*}
-& 
+V_{in} &= R_{F}
 \end{align*}$$
