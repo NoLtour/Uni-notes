@@ -12,6 +12,9 @@ $$\begin{align*}
 V_{out} &= A_{OL}(V_{+}-V_{-}) & V_{-} = V_{out}\\
 V_{out} &= A_{OL}(V_{+}-V_{out})\\
 V_{out} + A_{OL}V_{out} &= A_{OL}V_{+}\\
-V_{out} &= V_{+} \frac{A_{OL}}{1-A_{OL}}\\
-&& 
+V_{out} &= V_{+} \frac{A_{OL}}{1+A_{OL}}\\
+V_{out} &= V_{+} \frac{1}{\frac{1}{A_{OL}}+1}\\
+&& A_{OL} &>100000\\
+V_{out} &\approx V_{+}
 \end{align*}$$
+Since $A_{OL}$ is so large we can basically assume that $V_{out}=V_{+}$, but whats more useful is the further implications of this
