@@ -16,4 +16,4 @@ tags: ["NotesPage"]
 
 ![[inverting operational amplifier]]
 
-![[non inv]]
+![[non inverting amplifier]]
