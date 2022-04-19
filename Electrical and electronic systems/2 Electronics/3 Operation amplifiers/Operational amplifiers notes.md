@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[operational amplifier]]
+
+![[negative feedback and operational amplifiers]]

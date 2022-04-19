@@ -23,3 +23,5 @@ Basically what this means is that the output is proportional to the difference b
 ![[Pasted image 20220419142522.png]]
 As you can see the exact value of $A_{OL}$ doesn't really matter since any super high value gets basically the same output. Also in the example above if you flip the two inputs then the square wave would be 180 degrees out of phase with the input (because the input would be in the inverting input (hence the name)).
 
+Of couse the square waves transition between $V_{max}$ and $V_{min}$ isn't actually instantanious, but it's so sudden it approximates extreemly well as a square wave.
+
