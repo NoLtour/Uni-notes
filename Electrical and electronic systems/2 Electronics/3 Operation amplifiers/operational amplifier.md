@@ -1,5 +1,5 @@
 ---
-aliases: ["operational amplifiers"]
+aliases: ["operational amplifiers","op amp", "op amps"]
 tags: ["Question","QFormat3"]
 ---
 
