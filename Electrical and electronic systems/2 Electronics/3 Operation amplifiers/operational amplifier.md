@@ -13,3 +13,5 @@ These are components that take two inputs and outputs a value equivilent to:
 >> $V_{+}=$ voltage at non inverting input
 >> $V^{+}_{cc} , V^{-}_{cc}=$ supply voltages
 >> $k=$ minimum difference between output voltage and supplys
+
+![[Pasted image 20220419142120.png]]
