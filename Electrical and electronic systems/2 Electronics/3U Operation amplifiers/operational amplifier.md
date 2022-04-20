@@ -10,7 +10,7 @@ These are components that take two inputs and outputs a value equivilent to:
 > ### $$ V_{out} = ( V_{+} - V_{-}) \times A_{OL} $$ 
 >> where:
 >> $V^{+}_{cc} - k > V_{out} > V^{-}_{cc} + k$ 
->> $V_{out}=$ voltage at inverting input
+>> $V_{-}=$ voltage at inverting input
 >> $V_{+}=$ voltage at non inverting input
 >> $V^{+}_{cc} , V^{-}_{cc}=$ supply voltages
 >> $k=$ minimum difference between output voltage and supplys
@@ -18,9 +18,9 @@ These are components that take two inputs and outputs a value equivilent to:
 
 The layout can be seen on the following diagram.
 
-![[Pasted image 20220419142120.png]]
+![[Pasted image 20220419142120.png]]e
 
-Something else important to note is that no current flows across operational amplifiers.
+Something else important to note is that for an ideal op amp no current can flow through $V_{+}$ or $V_{-}$ BUT $V_{out}$ can have a current flow! 
 
 ### Generating square waves
 
