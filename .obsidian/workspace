@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/operational amplifier.md",
+            "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/operational amplifier.md",
+                "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +115,10 @@
   },
   "active": "6ac663d976b40c37",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/operational amplifier.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/negative feedback and operational amplifiers.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/voltage follower.md",
-    "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/non inverting amplifier.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/inverting operational amplifier.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
