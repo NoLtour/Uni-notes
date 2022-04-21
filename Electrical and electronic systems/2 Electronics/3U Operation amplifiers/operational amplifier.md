@@ -14,7 +14,7 @@ These are components that take two inputs and outputs a value equivilent to:
 >> $V_{+}=$ voltage at non inverting input
 >> $V^{+}_{cc} , V^{-}_{cc}=$ supply voltages
 >> $k=$ minimum difference between output voltage and supplys
->> $A_{OL}=$ amplification factor
+>> $A_{OL}=$ open loop amplification factor
 
 The layout can be seen on the following diagram.
 
