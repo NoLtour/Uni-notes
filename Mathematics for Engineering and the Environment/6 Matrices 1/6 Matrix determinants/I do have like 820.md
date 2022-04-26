@@ -47,3 +47,5 @@ fuck you I can keep going
 ![[moyai.mp4]]
 ![[unknown-4.jpg]]
 ![[retard abuse.mp4]]
+
+note 820 is now outdated
