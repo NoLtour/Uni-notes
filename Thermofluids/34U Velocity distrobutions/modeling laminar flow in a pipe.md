@@ -24,4 +24,9 @@ dpR &= 2 \tau_{w} dx \\
 \frac{dp}{dx} \frac{R}{2} &= \tau_{w}
 \end{align*}$$
 
-Now we have an expression relating the shear force and rate of change of pressure. Next we can model this as a [[newtonian fluids]]
+Next we need to derive an equation for modelling shear inside the pipe cross section and hence 
+
+Now we have an expression relating the shear force and rate of change of pressure. Next we can model this as a [[newtonian fluids|newtonian fluid]] and get [[newtonian fluids#^998109|this equation]]:
+$$\begin{align*}
+&& \tau &= \mu \times dV 
+\end{align*}$$
