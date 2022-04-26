@@ -20,15 +20,17 @@ This can be defined algebraically:
 >> $\delta *=$ [[boundary layer displacement thickness]] 
 >> $U(y)=$ flow rate as a function of y
 >> $y=$ displacement relative to surface
->> $U_{0}=$ ?
+>> $U_{0}=$ Free stream velocity?? [[UNFINISHED STUFF|notes don't clarify so check, they also use 0 not inf so idk]]
 >> Flow is incompressible
 
 
-> ### $$ \delta * = \int^{\infty}_{0} \left( 1 - \frac{U(y)}{U_{0}} \right) dy $$ 
+> ### $$ \delta * = \int^{\infty}_{0} \left( 1 - \frac{\rho(y) U(y)}{\rho_{0} U_{0}} \right) dy $$ 
 >> where:
 >> $\delta *=$ [[boundary layer displacement thickness]] 
 >> $U(y)=$ flow rate as a function of y
+>> $\rho(y)=$ density as a function of y
 >> $y=$ displacement relative to surface
->> $U_{0}=$ ?
->> Flow is incompressible
+>> $U_{0}=$ Free stream velocity?? [[UNFINISHED STUFF|notes don't clarify so check, they also use 0 not inf so idk]]
+>> $\rho_{0}=$ Free stream density??
+>> Flow is compressible
 
