@@ -24,4 +24,4 @@ dpR &= 2 \tau_{w} dx \\
 \frac{dp}{dx} \frac{R}{2} &= \tau_{w}
 \end{align*}$$
 
-Now we have an expression relating 
+Now we have an expression relating the shear force and rate of change of pressure. To get our next equation
