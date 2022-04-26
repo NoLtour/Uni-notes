@@ -13,4 +13,4 @@ This basically just continues from the [[boundary layer]] notes.
 ## Expanded articles
 ![[boundary layer separation]]
 
-![[boundary layer thickness displacement and momentum]]
+![[boundary layer displacement thickness]]
