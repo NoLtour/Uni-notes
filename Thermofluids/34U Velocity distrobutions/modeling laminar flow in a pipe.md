@@ -8,6 +8,9 @@ tags: ["Question","QFormat3"]
 ### Usefull equation bit
 
 
+
+[[UNFINISHED STUFF|come back and do derivation]]
+<!---
 ### Derivation
 We make some assumptions: 
 - flow is fully developed (so it's cross section/flow is uniform for its length, aka a really long pipe) so no [[boundary layer]] [[first meme since easter break lets go|shinanigins]].
@@ -34,3 +37,4 @@ Now we have an expression relating the shear force and rate of change of pressur
 $$\begin{align*}
 && \tau &= \mu \times dV 
 \end{align*}$$
+-->
