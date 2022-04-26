@@ -10,4 +10,13 @@ The current definition used to define the position of the boundary layer is wher
 
 Displacement thickness is technically defined as "the distance by which a surface would have to be moved in the direction parallel to its normal vector towards the reference plane in an [[inviscid flow|inviscid fluid stream]] of velocity $U_{0}$ to give the same mass flow rate as occurs between the surface and the reference plane in a real fluid."
 
-Or put simply if the 
+Or put simply the displacement needed from the surface to encapsulate a volume equal to the volume of "missing flow" caused by the boundary layer:
+![[Pasted image 20220426222934.png]]
+
+This can be defined algebraically:
+
+> ### $$ \delta * = \int^{\infty}__ $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
