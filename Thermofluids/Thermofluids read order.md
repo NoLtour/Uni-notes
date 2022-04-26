@@ -41,3 +41,4 @@ tags: ["NotesPage"]
 31) 
 32) [[Introduction to viscous flow notes]]
 33) [[Reynolds number and surface friction notes]]
+34) [[Velocity distro]]
