@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["max flow velocity in laminar flow in a pipe","flow velocity in laminar flow in a pipe"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -22,8 +22,10 @@ The equation describing the flow formed is
 >> $x=$ displacement along the pipe in the direction of flow
 >> $r=$ distance from centre of the pipe
 
-[[steady flow energy equation]]
-[[steady mechanical energy equation]]
+> ### $$ \bar{U} = \frac{U_{max}}{2} $$ 
+>> where:
+>> $\bar{U}=$ [[]]
+>> $\U_{max}=$ [[modeling laminar flow in a pipe|max flow velocity in laminar flow in a pipe]]
 
 ### Derivation
 [[UNFINISHED STUFF|come back and do derivation]]
