@@ -3,12 +3,12 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# Boundary layers notes
+# Boundary layer separation intro notes
 
 #### Intro and contents
 This basically just continues from the [[boundary layer]] notes.
-- 
+- [[boundary layer separation]]
 
 
 ## Expanded articles
-![[boundary layer seperation]]
+![[boundary layer separation]]

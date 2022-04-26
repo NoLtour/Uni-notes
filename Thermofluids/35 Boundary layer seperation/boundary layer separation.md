@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### Describe
-## [[boundary layer|Boundary layer]] seperation
+## [[boundary layer|Boundary layer]] separation
 
 ![[Pasted image 20220426220226.png]]
 
