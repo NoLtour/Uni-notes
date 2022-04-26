@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ## Expanded articles
 
 ![[modeling laminar flow in a pipe]]
+
+![[laminar flow friction factor in a pipe]]
