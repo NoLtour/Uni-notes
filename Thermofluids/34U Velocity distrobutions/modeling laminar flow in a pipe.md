@@ -37,6 +37,7 @@ Now we have an expression relating the shear force and rate of change of pressur
 $$\begin{align*}
 \tau &= \mu dU & \tau &= (R-r) \tau_{w} & \frac{dp}{dx} \frac{R}{2} &= \tau_{w}\\
 &&  &= (R-r) \frac{dp}{dx} \frac{R}{2}\\
-(R-r) \frac{dp}{dx} \frac{R}{2} &= 
+(R-r) \frac{dp}{dx} \frac{R}{2} &= \mu dU\\
+(R-r) \frac{dp}{dx} \frac{R}{2} &= \mu dU
 \end{align*}$$
 <!--- -->
