@@ -9,7 +9,10 @@ tags: ["Question","QFormat3"]
 
 
 ### Derivation
-First we start with the assumption that the flow is fully developed (so it's cross section/flow is uniform for its length, aka a really long pipe) so no [[boundary layer]] [[first meme since easter break lets go|shinanigins]].
+We make some assumptions: 
+- flow is fully developed (so it's cross section/flow is uniform for its length, aka a really long pipe) so no [[boundary layer]] [[first meme since easter break lets go|shinanigins]].
+- Flow is incompressible
+- No mass accumulation (flow rate is constant for the length of the pipe)
 
 ![[Pasted image 20220426154544.png]]
 
@@ -20,3 +23,5 @@ $$\begin{align*}
 dpR &= 2 \tau_{w} dx \\
 \frac{dp}{dx} \frac{R}{2} &= \tau_{w}
 \end{align*}$$
+
+Now we have an expression relating 
