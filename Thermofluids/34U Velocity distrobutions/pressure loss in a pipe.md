@@ -9,4 +9,5 @@ tags: ["Question","QFormat3"]
 
 
 
-### D
+### Derivation
+Basically take the [[pressure loss darcy weisbach equation]] and sub in the equation for [[darcy-weisbach friction factor]] [[reynolds number]].
