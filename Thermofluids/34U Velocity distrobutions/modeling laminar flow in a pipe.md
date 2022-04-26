@@ -25,7 +25,7 @@ The equation describing the flow formed is
 > ### $$ \bar{U} = \frac{U_{max}}{2} $$ 
 >> where:
 >> $\bar{U}=$ [[bulk velocity]]
->> $\U_{max}=$ [[modeling laminar flow in a pipe|max flow velocity in laminar flow in a pipe]]
+>> $U_{max}=$ [[modeling laminar flow in a pipe|max flow velocity in laminar flow in a pipe]]
 
 ### Derivation
 [[UNFINISHED STUFF|come back and do derivation]]

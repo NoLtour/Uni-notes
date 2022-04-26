@@ -17,3 +17,6 @@ tags: ["NotesPage"]
 ![[laminar flow friction factor in a pipe]]
 
 ![[pressure loss in a laminar flow pipe]]
+
+Not sure whats going on here [[UNFINISHED STUFF]]
+![[Pasted image 20220426190132.png]]
