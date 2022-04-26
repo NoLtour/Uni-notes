@@ -48,4 +48,4 @@ fuck you I can keep going
 ![[unknown-4.jpg]]
 ![[retard abuse.mp4]]
 
-note 820 is now outdated
+note 820 is now outdated its closer to 1600
