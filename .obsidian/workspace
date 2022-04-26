@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/34U Velocity distrobutions/modeling laminar flow in a pipe.md",
-            "mode": "source",
+            "file": "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,11 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/34U Velocity distrobutions/modeling laminar flow in a pipe.md",
+                "file": "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -115,15 +115,15 @@
   },
   "active": "6ac663d976b40c37",
   "lastOpenFiles": [
+    "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
+    "Thermofluids/30 Steady mechanical energy equation/kinetic energy correction factor.md",
+    "Thermofluids/30 Steady mechanical energy equation/define friction retard.md",
+    "Thermofluids/32 Introduction to viscous flow/Introduction to viscous flow notes.md",
+    "Thermofluids/34U Velocity distrobutions/bulk velocity.md",
     "Thermofluids/34U Velocity distrobutions/modeling laminar flow in a pipe.md",
     "Thermofluids/34U Velocity distrobutions/Pipe velocity distrobution notes.md",
     "Thermofluids/34U Velocity distrobutions/first meme since easter break lets go.md",
     "Thermofluids/33 Surface friction and boundary layers/Reynolds number and surface friction notes.md",
-    "Thermofluids/32 Introduction to viscous flow/Introduction to viscous flow notes.md",
-    "Thermofluids/32 Introduction to viscous flow/shear viscosity of the fluid.md",
-    "misc/UNFINISHED STUFF.md",
-    "Thermofluids/32 Introduction to viscous flow/newtonian fluids.md",
-    "Thermofluids/Thermofluids read order.md",
-    "Thermofluids/33 Surface friction and boundary layers/boundary layers in pipes.md"
+    "Thermofluids/32 Introduction to viscous flow/shear viscosity of the fluid.md"
   ]
 }

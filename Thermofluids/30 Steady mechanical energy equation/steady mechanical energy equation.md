@@ -20,7 +20,7 @@ Basically this is the same as the [[steady flow energy equation]] but it has som
 >>  $L=$ pipe length
 >>  $f=$ emperical coefficient relating to friction
 >>  $k_{n}=$ the coefficient relating to that specific energy loss
->>  $\bar{U}=$ velocity ([[UNFINISHED STUFF|not 100% sure if it dosn't have extra special meaning]])
+>>  $\bar{U}=$ [[bulk velocity]]
 
 ^50e06c
 
@@ -66,7 +66,7 @@ Basically what this is saying is that the fitting and pipe friction is directly 
 >>  $L=$ pipe length
 >>  $f=$ emperical coefficient relating to friction
 >>  $k_{n}=$ the coefficient relating to that specific energy loss
->>  $\bar{U}=$ velocity ([[UNFINISHED STUFF|not 100% sure if it dosn't have extra special meaning]])
+>>  $\bar{U}=$ [[bulk velocity]]
 >>  ${Q}=$ heat into the sytem
 >>  $T=$ temp of fluid
 >>  $C_V=$ [[constant volume specific heat]]
