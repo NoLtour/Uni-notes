@@ -11,11 +11,22 @@ The shear stress decreases linearly while the velocity increases linearly:
 
 The equation describing the flow formed is
 > ### $$ U = - \frac{R^{2}}{4\mu} \frac{dp}{dx} \left(1-\left(\frac{r}{R}\right)^{2}\right) $$ 
+> ### $$ U_{max} = - \frac{R^{2}}{4\mu} \frac{dp}{dx} $$ 
 >> where:
 >> $U=$ Flow velocity
 >> $R=$ Pipe radius
->> $\mu=$ [[newtonian fluids|newtonian fluid]]
+>> $\mu=$ [[shear viscosity of the fluid]]
+>> $p=$ pressure
+>> $x=$ displacement along the pipe in the direction of flow
+>> $r=$ distance from centre of the pipe
 
+> ### $$ U_{max} = - \frac{R^{2}}{4\mu} \frac{dp}{dx} $$ 
+>> where:
+>> $U=$ Max flow velocity
+>> $R=$ Pipe radius
+>> $\mu=$ [[shear viscosity of the fluid]]
+>> $p=$ pressure
+>> $x=$ displacement along the pipe in the direction of flow
 
 [[UNFINISHED STUFF|come back and do derivation]]
 <!--- 
