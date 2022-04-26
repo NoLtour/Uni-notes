@@ -4,12 +4,12 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Pressure loss in a pipe
+## Pressure loss in a laminar flow pipe
 ### Equation
 
 > ### $$  \Delta p = \frac{32\mu LU}{D^{2}} $$ 
 >> where:
->> $\$
+>> $\Delta p=$ pressure loss
 >> $\mu=$ [[viscosity]] 
 >> $L=$ length of pipe
 >> $D=$ diameter of pipe

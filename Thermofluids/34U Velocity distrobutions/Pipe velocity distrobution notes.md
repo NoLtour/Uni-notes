@@ -8,7 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[modeling laminar flow in a pipe]]
 - [[laminar flow friction factor in a pipe]]
-- [[pressure loss in a pipe]]
+- [[pressure loss in a laminar flow pipe]]
 
 ## Expanded articles
 
@@ -16,4 +16,4 @@ tags: ["NotesPage"]
 
 ![[laminar flow friction factor in a pipe]]
 
-![[pressure loss in a pipe]]
+![[pressure loss in a laminar flow pipe]]
