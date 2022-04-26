@@ -12,25 +12,22 @@ The shear stress decreases linearly while the velocity increases linearly:
 The equation describing the flow formed is
 > ### $$ U = - \frac{R^{2}}{4\mu} \frac{dp}{dx} \left(1-\left(\frac{r}{R}\right)^{2}\right) $$ 
 > ### $$ U_{max} = - \frac{R^{2}}{4\mu} \frac{dp}{dx} $$ 
+> ### $$ \frac{U}{U_{max}} = \left(1-\left(\frac{r}{R}\right)^{2}\right) $$
 >> where:
 >> $U=$ Flow velocity
+>> $U_{max}=$ Max flow velocity
 >> $R=$ Pipe radius
 >> $\mu=$ [[shear viscosity of the fluid]]
 >> $p=$ pressure
 >> $x=$ displacement along the pipe in the direction of flow
 >> $r=$ distance from centre of the pipe
 
-> ### $$ U_{max} = - \frac{R^{2}}{4\mu} \frac{dp}{dx} $$ 
->> where:
->> $U=$ Max flow velocity
->> $R=$ Pipe radius
->> $\mu=$ [[shear viscosity of the fluid]]
->> $p=$ pressure
->> $x=$ displacement along the pipe in the direction of flow
+[[steady flow energy equation]]
+[[steady mechanical energy equation]]
 
+### Derivation
 [[UNFINISHED STUFF|come back and do derivation]]
 <!--- 
-### Derivation
 We make some assumptions: 
 - flow is fully developed (so it's cross section/flow is uniform for its length, aka a really long pipe) so no [[boundary layer]] [[first meme since easter break lets go|shinanigins]].
 - Flow is incompressible
