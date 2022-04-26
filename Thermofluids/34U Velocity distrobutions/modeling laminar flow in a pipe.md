@@ -16,5 +16,7 @@ First we start with the assumption that the flow is fully developed (so it's cro
 First equation is us expressing the net force acting on the section of water, and since acceleration is zero we know that net force is zero. So pressure force equals pipe surface shear force:
 
 $$\begin{align*}
-( (p+dp) - p ) \times 2R &= 
+( (p+dp) - p ) \times \pi R^{2} &= \tau_{w} \times 2R\pi dx\\
+dpR &= 2 \tau_{w} dx \\
+\frac{dp}{dx} \frac{R}{2} &= \tau_{w}
 \end{align*}$$
