@@ -10,7 +10,7 @@ tags: ["Question","QFormat3"]
 
 
 [[UNFINISHED STUFF|come back and do derivation]]
-<!---
+
 ### Derivation
 We make some assumptions: 
 - flow is fully developed (so it's cross section/flow is uniform for its length, aka a really long pipe) so no [[boundary layer]] [[first meme since easter break lets go|shinanigins]].
@@ -30,11 +30,13 @@ dpR &= 2 \tau_{w} dx \\
 Next we need to derive an equation for modelling shear inside the pipe cross section, here we can also use force balencing:
 ![[Pasted image 20220426165153.png]]
 $$\begin{align*}
-\tau = (R-r) \tau_{w}
+\tau &= (R-r) \tau_{w}
 \end{align*}$$
 
 Now we have an expression relating the shear force and rate of change of pressure. Next we can model this as a [[newtonian fluids|newtonian fluid]] and get [[newtonian fluids#^998109|this equation]]:
 $$\begin{align*}
-&& \tau &= \mu \times dV 
+\tau &= \mu dU & \tau &= (R-r) \tau_{w} & \frac{dp}{dx} \frac{R}{2} &= \tau_{w}\\
+&&  &= (R-r) \frac{dp}{dx} \frac{R}{2}\\
+(R-r) \frac{dp}{dx} \frac{R}{2} &= 
 \end{align*}$$
--->
+<!--- -->
