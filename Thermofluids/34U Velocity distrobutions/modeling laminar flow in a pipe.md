@@ -6,11 +6,19 @@ tags: ["Question","QFormat3"]
 #### Describe the method for
 ## Modeling laminar flow in a pipe
 ### Usefull equation bit
+The shear stress decreases linearly while the velocity increases linearly:
+![[Pasted image 20220426171348.png]]
 
+The equation describing the flow formed is
+> ### $$ U = - \frac{R^{2}}{4\mu} \frac{dp}{dx} \left(1-\left(\frac{r}{R}\right)^{2}\right) $$ 
+>> where:
+>> $U=$ Flow velocity
+>> $R=$ Pipe radius
+>> $\mu=$ [[newtonian fluids|newtonian fluid]]
 
 
 [[UNFINISHED STUFF|come back and do derivation]]
-
+<!--- 
 ### Derivation
 We make some assumptions: 
 - flow is fully developed (so it's cross section/flow is uniform for its length, aka a really long pipe) so no [[boundary layer]] [[first meme since easter break lets go|shinanigins]].
@@ -30,8 +38,7 @@ dpR &= 2 \tau_{w} dx \\
 Next we need to derive an equation for modelling shear inside the pipe cross section, here we can also use force balencing:
 ![[Pasted image 20220426165153.png]]
 $$\begin{align*}
-\tau &= (R-r) \tau_{w}\\
-\frac{d\tau}{dr} &= -\tau_{w}
+\tau &= (R-r) \tau_{w}
 \end{align*}$$
 
 Now we have an expression relating the shear force and rate of change of pressure. Next we can model this as a [[newtonian fluids|newtonian fluid]] and get [[newtonian fluids#^998109|this equation]]:
@@ -41,4 +48,4 @@ $$\begin{align*}
 (R-r) \frac{dp}{dx} \frac{R}{2} &= \mu dU\\
 (R-r) \frac{dp}{dx} \frac{R}{2} &= \mu dU
 \end{align*}$$
-<!--- -->
+-->
