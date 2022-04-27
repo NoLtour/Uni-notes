@@ -33,7 +33,9 @@ Here is a more complex problem where multiple parts are moving together:
 
 This is quite simple to solve when you realise the motion is basically just a triangle:
 ![[Pasted image 20220427114023.png]]
-So you can use the cosine rule $a^{2}=b^{2}+c^{2}-2bc\cos A$ 
+So you can use the cosine rule $a^{2}=b^{2}+c^{2}-2bc\cos A$ so yeah ezz:
 $$\begin{align*}
-(P+s)^{2} &= H^{2} + (W-E)^{2} - 2 H (W-E) 
+(P+s)^{2} &= H^{2} + (W-E)^{2} - 2 H (W-E) \cos \theta\\
+ \frac{H^{2} + (W-E)^{2} - (P+s)^{2}}{2 H (W-E)} &= \cos \theta\\
+ \cos^{-1} \left(\frac{H^{2} + (W-E)^{2} - (P+s)^{2}}{2 H (W-E)}\right) &= \theta
 \end{align*}$$
