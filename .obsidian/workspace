@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "commutator.md",
-            "mode": "preview",
+            "file": "Mechanics structures and materials/Dynamics 1/rigid body.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commutator.md",
+                "file": "Mechanics structures and materials/Dynamics 1/rigid body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "6ac663d976b40c37",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/rigid body.md",
+    "Mechanics structures and materials/Dynamics 1/Kinematics of rigid bodies notes.md",
+    "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
     "commutator.md",
     "conflict-files-obsidian-git.md",
     "2021-12-09.md",
     "2021-10-28.md",
     "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/I do have like 820.md",
     "Thermofluids/35 Boundary layer seperation/Boundary layer separation intro notes.md",
-    "Thermofluids/35 Boundary layer seperation/insert funny here.md",
-    "Thermofluids/35 Boundary layer seperation/boundary layer shape factor.md",
-    "Thermofluids/35 Boundary layer seperation/boundary layer momentum thickness.md",
-    "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md"
+    "Thermofluids/35 Boundary layer seperation/insert funny here.md"
   ]
 }

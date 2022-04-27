@@ -1,0 +1,19 @@
+---
+aliases: [""]
+tags: ["NotesPage"]
+---
+
+# Kinematics of rigid bodies notes
+
+#### Intro and contents
+Planar rigid motion overview, translation and rotation:
+- 
+
+Absolute motion analysis:
+- 
+
+Relative motion analysis:
+- 
+
+## Expanded articles
+[[rigid body]]
