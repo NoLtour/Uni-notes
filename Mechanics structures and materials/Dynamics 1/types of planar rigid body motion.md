@@ -17,3 +17,7 @@ Although I say 4 types they fit into 2 broader categories:
 - [[rigid body rotation around a fixed axis|rigid body rotation]]
 
 ### Embeds
+![[rigid body path of rectilinear translation]]
+![[rigid body path of curvilinear translation]]
+![[rigid body rotation around a fixed axis]]
+![[rigid body general plane motion]]
