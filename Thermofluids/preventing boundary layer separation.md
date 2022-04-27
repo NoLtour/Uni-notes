@@ -19,3 +19,7 @@ Although usually thought of as something exclusively on golf balls it is used in
 Vortex generators work by creating a stream wise vortex, which mixes the high momentum [[freestream|free-stream]] flow into the low momentum boundary layer.  These features are placed on aircraft wings to improve lift, by delaying separation at the high angles of attack seen during take-off and landing.  The vortex generators on wings are usually placed in a row just forward of the maximum thickness and take the shape of a small sheet metal tab placed at an angle relative to the oncoming flow.
 
 ### Trip strips
+A trip strip is a surface feature that extends past the boundary layer into the free stream and is usually placed perpendicular to the flow. As the free stream flow passes over the strip (usually a wire, wall, or series of 3-d columns of material) a localized separated flow is created that mixes the high momentum free-stream fluid into the boundary layer.
+![[Pasted image 20220427170302.png]]
+
+### Surface roughness
