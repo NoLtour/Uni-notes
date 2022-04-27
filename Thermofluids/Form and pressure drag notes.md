@@ -22,3 +22,5 @@ tags: ["NotesPage"]
 ![[drag coefficient of spherical object]]
 
 ![[preventing boundary layer separation]]
+
+![[inducing turbulance for boundary layer control]]
