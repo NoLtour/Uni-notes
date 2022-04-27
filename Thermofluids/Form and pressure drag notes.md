@@ -23,4 +23,4 @@ tags: ["NotesPage"]
 
 ![[preventing boundary layer separation]]
 
-![[inducing turbulance for boundary layer control]]
+![[inducing turbulence for boundary layer control]]
