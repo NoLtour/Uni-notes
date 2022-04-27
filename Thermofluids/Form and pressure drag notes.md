@@ -10,3 +10,8 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[form drag]]
+
+![[skin drag]]
+
+![[Drag coefficient]]
