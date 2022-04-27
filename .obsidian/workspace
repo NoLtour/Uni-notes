@@ -7,8 +7,12 @@
         "id": "83f822501d48957c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lift eq",
+                "query": "proof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +116,15 @@
   },
   "active": "83f822501d48957c",
   "lastOpenFiles": [
+    "README.md",
+    "misc/Templates OLD/Maths proof.md",
+    "2021-12-09.md",
     "Thermofluids/36 Form and pressure drag/Form and pressure drag notes.md",
     "Thermofluids/36 Form and pressure drag/inducing turbulence for testing.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/form drag.md",
     "Thermofluids/36 Form and pressure drag/preventing boundary layer separation.md",
     "Thermofluids/25 Conservation of energy in flow/freestream.md",
     "Thermofluids/36 Form and pressure drag/drag coefficient of spherical object.md",
-    "SESA1015/Flight mechanics/Flight mechanics 3/skin drag.md",
-    "SESA1015/Flight mechanics/Flight mechanics 3/eldritch horror.md",
-    "SESA1015/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
-    "Thermofluids/33 Surface friction and boundary layers/turbulent flow regime.md"
+    "SESA1015/Flight mechanics/Flight mechanics 3/skin drag.md"
   ]
 }
