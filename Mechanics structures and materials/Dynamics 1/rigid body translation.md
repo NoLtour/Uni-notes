@@ -1,5 +1,5 @@
 ---
-aliases: ["translation","translational motion"]
+aliases: ["translation","translational motion","pure translational motion"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -11,4 +11,4 @@ Purely translational motion is where all points have identical displacement, vel
 
 ![[Pasted image 20220427104116.png]]
 
-It is possible to describe points in a rigid body relative to each other or in absolute terms relative to some fixed coordinate system. 
+It is possible to describe points in a rigid body relative to each other or in absolute terms relative to some fixed coordinate system.
