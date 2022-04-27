@@ -28,6 +28,10 @@ a_{g} &= r\ddot{\theta}
 
 ### Window
 Here is a more complex problem where multiple parts are moving together:
-![[Pasted image 20220427112943.png]]
+> ![[Pasted image 20220427113317.png]]
+> Get an equation that describes the $\theta$ in terms of $s$. Then get an expression describing the absolute position of the end point of the window.
 
-Get an equation that describes 
+First 
+$$\begin{align*}
+W-E &= 
+\end{align*}$$
