@@ -13,6 +13,8 @@ This is where all points rotate around some defined axis, this also means that a
 
 It should be noted that when describing rotation around a fixed axis for any [[rigid body]] there is only a single value of angular displacement (accel and vel too) for all points.
 
+It should also be noted that the things covered in [[Curvilinear motion notes|curvilinear motion]] are often used when working with this especially the [[n-t diagram]].
+
 ### Terms
 Here are the variables often used when describing these values.
 #### Angular displacement
