@@ -14,4 +14,4 @@ tags: ["NotesPage"]
 
 ![[skin drag]]
 
-![[Drag coefficient]]
+![[Drag equation]]
