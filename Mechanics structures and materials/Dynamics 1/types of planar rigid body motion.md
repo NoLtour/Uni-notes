@@ -14,6 +14,6 @@ There are 4 types in planar motion:
 
 Although I say 4 types they fit into 2 broader categories:
 - [[rigid body translation]]
-- [[rigid body rotation]]
+- [[rigid body rotation around a fixed axis|rigid body rotation]]
 
 ### Embeds
