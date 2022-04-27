@@ -30,4 +30,4 @@ a_{g} &= r\ddot{\theta}
 Here is a more complex problem where multiple parts are moving together:
 ![[Pasted image 20220427112943.png]]
 
-Get an equation that 
+Get an equation that describes 
