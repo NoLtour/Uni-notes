@@ -39,3 +39,7 @@ $$\begin{align*}
  \frac{H^{2} + (W-E)^{2} - (P+s)^{2}}{2 H (W-E)} &= \cos \theta\\
  \cos^{-1} \left(\frac{H^{2} + (W-E)^{2} - (P+s)^{2}}{2 H (W-E)}\right) &= \theta
 \end{align*}$$
+The endpoint of the window is basic trig:
+$$\begin{align*}
+\begin{pmatrix} x_{E} \\ y_{E} \end{pmatrix} &= \begin{pmatrix} W\cos\theta \\ W\sin\theta \end{pmatrix}
+\end{align*}$$
