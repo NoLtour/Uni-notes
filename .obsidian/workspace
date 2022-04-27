@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,6 +116,7 @@
   "active": "83f822501d48957c",
   "lastOpenFiles": [
     "README.md",
+    "images/dOUH7Kgh.jpg",
     "Mathematics for Engineering and the Environment/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
     "misc/Templates OLD/Maths proof.md",
     "2021-12-09.md",
@@ -124,7 +124,6 @@
     "Thermofluids/36 Form and pressure drag/inducing turbulence for testing.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/form drag.md",
     "Thermofluids/36 Form and pressure drag/preventing boundary layer separation.md",
-    "Thermofluids/25 Conservation of energy in flow/freestream.md",
-    "Thermofluids/36 Form and pressure drag/drag coefficient of spherical object.md"
+    "Thermofluids/25 Conservation of energy in flow/freestream.md"
   ]
 }
