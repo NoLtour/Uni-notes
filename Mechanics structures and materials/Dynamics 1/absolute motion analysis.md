@@ -32,7 +32,8 @@ Here is a more complex problem where multiple parts are moving together:
 > Get an equation that describes the $\theta$ in terms of $s$. Then get an expression describing the absolute position of the end point of the window.
 
 This is quite simple to solve when you realise the motion is basically just a triangle:
-
+![[Pasted image 20220427114023.png]]
+So you can use the cosine rule $a^{2}=b^{2}+c^{2}-2bc\cos A$ 
 $$\begin{align*}
-W-E &= 
+(P+s)^{2} &= H^{2} + (W-E)^{2} - 2 H (W-E) 
 \end{align*}$$
