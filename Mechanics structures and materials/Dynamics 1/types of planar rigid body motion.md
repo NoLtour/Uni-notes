@@ -1,5 +1,5 @@
 ---
-aliases: ["planar rigid body motion"]
+aliases: ["planar rigid body motion","type of planar rigid body motion"]
 tags: ["Question","QFormat3"]
 ---
 
