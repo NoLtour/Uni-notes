@@ -21,3 +21,5 @@ You can probably tell but the only reason to go to university is to make obsidia
 ### Idk here's cat
 ![[dOUH7Kgh.jpg]]
 ![[277739334_659514131966424_8349469903889738844_n.mp4]]
+
+[![Translation status](https://cdn.discordapp.com/attachments/892362116214968330/944930494930358342/unknown.png)]()
