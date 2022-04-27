@@ -1,5 +1,5 @@
 ---
-aliases: ["translation"]
+aliases: ["translation","translational motion"]
 tags: ["Question","QFormat3"]
 ---
 
