@@ -23,4 +23,4 @@ You can probably tell but the only reason to go to university is to make obsidia
 [![keke](https://cdn.discordapp.com/attachments/892362116214968330/968980023723823124/dOUH7Kgh.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-[![keke](https://cdn.discordapp.com/attachments/892362116214968330/944930494930358342/unknown.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![keke](https://cdn.discordapp.com/attachments/892362116214968330/968980106016067614/277739334_659514131966424_8349469903889738844_n.mp4)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
