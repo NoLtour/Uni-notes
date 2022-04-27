@@ -16,14 +16,14 @@ It should be noted that when describing rotation around a fixed axis for any [[r
 It should also be noted that the things covered in [[Curvilinear motion notes|curvilinear motion]] are often used when working with this especially the [[n-t diagram]].
 
 ### Terms
-Here are the variables often used when describing these values.
+Here are the variables often used when describing these values. These are of course all [[Scalars and vectors|vector]] quantities ([[I mean at this point if you dont know what vectors are I have no clue what the fuck you are doing|not sure why I linked that]]).
 #### Angular displacement
-> ### $$ \theta $$
+> ### $$ \underline{\theta} $$
  
 #### Angular velocity
-> ### $$ \omega = \frac{d\theta}{dt} = \dot{\theta} $$
+> ### $$ \underline{\omega} = \frac{d\underline{\theta}}{dt} = \dot{\underline{\theta}} $$
  
 #### Angular acceleration
-> ### $$ \alpha = \dot{\omega} = \ddot{\theta} = \frac{d^{2}\theta}{dt^{2}} $$
-> ### $$ \alpha = \omega \frac{d\omega}{d\theta} $$ 
+> ### $$ \underline{\alpha} = \dot{\underline{\omega}} = \ddot{\underline{\theta}} = \frac{d^{2}\underline{\theta}}{dt^{2}} $$
+> ### $$ \underline{\alpha} = \underline{\omega} \frac{d\underline{\omega}}{d\underline{\theta}} $$ 
  
