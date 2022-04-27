@@ -16,6 +16,8 @@ You can probably tell but the only reason to go to university is to make obsidia
 
 ![[Pasted image 20220427214918.png]]
 
+![[Pasted image 20220427215006.png]]
 
-
-### 
+### Idk here's cat
+![[dOUH7Kgh.jpg]]
+![[277739334_659514131966424_8349469903889738844_n.mp4]]
