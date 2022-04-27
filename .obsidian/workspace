@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6ac663d976b40c37",
+        "id": "83f822501d48957c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Thermofluids/36 Form and pressure drag/Form and pressure drag notes.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -113,13 +113,13 @@
     "direction": "horizontal",
     "width": 191
   },
-  "active": "6ac663d976b40c37",
+  "active": "83f822501d48957c",
   "lastOpenFiles": [
     "Thermofluids/36 Form and pressure drag/Form and pressure drag notes.md",
+    "Thermofluids/36 Form and pressure drag/inducing turbulence for testing.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/form drag.md",
     "Thermofluids/36 Form and pressure drag/preventing boundary layer separation.md",
     "Thermofluids/25 Conservation of energy in flow/freestream.md",
-    "Thermofluids/36 Form and pressure drag/inducing turbulence for boundary layer control.md",
     "Thermofluids/36 Form and pressure drag/drag coefficient of spherical object.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/skin drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/eldritch horror.md",
