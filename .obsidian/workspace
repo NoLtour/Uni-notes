@@ -116,6 +116,7 @@
   "active": "6ac663d976b40c37",
   "lastOpenFiles": [
     "Thermofluids/preventing boundary layer separation.md",
+    "Thermofluids/25 Conservation of energy in flow/freestream.md",
     "Thermofluids/Form and pressure drag notes.md",
     "Thermofluids/inducing turbulence for boundary layer control.md",
     "Thermofluids/drag coefficient of spherical object.md",
@@ -123,7 +124,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 3/eldritch horror.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/form drag.md",
-    "Thermofluids/33 Surface friction and boundary layers/turbulent flow regime.md",
-    "Thermofluids/Thermofluids read order.md"
+    "Thermofluids/33 Surface friction and boundary layers/turbulent flow regime.md"
   ]
 }

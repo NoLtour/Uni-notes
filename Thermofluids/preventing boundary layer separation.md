@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["dimples","trip strips","vortex generators"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -14,3 +14,8 @@ Generally there is a trade off between optimising to reduce [[skin drag|skin fri
 Although usually thought of as something exclusively on golf balls it is used in a wide range of applications. Dimpling creates turbulant flow over the magority of the surface but in doing so pushes more fluid to the back of the ball making boundary layer separation occur later and hence reducing [[form drag]] at the expense of increasing [[skin drag]].
 
 ### Vortex generators
+![[Pasted image 20220427165512.png]]
+
+Vortex generators work by creating a stream wise vortex, which mixes the high momentum [[freestream|free-stream]] flow into the low momentum boundary layer.  These features are placed on aircraft wings to improve lift, by delaying separation at the high angles of attack seen during take-off and landing.  The vortex generators on wings are usually placed in a row just forward of the maximum thickness and take the shape of a small sheet metal tab placed at an angle relative to the oncoming flow.
+
+### Trip strips
