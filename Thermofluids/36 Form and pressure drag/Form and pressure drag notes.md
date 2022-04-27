@@ -11,9 +11,8 @@ tags: ["NotesPage"]
 - [[Drag equation]]
 - [[drag coefficient of spherical object]]
 - [[preventing boundary layer separation]]
-
-![[inducing turbulence for boundary layer control]]
-
+- [[inducing turbulence for boundary layer control]]
+  
 ![[Pasted image 20220427164325.png]]
 
 ## Expanded articles
