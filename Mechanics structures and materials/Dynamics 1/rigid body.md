@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["rigid bodies"]
 tags: ["Question","QFormat3"]
 ---
 
