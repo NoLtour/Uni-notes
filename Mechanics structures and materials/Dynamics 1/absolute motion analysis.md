@@ -43,3 +43,4 @@ The endpoint of the window is basic trig:
 $$\begin{align*}
 \begin{pmatrix} x_{E} \\ y_{E} \end{pmatrix} &= \begin{pmatrix} W\cos\theta \\ W\sin\theta \end{pmatrix}
 \end{align*}$$
+The range of motion can also be found by limiting the range of $s$ for example $0<s<2P$.
