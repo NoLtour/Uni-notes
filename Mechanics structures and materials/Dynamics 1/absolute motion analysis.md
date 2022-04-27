@@ -8,6 +8,11 @@ tags: ["Question","QFormat3"]
 ### Intro
 Basically this is just when you have one or more [[rigid body|rigid bodies]] and create a bunch of equations relating how variables describing their motion/position. 
 
+By creating a bunch of equations to describe how things move relative to each other it then becomes possible to find constraints on movement which has lots of uses:
+- Calculating part dimensions necessary to allow movement
+- Determining range of motion
+- Assessing forces acting on components
+
 ### Basic wheel
 Really simple example, a wheel that doesn't slip:
 ![[Pasted image 20220427111552.png]]
@@ -18,5 +23,9 @@ s_{G} &= r\theta
 It is then possible to also derive equations for velocity and acceleration:
 $$\begin{align*}
 v_{g} &= r\dot{\theta} \\
-v_{g} &= r\dot{\theta} 
+a_{g} &= r\ddot{\theta} 
 \end{align*}$$
+
+### Window
+Here is a more complex problem where multiple parts are moving together:
+
