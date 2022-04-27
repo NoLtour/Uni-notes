@@ -8,6 +8,8 @@ tags: ["Question","QFormat3"]
 ### Intro
 Generally there is a trade off between optimising to reduce [[skin drag|skin friction]] and [[form drag]], of course it is still possible to reach a minimum in overall drag but keep in mind decreasing one form of drag often increases the other.
 
+Most of these make use of intentional turbulence to increase the pressure towards the back of the shape delaying [[boundary layer separation]] to reduce [[form drag]].
+
 ### Dimples
 ![[Pasted image 20220427164845.png]]
 
@@ -23,3 +25,4 @@ A trip strip is a surface feature that extends past the boundary layer into the 
 ![[Pasted image 20220427170302.png]]
 
 ### Surface roughness
+This is essentially just [[preventing boundary layer separation#Dimples|dimples]] but less so and on more irregular shapes:
