@@ -20,3 +20,5 @@ tags: ["NotesPage"]
 ![[Drag equation]]
 
 ![[drag coefficient of spherical object]]
+
+![[preventing boundary layer separation]]
