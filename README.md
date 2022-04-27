@@ -12,3 +12,10 @@ This is an obsidian vault so yeah, use it with that thing. The graph showing pag
 You can probably tell but the only reason to go to university is to make obsidian notes so that you can get a cool graph. Literally no other reason.
 
 ### Quality notes
+![[Pasted image 20220427214738.png]]
+
+![[Pasted image 20220427214918.png]]
+
+
+
+### 

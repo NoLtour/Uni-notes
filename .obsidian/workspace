@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
+            "file": "README.md",
             "mode": "source",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,8 @@
   },
   "active": "83f822501d48957c",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
     "README.md",
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
     "misc/Templates OLD/Maths proof.md",
     "2021-12-09.md",
     "Thermofluids/36 Form and pressure drag/Form and pressure drag notes.md",
