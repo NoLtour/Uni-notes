@@ -16,4 +16,6 @@ Relative motion analysis:
 - 
 
 ## Expanded articles
-[[rigid body]]
+![[rigid body]]
+
+![[types of planar rigid body motion]]
