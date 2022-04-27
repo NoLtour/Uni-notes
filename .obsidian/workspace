@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
             "mode": "source",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "83f822501d48957c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
     "README.md",
     "misc/Templates OLD/Maths proof.md",
     "2021-12-09.md",
@@ -124,7 +125,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 3/form drag.md",
     "Thermofluids/36 Form and pressure drag/preventing boundary layer separation.md",
     "Thermofluids/25 Conservation of energy in flow/freestream.md",
-    "Thermofluids/36 Form and pressure drag/drag coefficient of spherical object.md",
-    "SESA1015/Flight mechanics/Flight mechanics 3/skin drag.md"
+    "Thermofluids/36 Form and pressure drag/drag coefficient of spherical object.md"
   ]
 }
