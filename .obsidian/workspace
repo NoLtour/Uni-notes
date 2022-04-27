@@ -7,8 +7,12 @@
         "id": "6ac663d976b40c37",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Thermofluids/Form and pressure drag notes.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thermofluids/Form and pressure drag notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,8 @@
   },
   "active": "6ac663d976b40c37",
   "lastOpenFiles": [
+    "Thermofluids/Form and pressure drag notes.md",
+    "Thermofluids/Thermofluids read order.md",
     "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/instantaneous centre of rotation.md",
     "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/Kinematics of rigid bodies notes.md",
     "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/absolute motion analysis.md",
@@ -117,8 +124,6 @@
     "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/types of planar rigid body motion.md",
     "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/rigid body rotation around a fixed axis.md",
     "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/I mean at this point if you dont know what vectors are I have no clue what the fuck you are doing.md",
-    "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/rigid body translation.md",
-    "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/rigid body general plane motion.md",
-    "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/aka cba to be specific so you say general motion kek.md"
+    "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/rigid body translation.md"
   ]
 }
