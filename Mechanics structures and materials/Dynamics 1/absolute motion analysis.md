@@ -28,4 +28,6 @@ a_{g} &= r\ddot{\theta}
 
 ### Window
 Here is a more complex problem where multiple parts are moving together:
+![[Pasted image 20220427112943.png]]
 
+Get an equation that 
