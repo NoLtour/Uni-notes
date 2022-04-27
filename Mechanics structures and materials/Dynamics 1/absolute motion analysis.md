@@ -31,7 +31,7 @@ Here is a more complex problem where multiple parts are moving together:
 > ![[Pasted image 20220427113754.png]]
 > Get an equation that describes the $\theta$ in terms of $s$. Then get an expression describing the absolute position of the end point of the window.
 
-This is quite simple to solve when you realise the motion is basically just a triangle:
+This is quite simple to solve when you realise the motion is basically just a triangle, note that it is often very useful to redraw this sort of thing as just a bunch of lines like what's done here:
 ![[Pasted image 20220427114023.png]]
 So you can use the cosine rule $a^{2}=b^{2}+c^{2}-2bc\cos A$ so yeah ezz:
 $$\begin{align*}
