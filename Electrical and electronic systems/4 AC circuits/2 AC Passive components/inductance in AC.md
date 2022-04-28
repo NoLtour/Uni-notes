@@ -6,6 +6,11 @@ tags: ["Question","QFormat3"]
 #### How do we deal with
 ## Inductance in AC
 ### Equation bit
+
+
+#### For a pure circuit
+![[Pasted image 20220428112758.png]]
+
 What you will notice is that inductance is offset by 90 degrees:
 
 > ### $$ V = -L I_{p} \omega\sin(\omega t + \phi ) = L I_{p} \omega \cos( \omega t + \phi + 90 \degree ) $$ 
@@ -15,7 +20,6 @@ What you will notice is that inductance is offset by 90 degrees:
 >> $V=$ Potential difference across component
 >> $I_{p}=$ peak current
 >> $L=$ [[inductance]]
->>
 >> $\omega=$ [[AC angular frequency]]
 >> $t=$ time
 >> $\phi=$ time offset

@@ -13,6 +13,8 @@ tags: ["Question","QFormat3"]
 >> $R=$ [[resistance]]
 >> Component follows [[Ohms law]]
 
+^40f307
+
 #### Standalone circuit
 If you have a circuit where the only components are an AC source and a ohmic resistor:
 

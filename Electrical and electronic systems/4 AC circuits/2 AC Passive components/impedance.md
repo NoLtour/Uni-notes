@@ -25,5 +25,5 @@ The impedance of a component is essentially an equation that represents how it i
 >> where:
 >> $Z=$  overall component [[impedance]]
 >> $Z_L=$ 
->> $Z_R=$ 
+>> $Z_R=$ [[resistance in AC#^40f307|resistor impedance]]
 >> $Z_C=$ 
