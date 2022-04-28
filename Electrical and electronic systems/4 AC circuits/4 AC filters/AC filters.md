@@ -17,8 +17,10 @@ Usually you wouldn't show $Z_{out}$ instead showing it [[how it usually looks|li
 ![[Pasted image 20220428191112.png|300]]
 
 $$\begin{align*}
-Z_{T} &=  
+Z_{T} &= \frac{1}{Z_{out} + Z_{F}} 
 \end{align*}$$
+
+Now consider that $Z_{F}$ can be represented as $Z_{F}=$
 
 ### Types of filter
 ![[AC high pass filter]]
