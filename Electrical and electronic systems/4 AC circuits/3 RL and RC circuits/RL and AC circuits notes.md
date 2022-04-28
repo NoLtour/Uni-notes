@@ -12,4 +12,5 @@ tags: ["NotesPage"]
 idk this is pretty ezz ngl, probably should have some examples but honestly everything this is about can be worked out independently
 
 ## Expanded articles
+![[equivalent circuit impedance]]
 ![[Salmon_chair.mp4]]
