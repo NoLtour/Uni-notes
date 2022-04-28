@@ -13,7 +13,9 @@ If you think back to [[electrical impudance|impudance]] you'll remember that by 
 ### General filter
 Take the following circuit, where the section highlighted in blue represents the filter:
 ![[Pasted image 20220428185859.png]]
-Usually you wouldn't show $Z_{out}$ instead showing it li
+Usually you wouldn't show $Z_{out}$ instead showing it [[how it usually looks|like this]] but I'm doing so to prove a point. Take $Z_{out}$ as the [[impedance]] of the unknown circuit and $Z_{F}$ the [[impedance]] of the filter.
+
+
 
 ### Types of filter
 ![[AC high pass filter]]
