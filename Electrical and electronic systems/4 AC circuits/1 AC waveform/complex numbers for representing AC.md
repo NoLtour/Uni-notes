@@ -26,6 +26,8 @@ So a equation that represents the current voltage of some sinasodal AC source ca
 >> $t=$ time
 >> $j=\sqrt{-1}=$ [[complex numbers#^60fc2b|a cringy alternative to using i]] also [[the j|this]]
 
+^ec50da
+
 Of course the same thing goes for $I$:
 
 > ### $$ I + xj = I_{p}(\cos(\omega t + \phi ) + j\sin(\omega t + \phi )) = I_{p} e^{j(\omega t + \phi )} $$ 
