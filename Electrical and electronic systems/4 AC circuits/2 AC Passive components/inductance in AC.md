@@ -9,6 +9,12 @@ tags: ["Question","QFormat3"]
 #### Inductive reactance ($Z_{L}$)
 Oh yeah new word, so [[impedance]] impedes stuff but [[electrical reactance|reactance]] can push stuff, nah that's still wrong, it's like offset impedance? It reacts ok.
 
+> ### $$ Z_{L} = j \omega L $$ 
+>> where:
+>> $Z_{L}=$ [[inductance in AC|inductive reactance]] 
+>> $j=\sqrt{-1}$ 
+>> $\omega=$ [[AC angular frequency]]
+>> $L=$ [[inductance]]
 
 #### For a pure circuit
 ![[Pasted image 20220428112758.png]]
@@ -29,9 +35,6 @@ What you will notice is that inductance is offset by 90 degrees:
 >> $\angle$ is from [[phasor representation]]
 
 ![[Pasted image 20220428110539.png]]
-
-- Inductors produce a voltage drop proportional to how quickly current through them changes over time.
-- 
 
 ### Theory
 We know the equation for [[complex numbers for representing AC|AC with complex numbers]] and [[inductor#^52f189|an inductor]] so:
