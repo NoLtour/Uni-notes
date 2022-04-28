@@ -19,7 +19,7 @@ So a equation that represents the current voltage of some sinasodal AC source ca
 > ### $$ V = V_{p}\cos(\omega t + \phi ) = Re: V_{p} e^{j(\omega t + \phi )}  $$
 >> where:
 >> $V=$ current voltage 
->> $x=$ basically [[insert funny|junk]] (not used or loved, cyber bully this variable)
+>> $x=$ basically [[insert funny|junk]] (not used or loved, cyber bully this variable) [[UNFINISHED STUFF|IDK I need to figure this out]]
 >> $V_{p}=$ peak voltage
 >> $\omega=$ [[AC angular frequency|angular frequency]]
 >> $\phi=$ offset
