@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["parallel impedance","series impedance"]
 tags: ["Question","QFormat3"]
 ---
 
