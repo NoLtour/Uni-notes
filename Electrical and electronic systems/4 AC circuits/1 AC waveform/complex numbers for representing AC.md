@@ -21,7 +21,7 @@ So a equation that represents the current voltage of some sinasodal AC source ca
 >> $V=$ current voltage 
 >> $x=$ basically [[insert funny|junk]] (not used or loved, cyber bully this variable)
 >> $V_{p}=$ peak voltage
->> $\omega=$ angular frequency
+>> $\omega=$ [[AC angular frequency|angular frequency]]
 >> $\phi=$ offset
 >> $t=$ time
 >> $j=\sqrt{-1}=$ [[complex numbers#^60fc2b|a cringy alternative to using i]] also [[the j|this]]
@@ -36,7 +36,7 @@ Of course the same thing goes for $I$:
 >> $I=$ current current (ehehhe)
 >> $x=$ basically [[insert funny v2|junk]] (not used or loved, cyber bully this variable)
 >> $I_{p}=$ peak current
->> $\omega=$ angular frequency
+>> $\omega=$ [[AC angular frequency|angular frequency]]
 >> $\phi=$ offset
 >> $t=$ time
 >> $j=\sqrt{-1}=$ [[complex numbers#^60fc2b|a cringy alternative to using i]] also [[the j|this]]

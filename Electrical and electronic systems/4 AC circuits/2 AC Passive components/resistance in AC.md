@@ -6,11 +6,13 @@ tags: ["Question","QFormat3"]
 #### How do we deal with
 ## Resistance in AC
 ### Equation
-> ### $$ V = I_{p} Z \cos(\omega t) $$ 
+> ### $$ V = I_{p} \cos(\omega t + \phi) Z $$ 
 >> where:
->> $V=$ 
->> $I_{p}=$
+>> $V=$ potential difference across component
+>> $I_{p}=$ peak current
+>> $\omega=$ [[AC angular frequency]]
 >> $Z=$ [[resistance in AC|impedance]]
+>> $t=$ time
 
 [[resistance in AC|Impedance]] is the AC equivalent to DC resistance, it's basically resistance but waveform dependent.
 
