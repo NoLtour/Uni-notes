@@ -41,4 +41,6 @@ provided notes [[Electric Machines - notes(1).pdf]]
 5) [[DC machines 1 notes]] FILL IN GAPS BASED ON E NOTES [[UNFINISHED STUFF]]
 6) [[DC machines 2 notes]] FILL IN GAPS BASED ON E NOTES
 7) [[DC machines 3 notes]]
-8) [[AC waveform]]
+
+### AC circuits
+1) [[AC waveform]]
