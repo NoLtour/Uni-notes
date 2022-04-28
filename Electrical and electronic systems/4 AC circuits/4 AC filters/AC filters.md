@@ -20,7 +20,7 @@ $$\begin{align*}
 Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{Z_{F}}} 
 \end{align*}$$
 
-Now consider that $Z_{F}$ can be represented as $Z_{F}=R_{F} + jD_{F}$ where $D_{F}$ represents the [[magnetic reluctance|reluctance]] component of the filters [[impedance]].
+Now consider that $Z_{F}$ can be represented as $Z_{F}=R_{F} + jD_{F}$ where $D_{F}$ represents the imaginary component of the filters [[impedance]].
 $$\begin{align*}
 Z_{F} &= R_{F} + jD_{F}\\
 \frac{1}{Z_{F}} &= \frac{1}{R_{F} + jD_{F}}\\
@@ -48,7 +48,10 @@ Z_{T} &= \frac{jD_{F} Z_{out}(Z_{out} - jD_{F}) }{(Z_{out} + jD_{F})(Z_{out} - j
 Z_{T} &= \frac{ D_{F}^{2} Z_{out}+ jD_{F} Z_{out}^{2} }{ Z_{out}^{2} + D_{F}^{2} }\\
 Z_{T} &= \frac{ D_{F}^{2} Z_{out} }{ Z_{out}^{2} + D_{F}^{2} } + \frac{ jD_{F} Z_{out}^{2} }{ Z_{out}^{2} + D_{F}^{2} }\\
 \end{align*}$$
-Although this looks like gibberish, what it's saying is that for a small value of $D_{F}$ (the [[rel]]) 
+Although this looks like gibberish, what it's saying is that for a tiny value of $D_{F}$ (the imaginary component) $Z_{T}$ will also be tiny:
+$$\begin{align*}
+Z_{T} &= \frac{ 0.0000001^{2} Z_{out} }{ Z_{out}^{2} + 0.0000001^{2} } + \frac{ jD_{F} Z_{out}^{2} }{ Z_{out}^{2} + D_{F}^{2} }
+\end{align*}$$
 
 ### Types of filter
 ![[AC high pass filter]]
