@@ -16,9 +16,9 @@ tags: ["Question","QFormat3"]
 #### As a pure circuit
 ![[Pasted image 20220428132034.png]]
 
-> ### $$ V = \frac{1}{\omega C} I_{p} \omega\sin(\omega t + \phi ) = \frac{1}{\omega C} I_{p} \cos( \omega t + \phi - 90 \degree ) $$ 
+> ### $$ V = \frac{1}{\omega C} I_{p} \omega\sin(\omega t + \phi ) = \frac{1}{\omega C} I_{p} \cos( \omega t + \phi \pm 90 \degree ) $$ 
 > ### $$ V = I \times j \frac{1}{\omega C}  $$
-> ### $$ V = \frac{1}{\omega C}  (I_{p} \angle 90) $$
+> ### $$ V = \frac{1}{\omega C}  (I_{p} \angle -90) $$
 >> where:
 >> $V=$ Potential difference across component
 >> $I_{p}=$ peak current

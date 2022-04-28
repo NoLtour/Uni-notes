@@ -7,8 +7,12 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 Basically this is just showing how resistors, [[inductor]]s and [[capacitors|capacitors]] can be calculated when dealing with AC.
-- 
+- [[impedance]]
+- [[resistance in AC]]
+- [[inductance in AC]]
+- [[capacitors in AC]]
 
+![[Pasted image 20220428132422.png]]
 
 ## Expanded articles
 ![[impedance]]
