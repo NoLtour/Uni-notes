@@ -14,8 +14,8 @@ Phaser representation is just a fancy way of saying "we represent AC with a rota
 ![[complex numbers for representing AC#^ec50da]]
 
 ### Convention
-> ### $$  = $$ 
+> ### $$ a ( \cos \theta + j\sin \theta ) = a \angle \theta $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $a=$ magnitude
+>> $\theta=$ angle
+>> $j=\sqrt{-1}$

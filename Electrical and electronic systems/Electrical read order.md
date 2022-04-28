@@ -44,3 +44,4 @@ provided notes [[Electric Machines - notes(1).pdf]]
 
 ### AC circuits
 1) [[AC waveform]]
+2) [[AC passive components notes]]
