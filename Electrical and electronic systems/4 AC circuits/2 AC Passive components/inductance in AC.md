@@ -16,6 +16,8 @@ Oh yeah new word, so [[impedance]] impedes stuff but [[electrical reactance|reac
 >> $\omega=$ [[AC angular frequency]]
 >> $L=$ [[inductance]]
 
+^ffad83
+
 #### For a pure circuit
 ![[Pasted image 20220428112758.png]]
 
