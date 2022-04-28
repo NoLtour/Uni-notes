@@ -1,11 +1,13 @@
 ---
-aliases: [""]
+aliases: ["inductive reactance"]
 tags: ["Question","QFormat3"]
 ---
 
 #### How do we deal with
 ## Inductance in AC
 ### Equation bit
+#### Inductive reactance ($Z_{L}$)
+Oh yeah new word, so [[impedance]] impedes stuff but [[electrical reactance|reactance]] can push stuff, nah that's still wrong, it's like offset impedance? It reacts ok.
 
 
 #### For a pure circuit
