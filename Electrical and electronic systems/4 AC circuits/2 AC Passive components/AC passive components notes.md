@@ -13,4 +13,4 @@ Basically this is just showing how resistors, [[inductor]]s and [[Capacitors|cap
 ## Expanded articles
 ![[resistance in AC]]
 
-![[]]
+![[inductance in AC]]
