@@ -29,9 +29,11 @@ Z_{F} &= R_{F} + jD_{F}\\
 \end{align*}$$
 We can also write an expression for $V_{out}$ as $V_{in} = V_{out} + IR$, also we know that $V_{out} = I Z_{T}$:
 $$\begin{align*}
-V_{in} &= I Z_{T} + IR  &  V_{out} &= I Z_{T}\\\\
-& & \frac{V_{out}}{Z_{T}} &= I\\
-V_{in} &= V_{out} + IR
+V_{in} &= I Z_{T} + IR  &  V_{out} &= I Z_{T}\\
+&= I ( Z_{T} + R ) & \frac{V_{out}}{Z_{T}} &= I \\
+&= \frac{V_{out}}{Z_{T}} ( Z_{T} + R )\\
+&= V_{out} \left( 1 + \frac{R}{Z_{T}} \right)\\
+&= V_{out} \\
 \end{align*}$$
 
 
