@@ -40,6 +40,13 @@ $$\begin{align*}
 Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{Z_{F}}}  & \frac{1}{Z_{F}} &= \frac{ R_{F} - jD_{F} }{ R_{F}^{2} + D_{F}^{2}}\\
 &= \frac{1}{\frac{1}{Z_{out}} + \frac{ R_{F} - jD_{F} }{ R_{F}^{2} + D_{F}^{2}}}
 \end{align*}$$
-Now if we assume the filter has negligible resistance so $R_{F=0}$
+Now if we assume the filter has negligible resistance so $R_F=0$:
+$$\begin{align*}
+Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{ 0 - jD_{F} }{ 0^{2} + D_{F}^{2}}}\\
+ &= \frac{1}{\frac{1}{Z_{out}} + \frac{ - jD_{F} }{  D_{F}^{2}}}\\
+ &= \frac{1}{\frac{1}{Z_{out}} - j\frac{ 1 }{  D_{F} }}\\
+ &= \frac{1}{\frac{1}{Z_{out}} - j\frac{ 1 }{  D_{F} }}\\
+\end{align*}$$
+
 ### Types of filter
 ![[AC high pass filter]]
