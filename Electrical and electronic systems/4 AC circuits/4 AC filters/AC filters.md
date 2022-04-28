@@ -20,7 +20,13 @@ $$\begin{align*}
 Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{Z_{F}}} 
 \end{align*}$$
 
-Now consider that $Z_{F}$ can be represented as $Z_{F}=R_{F} + jD_{F}$
+Now consider that $Z_{F}$ can be represented as $Z_{F}=R_{F} + jD_{F}$ where $D_{F}$ represents the [[magnetic reluctance|reluctance]] component of the filters [[impedance]].
+$$\begin{align*}
+Z_{F} &= R_{F} + jD_{F}\\
+\frac{1}{Z_{F}} &= \frac{1}{R_{F} + jD_{F}}\\
+\frac{1}{Z_{F}} &= \frac{1}{R_{F} + jD_{F}}\\
+&= \frac{ R_{F} - jD_{F} }{ R_{F}^{2} + D_{F}^{2}}
+\end{align*}$$
 
 ### Types of filter
 ![[AC high pass filter]]
