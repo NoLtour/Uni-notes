@@ -1,11 +1,16 @@
 ---
-aliases: [""]
+aliases: ["capacitor impedance"]
 tags: ["Question","QFormat3"]
 ---
 
 #### How do we deal with
 ## Capacitors in AC
-### 
+### Capacitor [[impedance]]
+> ### $$ Z_{C} = \frac{1}{j\omega C} = \frac{1}{\omega C} \angle -90 $$ 
+>> where:
+>> $Z_{C}=$ [[capacitors in AC|capacitor impedance]]
+>> $j=\sqrt{-1}$
+>> $C=$ [[capacitance]]
 
 ### Theory
 It's the usual, take the equation for [[capacitors#^e6fedd|capacitors]] then the equation for [[complex numbers for representing AC|representing AC with complex numbers]]:

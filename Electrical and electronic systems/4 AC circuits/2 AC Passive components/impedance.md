@@ -24,6 +24,6 @@ The impedance of a component is essentially an equation that represents how it i
 > ### $$ Z = \sum\limits Z_{L} + \sum\limits Z_{R} + \sum\limits Z_{C} $$ 
 >> where:
 >> $Z=$  overall component [[impedance]]
->> $Z_L=$ [[inductance in AC#^ffad83|inductive reactance]]
+>> $Z_L=$ [[inductance in AC#^ffad83|inductive impedance]]
 >> $Z_R=$ [[resistance in AC#^40f307|resistor impedance]]
->> $Z_C=$ 
+>> $Z_C=$ [[capacitors in AC|capacitor impedance]]
