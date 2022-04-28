@@ -5,7 +5,11 @@ tags: ["Question","QFormat3"]
 
 #### How do we deal with
 ## Inductance in AC
-
+> ### $$ V = -L I_{p} \omega\sin(\omega t + \phi ) = L I_{p} \omega \cos( \omega t + \phi + 90 \degree ) $$ 
+>> where:
+>> $V=$ -L 
+>> $=$
+>> $=$
 
 
 ### Theory
