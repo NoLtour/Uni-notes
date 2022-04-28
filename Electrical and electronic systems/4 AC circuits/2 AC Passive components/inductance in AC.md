@@ -10,7 +10,7 @@ tags: ["Question","QFormat3"]
 
 > ### $$ Z_{L} = j \omega L $$ 
 >> where:
->> $Z_{L}=$ [[inductance in AC|inductive reactance]] 
+>> $Z_{L}=$ [[inductance in AC|inductive impedance]] 
 >> $j=\sqrt{-1}$ 
 >> $\omega=$ [[AC angular frequency]]
 >> $L=$ [[inductance]]
