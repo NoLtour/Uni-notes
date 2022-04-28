@@ -20,13 +20,6 @@ $$\begin{align*}
 Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{Z_{F}}} 
 \end{align*}$$
 
-Now consider that $Z_{F}$ can be represented as $Z_{F}=R_{F} + jD_{F}$ where $D_{F}$ represents the imaginary component of the filters [[impedance]].
-$$\begin{align*}
-Z_{F} &= R_{F} + jD_{F}\\
-\frac{1}{Z_{F}} &= \frac{1}{R_{F} + jD_{F}}\\
-\frac{1}{Z_{F}} &= \frac{R_{F} - jD_{F}}{(R_{F} + jD_{F})(R_{F} - jD_{F})}\\
-&= \frac{ R_{F} - jD_{F} }{ R_{F}^{2} + D_{F}^{2}}
-\end{align*}$$
 We can also write an expression for $V_{out}$ as $V_{in} = V_{out} + IR$, also we know that $V_{out} = I Z_{T}$:
 $$\begin{align*}
 V_{in} &= I Z_{T} + IR  &  V_{out} &= I Z_{T}\\
@@ -35,7 +28,7 @@ V_{in} &= I Z_{T} + IR  &  V_{out} &= I Z_{T}\\
 &= V_{out} \left( 1 + \frac{R}{Z_{T}} \right)\\
 V_{in}\frac{1}{1 + \frac{R}{Z_{T}}} &= V_{out} \\
 \end{align*}$$
-Now we can see from the equation above that if $Z_{T}$ is small then $\frac{R}{Z_{T}}$ tends to a large number and so $V_{out}$ will approach zero. Aka: small $Z_{T}$ means negligible $V_{out}$. So now if we take out expression for $Z_{T}$ from earlier and sub in our expression for $\frac{1}{Z_{F}}$:
+Now we can see from the equation above that if $Z_{T}$ is small then $\frac{R}{Z_{T}}$ tends to a large number and so $V_{out}$ will approach zero. Aka: small $Z_{T}$ means negligible $V_{out}$. So now if we take out expression for $Z_{T}$ from earlier and write $Z_{F}$ as $Z_{F}=R_{F} + D_{F}$ where $R_{F}$ is the resistance of the filter and $D_{F}$ is the imaginary part from [[capacitors in AC|capacitor impedance]]/[[inductance in AC|inductive impedance]]:
 $$\begin{align*}
 Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{Z_{F}}}  & \frac{1}{Z_{F}} &= \frac{1}{R_{F} + jD_{F}}\\
 Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{R_{F} + jD_{F}} }
