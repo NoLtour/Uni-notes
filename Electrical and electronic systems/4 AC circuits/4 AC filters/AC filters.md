@@ -44,7 +44,8 @@ Now if we assume the filter has negligible resistance so $R_F=0$:
 $$\begin{align*}
 Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{ jD_{F}} }\\
 Z_{T} &= \frac{jD_{F} Z_{out} }{Z_{out} + jD_{F} }\\
-Z_{T} &= \frac{jD_{F} Z_{out} }{(Z_{out} + jD_{F})(Z_{out} - jD_{F}) }\\
+Z_{T} &= \frac{jD_{F} Z_{out}(Z_{out} - jD_{F}) }{(Z_{out} + jD_{F})(Z_{out} - jD_{F}) }\\
+Z_{T} &= \frac{ D_{F}^{2} Z_{out}+ jD_{F} Z_{out}^{2} }{ Z_{out}^{2} + D_{F}^{2} }\\
 \end{align*}$$
 
 ### Types of filter
