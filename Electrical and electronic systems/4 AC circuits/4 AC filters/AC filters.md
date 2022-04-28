@@ -46,7 +46,9 @@ Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{ jD_{F}} }\\
 Z_{T} &= \frac{jD_{F} Z_{out} }{Z_{out} + jD_{F} }\\
 Z_{T} &= \frac{jD_{F} Z_{out}(Z_{out} - jD_{F}) }{(Z_{out} + jD_{F})(Z_{out} - jD_{F}) }\\
 Z_{T} &= \frac{ D_{F}^{2} Z_{out}+ jD_{F} Z_{out}^{2} }{ Z_{out}^{2} + D_{F}^{2} }\\
+Z_{T} &= \frac{ D_{F}^{2} Z_{out} }{ Z_{out}^{2} + D_{F}^{2} } + \frac{ jD_{F} Z_{out}^{2} }{ Z_{out}^{2} + D_{F}^{2} }\\
 \end{align*}$$
+Although this looks like gibberish, what it's saying is that for a small value of $D_{F}$ (the [[rel]]) 
 
 ### Types of filter
 ![[AC high pass filter]]
