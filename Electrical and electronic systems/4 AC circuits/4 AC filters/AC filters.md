@@ -12,15 +12,15 @@ If you think back to [[electrical impudance|impudance]] you'll remember that by 
 
 ### General filter
 Take the following circuit, where the section highlighted in blue represents the filter:
-![[Pasted image 20220428185859.png|400]]
-Usually you wouldn't show $Z_{out}$ instead showing it [[how it usually looks|like this]] but I'm doing so to prove a point. Take $Z_{out}$ as the [[impedance]] of the unknown circuit and $Z_{F}$ the [[impedance]] of the filter. Knowing [[equivalent circuit impedance]] for [[equivalent circuit impedance#Parallel|parallel impedance]] to get $Z_{T}$:
-![[Pasted image 20220428191112.png|300]]
-
+![[Pasted image 20220428191539.png|500]]
+Usually you wouldn't show $Z_{out}$ instead showing it [[how it usually looks|like this]] but I'm doing so to prove a point. Take $Z_{out}$ as the [[impedance]] of the unknown circuit and $Z_{F}$ the [[impedance]] of the filter. Knowing [[equivalent circuit impedance]] for [[equivalent circuit impedance#Parallel|parallel impedance]] to we can redraw the circuit using $Z_{T}$:
+![[Pasted image 20220428191553.png|350]]
+where:
 $$\begin{align*}
-Z_{T} &= \frac{1}{Z_{out} + Z_{F}} 
+Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{Z_{F}}} 
 \end{align*}$$
 
-Now consider that $Z_{F}$ can be represented as $Z_{F}=$
+Now consider that $Z_{F}$ can be represented as $Z_{F}=R_{F} + jD_{F}$
 
 ### Types of filter
 ![[AC high pass filter]]
