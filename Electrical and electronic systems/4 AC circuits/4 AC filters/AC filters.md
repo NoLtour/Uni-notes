@@ -45,7 +45,8 @@ $$\begin{align*}
 Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{ 0 - jD_{F} }{ 0^{2} + D_{F}^{2}}}\\
  &= \frac{1}{\frac{1}{Z_{out}} + \frac{ - jD_{F} }{  D_{F}^{2}}}\\
  &= \frac{1}{\frac{1}{Z_{out}} - j\frac{ 1 }{  D_{F} }}\\
- &= \frac{1}{\frac{1}{Z_{out}} - j\frac{ 1 }{  D_{F} }}\\
+ \frac{1}{Z_{T}} &= \frac{1}{Z_{out}} - j\frac{ 1 }{  D_{F} }\\
+&= D_{F}\frac{1}{Z_{out}} - j\frac{ 1 }{   }
 \end{align*}$$
 
 ### Types of filter
