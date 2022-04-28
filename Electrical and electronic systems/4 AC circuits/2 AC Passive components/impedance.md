@@ -5,7 +5,8 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Impedance ($Z$)
-This is essentially a blanket term for the relationship between current and voltage across some component in an [[alternating current|AC]] circuit. Impedance is the amount of resistance that a component offers to current flow at a specific frequency:
+### Intro
+This is essentially a blanket term for the relationship between current and voltage across some component in an [[alternating current|AC]] circuit. Impedance is the amount of resistance that a component offers to current flow at a specific frequency, it is measured in Ohms:
 
 > ### $$ V = iZ $$
 > ### $$ V = I_{p} \cos(\omega t + \phi)Z $$ 
@@ -27,3 +28,5 @@ The impedance of a component is essentially an equation that represents how it i
 >> $Z_L=$ [[inductance in AC#^ffad83|inductive impedance]]
 >> $Z_R=$ [[resistance in AC#^40f307|resistor impedance]]
 >> $Z_C=$ [[capacitors in AC|capacitor impedance]]
+
+### Circuit analysis
