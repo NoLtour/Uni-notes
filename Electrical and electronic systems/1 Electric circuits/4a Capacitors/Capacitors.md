@@ -15,9 +15,12 @@ If the charging p.d is removed the capacitor discharges producing a current thro
 
 Capacitors can be thought of as components that resist changes in [[potential difference|voltage]].
 
+#### 
+
 #### Calculating capacity
 ![[capacitance]]
 
 ![[calculating capacitance]]
 
 ![[energy stored in a capacitor]]
+

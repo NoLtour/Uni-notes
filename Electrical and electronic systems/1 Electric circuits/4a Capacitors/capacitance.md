@@ -14,4 +14,7 @@ It gives us the amount of charge stored per unit of voltage applied to a capacit
 >> $Q=$ charge
 >> $V=$ p.d
 
+^dc0671
+
+
 To calculate capacitance see [[calculating capacitance]].

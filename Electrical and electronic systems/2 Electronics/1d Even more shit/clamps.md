@@ -10,7 +10,7 @@ A clamper is an electronic circuit that fixes either the positive or the negativ
 
 ![[Pasted image 20211219111749.png]]
 
-A distinct feature of a clamper is the use of a [[Capacitors|capacitor]], this has useful effects on the circuit as it can only charge when a current flows through the diode and only discharge through the output this shifts the entire wave upwards.
+A distinct feature of a clamper is the use of a [[capacitors|capacitor]], this has useful effects on the circuit as it can only charge when a current flows through the diode and only discharge through the output this shifts the entire wave upwards.
 
 In the same way that we used DC sources to shift the signal we can do that here:
 

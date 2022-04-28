@@ -6,7 +6,7 @@ tags: ["NotesPage"]
 # AC passive components notes
 
 #### Intro and contents
-Basically this is just showing how resistors, [[inductor]]s and [[Capacitors|capacitors]] can be calculated when dealing with AC.
+Basically this is just showing how resistors, [[inductor]]s and [[capacitors|capacitors]] can be calculated when dealing with AC.
 - 
 
 
@@ -16,3 +16,5 @@ Basically this is just showing how resistors, [[inductor]]s and [[Capacitors|cap
 ![[resistance in AC]]
 
 ![[inductance in AC]]
+
+![[capacitors in AC]]
