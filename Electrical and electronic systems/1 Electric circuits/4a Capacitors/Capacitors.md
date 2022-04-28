@@ -17,10 +17,12 @@ Capacitors can be thought of as components that resist changes in [[potential di
 
 #### Equation
 > ### $$ I(t) = \frac{dQ}{dt} = C \frac{d}{dt}V(t) $$ 
+> ### $$ I(t) dt = C \frac{d}{dt}V(t) $$ 
 >> where:
 >> $I(t)=$ current as a function of time
 >> $Q=$ charge
 >> $t=$ time
+>> $t_{0}=$ initial time
 >> $V(t)=$ voltage as a function of time
 >> $C=$ [[capacitance]]
 
