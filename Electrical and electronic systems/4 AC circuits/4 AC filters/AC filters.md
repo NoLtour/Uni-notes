@@ -33,9 +33,9 @@ V_{in} &= I Z_{T} + IR  &  V_{out} &= I Z_{T}\\
 &= I ( Z_{T} + R ) & \frac{V_{out}}{Z_{T}} &= I \\
 &= \frac{V_{out}}{Z_{T}} ( Z_{T} + R )\\
 &= V_{out} \left( 1 + \frac{R}{Z_{T}} \right)\\
-&= V_{out} \\
+V_{in}\frac{1}{1 + \frac{R}{Z_{T}}} &= V_{out} \\
 \end{align*}$$
-
+Now we can see from the equation above that if $Z_{T}$ is small then $\frac{R}{Z_{T}}$ tends to a large number and so $V_{out}$ will approach zero. Aka: small $Z_{T}$ means no $V_{out}$
 
 ### Types of filter
 ![[AC high pass filter]]
