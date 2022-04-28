@@ -1,19 +1,15 @@
 ---
-aliases: ["impedance"]
+aliases: ["resistor impedance"]
 tags: ["Question","QFormat3"]
 ---
 
 #### How do we deal with
 ## Resistance in AC
 ### Equation
-> ### $$ V = I_{p} \cos(\omega t + \phi) Z $$ 
+> ### $$ Z_{R} = R + 0j = R $$ 
 >> where:
->> $V=$ potential difference across component
->> $I_{p}=$ peak current
->> $\omega=$ [[AC angular frequency]]
->> $Z=$ [[resistance in AC|impedance]]
->> $t=$ time
->> $\phi=$ time offset
+>> $Z_{R}=$ [[resistance in AC|resistor impedance]]
+>> $R=$ [[resistance]]
 
 [[resistance in AC|Impedance]] is the AC equivalent to DC resistance, it's basically resistance but waveform dependent. Hence when working with impedance you need to know the value for that specific waveform.
 

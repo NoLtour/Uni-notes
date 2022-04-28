@@ -18,4 +18,10 @@ This is essentially a blanket term for the relationship between current and volt
 >> $t=$ time
 >> $\phi=$ time offset
 
-The impedance of a component is essentially the sum of all it
+The impedance of a component is essentially an equation that represents how it interacts with AC at different frequencies:
+> ### $$ Z = \sum\limits Z_{L} + \sum\limits Z_{R} + \sum\limits Z_{C} $$ 
+>> where:
+>> $Z=$  overall component [[impedance]]
+>> $Z_L=$ 
+>> $Z_R=$ 
+>> $Z_C=$ 
