@@ -9,4 +9,9 @@ tags: ["Question","QFormat3"]
 
 
 ### Theory
-We know the equation for [[complex numbers for representing AC|AC with complex numbers]] and [[inductor]]
+We know the equation for [[complex numbers for representing AC|AC with complex numbers]] and [[inductor#^52f189|an inductor]] so:
+
+$$\begin{align*}
+i &= I_{p}\cos(\omega t + \phi ) & V &= L \frac{di}{dt}\\
+&
+\end{align*}$$
