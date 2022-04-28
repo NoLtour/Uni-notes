@@ -35,7 +35,11 @@ V_{in} &= I Z_{T} + IR  &  V_{out} &= I Z_{T}\\
 &= V_{out} \left( 1 + \frac{R}{Z_{T}} \right)\\
 V_{in}\frac{1}{1 + \frac{R}{Z_{T}}} &= V_{out} \\
 \end{align*}$$
-Now we can see from the equation above that if $Z_{T}$ is small then $\frac{R}{Z_{T}}$ tends to a large number and so $V_{out}$ will approach zero. Aka: small $Z_{T}$ means no $V_{out}$
-
+Now we can see from the equation above that if $Z_{T}$ is small then $\frac{R}{Z_{T}}$ tends to a large number and so $V_{out}$ will approach zero. Aka: small $Z_{T}$ means negligible $V_{out}$. So now if we take out expression for $Z_{T}$ from earlier and sub in our expression for $\frac{1}{Z_{F}}$:
+$$\begin{align*}
+Z_{T} &= \frac{1}{\frac{1}{Z_{out}} + \frac{1}{Z_{F}}}  & \frac{1}{Z_{F}} &= \frac{ R_{F} - jD_{F} }{ R_{F}^{2} + D_{F}^{2}}\\
+&= \frac{1}{\frac{1}{Z_{out}} + \frac{ R_{F} - jD_{F} }{ R_{F}^{2} + D_{F}^{2}}}
+\end{align*}$$
+Now if we assume the filter has negligible resistance so $R_{F=0}$
 ### Types of filter
 ![[AC high pass filter]]
