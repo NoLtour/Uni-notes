@@ -27,7 +27,12 @@ Z_{F} &= R_{F} + jD_{F}\\
 \frac{1}{Z_{F}} &= \frac{R_{F} - jD_{F}}{(R_{F} + jD_{F})(R_{F} - jD_{F})}\\
 &= \frac{ R_{F} - jD_{F} }{ R_{F}^{2} + D_{F}^{2}}
 \end{align*}$$
-We can also write an expression for $V_{out}$ as $V_{in} = V_{out} + IR$, also $V_{out} = I Z_{T}$:
+We can also write an expression for $V_{out}$ as $V_{in} = V_{out} + IR$, also we know that $V_{out} = I Z_{T}$:
+$$\begin{align*}
+V_{in} &= I Z_{T} + IR  &  V_{out} &= I Z_{T}\\\\
+& & \frac{V_{out}}{Z_{T}} &= I\\
+V_{in} &= V_{out} + IR
+\end{align*}$$
 
 
 ### Types of filter
