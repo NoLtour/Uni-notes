@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Capacitors in AC
 ### Equations
 #### Capacitor [[impedance]]
-> ### $$ Z_{C} = \frac{1}{j\omega C} = \frac{1}{\omega C} \angle -90 $$ 
+> ### $$ Z_{C} = \frac{1}{j\omega C} = -\frac{j}{\omega C} = \frac{1}{\omega C} \angle -90 $$ 
 >> where:
 >> $Z_{C}=$ [[capacitors in AC|capacitor impedance]]
 >> $j=\sqrt{-1}$
