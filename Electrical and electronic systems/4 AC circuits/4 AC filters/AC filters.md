@@ -10,5 +10,10 @@ It is sometimes desirable to have circuits capable of selectively filtering one 
 
 If you think back to [[electrical impudance|impudance]] you'll remember that by using [[capacitors]] and [[inductor]]s you can get different resistances at different frequencies, a filter basically just exploits that fact to only let certain types of waveform through.
 
+### General filter
+Take the following circuit, where the section highlighted in blue represents the filter:
+![[Pasted image 20220428185859.png]]
+Usually you wouldn't show $Z_{out}$ instead showing it li
+
 ### Types of filter
 ![[AC high pass filter]]
