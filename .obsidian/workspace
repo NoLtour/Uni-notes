@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/AC filters.md",
+            "file": "Electrical and electronic systems/4 AC circuits/4 AC filters/AC filters.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/AC filters.md",
+                "file": "Electrical and electronic systems/4 AC circuits/4 AC filters/AC filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "83f822501d48957c",
   "lastOpenFiles": [
-    "Electrical and electronic systems/AC filters.md",
-    "Electrical and electronic systems/AC filters notes.md",
+    "Electrical and electronic systems/4 AC circuits/4 AC filters/AC filters.md",
+    "Electrical and electronic systems/4 AC circuits/4 AC filters/AC filters notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/RL and AC circuits notes.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/equivalent circuit impedance.md",
