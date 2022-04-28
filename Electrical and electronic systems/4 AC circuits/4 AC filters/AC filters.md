@@ -48,5 +48,7 @@ Z_{T} &\approx \frac{ 0 Z_{out} }{ Z_{out}^{2} + 0 } + j\frac{ 0.0000001 Z_{out}
 &\approx j \frac{ 0.0000001 Z_{out}^{2} }{ Z_{out}^{2} }
 \end{align*}$$
 
+As you can see for small values of $D_{F}$ the value of $Z_{T}$ doesn't really matter, if your goal is just to work as a filter and drop the $V_{out}$ to zero it'll work. Now all you need to do is setup the circuit such that small $D_{F}$'s occur under certain conditions.
+
 ### Types of filter
 ![[AC high pass filter]]
