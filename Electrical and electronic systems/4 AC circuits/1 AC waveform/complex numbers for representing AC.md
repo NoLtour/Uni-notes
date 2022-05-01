@@ -19,7 +19,6 @@ So a equation that represents the current voltage of some sinasodal AC source ca
 > ### $$ Re: V = V_{p}\cos(\omega t + \phi ) = Re: V_{p} e^{j(\omega t + \phi )}  $$
 >> where:
 >> $V=$ current voltage 
->> [[UNFINISHED STUFF|IDK I need to figure this out]] $x=$ basically [[insert funny|junk]] (not used or loved, cyber bully this variable) [[UNFINISHED STUFF|IDK I need to figure this out]]
 >> $V_{p}=$ peak voltage
 >> $\omega=$ [[AC angular frequency|angular frequency]]
 >> $\phi=$ offset
@@ -30,14 +29,12 @@ So a equation that represents the current voltage of some sinasodal AC source ca
 
 Of course the same thing goes for $I$:
 
-> ### $$ I = I_{p}(\cos(\omega t + \phi ) + j\sin(\omega t + \phi )) = I_{p} e^{j(\omega t + \phi )} $$ 
-> ### $$ Re: I = I_{p}\cos(\omega t + \phi ) = Re: I_{p} e^{j(\omega t + \phi )}  $$
+> ### $$ I = I_{p}(\cos(\omega t + \phi ) $$ 
 >> where:
 >> $I=$ current current (ehehhe)
->> [[UNFINISHED STUFF|IDK I need to figure this out]] $x=$ basically [[insert funny v2|junk]] (not used or loved, cyber bully this variable)
 >> $I_{p}=$ peak current
 >> $\omega=$ [[AC angular frequency|angular frequency]]
 >> $\phi=$ offset
 >> $t=$ time
->> $j=\sqrt{-1}=$ [[complex numbers#^60fc2b|a cringy alternative to using i]] also [[the j|this]]
+>> Current and voltage are known to be in phase
 
