@@ -7,4 +7,4 @@ tags: ["Question","QFormat3"]
 ## Stagnation pressure
 This is the pressure where kinetic energy of a substance is equal to zero, it is equal to the sum of [[dynamic pressure]] and [[static pressure]]:
 
-![[Bernouillis Equation#^be59a8]]
+![[Bernouillis equation#^be59a8]]

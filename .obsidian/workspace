@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "83f822501d48957c",
+        "id": "f2c84d2f447c25fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+            "file": "Electrical and electronic systems/4 AC circuits/2 AC Passive components/AC circuit analysis equations.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "capa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+                "file": "Electrical and electronic systems/4 AC circuits/2 AC Passive components/AC circuit analysis equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +113,17 @@
     "direction": "horizontal",
     "width": 191
   },
-  "active": "83f822501d48957c",
+  "active": "f2c84d2f447c25fe",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
-    "Electrical and electronic systems/4 AC circuits/1 AC waveform/complex numbers for representing AC.md",
-    "Electrical and electronic systems/4 AC circuits/1 AC waveform/AC waveform.md",
-    "Electrical and electronic systems/4 AC circuits/1 AC waveform/complex numbers.md",
-    "Thermofluids/Thermofluids read order.md",
+    "Electrical and electronic systems/4 AC circuits/2 AC Passive components/AC circuit analysis equations.md",
     "Electrical and electronic systems/4 AC circuits/2 AC Passive components/AC passive components notes.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/Complex power notes.md",
+    "Electrical and electronic systems/4 AC circuits/2 AC Passive components/addition of sine waves.md",
+    "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/RL and AC circuits notes.md",
     "Electrical and electronic systems/4 AC circuits/4U AC filters/AC filters.md",
-    "Electrical and electronic systems/3 Electric machines/1 Intro to AC machines/magnetic reluctance.md"
+    "Electrical and electronic systems/4 AC circuits/2 AC Passive components/capacitors in AC.md",
+    "Electrical and electronic systems/1 Electric circuits/5b Electrical Resonance/electrical impudance.md",
+    "Electrical and electronic systems/1 Electric circuits/5b Electrical Resonance/electrical resonance.md",
+    "Electrical and electronic systems/1 Electric circuits/5b Electrical Resonance/electrical reactance.md",
+    "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductance.md"
   ]
 }

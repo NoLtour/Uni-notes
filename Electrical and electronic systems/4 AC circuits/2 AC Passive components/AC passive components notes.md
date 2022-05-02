@@ -11,6 +11,7 @@ Basically this is just showing how resistors, [[inductor]]s and [[capacitors|cap
 - [[resistance in AC]]
 - [[inductance in AC]]
 - [[capacitors in AC]]
+- [[AC circuit analysis equations]]
 
 ![[Pasted image 20220428132422.png]]
 
