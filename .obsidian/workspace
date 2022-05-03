@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/differentiating rotation displacement equations to time.md",
-            "mode": "preview",
+            "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/work done by torque.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/differentiating rotation displacement equations to time.md",
+                "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/work done by torque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "5c602625a744503d",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/differentiating rotation displacement equations to time.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/work done by torque.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/differentiating rotation displacement equations to time.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational kinetic energy.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/conservation of angular momentum.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/relationship between moment of a force and angular momentum.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
     "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational acceleration.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md"
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational acceleration.md"
   ]
 }
