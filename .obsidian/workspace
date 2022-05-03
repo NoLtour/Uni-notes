@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
-            "mode": "source",
+            "file": "Mechanics structures and materials/Materials/Materials read order.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kromer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
+                "file": "Mechanics structures and materials/Materials/Materials read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +115,15 @@
   },
   "active": "5c602625a744503d",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/Materials read order.md",
+    "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/memes.md",
-    "Mechanics structures and materials/Materials/Materials read order.md",
     "README.md",
     "Thermofluids/Thermofluids read order.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/work done by torque.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/differentiating rotation displacement equations to time.md",
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational kinetic energy.md",
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/conservation of angular momentum.md"
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational kinetic energy.md"
   ]
 }

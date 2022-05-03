@@ -11,10 +11,8 @@ You get 5 internet points if you know it.
 
 #### Learning goals
 - See why nature just dosn't want us to have nice things
-- See how nature goes about screwing us
-- See how we use those processes to our advantage
 - Build cool stuff inspite of the [[corrosion|insane amount of processes that want to destroy our stuff,]] which just makes it even more of a triamph over the natural world
-- See that material science is actually insanely interesting
+- Material science is actually insanely interesting
 
 ### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]
