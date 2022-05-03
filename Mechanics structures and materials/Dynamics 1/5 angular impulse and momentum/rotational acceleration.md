@@ -12,5 +12,5 @@ tags: ["Question","QFormat3"]
 >> $\tau=$ torque
 >> $F=$ force
 >> $r=$ distance from centre of rotation
->> $I=$ [[second moment of area|moment of intertia]]
+>> $I=$ [[moment of intertia]]
 >> $\alpha=$ angular acceleration

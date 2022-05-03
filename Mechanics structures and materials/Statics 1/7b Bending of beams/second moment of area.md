@@ -1,5 +1,5 @@
 ---
-aliases: ["2nd moment of area","moment of intertia"]
+aliases: ["2nd moment of area"]
 tags: ["Question","QFormat3"]
 ---
 
