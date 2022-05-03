@@ -15,4 +15,20 @@ Might have this somewhere else in my notes as well buy a bit of redundancy's fin
 >> $x=$ displacement
 
 ### Example
-Write an expression for $v$ interms of 
+> Write an expression for $v$ in terms of $\theta$ for:
+> ![[Pasted image 20220503150953.png]]
+
+First displacement angle equation is ezz:
+$$\begin{align*}
+x &= l \cos \theta 
+\end{align*}$$
+Now just differentiate to get $v$:
+$$\begin{align*}
+v &= -l\sin\theta
+\end{align*}$$
+IS WRONG! because in reality:
+$$\begin{align*}
+x &= l \cos \theta \\
+\frac{dx}{d\theta} &= -l \sin \theta
+\end{align*}$$
+So this is where you use the equation above to get from $\frac{dx}{d\theta}$ to 
