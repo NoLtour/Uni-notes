@@ -8,3 +8,6 @@
 ![[293_06fd970ec064b896.jpg]]
 ![[Seymour_Skinners_Bizarre_Luncheon 1.mp4]]
 ![[Im_at_soup_-_code_ment 1.mp4]]
+
+and after much waiting and anticipation the sequel.
+
