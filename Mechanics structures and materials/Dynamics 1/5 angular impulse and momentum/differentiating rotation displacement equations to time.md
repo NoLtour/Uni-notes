@@ -31,4 +31,8 @@ $$\begin{align*}
 x &= l \cos \theta \\
 \frac{dx}{d\theta} &= -l \sin \theta
 \end{align*}$$
-So this is where you use the equation above to get from $\frac{dx}{d\theta}$ to 
+So this is where you use the equation above to get from $\frac{dx}{d\theta}$ to $\frac{dx}{dt}$:
+$$\begin{align*}
+\frac{dx}{d\theta} &= -l \sin \theta & v &= \omega \frac{dx}{d\theta}\\
+& & &= - \omega l \sin\theta
+\end{align*}$$
