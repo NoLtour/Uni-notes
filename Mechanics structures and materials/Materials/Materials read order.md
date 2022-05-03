@@ -9,6 +9,8 @@ tags: ["NotesPage"]
 
 You get 5 internet points if you know it.
 
+![[Alice Margatroid's theme - Doll Judgement (Remix by Ezel-Ash).mp3]]
+
 #### Learning goals
 - See why nature just dosn't want us to have nice things
 - Build cool stuff inspite of the [[corrosion|insane amount of processes that want to destroy our stuff,]] which just makes it even more of a triamph over the natural world
