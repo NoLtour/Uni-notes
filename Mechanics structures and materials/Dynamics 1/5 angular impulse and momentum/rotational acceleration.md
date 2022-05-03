@@ -4,12 +4,13 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the equation for
-## Rotational motion
+## Rotational acceleration
 > ### $$ \tau = I \alpha $$ 
 > ### $$ \tau = Fr $$
+> ### $$ \alpha = \frac{Fr}{I} $$
 >> where:
 >> $\tau=$ torque
 >> $F=$ force
 >> $r=$ distance from centre of rotation
 >> $I=$ [[moment of inertia]]
->> $\alpha=$ [[velocity]]
+>> $\alpha=$ angular acceleration
