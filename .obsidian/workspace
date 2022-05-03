@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational kinetic energy.md",
+            "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational kinetic energy.md",
+                "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,9 @@
   },
   "active": "5c602625a744503d",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational kinetic energy.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
     "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational acceleration.md",
