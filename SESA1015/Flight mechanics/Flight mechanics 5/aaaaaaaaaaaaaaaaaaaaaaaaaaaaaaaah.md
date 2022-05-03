@@ -6,3 +6,4 @@
 ![[olijhih.png]]
 ![[f86df6cf2c73522e387f09e0b948da3d.png]]
 ![[293_06fd970ec064b896.jpg]]
+![[Seymour_Skinners_Bizarre_Luncheon 1.mp4]]
