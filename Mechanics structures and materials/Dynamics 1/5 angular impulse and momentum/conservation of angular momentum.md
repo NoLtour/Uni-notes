@@ -9,6 +9,6 @@ tags: ["Question","QFormat3"]
 
 > ### $$ \sum\limits I_{x} \omega_{x} = k $$ 
 >> where:
->> $I_{x}=$ a [[moment of intertia]] 
->> $\omega_{x}=$
->> $=$
+>> $I_{x}=$ a bodys [[moment of intertia]] 
+>> $\omega_{x}=$ a bodys angular velocity
+>> $k=$ a constant
