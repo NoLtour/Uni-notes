@@ -7,11 +7,7 @@ tags: ["NotesPage"]
 ### Based tunes
 ![[the music - YouTube 1.mp3#play]]
 
-Rewards for knowledge:
-- Where it is from: +2 Kromer
-- Exactly where it is from: +4 Kromer
-- The name: +3 Kromer
-- None of the above: -99 Kromer and -600000 Social credits
+You get 5 internet points if you know it.
 
 #### Learning goals
 - See why nature just dosn't want us to have nice things
