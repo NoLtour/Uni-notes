@@ -11,7 +11,7 @@ tags: ["NotesPage"]
 - [[rotational acceleration]]
 - [[conservation of angular momentum]]
 - [[rotational kinetic energy]]
-- [[differentiating ]]
+- [[differentiating rotation displacement equations to time]]
 - [[idk a meme]]
 
 Something to note it that for questions about the work done by a contracting string, the simplest way is using [[conservation of energy (dynamics)|conservation of energy]] equation and using KE.
@@ -22,3 +22,4 @@ Something to note it that for questions about the work done by a contracting str
 ![[conservation of angular momentum]]
 ![[rotational acceleration]]
 ![[rotational kinetic energy]]
+![[differentiating rotation displacement equations to time]]
