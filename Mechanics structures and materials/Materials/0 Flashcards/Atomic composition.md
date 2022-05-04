@@ -57,4 +57,13 @@ This is basically just the name of the force caused by the fluctuation of polari
 Note that van der waals forces are seperate things from covalent and ionic bonding.
 ^1651670582688
 
-What is 
+Describe the ABABAB stacking sequence
+#card
+This is when atoms are stacked in 2 repeating layers, on top of each other. This is also known as [[hexagonal close packing]].
+![[Pasted image 20211023230854.png]]
+![[Pasted image 20211023231005.png]]
+
+Describe the ABCABABC stacking sequence
+#card
+This is when atoms are stacked in 3 repeating layers, on top of each other.
+![[Pasted image 20211023231412.png]]
