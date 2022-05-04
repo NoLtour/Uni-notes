@@ -1,9 +1,7 @@
 ---
-cards-deck: Mechanics structures and materials::Materials::0 Flashcards
+cards-deck: Mechanics structures and materials::Materials::0 Flashcards::Atomic composition (1 to 7)
 ---
 
 
-testing
-#card
-gaming
+
 ^1651666926354
