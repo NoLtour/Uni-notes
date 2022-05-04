@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/covalent bonding.md",
+            "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/fluctuation induced dipoles.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/covalent bonding.md",
+                "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +125,17 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "8e6acb0763257d05",
+  "active": "02283ab457b8d54c",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/covalent bonding.md",
     "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/fluctuation induced dipoles.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/electron subshells.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/electron shell.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/electron configuration.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/covalent bonding.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/atomic polarizability.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/ionic bonding.md",
-    "Templates/flashcard template.md",
-    "Templates/latex multiline eq.md",
-    "Templates/SESA Notes.md",
-    "Mechanics structures and materials/Materials/Materials read order.md"
+    "Templates/flashcard template.md"
   ]
 }

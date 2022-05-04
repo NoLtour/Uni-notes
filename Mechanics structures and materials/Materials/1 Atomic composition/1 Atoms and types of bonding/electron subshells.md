@@ -5,7 +5,7 @@ tags: ["Question","QFormat3","rabbithole"]
 
 #### What is a
 ## electron subshell
-Each [[electron shell]] is composed of one or more subshell, shich themselves are composed of atomic orbitals.
+Each [[electron shell]] is composed of one or more subshell, which themselves are composed of atomic orbitals.
 
 ### subshell lablel
 
