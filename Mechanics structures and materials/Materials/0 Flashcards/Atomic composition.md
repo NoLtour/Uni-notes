@@ -355,5 +355,9 @@ What is a screw dislocation and sketch a diagram
 This is a type of line defect where a layer is partially shifted:
 ![[Pasted image 20220504190823.png]]
 
+Describe dislocation motion of edge dislocations and how it effects overall plastic deformation
+#card
+The motion of a single edge dislocation only requires the energy for breaking and reforming a single row of atoms, which is much less than slipping a perfect plane so edge dislocations can move resonably easily unimpeded. Hence making plastic deformation more pronounced.
+![[Pasted image 20220504191158.png]]
 
 
