@@ -5,7 +5,7 @@ tags: ["NotesPage"]
 
 # Materials read order
 ### Based tunes
-![[the music - YouTube 1.mp3#play]]
+![[the music - YouTube 1.mp3]]
 
 You get 5 internet points if you know it.
 
