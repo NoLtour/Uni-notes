@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
-            "mode": "preview",
+            "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/covalent bonding.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
+                "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/covalent bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "8e6acb0763257d05",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/ionic bonding.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/covalent bonding.md",
     "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/electron configuration.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/atomic polarizability.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/ionic bonding.md",
     "Templates/flashcard template.md",
     "Templates/latex multiline eq.md",
     "Templates/SESA Notes.md",
-    "Mechanics structures and materials/Materials/Materials read order.md",
-    "Flashcards/Test/Thing1.md",
-    "Flashcards/Cringe/Ok so gaming.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md"
+    "Mechanics structures and materials/Materials/Materials read order.md"
   ]
 }
