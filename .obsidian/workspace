@@ -7,8 +7,12 @@
         "id": "9ddb31884c393b30",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
   },
   "active": "9ddb31884c393b30",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
     "Flashcards/Test/Thing1.md",
     "Flashcards/Cringe/Ok so gaming.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
@@ -118,7 +124,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/material fatigue.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/final fracture (material fatigue).md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/fatigue life (material fatigue).md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Never have I related to an inanimate object so much..md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/Ceramics notes.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Never have I related to an inanimate object so much..md"
   ]
 }
