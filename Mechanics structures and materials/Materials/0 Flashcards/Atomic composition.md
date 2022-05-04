@@ -275,9 +275,18 @@ This is where stress and strain are calculated based on the instantaneous area.
 
 What is poissons ratio
 #card
-This is the ratio of the lateral and axial s
+This is the ratio of the lateral and axial strains. Basically it measures how much the material will contract given an elongation, most materials have a possions ratio between 0 and 0.5.
+> $$ \nu = -\frac{\epsilon_x}{\epsilon_z} = -\frac{\epsilon_y}{\epsilon_z} $$ 
+>> where:
+>> $nu=$ [[poisson's ratio]]
+>> $\epsilon_x=$ axial strain
+>> $\epsilon_z=$ lateral strain
+>> $\epsilon_y=$ axial strain
 
+What are the general ranges you would expect for the stiffness of ceramics, metals and polymers in GPa
+#card
+![[Pasted image 20220504165517.png]]
 
-
+Interms of at
 
 
