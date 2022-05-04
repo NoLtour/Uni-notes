@@ -309,5 +309,12 @@ What it comes down to is the number of close-packed slip systems (close packed p
 
 What is necking
 #card
-Necking is when a material narrows in res
+Necking is when a material narrows forming a "neck" in response to exceeding it's yield stress, this occurs in ductile materials. The following graph shows how this looks using engineering stress.
+![[Pasted image 20220504183622.png]]
+
+What is brittle vs ductile failure
+#card
+Brittle failure is when %elongation before failure is less than 5%, ductile is when the failure is above that value:
+![[Pasted image 20220504183826.png]]
+
 
