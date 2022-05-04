@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/Crystal Structures.md",
+            "file": "Mechanics structures and materials/Materials/1 Atomic composition/7 Strengthening Mechanisms/Stengthening Mechanisms notes.md",
             "mode": "preview",
             "source": true
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481
+    "width": 226
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/Crystal Structures.md",
+                "file": "Mechanics structures and materials/Materials/1 Atomic composition/7 Strengthening Mechanisms/Stengthening Mechanisms notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "5c602625a744503d",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/Crystal Structures.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/7 Strengthening Mechanisms/Stengthening Mechanisms notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/Crystal Structures.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
     "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/memes.md",
     "README.md",
     "Thermofluids/Thermofluids read order.md",
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/work done by torque.md"
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md"
   ]
 }
