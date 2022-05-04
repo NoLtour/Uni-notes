@@ -357,11 +357,12 @@ This is a type of line defect where a layer is partially shifted:
 
 Describe dislocation motion of edge dislocations and how it effects overall plastic deformation
 #card
-The motion of a single edge dislocation only requires the energy for breaking and reforming a single row of atoms, which is much less than slipping a perfect plane so edge dislocations can move reasonably easily unimpeded. Hence making plastic deformation more pronounced.
+The motion of a single edge dislocation only requires the energy for breaking and reforming a single row of atoms, which is much less than slipping a perfect plane so edge dislocations can move reasonably easily unimpeded. Hence making plastic deformation more pronounced. This is also reasonably temperature dependent.
 ![[Pasted image 20220504191158.png]]
 
 Describe mechanical twinning
 #card
-This is a form of deformation caused by shearing homogenous planes of atoms. Stress required for twinning is generally greater and less temp dependent
+This is a form of deformation caused by shearing homogenous planes of atoms. Stress required for twinning is generally greater and also not as temperature dependent as edge dislocation motion.
+Twinning occurs in BCC and HCP at low temperatures. It rarely occurs in FCC metals.
 ![[Pasted image 20220504191614.png]]
 
