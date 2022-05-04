@@ -421,4 +421,6 @@ Precipitates inside materials create regions of different structural arrangement
 ![[Pasted image 20220504202027.png]]
 Precipitates essentially act as internal grain boundaries, for dislocations to move through a precipitate it may be necessary to shear through it:
 ![[Pasted image 20220504202319.png]]
-Though even if a 
+Though even if a dislocation is pinned and unable to shear the precipitate they may still just move around the precipitate, though they are still very much inhibited:
+![[Pasted image 20220504202436.png]]
+Larger precipitates are more prone to shearing 
