@@ -287,6 +287,10 @@ What are the general ranges you would expect for the stiffness of ceramics, meta
 #card
 ![[Pasted image 20220504165517.png]]
 
-Interms of at
+In terms of atomic movement describe the difference between plastic and elastic deformation
+#card
+At low stresses (below the yield point) you have elastic deformation, in which atoms have consistent positions relative to one another. Once the yield point is exceeded dislocation motion can occurm here planes of atoms can move past eachother, individual atoms can move and this perminantly changes the positions of atoms relative to eachother so the material will not return to it
+![[Pasted image 20220504165656.png]]
+
 
 
