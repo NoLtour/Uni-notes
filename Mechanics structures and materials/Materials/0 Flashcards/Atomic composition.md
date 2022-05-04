@@ -206,8 +206,13 @@ Describe vacancy diffusion
 Diffusion using substitutional sites (holes where atoms should be), can be self‐diffusion (same atoms as lattice) or substitutional solute diffusion, it is dependent on number of vacancies.
 ![[Pasted image 20220504162126.png]]
 
-Describe interstitial diffusion
+Describe interstitial diffusion and compare it to vacancy diffusion
 #card
 Diffusion using small solute atoms using interstitial sites.
 ![[Pasted image 20220504162250.png]]
-There are alwayse lots of intersitial sites so it's much faster than vacancy diffusion.
+There are always lots of interstitial sites so it's much faster than vacancy diffusion.
+
+Describe "Interdiffusion"/"Impurity Diffusion"
+#card
+This is diffusion between two adjacent solids where the concentration gradient leads to 
+![[Pasted image 20220504162438.png]]
