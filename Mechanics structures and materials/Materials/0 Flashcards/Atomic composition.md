@@ -234,5 +234,17 @@ The Flux (rate of mass transfer) is proportional to the concentration gradient. 
 
 What is the effect of temperature on diffusion
 #card
-Diffusion Coefficients vary with Temperature according to anArrhenius equation
+Diffusion Coefficients vary with Temperature according to an Arrhenius equation:
+> ### $$ D = D_0 e^{- \frac{Q}{RT}} $$ 
+>> where:
+>> $D=$ Diffusion coefficient 
+>> $D_0=$ Diffusion constant 
+>> $Q=$activation energy (energy barrier for diffusion process)
+>> $R=$Gas constant
+>> $T=$Absolute temperature
+Basically as temperature increases the diffusion rate increases and approaches $D_{0}$.
+
+How does atomic structure effect vacancy, grain boundary and interstitial diffusion.
+#card
+Va
 
