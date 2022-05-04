@@ -134,39 +134,46 @@ what are crystallographic directions
 These are geometric lines linking nodes (atoms/ions/molecules) within a [[crystalline materials|crystalline material]]/[[Crystal Structures|crystal structure]]. They are used to denote direction within structures.
 ![[Pasted image 20211024102311.png]]
 The red lines show crystal directions, of course different [[Crystal Structures]] have different crystal directions. They are represented using 3 digit codes such as \[102\].
+^1651673130159
 
 what are crystallographic planes
 #card
 These are geometric planes linking nodes (atoms/ions/molecules) within a crystalline material/crystal structure.
 ![[Pasted image 20211024102311.png]]
 The blue planes show crystal planes, of course different [[Crystal Structures]] have different crystal planes. They are represented using 3 digit codes such as \[102\].
+^1651673130166
 
 Describe the properties monocrystalline material.
 #card
 This is when a crystalline material is composed of a single crystal; the entire sample is continuous and unbroken all the way to its edges meaning it has no grain boundaries.
 It is anisotropic, so it has different properties in different directions/planes. This can lead to it have large differences in things like youngs modulus and ultimate tensile strength in different directions along the crystal.
+^1651673130171
 
 Describe the properties polycrystalline material.
 #card
 This is when a crystalline material is composed of many smaller crystals, each with a different alignment so it has many internal grain boundaries. For most instances the grains are fine enough that on most scales it can be very accurately approximated as isotropic hence same Youngs modulus in all directions.
+^1651673130177
 
 what is this?
 ![[awfawgfawg 1.jpg]]
 #card
 If you answered a waste of time, then you are correct!
 ![[crabcopter.mp4]]
+^1651673130182
 
 How are crystallographic directions represented
 #card
 They can be represented using the format [XYZ] where:
 ![[Pasted image 20211024102953.png]]
 Note that $\bar{1}$ means $-1$
+^1651673130187
 
 What is a general crystallographic direction
 #card
 These take the format of $<XYZ>$ instead of $[XYZ]$, they are basically a direction that can be rotated 90 degrees around the x,y,z axis' to give other directions.
 ![[Pasted image 20211024103303.png]]
 In this example $[011],[101],[\bar{1}10]$ all have the general direction $<110>$.
+^1651673130192
 
 
 How are crystallographic planes represented
@@ -178,9 +185,11 @@ Here $B=[020]$
 ![[Pasted image 20211024104306.png]]
 Here $C=[111]$
 ![[Pasted image 20211024104332.png]]
+^1651673130197
 
 What is a general crystallographic plane
 #card
 They are the plane equivalent of a general crystallographic direction, they take the format $\{XYZ\}$ instead of $[XYZ]$. They are a plane that can be rotated 90 degrees in the x,y,z axis' to give other planes. EG: $\{100\}=[100],[010],[001]\neq[200]\neq[110]$ 
+^1651673130202
 
-#
+# 4
