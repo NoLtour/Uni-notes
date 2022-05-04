@@ -195,6 +195,7 @@ They are the plane equivalent of a general crystallographic direction, they take
 # 4
 
 # IDK
+
 Describe the three main mechanisms of diffusion in crystalline materials
 #card
 - Self‐diffusion and substitutional solute diffusion - flow of atoms and vacancies
@@ -339,32 +340,38 @@ In terms of types there are
 - Self‐Interstitial, when an atom from the main material is in the wrong place (compressive)
 - Interstitial atoms (alloying), when a foreign atom has taken the place of a normal atom (difference is size can either cause compression or tension)
 - Substitutional atoms (alloying), when a foreign atom is in a hole in the lattice (compressive)
+^1651692578665
 
 What are edge dislocations and sketch a diagram
 #card
 These are line defects in which there is an extra partial plane of atoms:
 ![[Pasted image 20220504190418.png]]
+^1651692578673
 
 What is a burgers vector
 #card
 This is a vector that denotes the magnitude and direction of the lattice distortion associated with some dislocation.
 ![[Pasted image 20220504190418.png]]
+^1651692578678
 
 What is a screw dislocation and sketch a diagram
 #card
 This is a type of line defect where a layer is partially shifted:
 ![[Pasted image 20220504190823.png]]
+^1651692578683
 
 Describe dislocation motion of edge dislocations and how it effects overall plastic deformation
 #card
 The motion of a single edge dislocation only requires the energy for breaking and reforming a single row of atoms, which is much less than slipping a perfect plane so edge dislocations can move reasonably easily unimpeded. Hence making plastic deformation more pronounced. This is also reasonably temperature dependent.
 ![[Pasted image 20220504191158.png]]
+^1651692578688
 
 Describe mechanical twinning
 #card
 This is a form of deformation caused by shearing homogenous planes of atoms. Stress required for twinning is generally greater and also not as temperature dependent as edge dislocation motion.
 Twinning occurs in BCC and HCP at low temperatures. It rarely occurs in FCC metals.
 ![[Pasted image 20220504191614.png]]
+^1651692578693
 
 # 7
 
@@ -374,37 +381,44 @@ What factors effect alloying
 - Crystal structure, both atoms having the same structure improves solubility
 - Electronegativity, small differences to avoid chemical reaction
 - Valency, metals more easily dissolve into others of higher valency
+^1651692578698
 
 How can substitutional atoms effect yield strength
 #card
 They create local stress fields that inhibit dislocation motion. 
 ![[Pasted image 20220504195152.png]]
+^1651692578704
 
 What effect do interstitial atoms have on yield, sketch a stress strain curve
 #card
 They create local stress fields which pin dislocations inhibiting their motion. On a graph this can be seen by the presence of an upper and lower yield point:
 ![[Pasted image 20220504195421.png]]
 Once the pinning is overcome the dislocations can begin to move again which causes a drop in strength followed by a small chaotic region at the lower yield point.
+^1651692578709
 
 Describe and explain the effect of work hardening on material properties and sketch the process on a stress strain curve.
 #card
 Work hardening is where a material is stressed passed it's yield point and then destressed, resulting in a new higher yield point. This occurs because the stress creates more dislocations and tangles dislocations in each other. Basically dislocations move until they reach positions from which they can't easily move increasing the new yield strength at the cost of ductility. Hence very worked hardened materials are also quite brittle.
 ![[Pasted image 20220504200432.png]]
+^1651692578714
 
 
 What is dislocation annihilation
 #card
 This is when two dislocations of opposite natures (compression and tension) interact and cancel each other out either removing the overall stress field or at least decreasing it.
+^1651692578719
 
 How do stress fields caused by dislocations interact
 #card
 Stress fields of opposite types attract and those of the same type repel each other, making it so that similar dislocations can inhibit each others movement.
 ![[Pasted image 20220504200334.png]]
 When those of opposite nature interact annihilation occurs.
+^1651692578724
 
 How does work hardening effect grain structure
 #card
 ![[Pasted image 20220504200521.png]]
+^1651692578729
 
 How does grain size effect material properties
 #card
@@ -414,6 +428,7 @@ This causes them to accumulate on grain boundaries, larger grains allow a greate
 ![[Pasted image 20220504201436.png]]
 For very small grain sizes you can get deformation caused by grain movement and other mechanisms but overall within limits smaller grains lead to higher yield strengths at the cost of ductility.
 Something also very ==important== is that small grains accelerate diffusion which can be especially undesirable at high temperatures. To avoid problems with creep, coarse grains may be used at high temperatures.
+^1651692578735
 
 Describe and explain precipitation hardening's effect on material properties
 #card
@@ -425,3 +440,4 @@ Though even if a dislocation is pinned and unable to shear the precipitate they 
 ![[Pasted image 20220504202436.png]]
 Smaller precipitates are more prone to shearing but larger are more prone to bowling so there is a ideal grain size:
 ![[Pasted image 20220504202713.png]]
+^1651692578745

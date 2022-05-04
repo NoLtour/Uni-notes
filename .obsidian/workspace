@@ -7,9 +7,11 @@
         "id": "8e6acb0763257d05",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "SESA1015/Aircraft operations U/slides/2021-2022 Green Book.pdf"
+            "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Aircraft operations U/slides/2021-2022 Green Book.pdf",
+                "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +115,8 @@
   },
   "active": "8e6acb0763257d05",
   "lastOpenFiles": [
-    "SESA1015/Aircraft operations U/slides/2021-2022 Green Book.pdf",
     "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+    "SESA1015/Aircraft operations U/slides/2021-2022 Green Book.pdf",
     "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/poisson's ratio.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/5 Mechanical Properties/true stress and strain.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/temperatures effect on diffusion.md",
