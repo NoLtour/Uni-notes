@@ -71,7 +71,8 @@ This is when atoms are stacked in 3 repeating layers, on top of each other. This
 
 Describe the general properties of a body centred cubic packing arrangement
 #card
-- Highly symmetrical (rotational symmetry at 90 degrees, think about it)
+- Highly symmetrical
+- [[ABABAB stacking sequence]]
 - Has no close packed planes
 - Has close packed directions (as can be seen along the blue arrows)
 ![[Pasted image 20211023232117.png]]
@@ -82,3 +83,10 @@ This is the minimum number of atoms needed to represent the pattern in a [[cryst
 ![[Pasted image 20211023224027.png]]
 Here the highlighted bits are the unit cells.
 
+Describe the general properties of a face centred cubic packing arrangement
+#card
+This is a packing type where each atom is in contact with 12 others in the following arrangement
+![[Pasted image 20211023231850.png]]
+- Highly symmetrical
+- Has close packed planes
+- Is a [[ABCABC stacking sequence]]
