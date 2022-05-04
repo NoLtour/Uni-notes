@@ -289,8 +289,12 @@ What are the general ranges you would expect for the stiffness of ceramics, meta
 
 In terms of atomic movement describe the difference between plastic and elastic deformation
 #card
-At low stresses (below the yield point) you have elastic deformation, in which atoms have consistent positions relative to one another. Once the yield point is exceeded dislocation motion can occurm here planes of atoms can move past eachother, individual atoms can move and this perminantly changes the positions of atoms relative to eachother so the material will not return to it
+At low stresses (below the yield point) you have elastic deformation, in which atoms have consistent positions relative to one another. Once the yield point is exceeded dislocation motion can occur here planes of atoms can move past each other, individual atoms can move and this permanently changes the positions of atoms relative to each other so the material will not return to it's original shape once stress is released.
 ![[Pasted image 20220504165656.png]]
 
-
+How can yield strength be found (also mention steels specifically)
+#card
+Yield strength is the stress at which "noticeable" plastic deformation has occurred. We take noticeable as a 0.2% plastic strain, to measure this on a graph:
+![[Pasted image 20220504170104.png]]
+In steels we take the lower yield point.
 
