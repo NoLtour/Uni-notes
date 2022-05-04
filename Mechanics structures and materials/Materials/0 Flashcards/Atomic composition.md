@@ -194,7 +194,11 @@ They are the plane equivalent of a general crystallographic direction, they take
 
 # 4
 
-Describe volume and grain boundary diffusion and
+# IDK
+Describe the three main mechanisms of diffusion in crystalline materials
 #card
-- Vacancy diffusion - This occurs through the bulk of the material, it has a very high activation energy making rate of diffusion very low. It is directly limited by the number of vacancies.
-- Grain boundary diffusion - This occurs in [[polycrystalline]] materials, due to the gaps that form in the boundaries between crystals there are lots of vacancies in which [[vacancy diffusion]] is greatly accelerated.
+- Self‐diffusion and substitutional solute diffusion - flow of atoms and vacancies
+- Interstitial Diffusion - Movement of interstitial atoms from one interstitial site to another
+- Other mechanisms involving atom exchange
+
+What is vacancy diffusion
