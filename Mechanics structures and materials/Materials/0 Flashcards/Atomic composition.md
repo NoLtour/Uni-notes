@@ -411,3 +411,8 @@ How does grain size effect material properties
 Dislocations cannot move effectively between adjacent grains (unless they are well aligned):
 ![[Pasted image 20220504201058.png]]
 This causes them to accumulate on grain boundaries, larger grains allow a greater amount of dislocation motion before hitting the boundary allowing more plastic deformation and decreasing yield strength. Larger grains will also have a greater number of dislocations accumulate on boundaries, which interact with each other and can create a strong enough net stress field to push dislocations across the boundary.
+![[Pasted image 20220504201436.png]]
+For very small grain sizes you can get deformation caused by grain movement and other mechanisms but overall within limits smaller grains lead to higher yield strengths at the cost of ductility.
+Something also very ==important== is that small grains accelerate diffusion which can be especially undesireable at high temperatures
+
+
