@@ -6,6 +6,7 @@
       {
         "id": "9ddb31884c393b30",
         "type": "leaf",
+        "dimension": 68.4516396845164,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,8 +17,9 @@
         }
       },
       {
-        "id": "4d699770ffb75a4e",
+        "id": "8e6acb0763257d05",
         "type": "leaf",
+        "dimension": 31.548360315483603,
         "state": {
           "type": "markdown",
           "state": {
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Materials read order.md",
+                "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +125,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191
+    "width": 184
   },
-  "active": "4d699770ffb75a4e",
+  "active": "9ddb31884c393b30",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+    "Mechanics structures and materials/Materials/Materials read order.md",
     "Flashcards/Test/Thing1.md",
     "Flashcards/Cringe/Ok so gaming.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
