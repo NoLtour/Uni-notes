@@ -221,14 +221,18 @@ This is diffusion between two solids in a material containing multiple solids, w
 ![[Pasted image 20220504162438.png]]
 ^1651678316595
 
-What is Ficks first law and it's equation
+What is Ficks first law
 #card
-The Flux (rate of mass transfer) is proportional to the concentration gradient. AKA atoms flow down the concentration gradient:
-[[ficks first law]]
+The Flux (rate of mass transfer) is proportional to the concentration gradient. AKA atoms flow down the concentration gradient (don't need to memorize equation):
 > $$ J = -D \frac{dC}{dx} $$ 
 >> where:
->> $J=$ Flux
+>> $J=$ Flux (atoms/$m^{2}s$)
 >> $D=$ [[temperatures effect on diffusion|Diffusion coefficient]]
 >> $C=$ Concentration
 >> $x=$ Distance between points
 ^1651678316600
+
+What is the effect of temperature on diffusion
+#card
+Diffusion Coefficients vary with Temperature according to anArrhenius equation
+
