@@ -200,20 +200,35 @@ Describe the three main mechanisms of diffusion in crystalline materials
 - Self‐diffusion and substitutional solute diffusion - flow of atoms and vacancies
 - Interstitial Diffusion - Movement of interstitial atoms from one interstitial site to another
 - Other mechanisms involving atom exchange
+^1651678316578
 
 Describe vacancy diffusion
 #card
 Diffusion using substitutional sites (holes where atoms should be), can be self‐diffusion (same atoms as lattice) or substitutional solute diffusion, it is dependent on number of vacancies.
 ![[Pasted image 20220504162126.png]]
+^1651678316585
 
 Describe interstitial diffusion and compare it to vacancy diffusion
 #card
 Diffusion using small solute atoms using interstitial sites.
 ![[Pasted image 20220504162250.png]]
 There are always lots of interstitial sites so it's much faster than vacancy diffusion.
+^1651678316591
 
 Describe "Interdiffusion"/"Impurity Diffusion"
 #card
 This is diffusion between two solids in a material containing multiple solids, where the solids diffuse along the concentration gradient to create a more consistent solid.
 ![[Pasted image 20220504162438.png]]
+^1651678316595
 
+What is Ficks first law and it's equation
+#card
+The Flux (rate of mass transfer) is proportional to the concentration gradient. AKA atoms flow down the concentration gradient:
+[[ficks first law]]
+> $$ J = -D \frac{dC}{dx} $$ 
+>> where:
+>> $J=$ Flux
+>> $D=$ [[temperatures effect on diffusion|Diffusion coefficient]]
+>> $C=$ Concentration
+>> $x=$ Distance between points
+^1651678316600
