@@ -129,3 +129,9 @@ a&=R2\sqrt{2}
 
 # 3
 
+what are crystallographic directions
+#card
+These are geometric lines linking nodes (atoms/ions/molecules) within a [[crystalline materials|crystalline material]]/[[Crystal Structures|crystal structure]]. They are used to denote direction within structures.
+![[Pasted image 20211024102311.png]]
+The red lines show crystal directions, of course different [[Crystal Structures]] have different crystal directions. They are represented using 3 digit codes such as \[102\], \[-103\] ect.
+
