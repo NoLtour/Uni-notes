@@ -196,5 +196,5 @@ They are the plane equivalent of a general crystallographic direction, they take
 
 Describe volume and grain boundary diffusion and
 #card
-- Volume diffusion - This occurs through the bulk of the material, it has a very high activation energy making rate of diffusion very low. It is directly limited by the number of vacancies.
+- Vacancy diffusion - This occurs through the bulk of the material, it has a very high activation energy making rate of diffusion very low. It is directly limited by the number of vacancies.
 - Grain boundary diffusion - This occurs in [[polycrystalline]] materials, due to the gaps that form in the boundaries between crystals there are lots of vacancies in which [[vacancy diffusion]] is greatly accelerated.
