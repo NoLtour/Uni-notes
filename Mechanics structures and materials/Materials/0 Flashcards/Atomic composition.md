@@ -388,7 +388,7 @@ Once the pinning is overcome the dislocations can begin to move again which caus
 
 Describe and explain the effect of work hardening on material properties and sketch the process on a stress strain curve.
 #card
-Work hardening is where a material is stressed passed it's yield point and then destressed, resulting in a new higher yield point. This occurs because it causes dislocations to get tangled in each other and accumulate along grain boundaries. Basically dislocations move until they reach positions from which they can't easily move increasing the new yield strength. This does also make the material far more brittle.
+Work hardening is where a material is stressed passed it's yield point and then destressed, resulting in a new higher yield point. This occurs because the stress creates more dislocations and tangles dislocations in eachother. Basically dislocations move until they reach positions from which they can't easily move increasing the new yield strength. This does also make the material far more brittle.
 ![[Pasted image 20220504200432.png]]
 
 
