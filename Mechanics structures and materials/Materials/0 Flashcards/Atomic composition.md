@@ -201,4 +201,13 @@ Describe the three main mechanisms of diffusion in crystalline materials
 - Interstitial Diffusion - Movement of interstitial atoms from one interstitial site to another
 - Other mechanisms involving atom exchange
 
-What is vacancy diffusion
+Describe vacancy diffusion
+#card
+Diffusion using substitutional sites (holes where atoms should be), can be self‐diffusion (same atoms as lattice) or substitutional solute diffusion, it is dependent on number of vacancies.
+![[Pasted image 20220504162126.png]]
+
+Describe interstitial diffusion
+#card
+Diffusion using small solute atoms using interstitial sites.
+![[Pasted image 20220504162250.png]]
+There are alwayse lots of intersitial sites so it's much faster than vacancy diffusion.
