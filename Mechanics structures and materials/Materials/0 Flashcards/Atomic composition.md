@@ -382,7 +382,12 @@ They create local stress fields that inhibit dislocation motion.
 
 What effect do intersitial atoms have on yield, sketch a stress strain curve
 #card
-They pin dislications inhibi
+They create local stress fields which pin dislocations inhibiting their motion. On a graph this can be seen by the presence of an upper and lower yield point:
+![[Pasted image 20220504195421.png]]
+Once the pinning is overcome the dislocations can begin to move again which causes a drop in strength followed by a small chaotic region at the lower yield point.
+
+Describe and explain the effect work hardening
+#card
 
 
 
