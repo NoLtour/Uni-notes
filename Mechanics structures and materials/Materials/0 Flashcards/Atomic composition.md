@@ -366,3 +366,12 @@ This is a form of deformation caused by shearing homogenous planes of atoms. Str
 Twinning occurs in BCC and HCP at low temperatures. It rarely occurs in FCC metals.
 ![[Pasted image 20220504191614.png]]
 
+# 7
+
+What factors effect alloying
+#card
+- Atomic size factor, <15% needed for substitutional
+- Crystal structure, both atoms having the same structure improves solubility
+- Electronegativity, small differences to avoid chemical reaction
+- Valency, 
+
