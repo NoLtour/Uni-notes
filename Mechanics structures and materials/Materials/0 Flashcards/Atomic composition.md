@@ -2,7 +2,7 @@
 cards-deck: Mechanics structures and materials::Materials::Atomic composition (1 to 7)
 ---
 
-Progress finished: 1, 2, 3, 4
+Progress finished: 1, 2, 3, 4, 5
 
 # 1
 
@@ -243,6 +243,7 @@ Diffusion Coefficients vary with Temperature according to an Arrhenius equation:
 >> $R=$Gas constant
 >> $T=$Absolute temperature
 Basically as temperature increases the diffusion rate increases and approaches $D_{0}$.
+^1651685918228
 
 Compare:
 - occurrence location
@@ -263,15 +264,18 @@ Interstitial Diffusion:
 - occurs though most of the material 
 - not very limited as occurs in the interstitial space between main structure atoms, faster with greater size differences between main and interstitial atoms
 - Low activation energy
+^1651685918234
 
 # 5
 What is engineering stress and strain
 #card
 This is where stress and strain are calculated using the area from the unstressed material.
+^1651685918239
 
 What is true stress and strain
 #card
 This is where stress and strain are calculated based on the instantaneous area.
+^1651685918244
 
 What is poissons ratio
 #card
@@ -282,15 +286,18 @@ This is the ratio of the lateral and axial strains. Basically it measures how mu
 >> $\epsilon_x=$ axial strain
 >> $\epsilon_z=$ lateral strain
 >> $\epsilon_y=$ axial strain
+^1651685918249
 
 What are the general ranges you would expect for the stiffness of ceramics, metals and polymers in GPa
 #card
 ![[Pasted image 20220504165517.png]]
+^1651685918254
 
 In terms of atomic movement describe the difference between plastic and elastic deformation
 #card
 At low stresses (below the yield point) you have elastic deformation, in which atoms have consistent positions relative to one another. Once the yield point is exceeded dislocation motion can occur here planes of atoms can move past each other, individual atoms can move and this permanently changes the positions of atoms relative to each other so the material will not return to it's original shape once stress is released.
 ![[Pasted image 20220504165656.png]]
+^1651685918260
 
 How can yield strength be found (also mention steels specifically)
 #card
@@ -298,6 +305,7 @@ Yield strength is the stress at which "noticeable" plastic deformation has occur
 ![[Pasted image 20220504170104.png]]
 In steels we take the lower yield point:
 ![[Pasted image 20220504170226.png]]
+^1651685918264
 
 Describe and explain the effect of temperature on yield stress in BCC, FCC and HCP materials
 #card
@@ -306,15 +314,19 @@ What it comes down to is the number of close-packed slip systems (close packed p
 - FCC is reasonably temperature independent, since they contain many close packed planes.
 - BCC is very temperature dependent as it has no close packed planes and slip requires thermal activation
 - HCP is moderately temperature dependent, it has some although fewer close packed planes than FCC. It's temperature dependence is basically in-between BCC and FCC.
+^1651685918269
 
 What is necking
 #card
 Necking is when a material narrows forming a "neck" in response to exceeding it's yield stress, this occurs in ductile materials. The following graph shows how this looks using engineering stress.
 ![[Pasted image 20220504183622.png]]
+^1651685918275
 
 What is brittle vs ductile failure
 #card
 Brittle failure is when %elongation before failure is less than 5%, ductile is when the failure is above that value:
 ![[Pasted image 20220504183826.png]]
+^1651685918280
 
 
+# 6
