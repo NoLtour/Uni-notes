@@ -33,7 +33,8 @@ Atoms repel and attract each other to a certain extent, but the repulsive and at
 The potential energy graph is also shown, as you can see the greatest potential energy deficit occurs when the force is zero; the fact that there is such a potential energy minimum leads to bonds between atoms existing. 
 The specific forces causing the attraction as well as the properties of the atoms (eg: [[electron subshells]]) changes the graphs of the attractive and repulsive interatomic forces which ultimately contributes greatly to differences in material properties.
 
-What are the 2 types of secondary bonding
+Describe and explain the 2 types of secondary bonding
 #card
-
+- [[fluctuation induced dipoles]], These are when atoms become [[polarised atoms]] and exert [[van der waals force]] on nearby atoms. They often become polarised due to the influence of nearby charges or just randomly due to the random position of internal electrons.
+- [[polar molecule induced dipoles]], These are when molecules become polarised, either as a consequence of the [[van der waals force]] or due to 
 
