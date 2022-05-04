@@ -419,5 +419,6 @@ Describe and explain precipitation hardening's effect on material properties
 #card
 Precipitates inside materials create regions of different structural arrangements, this makes it difficult for dislocations to move through them:
 ![[Pasted image 20220504202027.png]]
-
-
+Precipitates essentially act as internal grain boundaries, for dislocations to move through a precipitate it may be necessary to shear through it:
+![[Pasted image 20220504202319.png]]
+Though even if a 
