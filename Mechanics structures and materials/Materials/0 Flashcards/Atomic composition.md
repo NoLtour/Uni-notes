@@ -2,7 +2,7 @@
 cards-deck: Mechanics structures and materials::Materials::Atomic composition (1 to 7)
 ---
 
-Progress finished: 1, 2
+Progress finished: 1, 2, 3
 
 # 1
 
@@ -179,4 +179,8 @@ Here $B=[020]$
 Here $C=[111]$
 ![[Pasted image 20211024104332.png]]
 
-What is a general 
+What is a general crystallographic plane
+#card
+They are the plane equivalent of a general crystallographic direction, they take the format $\{XYZ\}$ instead of $[XYZ]$. They are a plane that can be rotated 90 degrees in the x,y,z axis' to give other planes. EG: $\{100\}=[100],[010],[001]\neq[200]\neq[110]$ 
+
+#
