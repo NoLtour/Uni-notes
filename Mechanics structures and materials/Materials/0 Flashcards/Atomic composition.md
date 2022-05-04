@@ -352,7 +352,7 @@ This is a vector that denotes the magnitude and direction of the lattice distort
 
 What is a screw dislocation and sketch a diagram
 #card
-This is a type of line fected 
+This is a type of line defect where a layer is partially shifted:
 ![[Pasted image 20220504190823.png]]
 
 
