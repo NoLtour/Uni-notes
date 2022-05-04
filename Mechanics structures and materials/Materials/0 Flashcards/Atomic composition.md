@@ -390,4 +390,12 @@ Describe and explain the effect of work hardening on material properties
 #card
 Work hardening is where a material is stressed passed it's yield point and then destressed, resulting in a new higher yield point. This occurs because it causes dislocations to get tangled in each other and accumulate along grain boundaries. Basically dislocations move until they reach positions from which they can't easily move increasing the new yield strength. This does also make the material far more brittle.
 
+What is dislocation annihilation
+#card
+This is when two dislocations of opposite natures (compression and tension) interact and cancel each other out either removing the overall stress field or at least decreasing it.
+
+How do stress fields caused by dislocations interact
+#card
+Stress fields of opposite types attract and those of the same ty
+
 
