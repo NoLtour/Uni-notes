@@ -14,7 +14,7 @@ Ficks law states that the flux (rate of mass transfer)  is proportional to the c
 > $$ J = -D \frac{dC}{dx} $$ 
 >> where:
 >> $J=$ Flux
->> $D=$ Diffusion coefficient
+>> $D=$ [[temperatures effect on diffusion|Diffusion coefficient]]
 >> $C=$ Concentration
 >> $x=$ Distance between points
 

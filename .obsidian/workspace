@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/temperatures effect on diffusion.md",
+            "file": "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/ficks first law.md",
             "mode": "preview",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/temperatures effect on diffusion.md",
+                "file": "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/ficks first law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,7 @@
   },
   "active": "8e6acb0763257d05",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/ficks first law.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/temperatures effect on diffusion.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/Effects of structure on diffusion in a crystal.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/representing crystallographic planes.md",
@@ -135,7 +136,6 @@
     "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/polycrystalline.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/monocrystalline.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/crystallographic planes.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/crystallographic directions.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/Crystal planes and directions.md"
+    "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/crystallographic directions.md"
   ]
 }
