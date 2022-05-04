@@ -246,5 +246,9 @@ Basically as temperature increases the diffusion rate increases and approaches $
 
 How does atomic structure effect vacancy, grain boundary and interstitial diffusion.
 #card
-Va
+Vacancy diffusion:
+- occurs though most of the material 
+- is slow and limited since it requires vacancies 
+- requires high activation energy
+Grain boundary diffusion, occurs along grain boundaries and
 
