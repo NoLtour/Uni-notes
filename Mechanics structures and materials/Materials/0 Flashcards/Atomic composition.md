@@ -380,15 +380,17 @@ How can substitutional atoms effect yield strength
 They create local stress fields that inhibit dislocation motion. 
 ![[Pasted image 20220504195152.png]]
 
-What effect do intersitial atoms have on yield, sketch a stress strain curve
+What effect do interstitial atoms have on yield, sketch a stress strain curve
 #card
 They create local stress fields which pin dislocations inhibiting their motion. On a graph this can be seen by the presence of an upper and lower yield point:
 ![[Pasted image 20220504195421.png]]
 Once the pinning is overcome the dislocations can begin to move again which causes a drop in strength followed by a small chaotic region at the lower yield point.
 
-Describe and explain the effect of work hardening on material properties
+Describe and explain the effect of work hardening on material properties and sketch the process on a stress strain curve.
 #card
 Work hardening is where a material is stressed passed it's yield point and then destressed, resulting in a new higher yield point. This occurs because it causes dislocations to get tangled in each other and accumulate along grain boundaries. Basically dislocations move until they reach positions from which they can't easily move increasing the new yield strength. This does also make the material far more brittle.
+![[Pasted image 20220504200432.png]]
+
 
 What is dislocation annihilation
 #card
@@ -396,6 +398,11 @@ This is when two dislocations of opposite natures (compression and tension) inte
 
 How do stress fields caused by dislocations interact
 #card
-Stress fields of opposite types attract and those of the same ty
+Stress fields of opposite types attract and those of the same type repel each other, making it so that similar dislocations can inhibit each others movement.
+![[Pasted image 20220504200334.png]]
+When those of opposite nature interact annihilation occurs.
 
+How does work hardening effect grain structure
+#card
+![[Pasted image 20220504200521.png]]
 
