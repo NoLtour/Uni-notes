@@ -304,4 +304,10 @@ Describe and explain the effect of temperature on yield stress in BCC, FCC and H
 ![[Pasted image 20220504170328.png]]
 What it comes down to is the number of close-packed slip systems (close packed planes), slip is easy for structures with lots of slip planes and this remains true for all temperatures. Plastic deformation other than what is caused by planes slipping tends to be more temperature dependent and so materials with more close packed planes are less temp dependent and vice versa.
 - FCC is reasonably temperature independent, since they contain many close packed planes.
-- HCP is moderately temperature dependent, it has some although fewer close packed planes than FCC. So it's temperature dependance is not entirely 
+- BCC is very temperature dependent as it has no close packed planes and slip requires thermal activation
+- HCP is moderately temperature dependent, it has some although fewer close packed planes than FCC. It's temperature dependence is basically in-between BCC and FCC.
+
+What is necking
+#card
+Necking is when a material narrows in res
+
