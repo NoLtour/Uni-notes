@@ -271,7 +271,13 @@ This is where stress and strain are calculated using the area from the unstresse
 
 What is true stress and strain
 #card
-This is where stress and strain are calculated based on the instantaneous area, 
+This is where stress and strain are calculated based on the instantaneous area.
+
+What is poissons ratio
+#card
+This is the ratio of the lateral and axial s
+
+
 
 
 
