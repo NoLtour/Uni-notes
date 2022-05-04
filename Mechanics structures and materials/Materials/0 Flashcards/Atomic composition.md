@@ -330,3 +330,7 @@ Brittle failure is when %elongation before failure is less than 5%, ductile is w
 
 
 # 6
+What are point defects
+#card
+These are defects that occur at a specific
+
