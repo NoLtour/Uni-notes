@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/crystallographic planes.md",
+            "file": "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/monocrystalline.md",
             "mode": "preview",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+                "file": "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/monocrystalline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,9 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "02283ab457b8d54c",
+  "active": "8e6acb0763257d05",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/monocrystalline.md",
     "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/crystallographic planes.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/crystallographic directions.md",
@@ -135,7 +136,6 @@
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/polymorphism (materials science).md",
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/non-crystalline materials.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/hexagonal close packing.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/face centred cubic.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/ABABAB stacking sequence.md"
+    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/face centred cubic.md"
   ]
 }

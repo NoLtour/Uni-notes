@@ -135,3 +135,21 @@ These are geometric lines linking nodes (atoms/ions/molecules) within a [[crysta
 ![[Pasted image 20211024102311.png]]
 The red lines show crystal directions, of course different [[Crystal Structures]] have different crystal directions. They are represented using 3 digit codes such as \[102\], \[-103\] ect.
 
+what are crystallographic planes
+#card
+These are geometric planes linking nodes (atoms/ions/molecules) within a crystalline material/crystal structure.
+![[Pasted image 20211024102311.png]]
+The blue planes show crystal planes, of course different [[Crystal Structures]] have different crystal planes. They are represented using 3 digit codes such as \[102\], \[-103\] ect.
+
+what is a monocrystalline material.
+#card
+This is when a crystalline material is composed of a single crystal; the entire sample is continuous and unbroken all the way to its edges meaning it has no grain boundaries.
+
+
+what is this?
+![[awfawgfawg 1.jpg]]
+#card
+If you answered a waste of time, then you are correct!
+![[crabcopter.mp4]]
+
+
