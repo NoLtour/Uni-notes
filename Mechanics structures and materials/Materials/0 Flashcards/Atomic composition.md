@@ -299,7 +299,7 @@ Yield strength is the stress at which "noticeable" plastic deformation has occur
 In steels we take the lower yield point:
 ![[Pasted image 20220504170226.png]]
 
-Explain the effect of temperature on yield stress in BCC, FCC and HCP materials
+Describe and explain the effect of temperature on yield stress in BCC, FCC and HCP materials
 #card
 ![[Pasted image 20220504170328.png]]
 
