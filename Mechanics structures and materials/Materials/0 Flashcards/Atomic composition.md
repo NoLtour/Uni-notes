@@ -133,13 +133,13 @@ what are crystallographic directions
 #card
 These are geometric lines linking nodes (atoms/ions/molecules) within a [[crystalline materials|crystalline material]]/[[Crystal Structures|crystal structure]]. They are used to denote direction within structures.
 ![[Pasted image 20211024102311.png]]
-The red lines show crystal directions, of course different [[Crystal Structures]] have different crystal directions. They are represented using 3 digit codes such as \[102\], \[-103\] ect.
+The red lines show crystal directions, of course different [[Crystal Structures]] have different crystal directions. They are represented using 3 digit codes such as \[102\].
 
 what are crystallographic planes
 #card
 These are geometric planes linking nodes (atoms/ions/molecules) within a crystalline material/crystal structure.
 ![[Pasted image 20211024102311.png]]
-The blue planes show crystal planes, of course different [[Crystal Structures]] have different crystal planes. They are represented using 3 digit codes such as \[102\], \[-103\] ect.
+The blue planes show crystal planes, of course different [[Crystal Structures]] have different crystal planes. They are represented using 3 digit codes such as \[102\].
 
 Describe the properties monocrystalline material.
 #card
@@ -161,3 +161,22 @@ How are crystallographic directions represented
 They can be represented using the format [XYZ] where:
 ![[Pasted image 20211024102953.png]]
 Note that $\bar{1}$ means $-1$
+
+What is a general crystallographic direction
+#card
+These take the format of $<XYZ>$ instead of $[XYZ]$, they are basically a direction that can be rotated 90 degrees around the x,y,z axis' to give other directions.
+![[Pasted image 20211024103303.png]]
+In this example $[011],[101],[\bar{1}10]$ all have the general direction $<110>$.
+
+
+How are crystallographic planes represented
+#card
+The format is very similar to [[representing crystallographic directions]], except now the values in [XYZ] represent a point along an axis that the plane intercepts:
+Here $A=[010]$
+![[Pasted image 20211024104217.png]]
+Here $B=[020]$
+![[Pasted image 20211024104306.png]]
+Here $C=[111]$
+![[Pasted image 20211024104332.png]]
+
+What is a general 
