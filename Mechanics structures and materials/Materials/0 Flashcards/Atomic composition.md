@@ -69,3 +69,9 @@ This is when atoms are stacked in 3 repeating layers, on top of each other. This
 ![[Pasted image 20211023231412.png]]
 ![[Pasted image 20220504142652.png]]
 
+Describe the general properties of a body centred cubic packing arrangement
+#card
+- Highly symmetrical
+- Has no close packed planes
+- Has close packed directions (as can be seen along the blue arrows)
+![[Pasted image 20211023232117.png]]
