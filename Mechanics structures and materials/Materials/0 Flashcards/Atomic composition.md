@@ -423,4 +423,5 @@ Precipitates essentially act as internal grain boundaries, for dislocations to m
 ![[Pasted image 20220504202319.png]]
 Though even if a dislocation is pinned and unable to shear the precipitate they may still just move around the precipitate, though they are still very much inhibited:
 ![[Pasted image 20220504202436.png]]
-Larger precipitates are more prone to shearing 
+Smaller precipitates are more prone to shearing but larger are more prone to bowling so there is a ideal grain size:
+![[Pasted image 20220504202713.png]]
