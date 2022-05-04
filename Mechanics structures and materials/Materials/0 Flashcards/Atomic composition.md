@@ -94,4 +94,20 @@ This is a packing type where each atom is in contact with 12 others in the follo
 Describe the general properties of hexagonal close packing arrangement
 #card
 
+This is a [[ABABAB stacking sequence]], where atoms are packed in the following way:
+![[Pasted image 20211023230854.png]]
+- Highly symmetrical
+- Has close packed planes (and subsequently many close packed directions)
+- Is a [[ABABAB stacking sequence]]
+- It is the smallest repeatable unit of the [[ABABAB stacking sequence]].
+
+Why is polymorphism important in materials science
+#card
+Polymorphism is when materials can have more than one crystal structure, differences between its structures and the conditions needed to initiate a shift between them can lead to problematic effects or useful effects. 
+For example, tin transforms from body centred tetragonal to a diamond style structure at 13.2C, but this causes a 27% volume increase which leads to tin shredding itself as it expands causing lots of problems.
+
+Whats the method for calculating unit cell dimensions?
+#card
+Get a diagram of the [[crystal unit cell]] and calculate a (width) as a function of R (sphere radius):
+
 
