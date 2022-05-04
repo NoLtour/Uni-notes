@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
-            "mode": "source",
+            "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+                "file": "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +127,9 @@
   },
   "active": "8e6acb0763257d05",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/ionic bonding.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/ionic bonding.md",
+    "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
     "Templates/flashcard template.md",
     "Templates/latex multiline eq.md",
     "Templates/SESA Notes.md",
