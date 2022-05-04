@@ -302,5 +302,5 @@ In steels we take the lower yield point:
 Describe and explain the effect of temperature on yield stress in BCC, FCC and HCP materials
 #card
 ![[Pasted image 20220504170328.png]]
-- FCC is resonable temperature independent, since it 
+- FCC is reasonably temperature independent, since they contain many close packed planes, these planes can easily move past each other even at low temperatures, the structure of these planes is consistant across a rang
 
