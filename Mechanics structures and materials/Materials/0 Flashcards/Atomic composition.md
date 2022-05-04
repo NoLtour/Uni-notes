@@ -214,5 +214,6 @@ There are always lots of interstitial sites so it's much faster than vacancy dif
 
 Describe "Interdiffusion"/"Impurity Diffusion"
 #card
-This is diffusion between two adjacent solids where the concentration gradient leads to 
+This is diffusion between two solids in a material containing multiple solids, where the solids diffuse along the concentration gradient to create a more consistent solid.
 ![[Pasted image 20220504162438.png]]
+
