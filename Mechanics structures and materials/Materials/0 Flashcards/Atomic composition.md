@@ -388,7 +388,7 @@ Once the pinning is overcome the dislocations can begin to move again which caus
 
 Describe and explain the effect of work hardening on material properties and sketch the process on a stress strain curve.
 #card
-Work hardening is where a material is stressed passed it's yield point and then destressed, resulting in a new higher yield point. This occurs because the stress creates more dislocations and tangles dislocations in eachother. Basically dislocations move until they reach positions from which they can't easily move increasing the new yield strength. This does also make the material far more brittle.
+Work hardening is where a material is stressed passed it's yield point and then destressed, resulting in a new higher yield point. This occurs because the stress creates more dislocations and tangles dislocations in each other. Basically dislocations move until they reach positions from which they can't easily move increasing the new yield strength at the cost of ductility. Hence very worked hardened materials are also quite brittle.
 ![[Pasted image 20220504200432.png]]
 
 
@@ -406,3 +406,8 @@ How does work hardening effect grain structure
 #card
 ![[Pasted image 20220504200521.png]]
 
+How does grain size effect material properties
+#card
+Dislocations cannot move effectively between adjacent grains (unless they are well aligned):
+![[Pasted image 20220504201058.png]]
+This causes them to accumulate on grain boundaries, larger grains allow a 
