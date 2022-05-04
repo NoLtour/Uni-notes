@@ -71,7 +71,14 @@ This is when atoms are stacked in 3 repeating layers, on top of each other. This
 
 Describe the general properties of a body centred cubic packing arrangement
 #card
-- Highly symmetrical
+- Highly symmetrical (rotational symmetry at 90 degrees, think about it)
 - Has no close packed planes
 - Has close packed directions (as can be seen along the blue arrows)
 ![[Pasted image 20211023232117.png]]
+
+What is a crystal unit cell
+#card
+This is the minimum number of atoms needed to represent the pattern in a [[crystalline materials|crystalline material]], they are the building blocks of [[crystalline materials|crystalline materials]].
+![[Pasted image 20211023224027.png]]
+Here the highlighted bits are the unit cells.
+
