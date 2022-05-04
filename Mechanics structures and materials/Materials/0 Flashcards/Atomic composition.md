@@ -373,5 +373,16 @@ What factors effect alloying
 - Atomic size factor, <15% needed for substitutional
 - Crystal structure, both atoms having the same structure improves solubility
 - Electronegativity, small differences to avoid chemical reaction
-- Valency, 
+- Valency, metals more easily dissolve into others of higher valency
+
+How can substitutional atoms effect yield strength
+#card
+They create local stress fields that inhibit dislocation motion. 
+![[Pasted image 20220504195152.png]]
+
+What effect do intersitial atoms have on yield, sketch a stress strain curve
+#card
+They pin dislications inhibi
+
+
 
