@@ -2,7 +2,7 @@
 cards-deck: Mechanics structures and materials::Materials::Atomic composition (1 to 7)
 ---
 
-Progress finished: 1, 2, 3, 4, 5
+Progress finished: 1, 2, 3, 4, 5, 6, 7
 
 # 1
 
@@ -102,7 +102,6 @@ This is a packing type where each atom is in contact with 12 others in the follo
 
 Describe the general properties of hexagonal close packing arrangement
 #card
-
 This is a [[ABABAB stacking sequence]], where atoms are packed in the following way:
 ![[Pasted image 20211023230854.png]]
 - Highly symmetrical
@@ -268,6 +267,9 @@ Interstitial Diffusion:
 ^1651685918234
 
 # 5
+
+
+
 What is engineering stress and strain
 #card
 This is where stress and strain are calculated using the area from the unstressed material.
@@ -374,6 +376,8 @@ Twinning occurs in BCC and HCP at low temperatures. It rarely occurs in FCC meta
 ^1651692578693
 
 # 7
+
+
 
 What factors effect alloying
 #card
