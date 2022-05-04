@@ -2,7 +2,7 @@
 cards-deck: Mechanics structures and materials::Materials::Atomic composition (1 to 7)
 ---
 
-Progress finished: 1, 2, 3
+Progress finished: 1, 2, 3, 4
 
 # 1
 
@@ -265,3 +265,13 @@ Interstitial Diffusion:
 - Low activation energy
 
 # 5
+What is engineering stress and strain
+#card
+This is where stress and strain are calculated using the area from the unstressed material.
+
+What is true stress and strain
+#card
+This is where stress and strain are calculated based on the instantaneous area, 
+
+
+
