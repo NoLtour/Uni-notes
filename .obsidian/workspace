@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/ABCABC stacking sequence.md",
+            "file": "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/body centred cubic.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/ABCABC stacking sequence.md",
+                "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +125,17 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "8e6acb0763257d05",
+  "active": "02283ab457b8d54c",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/ABCABC stacking sequence.md",
     "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/body centred cubic.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/ABCABC stacking sequence.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/hexagonal close packing.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/ABABAB stacking sequence.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/van der waals force.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/valence.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/types of secondary bonding.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/fluctuation induced dipoles.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/types of primary bonding.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Relationship between periodic organisation and valence.md"
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/types of primary bonding.md"
   ]
 }

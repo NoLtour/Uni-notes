@@ -59,11 +59,13 @@ Note that van der waals forces are seperate things from covalent and ionic bondi
 
 Describe the ABABAB stacking sequence
 #card
-This is when atoms are stacked in 2 repeating layers, on top of each other. This is also known as [[hexagonal close packing]].
+This is when atoms are stacked in 2 repeating layers, on top of each other. This is the stacking sequence for [[hexagonal close packing]] and [[body centred cubic]].
 ![[Pasted image 20211023230854.png]]
 ![[Pasted image 20211023231005.png]]
 
 Describe the ABCABABC stacking sequence
 #card
-This is when atoms are stacked in 3 repeating layers, on top of each other.
+This is when atoms are stacked in 3 repeating layers, on top of each other. This is the stacking sequence for [[face centred cubic]].
 ![[Pasted image 20211023231412.png]]
+![[Pasted image 20220504142652.png]]
+
