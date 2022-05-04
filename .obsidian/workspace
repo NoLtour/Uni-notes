@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fast fracture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "5c602625a744503d",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/material fatigue.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/final fracture (material fatigue).md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/fatigue life (material fatigue).md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Never have I related to an inanimate object so much..md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/Ceramics notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/Polymers notes.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/also known as wired airpods to you degenerates.md",
-    "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/2 Phases/4 Precipitation hardening/Precipitation hardening notes.md",
-    "Mechanics structures and materials/Materials/2 Phases/3 Steel phase diagram/Steel phase diagrams notes.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/also known as wired airpods to you degenerates.md"
   ]
 }
