@@ -14,12 +14,15 @@ Covalent bonding is when the atoms share electrons in their outer electron shell
 ![[Pasted image 20211023205542.png]]
 ^1651669840219
 
-
-what are Fluctuation induced dipoles
+Metallic bonding
 #card
-- These are when atoms become [[polarised atoms]] and exert [[van der waals force]] on nearby atoms. 
-- Fluctuation induced dipoles can dissipate back into normal [[nonpolarized atoms]] due to electron diffusion.
-- It should also be noted that the concequential [[van der waals force]] excerted on nearby atoms leads to the creation [[polar molecule induced dipoles]].
-![[Pasted image 20211023215256.png]]
-^1651669840224
+Here electrons are shared between atoms but delocalised over a large distance.
+![[Pasted image 20211023205856.png]]
+
+
+what are Polarised atoms
+#card
+These are atoms which have asymetric charge, being more positive on one side and negative on the other; this is caused by the position of electrons in the atom.
+How easily an atom can be polarized is effected by its [[atomic polarizability]].
+
 
