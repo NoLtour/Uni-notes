@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "5c602625a744503d",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/material fatigue.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/final fracture (material fatigue).md",
