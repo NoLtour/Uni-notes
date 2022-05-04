@@ -141,10 +141,14 @@ These are geometric planes linking nodes (atoms/ions/molecules) within a crystal
 ![[Pasted image 20211024102311.png]]
 The blue planes show crystal planes, of course different [[Crystal Structures]] have different crystal planes. They are represented using 3 digit codes such as \[102\], \[-103\] ect.
 
-what is a monocrystalline material.
+Describe the properties monocrystalline material.
 #card
 This is when a crystalline material is composed of a single crystal; the entire sample is continuous and unbroken all the way to its edges meaning it has no grain boundaries.
+It is anisotropic, so it has different properties in different directions/planes. This can lead to it have large differences in things like youngs modulus and ultimate tensile strength in different directions along the crystal.
 
+Describe the properties polycrystalline material.
+#card
+This is when a crystalline material is composed of many smaller crystals, each with a different alignment so it has many internal grain boundaries. For most instances the grains are fine enough that on most scales it can be very accurately approximated as isotropic hence same Youngs modulus in all directions.
 
 what is this?
 ![[awfawgfawg 1.jpg]]
@@ -152,4 +156,8 @@ what is this?
 If you answered a waste of time, then you are correct!
 ![[crabcopter.mp4]]
 
-
+How are crystallographic directions represented
+#card
+They can be represented using the format [XYZ] where:
+![[Pasted image 20211024102953.png]]
+Note that $\bar{1}$ means $-1$
