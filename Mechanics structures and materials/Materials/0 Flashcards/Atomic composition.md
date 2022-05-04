@@ -296,5 +296,11 @@ How can yield strength be found (also mention steels specifically)
 #card
 Yield strength is the stress at which "noticeable" plastic deformation has occurred. We take noticeable as a 0.2% plastic strain, to measure this on a graph:
 ![[Pasted image 20220504170104.png]]
-In steels we take the lower yield point.
+In steels we take the lower yield point:
+![[Pasted image 20220504170226.png]]
+
+Explain the effect of temperature on yield stress in BCC, FCC and HCP materials
+#card
+![[Pasted image 20220504170328.png]]
+
 
