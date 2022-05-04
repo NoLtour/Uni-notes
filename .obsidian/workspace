@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c602625a744503d",
+        "id": "9ddb31884c393b30",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Flashcards/Cringe/Ok so gaming.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flashcards/Cringe/Ok so gaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +108,10 @@
     "direction": "horizontal",
     "width": 191
   },
-  "active": "5c602625a744503d",
+  "active": "9ddb31884c393b30",
   "lastOpenFiles": [
-    "Flashcards/Cringe/Ok so gaming.md",
     "Flashcards/Test/Thing1.md",
+    "Flashcards/Cringe/Ok so gaming.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
