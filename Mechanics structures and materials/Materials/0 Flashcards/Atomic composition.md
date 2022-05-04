@@ -335,7 +335,14 @@ What are point defects and describe the types.
 These are defects that occur over a single point in a lattice (the stresses caused of course extend beyond that single point):
 ![[Pasted image 20220504190006.png]]
 In terms of types there are
-- Vacancies, When an atom is missing from the lattice
-- Self‐Interstitial, when an atom from the main material is in the wrong place
-- Interstitial atoms (alloying), when a foreign atom has taken the place of a normal atom
-- Substitutional atoms (alloying), when a foreign atom 
+- Vacancies, When an atom is missing from the lattice (tensile)
+- Self‐Interstitial, when an atom from the main material is in the wrong place (compressive)
+- Interstitial atoms (alloying), when a foreign atom has taken the place of a normal atom (difference is size can either cause compression or tension)
+- Substitutional atoms (alloying), when a foreign atom is in a hole in the lattice (compressive)
+
+What are edge dislocations
+#card
+These are line defects in which there is an extra partial plane of atoms:
+![[Pasted image 20220504190418.png]]
+
+
