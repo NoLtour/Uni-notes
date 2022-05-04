@@ -340,9 +340,20 @@ In terms of types there are
 - Interstitial atoms (alloying), when a foreign atom has taken the place of a normal atom (difference is size can either cause compression or tension)
 - Substitutional atoms (alloying), when a foreign atom is in a hole in the lattice (compressive)
 
-What are edge dislocations
+What are edge dislocations and sketch a diagram
 #card
 These are line defects in which there is an extra partial plane of atoms:
 ![[Pasted image 20220504190418.png]]
+
+What is a burgers vector
+#card
+This is a vector that denotes the magnitude and direction of the lattice distortion associated with some dislocation.
+![[Pasted image 20220504190418.png]]
+
+What is a screw dislocation and sketch a diagram
+#card
+This is a type of line fected 
+![[Pasted image 20220504190823.png]]
+
 
 
