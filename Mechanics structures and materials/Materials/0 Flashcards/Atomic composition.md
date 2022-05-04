@@ -248,7 +248,13 @@ How does atomic structure effect vacancy, grain boundary and interstitial diffus
 #card
 Vacancy diffusion:
 - occurs though most of the material 
-- is slow and limited since it requires vacancies 
+- is slow and limited since it requires vacancies, faster in structures with more vacancies
 - requires high activation energy
-Grain boundary diffusion, occurs along grain boundaries and
-
+Grain boundary diffusion:
+- occurs along grain boundaries
+- faster in structures with lots of amorphous regions
+- lower activation energy
+Interstitial Diffusion:
+- occurs though most of the material 
+- not very limited as occurs in the interstitial space between main structure atoms
+- Low activation energy
