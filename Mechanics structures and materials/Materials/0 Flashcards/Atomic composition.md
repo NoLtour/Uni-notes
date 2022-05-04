@@ -386,8 +386,8 @@ They create local stress fields which pin dislocations inhibiting their motion. 
 ![[Pasted image 20220504195421.png]]
 Once the pinning is overcome the dislocations can begin to move again which causes a drop in strength followed by a small chaotic region at the lower yield point.
 
-Describe and explain the effect work hardening
+Describe and explain the effect of work hardening on material properties
 #card
-
+Work hardening is where a material is stressed passed it's yield point and then destressed, resulting in a new higher yield point. This occurs because it causes dislocations to get tangled in each other and accumulate along grain boundaries. Basically dislocations move until they reach positions from which they can't easily move increasing the new yield strength. This does also make the material far more brittle.
 
 

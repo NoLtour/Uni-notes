@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fast fracture",
+                "query": "\"hardenning is esentially\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
