@@ -302,7 +302,6 @@ In steels we take the lower yield point:
 Describe and explain the effect of temperature on yield stress in BCC, FCC and HCP materials
 #card
 ![[Pasted image 20220504170328.png]]
-What it comes down to is the number of close-packed slip systems (close packed planes), slip is easy for structures with lots of slip planes and this remains true for all temperatures. Plastic deformation other than what is caused by 
-- FCC is reasonably temperature independent, since they contain many close packed planes, these planes can easily move past each other even at low temperatures, the structure of these planes is consistant across a range of temperatures and so yield stress is very consistent.
-- 
-
+What it comes down to is the number of close-packed slip systems (close packed planes), slip is easy for structures with lots of slip planes and this remains true for all temperatures. Plastic deformation other than what is caused by planes slipping tends to be more temperature dependent and so materials with more close packed planes are less temp dependent and vice versa.
+- FCC is reasonably temperature independent, since they contain many close packed planes.
+- HCP is moderately temperature dependent, it has some although fewer close packed planes than FCC. So it's temperature dependance is not entirely 
