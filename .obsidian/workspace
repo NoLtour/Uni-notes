@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9ddb31884c393b30",
+        "id": "8e6acb0763257d05",
         "type": "leaf",
-        "dimension": 68.4516396845164,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
+            "file": "Mechanics structures and materials/Materials/Materials read order.md",
             "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "8e6acb0763257d05",
+        "id": "02283ab457b8d54c",
         "type": "leaf",
-        "dimension": 31.548360315483603,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Materials read order.md",
+            "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
             "mode": "source",
             "source": true
           }
@@ -127,7 +125,7 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "9ddb31884c393b30",
+  "active": "02283ab457b8d54c",
   "lastOpenFiles": [
     "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
