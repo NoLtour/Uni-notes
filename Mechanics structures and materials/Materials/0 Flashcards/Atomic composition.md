@@ -244,8 +244,13 @@ Diffusion Coefficients vary with Temperature according to an Arrhenius equation:
 >> $T=$Absolute temperature
 Basically as temperature increases the diffusion rate increases and approaches $D_{0}$.
 
-How does atomic structure effect vacancy, grain boundary and interstitial diffusion.
+Compare:
+- occurrence location
+- effects of material structure 
+- activation energy
+of vacancy, grain boundary and interstitial diffusion
 #card
+All forms of diffusion are accelerated in open crystal structures, such as those with low density and low melting points.
 Vacancy diffusion:
 - occurs though most of the material 
 - is slow and limited since it requires vacancies, faster in structures with more vacancies
@@ -256,5 +261,7 @@ Grain boundary diffusion:
 - lower activation energy
 Interstitial Diffusion:
 - occurs though most of the material 
-- not very limited as occurs in the interstitial space between main structure atoms
+- not very limited as occurs in the interstitial space between main structure atoms, faster with greater size differences between main and interstitial atoms
 - Low activation energy
+
+# 5
