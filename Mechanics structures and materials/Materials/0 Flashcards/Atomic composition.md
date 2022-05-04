@@ -88,5 +88,10 @@ Describe the general properties of a face centred cubic packing arrangement
 This is a packing type where each atom is in contact with 12 others in the following arrangement
 ![[Pasted image 20211023231850.png]]
 - Highly symmetrical
-- Has close packed planes
+- Has close packed planes (and subsequently many close packed directions)
 - Is a [[ABCABC stacking sequence]]
+
+Describe the general properties of hexagonal close packing arrangement
+#card
+
+
