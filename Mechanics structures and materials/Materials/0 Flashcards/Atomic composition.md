@@ -4,7 +4,6 @@ cards-deck: Mechanics structures and materials::Materials::Atomic composition (1
 
 Progress finished: 1, 2, 3, 4, 5, 6, 7
 
-# 1
 
 What is ionic bonding
 #card
@@ -70,8 +69,6 @@ Note that van der waals forces are seperate things from covalent and ionic bondi
 ^1651693094698
 
 
-
-# 2
 
 Describe the ABABAB stacking sequence
 #card
@@ -152,8 +149,6 @@ a&=R2\sqrt{2}
 \end{align*}$$
 ^1651693094739
 
-
-# 3
 
 what are crystallographic directions
 #card
@@ -240,12 +235,6 @@ What is a general crystallographic plane
 They are the plane equivalent of a general crystallographic direction, they take the format $\{XYZ\}$ instead of $[XYZ]$. They are a plane that can be rotated 90 degrees in the x,y,z axis' to give other planes. EG: $\{100\}=[100],[010],[001]\neq[200]\neq[110]$ 
 ^1651693094787
 
-
-
-# 4
-
-# IDK
-
 Describe the three main mechanisms of diffusion in crystalline materials
 #card
 - Self‐diffusion and substitutional solute diffusion - flow of atoms and vacancies
@@ -331,10 +320,6 @@ Interstitial Diffusion:
 
 
 
-# 5
-
-
-
 What is engineering stress and strain
 #card
 This is where stress and strain are calculated using the area from the unstressed material.
@@ -413,9 +398,6 @@ Brittle failure is when %elongation before failure is less than 5%, ductile is w
 ^1651693094866
 
 
-
-
-# 6
 What are point defects and describe the types.
 #card
 These are defects that occur over a single point in a lattice (the stresses caused of course extend beyond that single point):
@@ -468,9 +450,6 @@ Twinning occurs in BCC and HCP at low temperatures. It rarely occurs in FCC meta
 ![[Pasted image 20220504191614.png]]
 ^1651693094896
 
-
-
-# 7
 
 
 
@@ -542,7 +521,6 @@ This causes them to accumulate on grain boundaries, larger grains allow a greate
 For very small grain sizes you can get deformation caused by grain movement and other mechanisms but overall within limits smaller grains lead to higher yield strengths at the cost of ductility.
 Something also very ==important== is that small grains accelerate diffusion which can be especially undesirable at high temperatures. To avoid problems with creep, coarse grains may be used at high temperatures.
 ^1651693094937
-^1651693094942
 
 
 
