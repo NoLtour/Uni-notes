@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[finding optimal values]]
 
 ![[implicit differentiation]]
+
+![[second derivative using chain rule]]
