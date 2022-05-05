@@ -39,7 +39,15 @@ If $\varepsilon_{yy}$ is known ($\varepsilon_{C}=\varepsilon_{yy}$) and $\theta=
 >> $\varepsilon_{yy}=$ strain in $yy$
 >> $\varepsilon_{-45}=$ strain at $-45\degree$
 
-If $\theta=60\degree,240\degree$ and $\alpha$
+If $\theta=60\degree,240\degree$ and $\alpha=120,300\degree$ then:
+> ### $$ \varepsilon_{yy} = \frac{2(\varepsilon_{B} - \varepsilon_{C})-\varepsilon_{xx}}{3} $$ 
+> ### $$ \varepsilon_{xy} = \frac{\varepsilon_{B} - \varepsilon_{C}}{\sqrt{3}} $$
+>> where:
+>> $\varepsilon_{xx}=$ strain in $xx$
+>> $\varepsilon_{yy}=$ strain in $yy$
+>> $\varepsilon_{xy}=$ shear strain in $xy$
+>> $\varepsilon_{B}=$ strain at $60\degree\:or\:240\degree$
+>> $\varepsilon_{C}=$ strain at $120\degree\:or\:300\degree$
 
 ### Equation proof
 Ok I'm not doing this in latex fuck that, so you get to see it in one note (less clean but like so much effort to latex it):
