@@ -10,4 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-
+![[finding optimal values]]
