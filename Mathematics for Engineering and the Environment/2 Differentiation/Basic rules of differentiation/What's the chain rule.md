@@ -1,5 +1,5 @@
 ---
-aliases: ["What's the composite-function rule"]
+aliases: ["What's the composite-function rule","chain rule"]
 tags: ["Question","QFormat2"]
 ---
 
