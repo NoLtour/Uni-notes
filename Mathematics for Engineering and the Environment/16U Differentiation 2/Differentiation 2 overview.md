@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[finding optimal values]]
 
-![[implicit differentiat]]
+![[implicit differentiation]]
