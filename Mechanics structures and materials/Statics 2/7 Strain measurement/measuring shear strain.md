@@ -24,6 +24,8 @@ Looks like we are supposed to derive this manually for each [[strain guage roset
 >> $\theta=$ anticlockwise angle between $\varepsilon_{B}$ and $\varepsilon_{xx}$
 >> $\alpha=$ anticlockwise angle between $\varepsilon_{C}$ and $\varepsilon_{xx}$  
 
+#### Specific
+
 ### Equation proof
 Ok I'm not doing this in latex fuck that, so you get to see it in one note (less clean but like so much effort to latex it):
 ![[Pasted image 20220307110728.png]]
