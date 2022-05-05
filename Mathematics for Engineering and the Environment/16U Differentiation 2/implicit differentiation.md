@@ -21,5 +21,10 @@ All differentiation is just mathematically describing how variables change relat
 $$\begin{align*}
 y^{3} + y &= 2x+\ln x\\
 3y^{2} dy + dy &= 2dx + dx \frac{1}{x}\\
-dy (3y^{2} + )&
+dy (3y^{2} + 1) &= dx \left(2 + \frac{1}{x}\right)\\
+\frac{dy}{dx} &= \frac{2 + \frac{1}{x}}{3y^{2} + 1}
+\end{align*}$$
+This is really useful for functions where isolating y on the left of the equation isn't possible or for functions that cannot be easily differentiated in such a state:
+$$\begin{align*}
+y &= (\sin x)^ 
 \end{align*}$$
