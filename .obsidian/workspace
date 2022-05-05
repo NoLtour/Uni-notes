@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
+            "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mohr",
+                "query": "strain guage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
+                "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "8e6acb0763257d05",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
+    "Mechanics structures and materials/Statics 2/7 Strain measurement/strain guage rosette.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
     "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
@@ -123,8 +125,6 @@
     "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/poisson's ratio.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/5 Mechanical Properties/true stress and strain.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/temperatures effect on diffusion.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/ficks first law.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/Effects of structure on diffusion in a crystal.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/3 Crystal planes and directions/representing crystallographic planes.md"
+    "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/ficks first law.md"
   ]
 }
