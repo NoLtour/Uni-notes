@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
-            "mode": "preview",
+            "file": "Mathematics for Engineering and the Environment/16U Differentiation 2/my honest reaction.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
+                "file": "Mathematics for Engineering and the Environment/16U Differentiation 2/my honest reaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "8e6acb0763257d05",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/16U Differentiation 2/my honest reaction.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
+    "Mathematics for Engineering and the Environment/16U Differentiation 2/Differentiation 2 overview.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/strain guage.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
-    "Mechanics structures and materials/Statics 2/5 Stress transformation/Stress transformation notes.md",
-    "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md"
+    "Mechanics structures and materials/Statics 2/5 Stress transformation/Stress transformation notes.md"
   ]
 }

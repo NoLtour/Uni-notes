@@ -30,3 +30,6 @@ Test 3:
 13) [[Statistics 1 overview]]
 14) [[Statistics 2 overview]]
 15) [[Functions overview]]
+
+Final assessment (Don't you [[my honest reaction|love]] being taught right up to the exam week):
+16) [[Differentiation 2 overview]]
