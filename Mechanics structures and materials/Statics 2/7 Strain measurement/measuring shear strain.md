@@ -24,7 +24,20 @@ Looks like we are supposed to derive this manually for each [[strain guage roset
 >> $\theta=$ anticlockwise angle between $\varepsilon_{B}$ and $\varepsilon_{xx}$
 >> $\alpha=$ anticlockwise angle between $\varepsilon_{C}$ and $\varepsilon_{xx}$  
 
-#### Specific
+#### Common situations
+If $\varepsilon_{yy}$ is known ($\varepsilon_{C}=\varepsilon_{yy}$) and $\theta=45\degree$:
+>  ### $$ \varepsilon_{xy} = \varepsilon_{45} - \frac{\varepsilon_{xx} + \varepsilon_{yy}}{2} $$
+>> where:
+>> $\varepsilon_{xx}=$ strain in $xx$
+>> $\varepsilon_{yy}=$ strain in $yy$
+>> $\varepsilon_{45}=$ strain at $45\degree$
+
+If $\varepsilon_{yy}$ is known ($\varepsilon_{C}=\varepsilon_{yy}$) and $\theta=-45\degree$:
+>  ### $$ \varepsilon_{xy} = \frac{\varepsilon_{xx} + \varepsilon_{yy}}{2} - \varepsilon_{-45} $$
+>> where:
+>> $\varepsilon_{xx}=$ strain in $xx$
+>> $\varepsilon_{yy}=$ strain in $yy$
+>> $\varepsilon_{-45}=$ strain at $-45\degree$
 
 ### Equation proof
 Ok I'm not doing this in latex fuck that, so you get to see it in one note (less clean but like so much effort to latex it):
