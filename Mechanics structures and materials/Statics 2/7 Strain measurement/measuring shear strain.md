@@ -39,6 +39,8 @@ If $\varepsilon_{yy}$ is known ($\varepsilon_{C}=\varepsilon_{yy}$) and $\theta=
 >> $\varepsilon_{yy}=$ strain in $yy$
 >> $\varepsilon_{-45}=$ strain at $-45\degree$
 
+If $\theta=60$ and %
+
 ### Equation proof
 Ok I'm not doing this in latex fuck that, so you get to see it in one note (less clean but like so much effort to latex it):
 ![[Pasted image 20220307110728.png]]
