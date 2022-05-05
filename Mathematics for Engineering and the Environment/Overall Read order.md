@@ -6,7 +6,7 @@ tags: [""]
 # Overall Read order
 Sorted by thing:
 - [[differentiation]]
-- [[integration]]
+- [[integration]] (Also check this out [[single-page-integral-table.pdf]], it is fucking beautiful)
 - [[matrices (maths)|matrices]]
 
 
