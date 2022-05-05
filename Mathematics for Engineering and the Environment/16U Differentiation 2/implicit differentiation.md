@@ -26,5 +26,9 @@ dy (3y^{2} + 1) &= dx \left(2 + \frac{1}{x}\right)\\
 \end{align*}$$
 This is really useful for functions where isolating y on the left of the equation isn't possible or for functions that cannot be easily differentiated in such a state:
 $$\begin{align*}
-y &= (\sin x)^ 
+y &= (\sin x)^x\\
+\ln y &= x \ln \sin x\\
+\frac{1}{y} dy &= dx \ln \sin x + x \frac{1}{\tan x} dx\\
+\frac{dy}{dx} &= y \left( \ln \sin x + x \frac{1}{\tan x} \right)\\
+&= (\sin x)^x \left( \ln \sin x + \frac{x}{\tan x} \right)\\
 \end{align*}$$
