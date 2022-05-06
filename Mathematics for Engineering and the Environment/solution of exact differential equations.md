@@ -11,5 +11,5 @@ Such a test does exist it is:
 > ### $$ \frac{dh}{dt} = \frac{\delta h}{\delta x} \frac{dx}{dt} + \frac{\delta h}{\delta t} $$ 
 >> where:
 >> $h=h(t,x)=$ a function of $t,x$ where $\frac{dh}{dt}=0$ 
->> $\delta=$ [[derivative symbols|this maths thing]]
->> $d=$ [[derivative symbols|this other maths thing]]
+>> $\delta=$ [[derivative symbols#delta x|this maths thing]]
+>> $d=$ [[derivative symbols#d x|this other maths thing]]
