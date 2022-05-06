@@ -8,8 +8,5 @@ tags: ["Question","QFormat3"]
 Basically for second derivatives the [[What's the chain rule|chain rule]] becomes [[something something technical temrmrs|kinda fuky]]
 > ### $$ \frac{d^{2}x}{dy^{2}} = \frac{d^{2}y}{dx^{2}} / \left(\frac{dy}{dx}\right)^{3} $$ 
 
-> ### $$ \frac{d^{2}y}{dx^{2}} = \frac{d}{dx} \frac{dy}{dx} = \left(\frac{d}{dx} \frac{dx}{dt}\right) \frac{dy}{dx} $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+> ### $$ \frac{d^{2}y}{dx^{2}} = \frac{d}{dx} \frac{dy}{dx} = \left(\frac{d}{dt} \cdot \frac{dy}{dx}\right) \times \frac{dt}{dx} $$ 
+>> Note that you need to derive inside the brackets then multiply
