@@ -7,12 +7,8 @@
         "id": "8e6acb0763257d05",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mathematics for Engineering and the Environment/16 Differentiation 2/Differentiation 2 overview.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/16 Differentiation 2/Differentiation 2 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
