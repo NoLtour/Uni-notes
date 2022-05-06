@@ -1,11 +1,11 @@
 ---
-aliases: ["derivative symbol","this maths thing","partial derivative"]
+aliases: ["derivative symbol","this maths thing","partial derivative","total derivative"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What are the two
 ## Derivative symbols
-### $d x$
+### $d x$ (total derivative)
 Basically this is the "general case" small distances thing, in the context of something like $\frac{dy}{dx}=$"gradient of tangent of y and x relationship" but if you have some equation such as $y(t,x,z) = x^{4}t + 5xz - \ln z$ then in this case a function $\frac{dy}{dx}=f(t,x,z)$ is correct for all values of $t,x,z$ while still describing the gradient of the tangent of the y,x relationship. 
 For this explanation to make sense you need to check out the one for $\delta x$ + the example.
 
@@ -19,7 +19,7 @@ y(t,x,z) &= x^{4}t + 5xz - \ln z\\
 
 Here since it is unknown whether $t,x,z$ are dependent on $x$ or not so we keep it ambiguous.
 
-### $\delta x$
+### $\delta x$ (partial derivative)
 This is used for a [[derivative symbols|partial derivative]], it means that for your related values $\frac{\delta y}{\delta x}$ 
 For example if $y=4x+c$ then we can determine that $\frac{dy}{dx} = 4 + \frac{d}{dx}c$ but if $c$ is a constant then $\frac{dy}{dx}=4$ and we can also write that $\frac{\delta y}{\delta x}=4$.
 
