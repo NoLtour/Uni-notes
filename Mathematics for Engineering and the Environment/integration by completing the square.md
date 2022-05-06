@@ -5,6 +5,9 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Integration by completing the square
+### Equation
+You should probably do it using the full method for marks in the exam, but for completeness:
+
 
 ### Theory
 For some things like $\int \frac{1}{x^{2} + 2x +5} \cdot dx$ you can't solve it conventionally so:
