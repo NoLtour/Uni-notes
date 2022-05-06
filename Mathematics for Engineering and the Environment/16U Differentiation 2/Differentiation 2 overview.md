@@ -16,4 +16,6 @@ tags: ["NotesPage"]
 
 ![[second derivative using chain rule]]
 
-![[T]]
+![[Taylor series]]
+
+![[Maclaurin series]]
