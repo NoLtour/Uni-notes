@@ -33,3 +33,4 @@ Test 3:
 
 Final assessment (Don't you [[my honest reaction|love]] being taught right up to the exam week):
 16) [[Differentiation 2 overview]]
+17) [[Integration 3 overview]]

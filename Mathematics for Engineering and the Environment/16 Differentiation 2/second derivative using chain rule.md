@@ -10,3 +10,4 @@ Basically for second derivatives the [[What's the chain rule|chain rule]] become
 
 > ### $$ \frac{d^{2}y}{dx^{2}} = \frac{d}{dx} \frac{dy}{dx} = \left(\frac{d}{dt} \cdot \frac{dy}{dx}\right) \times \frac{dt}{dx} $$ 
 >> Note that you need to derive inside the brackets then multiply
+>> [[UNFINISHED STUFF]] double check this
