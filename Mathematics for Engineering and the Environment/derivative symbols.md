@@ -18,5 +18,9 @@ Here since it is unknown whether $t,x,z$ are constants, independent variables or
 
 ### $\delta x$
 This is used for a [[derivative symbols|partial derivative]], it means that for your related values there are no other input variables so $\frac{\delta y}{\delta x}$ is entirely defined by $y$ and $x$ or taken as a constant.
-For example
+For example if $y=4x+c$ then we can determine that $\frac{dy}{dx} = 4 + \frac{d}{dx}c$ but if $c$ is a constant then $\frac{dy}{dx}=4$ and we can also write that $\frac{\delta y}{\delta x}=4$.
 
+Now lets take $y(t,x,z) &= x^{4}t + 5xz - \ln z$ and differentiate with respect to $x$ taking all other variables as constants:
+$$\begin{align*}
+y &= 
+\end{align*}$$
