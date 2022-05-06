@@ -17,10 +17,10 @@ y(t,x,z) &= x^{4}t + 5xz - \ln z\\
 
 ^7f12bb
 
-Here since it is unknown whether $t,x,z$ are dependent on $x$ o
+Here since it is unknown whether $t,x,z$ are dependent on $x$ or not so we keep it ambiguous.
 
 ### $\delta x$
-This is used for a [[derivative symbols|partial derivative]], it means that for your related values there are no other input variables so $\frac{\delta y}{\delta x}$ is entirely defined in terms of $y$,$x$ and any constants.
+This is used for a [[derivative symbols|partial derivative]], it means that for your related values $\frac{\delta y}{\delta x}$ 
 For example if $y=4x+c$ then we can determine that $\frac{dy}{dx} = 4 + \frac{d}{dx}c$ but if $c$ is a constant then $\frac{dy}{dx}=4$ and we can also write that $\frac{\delta y}{\delta x}=4$.
 
 Now lets take $y(t,x,z) = x^{4}t + 5xz - \ln z$ and differentiate with respect to $x$ taking all other variables as constants:
