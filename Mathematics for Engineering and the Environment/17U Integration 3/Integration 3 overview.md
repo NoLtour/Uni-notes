@@ -13,4 +13,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[integration by completing the square]]
 
-![[]]
+![[partial fractions]]
