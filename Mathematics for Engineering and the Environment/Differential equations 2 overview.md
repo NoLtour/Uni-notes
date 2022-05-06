@@ -11,3 +11,4 @@ So looong, [[idk it might not take as long as I think|cringe]].
 
 
 ## Expanded articles
+![[integration by substitution common cases]]
