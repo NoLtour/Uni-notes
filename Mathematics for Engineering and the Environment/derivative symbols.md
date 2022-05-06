@@ -14,6 +14,9 @@ $$\begin{align*}
 y(t,x,z) &= x^{4}t + 5xz - \ln z\\
 \frac{dy}{dx} &= 4x^{3}t + x^{4}\left(\frac{d}{dx} t\right) + 5z + 5x \left(\frac{d}{dx} z\right) - \frac{\frac{d}{dx} z}{z} 
 \end{align*}$$
+
+^7f12bb
+
 Here since it is unknown whether $t,x,z$ are constants, independent variables or entirely defined by some other variable we have to apply the [[What's the product rule|product rule]] and leave the outcome of the differentiation of $t$ and $z$ as ambiguous.
 
 ### $\delta x$
@@ -25,4 +28,9 @@ $$\begin{align*}
 \frac{\delta y}{\delta x} &= 4tx^{3} + 5z
 \end{align*}$$
 
-We could even use [[derivative symbols^]]
+We could even use [[derivative symbols#^7f12bb|this equation]] and substitute in the knowledge that $t=constant$ and $z=constant$ hence:
+$$\begin{align*}
+\frac{dy}{dx} &= 4x^{3}t + x^{4}\left(\frac{d}{dx} t\right) + 5z + 5x \left(\frac{d}{dx} z\right) - \frac{\frac{d}{dx} z}{z} \\
+ &= 4x^{3}t + x^{4} 0 + 5z + 5x 0 - \frac{0 z}{z} \\
+&= 4tx^{3} + 5z
+\end{align*}$$
