@@ -17,7 +17,7 @@ y(t,x,z) &= x^{4}t + 5xz - \ln z\\
 
 ^7f12bb
 
-Here since it is unknown whether $t,x,z$ are constants, independent variables or entirely defined by some other variable we have to apply the [[What's the product rule|product rule]] and leave the outcome of the differentiation of $t$ and $z$ as ambiguous.
+Here since it is unknown whether $t,x,z$ are dependent on $x$ o
 
 ### $\delta x$
 This is used for a [[derivative symbols|partial derivative]], it means that for your related values there are no other input variables so $\frac{\delta y}{\delta x}$ is entirely defined in terms of $y$,$x$ and any constants.
