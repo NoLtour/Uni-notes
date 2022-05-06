@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[integration by completing the square]]
 
 ![[partial fractions]]
+
+![[infinite discontinuity]]
