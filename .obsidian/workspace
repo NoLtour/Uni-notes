@@ -7,8 +7,12 @@
         "id": "8e6acb0763257d05",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/16 Differentiation 2/second derivative using chain rule.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chain rule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics for Engineering and the Environment/16 Differentiation 2/second derivative using chain rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,8 @@
   },
   "active": "8e6acb0763257d05",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/16 Differentiation 2/second derivative using chain rule.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the chain rule.md",
     "Mathematics for Engineering and the Environment/16 Differentiation 2/Differentiation 2 overview.md",
     "Mathematics for Engineering and the Environment/16 Differentiation 2/finding optimal values.md",
     "Mathematics for Engineering and the Environment/General org/differentiation.md",
@@ -118,8 +125,6 @@
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the quotient rule.md",
     "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/Maclaurin series.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
-    "Mathematics for Engineering and the Environment/16 Differentiation 2/second derivative using chain rule.md",
-    "Mathematics for Engineering and the Environment/16 Differentiation 2/something something technical temrmrs.md"
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/Taylor series.md"
   ]
 }
