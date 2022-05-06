@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[implicit differentiation]]
 
 ![[second derivative using chain rule]]
+
+![[T]]
