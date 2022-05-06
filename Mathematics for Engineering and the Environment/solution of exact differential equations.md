@@ -5,5 +5,5 @@ tags: ["Question","QFormat3"]
 
 #### 
 ## Solution of exact differential equations
-Lil bit of intro information, (assuming I actually understand this) so if you have multiple variables then it is common for one to determine the other, eg
+Lil bit of intro information, (assuming I actually understand this) so if you have multiple variables then it is common for one to determine the other, eg $t$ determines the value of $x$ (For example if $x=\sin t$ then $x$ is determined by $t$ because the solution is ambiguous with $t=\arcsin x$), but it would be nice if there was some way to prove that such a relationship exists for the purposes of calculus and to figure out which variables determine the other.
 
