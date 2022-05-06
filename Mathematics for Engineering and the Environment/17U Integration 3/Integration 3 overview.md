@@ -10,7 +10,7 @@ tags: ["NotesPage"]
 - [[integration by completing the square]]
 - [[partial fractions]]
 - Just using [[partial fractions]] with integration, pretty ez
-- 
+- [[infinite discontinuity]]
 
 
 

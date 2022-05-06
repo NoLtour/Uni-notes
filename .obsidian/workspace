@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/17U Integration 3/infinite discontinuity.md",
-            "mode": "source",
+            "file": "Mathematics for Engineering and the Environment/17U Integration 3/Integration 3 overview.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/17U Integration 3/infinite discontinuity.md",
+                "file": "Mathematics for Engineering and the Environment/17U Integration 3/Integration 3 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "8e6acb0763257d05",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/17U Integration 3/infinite discontinuity.md",
     "Mathematics for Engineering and the Environment/17U Integration 3/Integration 3 overview.md",
+    "Mathematics for Engineering and the Environment/17U Integration 3/infinite discontinuity.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/17U Integration 3/partial fractions.md",
     "Mathematics for Engineering and the Environment/17U Integration 3/if you want them so badly you do it.md",
