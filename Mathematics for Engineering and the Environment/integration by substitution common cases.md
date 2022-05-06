@@ -10,7 +10,7 @@ This is just [[integration using the general composite rule|integration by subst
 
 ### Form $\frac{dx}{dt} = f\left(\frac{x}{t}\right)$
 #### Equation
-The substitution is $y=\frac{x}{t}$ which 
+The substitution is $y=\frac{x}{t}$ which is rearranged into $x=yt$ then from [[What's the product rule|product rule]] gives $\frac{dx}{dt} = t \frac{dy}{dt} + y$.
 
 > ### $$ \frac{dx}{dt} = f\left(\frac{x}{t}\right) $$
 > ### $$ \frac{dx}{dt} = t \frac{dy}{dt} + y $$ 
@@ -18,3 +18,13 @@ The substitution is $y=\frac{x}{t}$ which
 >> where:
 >> $y=$ the substitution variable
 
+#### Example
+> Solve:
+> $$ t^{2} \frac{dx}{dt} = x^{2} + xt $$
+
+$$\begin{align*}
+\frac{dx}{dt} &= \frac{x^{2}}{t^{2}} + \frac{x}{t}\\
+& & y &= \frac{x}{t}\\
+&= y^{2} + y\\
+&
+\end{align*}$$
