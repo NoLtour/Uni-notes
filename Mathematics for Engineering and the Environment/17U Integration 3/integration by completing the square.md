@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Integration by completing the square
 ### Equation
 You should probably do it using the full method for marks in the exam, but for completeness I made it into an eqauation:
-> ### $$ \int \frac{1}{ax^{2} + bx +c} \cdot dx = \frac{2}{\sqrt{4ca-b^{2}}} \arctan \left( \frac{2ax+b}{\sqrt{4ca-b^{2}}} \right) $$ 
+> ### $$ \int \frac{1}{ax^{2} + bx +c} \cdot dx = \frac{2}{\sqrt{4ac-b^{2}}} \arctan \left( \frac{2ax+b}{\sqrt{4ac-b^{2}}} \right) $$ 
 > ### $$ \int \frac{1}{x^{2} + bx +c} \cdot dx = \frac{2}{\sqrt{4c-b^{2}}} \arctan \left( \frac{2x+b}{\sqrt{4c-b^{2}}} \right) $$ 
 
 
