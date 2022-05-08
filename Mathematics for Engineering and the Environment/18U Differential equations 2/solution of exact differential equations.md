@@ -41,5 +41,7 @@ $p(t,x) = 2xt$
 
 $$\begin{align*}
 p(t,x) &= 2xt & q(t,x) &= x^{2} - 2t\\
-& 
+\frac{\delta h}{\delta x} &= & \frac{\delta h}{\delta t}&= \\
+h &= 2xt & \frac{\delta h}{\delta t}&= \\
+&
 \end{align*}$$
