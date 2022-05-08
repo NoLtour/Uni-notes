@@ -61,8 +61,9 @@ $$\begin{align*}
 p(t,x) &= 2xt & q(t,x) &= x^{2} - 2t\\
 \frac{\delta h}{\delta x} &= & \frac{\delta h}{\delta t}&= \\
 \int \delta h &= \int 2xt \cdot \delta x & \int \delta h&= \int x^{2} - 2t \cdot \delta t\\
- &= x^{2}t + f(t) & &= x^{2}t - t^{2}
+ &= x^{2}t + f_{1}(t) & &= x^{2}t - t^{2} + f_{2}(x)
 \end{align*}$$
+Here note that since we are integrating from [[derivative symbols#delta x partial derivative]]
 
 It becomes apparent by observation that if $h=x^{2}t - t^{2}$ then it would differentiate correctly. Hence the differential takes the form:
 $$\begin{align*}
