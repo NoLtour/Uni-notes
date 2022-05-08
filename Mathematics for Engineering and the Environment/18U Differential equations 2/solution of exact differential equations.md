@@ -45,7 +45,7 @@ It should also be noted that for a function $h$ to exist this must be true $\fra
 > Then a solution exists of the form:
 > ### $$ h(t,x) = C $$
 > And $p$ and $q$ can be expressed as:
-> ### $$ \frac{\delta h}{\delta x} = p(t,x) \:\:\:\:\: and \:\:\:\:\: \frac{\delta h}{\delta t} = q(t,x) $$
+> ### $$ \begin{align*}\frac{\delta h}{\delta x} &= p(t,x) & \frac{\delta h}{\delta t} &= q(t,x)\\h &= \int p(t,x) \delta & h &= \int q(t,x) \delta t\end{align*} $$
 >> where:
 >> $h,q,p=$ functions of $t,x$
 >> $x=$ [[dependent variables|dependent variable]]
@@ -63,7 +63,7 @@ p(t,x) &= 2xt & q(t,x) &= x^{2} - 2t\\
 \int \delta h &= \int 2xt \cdot \delta x & \int \delta h&= \int x^{2} - 2t \cdot \delta t\\
  &= x^{2}t + f_{1}(t) & &= x^{2}t - t^{2} + f_{2}(x)
 \end{align*}$$
-Here note that since we are integrating from [[derivative symbols#delta x partial derivative]]
+Here note that since we are integrating from [[derivative symbols#delta x partial derivative|partial derivatives]] where information was lost we represent that missing data using functions $f_{1}$ and $f_{2}$
 
 It becomes apparent by observation that if $h=x^{2}t - t^{2}$ then it would differentiate correctly. Hence the differential takes the form:
 $$\begin{align*}
