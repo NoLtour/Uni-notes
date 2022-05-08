@@ -4,7 +4,15 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What are some
-## Common sequences
+## Common sequences and series
+
+### Arithmetical series
+> ### $$ S_{n} = \sum\limits^n=1 $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
 
 ### Geometric series
 
