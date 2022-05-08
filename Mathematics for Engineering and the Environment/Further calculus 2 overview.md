@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[Alemberts ratio test]]
 
 ![[Rolles theorem]]
+
+![[first mean]]
