@@ -13,3 +13,6 @@ Such a test does exist it is:
 >> $h=h(t,x)=$ a function of $t,x$ where $\frac{dh}{dt}=0$ 
 >> $d=$ [[derivative symbols#d x total derivative|this maths thing]]
 >> $\delta=$ [[derivative symbols#delta x partial derivative|this other max thing]]
+>> $x=$ [[dependent variables|dependent variable]]
+>> $t=$ [[independent variables|independent variable]]
+
