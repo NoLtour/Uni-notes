@@ -30,3 +30,6 @@ p(t,x) \frac{dx}{dt} + q(t,x) &= 0 & \frac{\delta h}{\delta x} &= p(t,x) & \frac
 \frac{dh}{dt} &= 0
 \end{align*}$$
 
+Thus the solution is:
+$$ h(t,x) = C $$
+([[UNF]])
