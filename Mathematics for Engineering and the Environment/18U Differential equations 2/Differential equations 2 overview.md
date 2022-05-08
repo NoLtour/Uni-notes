@@ -6,8 +6,11 @@ tags: ["NotesPage"]
 # Differential equations 2 overview
 
 #### Intro and contents
-So looong, [[idk it might not take as long as I think|cringe]].
-- 
+Effffort, [[idk it might not take as long as I think|cringe]].
+- [[integration by substitution common cases]]
+- [[derivative symbols]]
+- [[solution of exact differential equations]]
+- [[solution of linear differential equations]]
 
 
 ## Expanded articles
