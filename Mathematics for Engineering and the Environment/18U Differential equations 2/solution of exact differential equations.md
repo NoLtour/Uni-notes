@@ -46,7 +46,7 @@ It should also be noted that for a function $h$ to exist this must be true $\fra
 > ### $$ h(t,x) = C $$
 > And $p$ and $q$ can be expressed as:
 > ### $$ \begin{align*}\frac{\delta h}{\delta x} &= p(t,x) & \frac{\delta h}{\delta t} &= q(t,x)\\h &= \int p(t,x) \cdot \delta x & h &= \int q(t,x) \cdot \delta t\end{align*} $$
-> Note that you can work out $h$ from the integrals above by comparing the two and seeing what's missing (since they where [[derivative symbols|partial derivative]] information was lost)
+> Note that you can work out $h$ from the integrals above by comparing the two and seeing what's missing (since they where [[derivative symbols|partial derivative]] information was lost, eg [[derivative symbols#Example and how to integrate these|this]])
 >> where:
 >> $h,q,p=$ functions of $t,x$
 >> $x=$ [[dependent variables|dependent variable]]
@@ -56,7 +56,6 @@ It should also be noted that for a function $h$ to exist this must be true $\fra
 > Solve the differential equation of the form:
 > $$ 2xt \frac{dx}{dt} + x^{2} - 2t = 0 $$
 
-$p(t,x) = 2xt$
 
 $$\begin{align*}
 p(t,x) &= 2xt & q(t,x) &= x^{2} - 2t\\
