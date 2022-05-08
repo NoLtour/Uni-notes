@@ -37,7 +37,18 @@ $$\begin{align*}
 h(t,x) &= C\\
 \end{align*}$$
 
-It should also be noted that for a function $h$ to exist this must be true $\frac{\delta p}{\delta t} = \frac{\delta q}{\delta x}$ now I'm going to pop all 
+It should also be noted that for a function $h$ to exist this must be true $\frac{\delta p}{\delta t} = \frac{\delta q}{\delta x}$ now I'm going to pop all this into a nice format:
+> For an equation of the form:
+> ### $$ p(t,x) \frac{dx}{dt} + q(t,x) = 0 $$ 
+> If:
+> ### $$\frac{\delta p}{\delta t} = \frac{\delta q}{\delta x}$$
+> Then a solution exists of the form:
+> ### $$ h(t,x) = C $$
+> And $p$ and $q$
+>> where:
+>> $h,q,p=$ functions of $t,x$
+>> $x=$ [[dependent variables|dependent variable]]
+>> $t=$ [[independent variables|independent variable]]
 
 ### Example
 > Solve the differential equation of the form:
