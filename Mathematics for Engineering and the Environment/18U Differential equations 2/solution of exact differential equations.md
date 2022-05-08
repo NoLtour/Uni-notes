@@ -10,15 +10,18 @@ Lil bit of intro information, (assuming I actually understand this) so if you ha
 Such a test does exist it is:
 > ### $$ \frac{dh}{dt} = \frac{\delta h}{\delta x} \frac{dx}{dt} + \frac{\delta h}{\delta t} $$ 
 >> where:
->> $h=h(t,x)=$ a function of $t,x$ where $\frac{dh}{dt}=0$ 
+>> $h=h(t,x)=$ a function of $t,x$
 >> $d=$ [[derivative symbols#d x total derivative|this maths thing]]
 >> $\delta=$ [[derivative symbols#delta x partial derivative|this other max thing]]
 >> $x=$ [[dependent variables|dependent variable]]
 >> $t=$ [[independent variables|independent variable]]
 
-To check if such a function exists (function $h(t,x)$):
-> ### $$  = $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+If a first order differential equation exists of the form:
+$$ p(t,x) \frac{dx}{dt} + q(t,x) = 0 $$
+And a function ($h(T,x)$) can be found such that:
+$$ \frac{\delta h}{\delta x} = q(t,x) \:\:\:\:\: and \:\:\:\:\: \frac{\delta h}{\delta t} = q(t,x) $$
+Then subbing back:
+$$\begin{align*}
+p(t,x) \frac{dx}{dt} + q(t,x) &= 0\\
+&
+\end{align*}$$
