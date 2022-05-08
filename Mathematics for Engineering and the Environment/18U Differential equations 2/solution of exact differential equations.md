@@ -46,7 +46,8 @@ $p(t,x) = 2xt$
 $$\begin{align*}
 p(t,x) &= 2xt & q(t,x) &= x^{2} - 2t\\
 \frac{\delta h}{\delta x} &= & \frac{\delta h}{\delta t}&= \\
-\int \delta h &= x^{2}t & \int \delta h&= x^{2}t - t^{2}
+\int \delta h &= \int 2xt \cdot \delta x & \int \delta h&= \int x^{2} - 2t \cdot \delta t\\
+ &= x^{2}t & &= x^{2}t - t^{2}
 \end{align*}$$
 
 It becomes apparent by observation that if $h=x^{2}t - t^{2}$ then it would differentiate correctly. Hence the differential takes the form:
@@ -55,5 +56,6 @@ $$\begin{align*}
 \frac{d}{dt} h(t,x) &= 0\\
 h(t,x) &= C\\
 x^{2}t - t^{2} &= C\\
-&
+x &= \sqrt \frac{C + t^{2}}{t}\\
+x &= \sqrt {\frac{C}{t} + t}
 \end{align*}$$
