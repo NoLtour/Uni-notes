@@ -31,7 +31,11 @@ p(t,x) \frac{dx}{dt} + q(t,x) &= 0 & \frac{\delta h}{\delta x} &= p(t,x) & \frac
 \end{align*}$$
 
 Since $\frac{dh}{dt}=0$ we can find a constant for any value of $x,t$ hence the solution to the original differential equation will be:
-$$ h(t,x) = C $$
+$$\begin{align*}
+\frac{dh}{dt} &= 0\\
+\frac{d}{dt} h(t,x) &= 0\\
+h(t,x) &= C\\
+\end{align*}$$
 
 ### Example
 > Solve the differential equation of the form:
@@ -45,4 +49,11 @@ p(t,x) &= 2xt & q(t,x) &= x^{2} - 2t\\
 \int \delta h &= x^{2}t & \int \delta h&= x^{2}t - t^{2}
 \end{align*}$$
 
-It becomes apparent by observation that if $h=x^{2}t - t^{2}$ then it would 
+It becomes apparent by observation that if $h=x^{2}t - t^{2}$ then it would differentiate correctly. Hence the differential takes the form:
+$$\begin{align*}
+\frac{dh}{dt} &= 0\\
+\frac{d}{dt} h(t,x) &= 0\\
+h(t,x) &= C\\
+x^{2}t - t^{2} &= C\\
+&
+\end{align*}$$
