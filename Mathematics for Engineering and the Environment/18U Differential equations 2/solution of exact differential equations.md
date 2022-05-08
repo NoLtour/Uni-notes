@@ -44,7 +44,8 @@ It should also be noted that for a function $h$ to exist this must be true $\fra
 > ### $$\frac{\delta p}{\delta t} = \frac{\delta q}{\delta x}$$
 > Then a solution exists of the form:
 > ### $$ h(t,x) = C $$
-> And $p$ and $q$
+> And $p$ and $q$ can be expressed as:
+> ### $$ \frac{\delta h}{\delta x} = p(t,x) \:\:\:\:\: and \:\:\:\:\: \frac{\delta h}{\delta t} = q(t,x) $$
 >> where:
 >> $h,q,p=$ functions of $t,x$
 >> $x=$ [[dependent variables|dependent variable]]
