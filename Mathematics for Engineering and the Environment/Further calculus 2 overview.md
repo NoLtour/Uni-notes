@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[sequence notation]]
+
+![[common sequences and series]]
