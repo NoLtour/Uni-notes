@@ -10,3 +10,12 @@ Total derivatives are where it is possible for more than 1 variable to be varied
 
 ### $\delta x$ (partial derivative)
 In mathematics, a partial derivative of a function of several variables is its derivative with respect to one of those variables, with the others held constant.
+
+### Example
+Find the partial derivative of $h=4tx+x\ln t + 9t^{2} + t + 69x + k$ for $\frac{\delta h}{\delta x}$ and $\frac{\delta h}{\delta t}$
+
+> ### $$  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$

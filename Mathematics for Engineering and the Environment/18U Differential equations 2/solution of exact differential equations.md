@@ -45,7 +45,8 @@ It should also be noted that for a function $h$ to exist this must be true $\fra
 > Then a solution exists of the form:
 > ### $$ h(t,x) = C $$
 > And $p$ and $q$ can be expressed as:
-> ### $$ \begin{align*}\frac{\delta h}{\delta x} &= p(t,x) & \frac{\delta h}{\delta t} &= q(t,x)\\h &= \int p(t,x) \delta & h &= \int q(t,x) \delta t\end{align*} $$
+> ### $$ \begin{align*}\frac{\delta h}{\delta x} &= p(t,x) & \frac{\delta h}{\delta t} &= q(t,x)\\h &= \int p(t,x) \cdot \delta x & h &= \int q(t,x) \cdot \delta t\end{align*} $$
+> Note that you can work out $h$ from the integrals above by comparing the two and seeing what's missing (since they where [[derivative symbols|partial derivative]] information was lost)
 >> where:
 >> $h,q,p=$ functions of $t,x$
 >> $x=$ [[dependent variables|dependent variable]]
