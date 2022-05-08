@@ -30,6 +30,11 @@ p(t,x) \frac{dx}{dt} + q(t,x) &= 0 & \frac{\delta h}{\delta x} &= p(t,x) & \frac
 \frac{dh}{dt} &= 0
 \end{align*}$$
 
-Thus the solution is:
+Since $\frac{dh}{dt}=0$ we can find a constant for any value of $x,t$ hence the solution to the original differential equation will be:
 $$ h(t,x) = C $$
-([[UNF]])
+
+### Example
+> Solve the differential equation of the form:
+> $$ 2xt \frac{dx}{dt} + x^{2} - 2t = 0 $$
+
+$p(t,x) = 2xt$
