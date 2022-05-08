@@ -17,3 +17,4 @@ So looong, [[idk it might not take as long as I think|cringe]].
 
 ![[solution of exact differential equations]]
 
+![[solution of linear differential equations]]
