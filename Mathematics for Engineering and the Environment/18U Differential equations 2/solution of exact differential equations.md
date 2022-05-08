@@ -38,3 +38,8 @@ $$ h(t,x) = C $$
 > $$ 2xt \frac{dx}{dt} + x^{2} - 2t = 0 $$
 
 $p(t,x) = 2xt$
+
+$$\begin{align*}
+p(t,x) &= 2xt & q(t,x) &= x^{2} - 2t\\
+& 
+\end{align*}$$
