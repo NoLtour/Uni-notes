@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
+            "file": "Mathematics for Engineering and the Environment/sequence notation.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
+                "file": "Mathematics for Engineering and the Environment/sequence notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "33f5854cc40f38ac",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/sequence notation.md",
     "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Mathematics for Engineering and the Environment/18 Differential equations 2/solution of exact differential equations.md",
@@ -123,7 +124,6 @@
     "Mathematics for Engineering and the Environment/18 Differential equations 2/shut I cba.md",
     "Mathematics for Engineering and the Environment/18 Differential equations 2/derivative symbols.md",
     "Mathematics for Engineering and the Environment/18 Differential equations 2/poggga.md",
-    "Mathematics for Engineering and the Environment/18 Differential equations 2/integration by substitution common cases.md",
-    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the product rule.md"
+    "Mathematics for Engineering and the Environment/18 Differential equations 2/integration by substitution common cases.md"
   ]
 }
