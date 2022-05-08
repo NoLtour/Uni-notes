@@ -27,3 +27,4 @@ Combining both of the h's back into a single function:
 $$\begin{align*}
 h &= 4tx + x\ln t + 69x + 9t^{2} + t + C
 \end{align*}$$
+Which is equivalent to what we started with ([[poggga|pog]])
