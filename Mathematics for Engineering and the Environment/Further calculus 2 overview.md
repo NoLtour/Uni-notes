@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[sequence notation]]
 
 ![[common sequences and series]]
+
+![[Alemberts ratio test]]
