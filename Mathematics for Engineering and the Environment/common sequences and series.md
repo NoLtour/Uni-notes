@@ -7,11 +7,11 @@ tags: ["Question","QFormat3"]
 ## Common sequences and series
 
 ### Arithmetical series
-> ### $$ S_{n} = \sum\limits^n=1 $$ 
+> ### $$ S_{n} = \sum\limits^{n}_{k=1} ak = a\frac{1}{2} n (n+1) $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $S_{n}=$ value of series 
+>> $n=$ series length
+>> $a=$ constant
 
 
 ### Geometric series
