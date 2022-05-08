@@ -16,3 +16,9 @@ Such a test does exist it is:
 >> $x=$ [[dependent variables|dependent variable]]
 >> $t=$ [[independent variables|independent variable]]
 
+To check if such a function exists (function $h(t,x)$):
+> ### $$  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
