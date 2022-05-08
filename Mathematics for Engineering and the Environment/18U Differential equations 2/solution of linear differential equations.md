@@ -16,5 +16,20 @@ There is some proof for this in the book but I [[shut I cba|cba]] to go into (+I
 >> where:
 >> $f(t)=$ [[solution of linear differential equations|integrating factor]]
 
-### Eample
-> 
+### Example
+> Solve:
+> $$ \frac{dx}{dt} + t x = t $$
+
+$$\begin{align*}
+f(t) &= \int p(t) \cdot dt\\
+& & p(t) &= t & r(t) &= t\\
+&= \int t \cdot dt\\
+&= \frac{t^{2}}{2}
+\end{align*}$$
+
+Subbing into the main formula
+
+$$\begin{align*}
+x &= e^{-f(t)} \left[ \int e^{f(t)} \times r(t) \cdot dt + C \right]\\
+&= e^{-\frac{t^{2}}{2}} \left[ \int e^{\frac{t^{2}}{2}} \times r(t) \cdot dt + C \right]
+\end{align*}$$
