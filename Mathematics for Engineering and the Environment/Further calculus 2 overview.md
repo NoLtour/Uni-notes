@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[common sequences and series]]
 
 ![[Alemberts ratio test]]
+
+![[Rolles theorem]]
