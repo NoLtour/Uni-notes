@@ -18,4 +18,4 @@ tags: ["NotesPage"]
 
 ![[Rolles theorem]]
 
-![[first mean]]
+![[first mean value theorem of integral calculus]]
