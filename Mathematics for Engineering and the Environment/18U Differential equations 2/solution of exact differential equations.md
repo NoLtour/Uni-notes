@@ -40,7 +40,7 @@ h(t,x) &= C\\
 It should also be noted that for a function $h$ to exist this must be true $\frac{\delta p}{\delta t} = \frac{\delta q}{\delta x}$ now I'm going to pop all this into a nice format:
 > For an equation of the form:
 > ### $$ p(t,x) \frac{dx}{dt} + q(t,x) = 0 $$ 
-> If:
+> If this is true then the equation is exact:
 > ### $$\frac{\delta p}{\delta t} = \frac{\delta q}{\delta x}$$
 > Then a solution exists of the form:
 > ### $$ h(t,x) = C $$
