@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "33f5854cc40f38ac",
+        "id": "e47ec68514873d2d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/sequence notation.md",
+            "file": "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/sequence notation.md",
+                "file": "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +113,11 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "33f5854cc40f38ac",
+  "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
     "Mathematics for Engineering and the Environment/sequence notation.md",
     "Mathematics for Engineering and the Environment/not really but close enoguh.md",
-    "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Mathematics for Engineering and the Environment/18 Differential equations 2/solution of exact differential equations.md",
     "Mathematics for Engineering and the Environment/18 Differential equations 2/Differential equations 2 overview.md",
