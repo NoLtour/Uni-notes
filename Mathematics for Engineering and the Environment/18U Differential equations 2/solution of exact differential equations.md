@@ -37,6 +37,8 @@ $$\begin{align*}
 h(t,x) &= C\\
 \end{align*}$$
 
+It should also be noted that for a function $h$ to exist this must be true $\frac{\delta p}{\delta t} = \frac{\delta q}{\delta x}$ now I'm going to pop all 
+
 ### Example
 > Solve the differential equation of the form:
 > $$ 2xt \frac{dx}{dt} + x^{2} - 2t = 0 $$
@@ -47,7 +49,7 @@ $$\begin{align*}
 p(t,x) &= 2xt & q(t,x) &= x^{2} - 2t\\
 \frac{\delta h}{\delta x} &= & \frac{\delta h}{\delta t}&= \\
 \int \delta h &= \int 2xt \cdot \delta x & \int \delta h&= \int x^{2} - 2t \cdot \delta t\\
- &= x^{2}t & &= x^{2}t - t^{2}
+ &= x^{2}t + f(t) & &= x^{2}t - t^{2}
 \end{align*}$$
 
 It becomes apparent by observation that if $h=x^{2}t - t^{2}$ then it would differentiate correctly. Hence the differential takes the form:
