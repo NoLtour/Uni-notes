@@ -31,4 +31,4 @@ The same goes for current, we generally represent root mean square current.
 >> where:
 >> $Z=$ [[impedance]] 
 >> $R=$ resistance
->> $D=$ [[electrical reactance|reactance]]
+>> $D=$ reactance
