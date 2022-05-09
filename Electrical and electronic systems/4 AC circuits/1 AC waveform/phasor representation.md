@@ -20,6 +20,8 @@ Phaser representation is just a fancy way of saying "we represent AC with a rota
 >> $\theta=$ angle
 >> $j=\sqrt{-1}$
 
-### Representing voltage
+### Representing voltage and current
 We represent the root mean square voltage when working with phasor voltage:
 ![[Pasted image 20220509110434.png]]
+
+The same goes for current, we generally represent root mean square current.
