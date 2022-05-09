@@ -7,11 +7,9 @@
         "id": "e47ec68514873d2d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
-            "mode": "preview",
-            "source": true
+            "file": "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
+                "file": "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +113,11 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
-    "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf",
     "Mathematics for Engineering and the Environment/first mean value theorem of integral calculus.md",
     "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
     "Mathematics for Engineering and the Environment/Rolles theorem.md",
