@@ -12,4 +12,6 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
+![[power AC]]
+
 ![[apparent, reactive and real power]]

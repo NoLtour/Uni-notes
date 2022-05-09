@@ -10,7 +10,7 @@ tags: ["Question","QFormat3"]
 
 ### Complex power ($S$)
 
-> ### $$ S = V \times (I) $$ 
+> ### $$ S = (V_{rms}\angle \phi) \times (I_{rms}\angle -\phi) $$ 
 >> where:
 >> $=$ 
 >> $=$
