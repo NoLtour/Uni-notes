@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### Whats the method for
 ## Calculating power of an AC circuit
-For more complex
+For when you deal with more complex idea's of power refer to [[apparent, reactive and real power]].
 
 ### RMS
 > ### $$ V_{rms} = \frac{V_{P}}{\sqrt{2}} $$ 

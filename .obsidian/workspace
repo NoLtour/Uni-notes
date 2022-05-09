@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/calculating power of an AC circuit.md",
+            "file": "Electrical and electronic systems/apparent, reactive and real power.md",
             "mode": "source",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/calculating power of an AC circuit.md",
+                "file": "Electrical and electronic systems/apparent, reactive and real power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Electrical and electronic systems/apparent, reactive and real power.md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/calculating power of an AC circuit.md",
     "Electrical and electronic systems/Complex power notes.md",
-    "Electrical and electronic systems/apparent, reactive and real power.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/AC waveform.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/RL and AC circuits notes.md",
