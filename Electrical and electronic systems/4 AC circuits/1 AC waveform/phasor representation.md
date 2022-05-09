@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["phasor","phasors"]
 tags: ["Question","QFormat3"]
 ---
 

@@ -10,5 +10,5 @@ tags: ["Question","QFormat3"]
 > ### $$ \frac{a \angle \alpha}{b \angle \beta} = \frac{a}{b} \angle (\alpha - \beta) $$ 
 > ### $$ \frac{1}{a \angle \alpha} = \frac{1}{a} \angle (-\alpha) $$ 
 >> where:
->> $a,b=$ [[phasor]] magnitudes
->> $\alpha,\beta=$ phasor angles
+>> $a,b=$ [[phasor representation|phasor]] magnitudes
+>> $\alpha,\beta=$ [[phasor representation|phasor]] angles
