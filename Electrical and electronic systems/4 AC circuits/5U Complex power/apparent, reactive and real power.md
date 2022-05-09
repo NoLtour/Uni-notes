@@ -10,10 +10,11 @@ tags: ["Question","QFormat3"]
 
 ### Complex power ($S$)
 
-> ### $$ S = (V_{rms}\angle \phi) \times (I_{rms}\angle -\phi) $$ 
+> ### $$ S = (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
+> ### $$ S = P + jQ $$
 >> where:
->> $=$ 
->> $=$
+>> $I= (I_{rms}\sqrt{2}) \angle \phi$ 
+>> $V= (V_{rms}\sqrt{2}) \angle \theta$ 
 >> $=$
 
 ### True power
