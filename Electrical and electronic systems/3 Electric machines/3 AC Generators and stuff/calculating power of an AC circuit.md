@@ -7,6 +7,15 @@ tags: ["Question","QFormat3"]
 ## Calculating power of an AC circuit
 For when you deal with more complex idea's of power refer to [[apparent, reactive and real power]].
 
+### Circuit
+I recommend only using this equation for validation, since I don't think it'll give marks in the exam [[UNFINISHED STUFF]] (validate):
+![[Pasted image 20220428191553.png|350]]
+> ### $$ P_{mean} = \frac{1}{2} \frac{V_{p}^{2}R_{T}}{R^{2} + D^{2}} $$ 
+>> where:
+>> $Z_{T}= R_{T} + D_{T}j$ 
+>> $=$
+>> $=$
+
 ### RMS
 > ### $$ V_{rms} = \frac{V_{P}}{\sqrt{2}} $$ 
 >> where:
