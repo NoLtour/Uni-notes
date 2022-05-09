@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### What is
 ## Power factor
 ### Equation
-Power factor is basically a measurement of real power relative to apparent power, hence power factors will alwayse be lower than 1.
+Power factor is basically a measurement of real power relative to apparent power, hence power factors will always be lower than 1.
 
 > ### $$ PF = \frac{P}{|S|} = \frac{P}{\sqrt{P^{2} + Q^{2}}} $$ 
 >> where:
