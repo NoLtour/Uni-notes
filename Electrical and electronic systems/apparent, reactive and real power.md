@@ -12,3 +12,7 @@ tags: ["Question","QFormat3"]
 Also known as "active" or "real" power, this is the actual amount of power in watts being dissipated by the circuit.
 
 ### Reactive power
+The dissipated power resulting from inductive and capacitive loads measured in volt-amperes reactive.
+
+### Apparent power
+The combination of reactive and true power measure in volt-amperes. 
