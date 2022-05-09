@@ -10,7 +10,7 @@ It is sometimes desirable to have circuits capable of selectively filtering one 
 
 If you think back to [[electrical impudance|impudance]] you'll remember that by using [[capacitors]] and [[inductor]]s you can get different resistances at different frequencies, a filter basically just exploits that fact to only let certain types of waveform through.
 
-### General filter
+### General filter [[UNFINISHED STUFF]] need to validate this something seems off
 Take the following circuit, where the section highlighted in blue represents the filter:
 ![[Pasted image 20220428191539.png|500]]
 Usually you wouldn't show $Z_{out}$ instead showing it [[how it usually looks|like this]] but I'm doing so to prove a point. Take $Z_{out}$ as the [[impedance]] of the unknown circuit and $Z_{F}$ the [[impedance]] of the filter. Knowing [[equivalent circuit impedance]] for [[equivalent circuit impedance#Parallel|parallel impedance]] to we can redraw the circuit using $Z_{T}$:
