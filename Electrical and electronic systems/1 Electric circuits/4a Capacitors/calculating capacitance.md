@@ -12,3 +12,6 @@ You can calculate the capacitance of two parallel plates using the following for
 >> $\varepsilon=$ Permiattivity of material between plates
 >> $A=$ Area of the plates
 >> $d=$ distance between plates
+
+ 
+ ![[Pasted image 20220509102328.png]]
