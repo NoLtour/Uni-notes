@@ -13,4 +13,4 @@ tags: ["Question","QFormat3"]
 >> $I=$ current
 >> $Z=$ [[impedance]]
 
-If you have a split of more than 2 then you can e
+If you have a split of more than 2 then you can equate multiple branches as a single one.
