@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Complex power notes
 
 #### Intro and contents
 - [[calculating power of an AC circuit|RMS for AC power]]
@@ -12,6 +12,6 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
-![[power AC]]
+![[calculating power of an AC circuit|RMS for AC power]]
 
 ![[apparent, reactive and real power]]
