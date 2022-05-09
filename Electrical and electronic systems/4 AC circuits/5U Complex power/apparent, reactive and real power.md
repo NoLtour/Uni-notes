@@ -21,11 +21,11 @@ tags: ["Question","QFormat3"]
 >> $Q=$ reactive power
 >> $|S|=$ apparent power
 
-### Real power
+### Real power ($P$)
 Also known as "active" or "true" power, this is the actual amount of power in watts being dissipated by the circuit.
 
-### Reactive power
+### Reactive power ($Q$)
 The dissipated power resulting from inductive and capacitive loads measured in volt-amperes reactive.
 
-### Apparent power
+### Apparent power ($|S|$)
 The combination of reactive and true power measure in volt-amperes. 

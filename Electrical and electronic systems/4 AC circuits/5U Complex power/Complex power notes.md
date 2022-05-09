@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[calculating power of an AC circuit|RMS for AC power]]
 
 ![[apparent, reactive and real power]]
+
+![[power factor]]
