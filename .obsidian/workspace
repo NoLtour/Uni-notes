@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/4 AC circuits/1 AC waveform/phasor representation.md",
+            "file": "Electrical and electronic systems/4 AC circuits/1 AC waveform/phasor manipulation.md",
             "mode": "source",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/4 AC circuits/1 AC waveform/phasor representation.md",
+                "file": "Electrical and electronic systems/4 AC circuits/1 AC waveform/phasor manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Electrical and electronic systems/4 AC circuits/1 AC waveform/phasor manipulation.md",
+    "Electrical and electronic systems/4 AC circuits/1 AC waveform/AC waveform.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/phasor representation.md",
     "Electrical and electronic systems/1 Electric circuits/4a Capacitors/calculating capacitance.md",
     "images/(p3-38) Diodes and Transistors.pdf",
@@ -123,8 +125,6 @@
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
-    "Mathematics for Engineering and the Environment/first mean value theorem of integral calculus.md",
-    "Mathematics for Engineering and the Environment/Further calculus 2 overview.md"
+    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md"
   ]
 }
