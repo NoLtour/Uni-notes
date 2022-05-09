@@ -16,4 +16,4 @@ Power factor is basically a measurement of real power relative to apparent power
 >> $PF=$ Power factor
 
 ### Problems caused by it
-Although people are charged according to [[apparent, reactive and real power|real power]], a lower power factor increases the current flowing in wires which increases losses due to that higher current. Also if the power factor is low enough (usually less than 0.85) then people may be charged additional fees due to the energy providers having to componsate in the grid for 
+Although people are charged according to [[apparent, reactive and real power|real power]], a lower power factor increases the current flowing in wires which increases losses due to that higher current. Also if the power factor is low enough (usually less than 0.85) then people may be charged additional fees due to the energy providers having to compensate in the grid for that.
