@@ -12,9 +12,9 @@ I recommend only using this equation for validation, since I don't think it'll g
 ![[Pasted image 20220509161618.png]]
 > ### $$ P_{mean} = \frac{1}{2} \frac{V_{p}^{2}R_{T}}{R_{T}^{2} + D_{T}^{2}} $$ 
 >> where:
->> $Z_{T}= R_{T} + D_{T}j$ 
+>> $Z_{T}= R_{T} + jD_{T}$ 
 >> $V_{p}=$ peak voltage
->> $P_{mean}=$ mean real power
+>> $P_{mean}=$ mean [[apparent, reactive and real power|real power]]
 >> $V_{in} = V_{p} \cos (\omega t)$
 
 ### RMS
