@@ -7,9 +7,11 @@
         "id": "e47ec68514873d2d",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "images/(p3-38) Diodes and Transistors.pdf"
+            "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/calculating capacitance.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "capac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -55,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/(p3-38) Diodes and Transistors.pdf",
+                "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/calculating capacitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +116,7 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/calculating capacitance.md",
     "images/(p3-38) Diodes and Transistors.pdf",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
@@ -121,7 +125,6 @@
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
     "Mathematics for Engineering and the Environment/first mean value theorem of integral calculus.md",
     "Mathematics for Engineering and the Environment/Further calculus 2 overview.md",
-    "Mathematics for Engineering and the Environment/Rolles theorem.md",
-    "Mathematics for Engineering and the Environment/Alemberts ratio test.md"
+    "Mathematics for Engineering and the Environment/Rolles theorem.md"
   ]
 }
