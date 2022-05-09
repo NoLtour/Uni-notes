@@ -7,9 +7,11 @@
         "id": "e47ec68514873d2d",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf"
+            "file": "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf",
+                "file": "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +115,8 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
+    "Electrical and electronic systems/3 Electric machines/Electric Machines - notes(1).pdf",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
