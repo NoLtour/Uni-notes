@@ -13,4 +13,7 @@ idk this is pretty ezz ngl, probably should have some examples but honestly ever
 
 ## Expanded articles
 ![[equivalent circuit impedance]]
+
+![[current divider (AC)]]
+
 ![[Salmon_chair.mp4]]
