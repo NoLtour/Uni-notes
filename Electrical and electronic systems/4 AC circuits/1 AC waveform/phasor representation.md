@@ -25,3 +25,10 @@ We represent the root mean square voltage when working with phasor voltage:
 ![[Pasted image 20220509110434.png]]
 
 The same goes for current, we generally represent root mean square current.
+
+### Representing [[impedance]]
+> ### $$ Z = R + jD = \sqrt{R^{2} + D^{2}} \angle \arctan \left( \frac{D}{R} \right) $$ 
+>> where:
+>> $Z=$ [[impedance]] 
+>> $R=$ resistance
+>> $D=$ [[electrical reactance|reactance]]
