@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What's the method for
-## Simplifieing simple circuits
+## Simplifying simple circuits
 ### Method
 #### Requirements
 - Must be represented in a way that it has 2 terminals
