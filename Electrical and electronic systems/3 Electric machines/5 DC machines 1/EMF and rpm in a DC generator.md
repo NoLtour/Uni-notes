@@ -16,11 +16,11 @@ I'm not going to write out the maths, but for a single coil of wire $EMF \propto
 This equation gives you the emf production from a DC generator (note it does not factor in losses due to inefficiencys so you need to use the [[equivalent circuit of a DC generator]] when applying it):
 
 > ### $$ E = K_{E} \omega $$ 
-> ### $$ E = K_{E} \frac{\omega_{rpm}\times2\pi}{60} $$ 
+> ### $$ \omega= f_{rpm}\frac{2\pi}{60} $$ 
 >> where:
 >> $E=$ [[electromotive force|EMF]] from generator (volt)
 >> $\omega=$ angular velocity (rad/sec)
->> $\omega_{rpm}=$ rpm
+>> $f_{rpm}=$ rpm
 >> $K_{E}=$ [[EMF constant (DC generator)]]
 
 ^9a26aa

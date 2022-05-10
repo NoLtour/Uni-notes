@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and rpm in a DC generator.md",
-            "mode": "source",
+            "file": "Electrical and electronic systems/3 Electric machines/5 DC machines 1/equivalent circuit of a DC generator.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and rpm in a DC generator.md",
+                "file": "Electrical and electronic systems/3 Electric machines/5 DC machines 1/equivalent circuit of a DC generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/equivalent circuit of a DC generator.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and rpm in a DC generator.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
@@ -123,7 +124,6 @@
     "Electrical and electronic systems/1 Electric circuits/2a Magnetism and induction/tesla.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC generator with many coils.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor power.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor.md"
+    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor power.md"
   ]
 }
