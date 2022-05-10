@@ -25,12 +25,15 @@ tags: ["NotesPage"]
 
 ### Electronics
 1 to 2 = [[(p3-38) Diodes and Transistors.pdf]]
+[[(p39-64) Operational Amplifiers.pdf]]
+[[(p65-94) Digital Electronics.pdf]]
 There is honestly too much to write and research rn, like wtf. I'll finish these notes over christmass [[UNFINISHED STUFF]]... probably (I'll finish these notes over easter.... (probably)). 
 
 1) [[Semiconductor theory notes]]
 2) [[Diodes as rectifiers notes]]
 3) [[Zener diodes notes]]
 4) [[Diodes in clamp circuits notes]]
+5) [[Operational amplifiers notes]]
 
 ### Electric machines
 provided notes [[Electric Machines - notes(1).pdf]]
