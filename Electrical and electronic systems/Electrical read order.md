@@ -34,6 +34,7 @@ There is honestly too much to write and research rn, like wtf. I'll finish these
 3) [[Zener diodes notes]]
 4) [[Diodes in clamp circuits notes]]
 5) [[Operational amplifiers notes]]
+6) [[boolean algebra]]
 
 ### Electric machines
 provided notes [[Electric Machines - notes(1).pdf]]
