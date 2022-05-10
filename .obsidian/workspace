@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/Electrical read order.md",
+            "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/summing amplifier.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/Electrical read order.md",
+                "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/summing amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Electrical and electronic systems/Electrical read order.md",
+    "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/summing amplifier.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/Diodes in clamp circuits notes.md",
     "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
     "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/simplifying simple circuits.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/equivalent circuit impedance.md",
-    "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/I do not know why I just hate saying it.md",
-    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitance.md"
+    "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/I do not know why I just hate saying it.md"
   ]
 }
