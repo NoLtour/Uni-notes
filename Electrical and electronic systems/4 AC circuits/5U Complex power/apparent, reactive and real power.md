@@ -10,7 +10,7 @@ tags: ["Question","QFormat3"]
 
 ### Complex power ($S$)
 
-> ### $$ S = (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) = v_{rms} \times i^{*}_{rms} = $$ 
+> ### $$ S = (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) = v_{rms} \times i^{*}_{rms} = |i_{rms}|^{2} Z = \frac{|v_{rms}|^{2}}{Z*}= \frac{|v_{rms}|^{2}Z}{|Z|^{2}} $$ 
 > ### $$ Q = Im: (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
 > ### $$ P = Re: (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
 > ### $$ S = P + jQ $$
