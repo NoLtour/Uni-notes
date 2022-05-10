@@ -11,7 +11,7 @@ tags: ["Question","QFormat3"]
 ### Complex power ($S$)
 
 > ### $$ S = (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
-> ### $$ Q = Im: (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
+> ### $$ Q = Im: (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi)= Im: v_{rms} \times i^{*}_{rms} $$ 
 > ### $$ P = Re: (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
 > ### $$ S = P + jQ $$
 >> where:
