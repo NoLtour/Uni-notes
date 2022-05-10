@@ -12,7 +12,7 @@ tags: ["Question","QFormat3"]
 >> $a=$ number of parallel paths
 >> $I=$ input current
 >> $T=$ torque 
->> $B=$ [[magnetic loading]]
+>> $B=$ [[magnetic loading]] ([[tesla|Tesla]])
 >> $D=$ rotor diameter
 >> $i_{c}=$ current in conductors [[UNFINISHED STUFF]]
 >> $z=$ number of conductors

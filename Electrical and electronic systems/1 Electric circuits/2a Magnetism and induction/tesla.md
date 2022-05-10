@@ -1,5 +1,5 @@
 ---
-aliases: ["magnetic flux density"]
+aliases: ["magnetic flux density","Tesla"]
 tags: ["Question","QFormat3"]
 ---
 
