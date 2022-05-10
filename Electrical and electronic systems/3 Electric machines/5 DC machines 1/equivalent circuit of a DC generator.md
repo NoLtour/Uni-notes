@@ -10,7 +10,7 @@ Here we place a resistor and [[inductor]] in series with the generator to repres
 
 ![[Pasted image 20220210183324.png]]
 
-We can get the EMF from [[EMF and torque in a DC generator#^9a26aa]]
+We can get the EMF from [[EMF and rpm in a DC generator#^9a26aa]]
 
 > ### $$ E_{eq} = K_{E}\omega - iR_{a} + L_{a} \frac{di}{dt}  $$ 
 >> where:
