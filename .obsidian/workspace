@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/1 Electric circuits/1a Electrostatics/electric field.md",
-            "mode": "source",
+            "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "field charge",
+                "query": "capacit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1 Electric circuits/1a Electrostatics/electric field.md",
+                "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitance.md",
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/calculating capacitance.md",
     "Electrical and electronic systems/1 Electric circuits/1a Electrostatics/electric field.md",
     "Electrical and electronic systems/4 AC circuits/5U Complex power/apparent, reactive and real power.md",
     "Electrical and electronic systems/4 AC circuits/5U Complex power/Complex power notes.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/current divider (AC).md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/equivalent circuit of a DC generator.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and rpm in a DC generator.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/relationship between torque and volume of a DC motor.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/magnetic loading.md"
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md"
   ]
 }
