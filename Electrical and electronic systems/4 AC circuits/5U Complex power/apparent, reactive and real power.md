@@ -16,7 +16,7 @@ tags: ["Question","QFormat3"]
 > ### $$ S = P + jQ $$
 >> where:
 >> $I= (I_{rms}\sqrt{2}) \angle \phi$ 
->> $X^{*} = $
+>> $X^{*} = -X$
 >> $V= (V_{rms}\sqrt{2}) \angle \theta$ 
 >> $P=$ real power
 >> $Q=$ reactive power
