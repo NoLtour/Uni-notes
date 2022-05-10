@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/1 Electric circuits/7a not done/simplifying simple circuits.md",
+            "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thevi",
+                "query": "capacit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1 Electric circuits/7a not done/simplifying simple circuits.md",
+                "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
+    "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/simplifying simple circuits.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/equivalent circuit impedance.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/I do not know why I just hate saying it.md",
-    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
     "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitance.md",
     "Electrical and electronic systems/1 Electric circuits/4a Capacitors/calculating capacitance.md",
     "Electrical and electronic systems/1 Electric circuits/1a Electrostatics/electric field.md",
-    "Electrical and electronic systems/4 AC circuits/5U Complex power/apparent, reactive and real power.md",
-    "Electrical and electronic systems/4 AC circuits/5U Complex power/Complex power notes.md"
+    "Electrical and electronic systems/4 AC circuits/5U Complex power/apparent, reactive and real power.md"
   ]
 }
