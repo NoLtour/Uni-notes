@@ -10,13 +10,13 @@ tags: ["Question","QFormat3"]
 
 ### Complex power ($S$)
 
-> ### $$ S = (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
-> ### $$ Q = Im: (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi)= Im: v_{rms} \times i^{*}_{rms} $$ 
+> ### $$ S = (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) = Im: v_{rms} \times i^{*}_{rms}$$ 
+> ### $$ Q = Im: (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
 > ### $$ P = Re: (V_{rms}\angle \theta) \times (I_{rms}\angle -\phi) $$ 
 > ### $$ S = P + jQ $$
 >> where:
 >> $I= (I_{rms}\sqrt{2}) \angle \phi$ 
->> $X^{*} = -X$
+>> $X^{*} = -X$ ([[complex co]])
 >> $V= (V_{rms}\sqrt{2}) \angle \theta$ 
 >> $P=$ real power
 >> $Q=$ reactive power
