@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/4 AC circuits/5U Complex power/apparent, reactive and real power.md",
-            "mode": "preview",
+            "file": "Electrical and electronic systems/1 Electric circuits/1a Electrostatics/electric field.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "field charge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/4 AC circuits/5U Complex power/apparent, reactive and real power.md",
+                "file": "Electrical and electronic systems/1 Electric circuits/1a Electrostatics/electric field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Electrical and electronic systems/1 Electric circuits/1a Electrostatics/electric field.md",
     "Electrical and electronic systems/4 AC circuits/5U Complex power/apparent, reactive and real power.md",
     "Electrical and electronic systems/4 AC circuits/5U Complex power/Complex power notes.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/current divider (AC).md",
@@ -124,7 +125,6 @@
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/relationship between torque and volume of a DC motor.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/magnetic loading.md",
-    "Electrical and electronic systems/1 Electric circuits/2a Magnetism and induction/tesla.md"
+    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/magnetic loading.md"
   ]
 }
