@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc/UNFINISHED STUFF.md",
-            "mode": "source",
+            "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/UNFINISHED STUFF.md",
+                "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "misc/UNFINISHED STUFF.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
+    "misc/UNFINISHED STUFF.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/summing amplifier.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/Diodes in clamp circuits notes.md",
