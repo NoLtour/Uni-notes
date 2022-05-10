@@ -7,12 +7,8 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electrical and electronic systems/2 Electronics/boolean algebra.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/boolean algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
