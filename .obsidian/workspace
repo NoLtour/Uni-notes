@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
-            "mode": "preview",
+            "file": "Electrical and electronic systems/2 Electronics/boolean algebra.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
+                "file": "Electrical and electronic systems/2 Electronics/boolean algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2 Electronics/boolean algebra.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
     "misc/UNFINISHED STUFF.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/summing amplifier.md",
@@ -123,7 +124,6 @@
     "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
     "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/simplifying simple circuits.md",
-    "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
-    "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/equivalent circuit impedance.md"
+    "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md"
   ]
 }
