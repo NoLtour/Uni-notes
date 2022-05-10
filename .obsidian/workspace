@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/7 DC machines 3/relationship between torque and volume of a DC motor.md",
-            "mode": "preview",
+            "file": "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and torque in a DC generator.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/7 DC machines 3/relationship between torque and volume of a DC motor.md",
+                "file": "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and torque in a DC generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "e47ec68514873d2d",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and torque in a DC generator.md",
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
+    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/relationship between torque and volume of a DC motor.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/magnetic loading.md",
     "Electrical and electronic systems/1 Electric circuits/2a Magnetism and induction/tesla.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC generator with many coils.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor power.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor.md",
-    "Electrical and electronic systems/4 AC circuits/5U Complex power/power factor.md"
+    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor.md"
   ]
 }
