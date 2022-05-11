@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
@@ -124,7 +125,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
     "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft range.md"
+    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md"
   ]
 }
