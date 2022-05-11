@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Wing loading ($w$)
-This is the lift force per unit area on the wing.
+This is the weigh force per unit area on the wing.
 > $$ w = \frac{L}{S}$$ 
 >> where:
 >> $w=$ wing loading

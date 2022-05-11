@@ -7,8 +7,12 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wing loading",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/10 Composites/fibre reinforced composites.md",
+    "Electrical and electronic systems/2 Electronics/(p65-94) Digital Electronics.pdf",
     "Electrical and electronic systems/2 Electronics/boolean algebra.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
     "misc/UNFINISHED STUFF.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/summing amplifier.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/Diodes in clamp circuits notes.md",
-    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
-    "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
-    "Electrical and electronic systems/1 Electric circuits/7a not done/simplifying simple circuits.md",
-    "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md"
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md"
   ]
 }
