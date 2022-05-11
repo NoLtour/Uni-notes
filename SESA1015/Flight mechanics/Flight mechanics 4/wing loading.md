@@ -16,4 +16,5 @@ This is the weight per unit area on the wing.
 ^39f294
 
 ### Exam question
-[[wing loading exam question]]
+[[wing loading exam question|Exam question: define wing loading]]
+[[wing loading exam question 2|Exam question: Discuss the influence of wing loading on aircraft performance]]

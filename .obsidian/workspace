@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
-            "mode": "source",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wing loading",
+                "query": "range",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft range.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/wing loading exam question 2.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/wing loading exam question.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/endurance equation.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/endurance equation.md"
   ]
 }
