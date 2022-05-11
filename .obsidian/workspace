@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
     "Mechanics structures and materials/Materials/3 Failure of materials/10 Composites/fibre reinforced composites.md",
     "Electrical and electronic systems/2 Electronics/(p65-94) Digital Electronics.pdf",
     "Electrical and electronic systems/2 Electronics/boolean algebra.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
-    "misc/UNFINISHED STUFF.md"
+    "Electrical and electronic systems/Electrical read order.md"
   ]
 }
