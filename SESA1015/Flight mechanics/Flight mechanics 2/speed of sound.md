@@ -20,8 +20,9 @@ In air (treating as an [[ideal gas law|ideal gas]]) it is given by:
 >> $\rho=$ air density
 >> $P=$ air pressure
 
-> ### $$ c = $$ 
+> ### $$ c = \sqrt{ \gamma \frac{R}{M_{air}} T } = \sqrt{ \gamma \frac{R}{M_{air}} (\theta+273.15) } $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $R=8.314462\:J/(mol\cdot K)$
+>> $M_{air}=0.028964\:kg/mol=$ molar gas constant of air
+>> $c=$ [[speed of sound]] in air
+>> $$
