@@ -19,7 +19,8 @@ In air (treating as an [[ideal gas law|ideal gas]]) it is given by:
 >> $\gamma=$ [[isentropic expansion factor]]
 >> $R=$ [[individual gas constant|specific gas constant]]
 >> $T=$ absolute temperature
->> Note that sometimes temperature is given as $$
+>> Note that sometimes temperature is given as $\theta$ which is some fraction of $T_{0}$, where $T_{0}$ is air temp as sea level:
+>> $T=T_{0} \times \theta$
 
 > ### $$ c = \sqrt{ \gamma \cdot \frac{p}{\rho} } $$ 
 >> where:
