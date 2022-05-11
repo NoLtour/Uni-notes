@@ -10,6 +10,8 @@ Generally the speed of sound is denoted by $a$.
 
 It has a relationship with current speed according to [[Mach number]].
 
+### Equations (in air as an ideal gas)
+
 In air (treating as an [[ideal gas law|ideal gas]]) it is given by:
 > ### $$ c = \sqrt{ \gamma \cdot \frac{p}{\rho} } $$ 
 >> where:
@@ -17,3 +19,9 @@ In air (treating as an [[ideal gas law|ideal gas]]) it is given by:
 >> $\gamma=$ [[isentropic expansion factor]]
 >> $\rho=$ air density
 >> $P=$ air pressure
+
+> ### $$ c = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
