@@ -13,7 +13,7 @@ It has a relationship with current speed according to [[Mach number]].
 ### Equations (in air as an ideal gas)
 
 In air (treating as an [[ideal gas law|ideal gas]]) it is given by:
-> ### $$ c = \sqrt{ \gamma RT } $$ 
+> ### $$ c = \sqrt{ \gamma RT } = \sqrt{ \gamma RT_{0} \theta } $$ 
 >> where:
 >> $c=$ [[speed of sound]] 
 >> $\gamma=$ [[isentropic expansion factor]]
