@@ -13,6 +13,14 @@ It has a relationship with current speed according to [[Mach number]].
 ### Equations (in air as an ideal gas)
 
 In air (treating as an [[ideal gas law|ideal gas]]) it is given by:
+> ### $$ c = \sqrt{ \gamma RT } $$ 
+>> where:
+>> $c=$ [[speed of sound]] 
+>> $\gamma=$ [[isentropic expansion factor]]
+>> $R=$ [[individual gas constant|specific gas constant]]
+>> $T=$ absolute temperature
+>> Note that sometimes temperature is given as $$
+
 > ### $$ c = \sqrt{ \gamma \cdot \frac{p}{\rho} } $$ 
 >> where:
 >> $c=$ [[speed of sound]] 
