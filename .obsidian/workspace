@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/Mach number.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "drag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Mach number.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+    "SESA1015/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Mach number.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
     "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft range.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/wing loading exam question 2.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/wing loading exam question.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft range.md"
   ]
 }
