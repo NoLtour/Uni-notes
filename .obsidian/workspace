@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "airspeed",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

@@ -24,7 +24,8 @@ In air (treating as an [[ideal gas law|ideal gas]]) it is given by:
 >> where:
 >> $R=8.314462\:J/(mol\cdot K)$
 >> $M_{air}=0.028964\:kg/mol=$ molar gas constant of air
+>> $\frac{R}{M_{air}}=287.062$
 >> $c=$ [[speed of sound]] in air
 >> $\gamma=$ [[isentropic expansion factor]]
 >> $T=$ Temperature in kelvin
->> $\theta=$ Temp in celcius
+>> $\theta=$ Temp in Celsius
