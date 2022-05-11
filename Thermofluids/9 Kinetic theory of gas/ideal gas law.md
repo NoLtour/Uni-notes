@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["ideal gas"]
 tags: ["Question","QFormat3"]
 ---
 
