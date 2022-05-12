@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
-            "mode": "preview",
+            "file": "Thermofluids/25 Conservation of energy in flow/ftl.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "efficiency",
+                "query": "cavit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
+                "file": "Thermofluids/25 Conservation of energy in flow/ftl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/25 Conservation of energy in flow/ftl.md",
+    "Thermofluids/25 Conservation of energy in flow/cavitation.md",
     "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/14 Introduction to heat cycles/efficiency of a heat cycle.md",
@@ -123,8 +125,6 @@
     "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
     "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
-    "Thermofluids/9 Kinetic theory of gas/Cringe.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
-    "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md"
+    "Thermofluids/9 Kinetic theory of gas/Cringe.md"
   ]
 }
