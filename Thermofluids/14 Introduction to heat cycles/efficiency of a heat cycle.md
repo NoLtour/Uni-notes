@@ -12,7 +12,7 @@ Here we will assume that $T_h$ and $T_c$ are very large thermal reseviours so th
 
 ### [[insert a lil bit of shitpost|The equation]]
 This bits quite ez, from [[heat cycles in a PV diagram#Useful notes for future working]] we know that $\Sigma Q = \Sigma W$ we can get a nice equation:
-> ### $$ \eta = 1 - \frac{Q_c}{Q_h} $$ 
+> ### $$ \eta = 1 - \frac{Q_{c}}{Q_{h}} $$ 
 >> where:
 >> $Q_h=$ [[heat]] in
 >> $Q_c=$ [[heat]] out
