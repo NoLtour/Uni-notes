@@ -34,7 +34,7 @@ There is also this guy that applys for adiabetic specificly:
 >> where:
 >> $P=$ Pressure
 >> $V=$ Volume
->> $\gamma=$ also constant
+>> $\gamma=$ [[isentropic expansion factor|adiabatic index]]
 
 ##### Conservation of energy
 > ### $$ \begin{align*}Q_{12} - W_{12} &= E_{u12} \\ - W_{12} &= E_{u12}\end{align*} $$ 

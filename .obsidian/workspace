@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
-            "mode": "preview",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
+    "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
     "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
@@ -123,8 +125,6 @@
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/15 Carnot cycle and real engines/Carnot cycle and real engines notes.md",
     "Thermofluids/14 Introduction to heat cycles/heat cycles in a PV diagram.md",
-    "Thermofluids/14 Introduction to heat cycles/efficiency of a heat cycle.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/Quantification of entropy and T-S diagrams notes.md",
-    "Thermofluids/14 Introduction to heat cycles/Introduction to heat cycles.md"
+    "Thermofluids/14 Introduction to heat cycles/efficiency of a heat cycle.md"
   ]
 }
