@@ -26,6 +26,7 @@ Apply "energy can't be created or destroyed" to flow, there you go... you now kn
 >> - The fluid is non compressible and uniform density
 >> - There are no frictional forces within the pipe
 >> - There is no change of mass within the pipe
+>> - Isothermal fluid
 >> - Gravitational field strength is a constant
 
 ^4479a0

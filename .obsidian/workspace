@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isobaric",
+                "query": "bern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
     "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md",
@@ -123,7 +125,6 @@
     "Thermofluids/14 Introduction to heat cycles/heat cycles in a PV diagram.md",
     "Thermofluids/14 Introduction to heat cycles/efficiency of a heat cycle.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/Quantification of entropy and T-S diagrams notes.md",
-    "Thermofluids/14 Introduction to heat cycles/Introduction to heat cycles.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md"
+    "Thermofluids/14 Introduction to heat cycles/Introduction to heat cycles.md"
   ]
 }
