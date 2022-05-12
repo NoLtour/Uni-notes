@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/internal energy.md",
-            "mode": "preview",
+            "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/constant pressure specific heat.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/internal energy.md",
+                "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/constant pressure specific heat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/10U Specific heats and the first law of thermodynamics/constant pressure specific heat.md",
+    "Thermofluids/10U Specific heats and the first law of thermodynamics/constant volume specific heat.md",
     "Thermofluids/10U Specific heats and the first law of thermodynamics/internal energy.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
@@ -123,8 +125,6 @@
     "Thermofluids/3 Assumptions, boundary conditions and problem solving/control volume.md",
     "Thermofluids/3 Assumptions, boundary conditions and problem solving/Assumptions and boundary conditions notes.md",
     "Thermofluids/3 Assumptions, boundary conditions and problem solving/system (thermodynamics).md",
-    "Thermofluids/10U Specific heats and the first law of thermodynamics/controlling work done when heating.md",
-    "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
-    "Thermofluids/25 Conservation of energy in flow/cavitation.md"
+    "Thermofluids/10U Specific heats and the first law of thermodynamics/controlling work done when heating.md"
   ]
 }
