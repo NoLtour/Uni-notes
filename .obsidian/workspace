@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/25 Conservation of energy in flow/cavitation.md",
+            "file": "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cavitation",
+                "query": "second law",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/25 Conservation of energy in flow/cavitation.md",
+                "file": "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
     "Thermofluids/25 Conservation of energy in flow/cavitation.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
@@ -124,7 +125,6 @@
     "Thermofluids/8U Phases and behaviours of s/Phases and behaviour of substances notes.md",
     "Thermofluids/35 Boundary layer seperation/boundary layer separation.md",
     "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
-    "Thermofluids/32 Introduction to viscous flow/Introduction to viscous flow notes.md",
-    "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md"
+    "Thermofluids/32 Introduction to viscous flow/Introduction to viscous flow notes.md"
   ]
 }
