@@ -1,1 +1,1 @@
-![[video0_3.mp4#play]]
+![[video0_3.mp4]]
