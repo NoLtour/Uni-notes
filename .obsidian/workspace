@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
+            "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
     "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Mach number.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
-    "Thermofluids/9 Kinetic theory of gas/ideal gas law.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md"
   ]
 }
