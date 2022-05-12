@@ -1,1 +1,1 @@
-![[p0oijopijk.png]]
+![[p0oijopijk.png|250]]
