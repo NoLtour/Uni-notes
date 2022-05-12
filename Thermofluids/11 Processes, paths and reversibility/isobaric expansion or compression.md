@@ -17,9 +17,8 @@ These are useful when doing calculations on [[p-v diagrams]] since they can be u
 
 ##### Pressure volume temp relationship
 Simply [[ideal gas law]]:
-> ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
+> ### $$ \frac{ V_1}{T_1} = \frac{ V_2}{T_2} $$ 
 >> where:
->> $P=$ Pressure
 >> $V=$ Volume
 >> $T=$ Temperature
 
