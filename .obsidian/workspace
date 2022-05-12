@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
+            "file": "Thermofluids/11 Processes, paths and reversibility/entropy.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drag",
+                "query": "entropy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
@@ -124,7 +125,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
     "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md"
   ]
 }
