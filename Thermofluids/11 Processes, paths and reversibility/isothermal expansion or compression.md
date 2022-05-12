@@ -30,7 +30,8 @@ The [[ideal gas law]] can be used where $T$ is constant:
 >> $V=$ Volume
 
 ##### Conservation of energy
-> ### $$ Q_{12} - W_{12} = E_{u12} $$ 
+> ### $$ Q_{12} - W_{12} = E_{u12} = 0 $$ 
+> ### $$ E_{u12} = 0$$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{u12}=$ [[internal energy]] change from starting to ending conditions

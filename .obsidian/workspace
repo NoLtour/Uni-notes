@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
-            "mode": "source",
+            "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/internal energy.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
+                "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/internal energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/10U Specific heats and the first law of thermodynamics/internal energy.md",
     "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/isochoric heat transfer.md",
@@ -124,7 +125,6 @@
     "Thermofluids/3 Assumptions, boundary conditions and problem solving/system (thermodynamics).md",
     "Thermofluids/10U Specific heats and the first law of thermodynamics/controlling work done when heating.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
-    "Thermofluids/25 Conservation of energy in flow/cavitation.md",
-    "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md"
+    "Thermofluids/25 Conservation of energy in flow/cavitation.md"
   ]
 }
