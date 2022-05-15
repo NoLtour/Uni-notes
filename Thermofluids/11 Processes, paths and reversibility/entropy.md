@@ -12,7 +12,9 @@ Entropy is:
 
 Total entropy always increases (according to the [[second law of thermodynamics]])
 
-### Equation
+### Equation (not always applicable!)
+Note that this works for most processes in [[types of process]] but not for [[Joule expansion]]!
+
 > ### $$ d S = \frac{d Q}{T} $$ 
 >> where:
 >> $S=$ [[entropy]]
