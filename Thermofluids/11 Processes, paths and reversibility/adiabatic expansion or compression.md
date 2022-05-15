@@ -46,7 +46,7 @@ There is also this guy that applys for adiabetic specificly:
 ##### Work transfer
 from [[pressure volume work]]:
 > ### $$ W_{12} = \int dW = \int P(V) \cdot dV $$ 
-> ### $$ W_{12} = \frac{P_{1}}{1-\gamma}  \left( \frac{V_{1}^{\gamma}}{V_{2}^{\gamma-1}} - V_{1} \right) $$ 
+> ### $$ W_{12} = \frac{P_{1}}{1-\gamma}  \left( \frac{V_{1}^{\gamma}}{V_{2}^{\gamma-1}} - V_{1} \right) = \frac{P_{2}V_{2} - P_{1}V_{1}}{1-\gamma} $$ 
 >> where:
 >> $W_{12}=$ work done from starting to ending conditions
 >> $V=$ volume
