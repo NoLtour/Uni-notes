@@ -14,6 +14,15 @@ But the enthalpy of an [[ideal gas law|ideal gas]] is independent of its pressur
 >> $W=$ [[pressure volume work]]
 >> $E_u=$ [[internal energy]]
 
+> ### $$ d E_{h} = T \cdot dS + V \cdot dp $$ 
+>> where:
+>> $E_h=$ [[enthalpy]] 
+>> $S=$ [[entropy]]
+>> $V=$ volume
+>> $p=$ pressure
+>> $T=$ abs temp
+
+
 For an ideal gas the following can be used:
 
 > ### $$ d E_{h} = C_{p} dT $$ 
@@ -24,13 +33,6 @@ For an ideal gas the following can be used:
 
 ^a0bd5b
 
-Something else that is important is that change in enthalpy equals the change in heat:
-> ### $$ d E_{h} = T \cdot dS + V \cdot dp $$ 
->> where:
->> $E_h=$ [[enthalpy]] 
->> $S=$ [[entropy]]
->> $V=$ volume
->> $p=$ pressure
->> $T=$ abs temp
 
-Since [[enthalpy]] cannot be directly measured we alwayse use relative enthalpys by describing [[enthalpy]] change of a system between states.
+
+Since [[enthalpy]] cannot be directly measured we always use relative enthalpy's by describing [[enthalpy]] change of a system between states.

@@ -45,10 +45,11 @@ Total work = None + (zero) + nothing + [[wait shit by reading this it applied to
 >> $C_v=$ [[constant volume specific heat]]
 
 ##### [[enthalpy]] change
-> ### $$ Q_{12} = E_{h12} $$ 
+> ### $$ d E_{h} = C_{p} dT $$ 
 >> where:
->> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
->> $E_{h12}=$ [[enthalpy]] change from starting to ending conditions
+>> $C_{p}=$ [[constant pressure specific heat]]
+>> $E_{h}=$ [[enthalpy]] 
+>> $T=$ abs temp
 
 
 
