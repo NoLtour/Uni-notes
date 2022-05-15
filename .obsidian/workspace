@@ -7,12 +7,8 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "system",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
