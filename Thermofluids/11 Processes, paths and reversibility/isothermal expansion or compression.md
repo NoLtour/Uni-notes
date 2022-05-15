@@ -52,10 +52,11 @@ from [[pressure volume work]]:
 >> $W_{12}=$ work done from starting to ending conditions
 
 ##### [[enthalpy]] change
-> ### $$ d E_{h} = C_{p} dT $$ 
+> ### $$ d E_{h} = C_{p} m dT $$ 
 >> where:
 >> $C_{p}=$ [[constant pressure specific heat]]
 >> $E_{h}=$ [[enthalpy]] 
+>> $m=$ mass of [[ideal gas law|ideal gas]]
 >> $T=$ abs temp
 
 ##### [[entropy|Entropy]] change

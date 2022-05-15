@@ -25,11 +25,12 @@ But the enthalpy of an [[ideal gas law|ideal gas]] is independent of its pressur
 
 For an ideal gas the following can be used:
 
-> ### $$ d E_{h} = C_{p} dT $$ 
+> ### $$ d E_{h} = C_{p} m dT $$ 
 >> where:
->> $E_{h}=$ [[enthalpy]]
->> $T=$ Temperature
 >> $C_{p}=$ [[constant pressure specific heat]]
+>> $E_{h}=$ [[enthalpy]] 
+>> $m=$ mass of [[ideal gas law|ideal gas]]
+>> $T=$ abs temp
 
 ^a0bd5b
 

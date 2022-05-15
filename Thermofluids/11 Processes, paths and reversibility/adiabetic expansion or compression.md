@@ -59,7 +59,7 @@ Nada.
 >> where:
 >> $C_{p}=$ [[constant pressure specific heat]]
 >> $E_{h}=$ [[enthalpy]] 
->> $m=$ mass
+>> $m=$ mass of [[ideal gas law|ideal gas]]
 >> $T=$ abs temp
 
 ### Uses
