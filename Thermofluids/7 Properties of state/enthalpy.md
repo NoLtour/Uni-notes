@@ -24,7 +24,7 @@ For an ideal gas the following can be used:
 ^a0bd5b
 
 Something else that is important is that change in enthalpy equals the change in heat:
-> ### $$ \Delta E_h = \Delta Q $$ 
+> ### $$ d E_{h} = T \cdot ds + V \cdot dp $$ 
 >> where:
 >> $E_h=$ [[enthalpy]] 
 >> $Q=$ [[heat]]
