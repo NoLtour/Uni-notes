@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
-            "mode": "preview",
+            "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Types of quantitys.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+                "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Types of quantitys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Types of quantitys.md",
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
     "images/Pasted image 20220515113356.png",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/key scaling ratios.md",
     "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
