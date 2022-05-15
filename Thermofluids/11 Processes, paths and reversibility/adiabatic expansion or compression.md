@@ -46,10 +46,12 @@ There is also this guy that applys for adiabetic specificly:
 ##### Work transfer
 from [[pressure volume work]]:
 > ### $$ W_{12} = \int dW = \int P(V) \cdot dV $$ 
+> ### $$ W_{12} = (1-\gamma) P_{1} \left( \frac{V_{1}^{\gamma}}{V_{2}^{\gamma-1}} - V_{1} \right) $$ 
 >> where:
 >> $W_{12}=$ work done from starting to ending conditions
 >> $V=$ volume
 >> $P(V)=$ pressure as a function of volume
+>> $\gamma=$ [[isentropic expansion factor|adiabatic index]]
 
 ##### [[heat|Heat]] transfer
 $Q_{12}=0$
