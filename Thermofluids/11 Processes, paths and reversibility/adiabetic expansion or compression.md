@@ -55,10 +55,11 @@ $Q_{12}=0$
 Nada.
 
 ##### [[enthalpy]] change
-> ### $$ d E_{h} = C_{p} dT $$ 
+> ### $$ d E_{h} = C_{p} m dT $$ 
 >> where:
 >> $C_{p}=$ [[constant pressure specific heat]]
 >> $E_{h}=$ [[enthalpy]] 
+>> $m=$ mass
 >> $T=$ abs temp
 
 ### Uses
