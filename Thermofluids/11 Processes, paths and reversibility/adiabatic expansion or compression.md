@@ -1,10 +1,10 @@
 ---
-aliases: ["adiabetic expansion","adiabetic process","adiabetic compression","no heat transfer process","adiabetic"]
+aliases: ["adiabatic expansion","adiabatic process","adiabatic compression","no heat transfer process","adiabatic"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Adiabetic expansion or compression
+## Adiabatic expansion or compression
 ### Definition
 This is a [[process (thermodynamics)|process]] in a [[closed system]] where there is no [[heat]] transfer, as represented on this [[p-v diagrams|pv diagram]]:
 
@@ -12,9 +12,9 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 
 Notice that dosn't follow [[isotherms (thermodynamics)|isotherms]].
 
-It should be noted that to get  an [[adiabetic expansion or compression|adiabetic]] process there must be no net heat transfer across the [[system boundary]], to achieve this (or atleast a close approximation) you need to either have the process be incredibly quick or have the [[system (thermodynamics)|system]] be highly insulated.
+It should be noted that to get  an [[adiabatic expansion or compression|adiabetic]] process there must be no net heat transfer across the [[system boundary]], to achieve this (or atleast a close approximation) you need to either have the process be incredibly quick or have the [[system (thermodynamics)|system]] be highly insulated.
 
-According to $P(\Delta V)=W$ since there is a change in volume in an [[adiabetic expansion or compression|adiabetic]] process there is [[pressure volume work]] done.
+According to $P(\Delta V)=W$ since there is a change in volume in an [[adiabatic expansion or compression|adiabetic]] process there is [[pressure volume work]] done.
 
 Note that it will be a [[reversible and irreversible processes|reversible process]] if it's frinctionless since there is zero [[heat]] transfer.
 
@@ -30,7 +30,8 @@ The [[ideal gas law]] can be used:
 >> $T=$ Temperature
 
 There is also this guy that applys for adiabetic specificly:
-> ### $$ PV^{\gamma} = constant $$ 
+> ### $$ PV^{\gamma} = constant $$
+> ### $$ P_{1} V_{1}^{\gamma} = P_{2} V_{2}^{\gamma} $$ 
 >> where:
 >> $P=$ Pressure
 >> $V=$ Volume

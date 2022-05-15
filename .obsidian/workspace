@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
+            "file": "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
+    "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+    "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentionless ratios.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/the two entropy equations.md",
-    "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
-    "Thermofluids/3 Assumptions, boundary conditions and problem solving/closed system.md"
+    "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md"
   ]
 }
