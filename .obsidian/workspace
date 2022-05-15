@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
+            "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isocho",
+                "query": "system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+    "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/closed system.md",
     "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
     "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
     "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
     "Thermofluids/11 Processes, paths and reversibility/isochoric heat transfer.md",
     "Thermofluids/7 Properties of state/enthalpy.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Types of quantitys.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
-    "images/Pasted image 20220515113356.png"
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md"
   ]
 }
