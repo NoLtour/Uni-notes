@@ -18,8 +18,10 @@ According to $P(\Delta V)=W$ since there is a change in volume in an [[adiabatic
 
 Note that it will be a [[reversible and irreversible processes|reversible process]] if it's frinctionless since there is zero [[heat]] transfer.
 
-### Consequential relationships
+### Consequential relationships (assuming is reversible)
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isothermal expansion or compression|isothermal]].
+
+Note that these __only__ apply if the process is reversible, for an [[reversible and irreversible processes|irreversible process]] refer to [[]]
 
 ##### Pressure volume temperature
 The [[ideal gas law]] can be used:
