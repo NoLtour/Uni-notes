@@ -50,12 +50,13 @@ from [[pressure volume work]]:
 >> $C_p=$ [[constant pressure specific heat]]
 
 ##### [[enthalpy]] change
-> ### $$ d E_{h} = C_{p} m dT $$ 
+> ### $$ d E_{h} = C_{p} m dT = dQ $$ 
 >> where:
 >> $C_{p}=$ [[constant pressure specific heat]]
 >> $E_{h}=$ [[enthalpy]] 
 >> $m=$ mass of [[ideal gas law|ideal gas]]
 >> $T=$ abs temp
+>> $Q=$ [[heat]]
 
 ### Uses
 - boilers
