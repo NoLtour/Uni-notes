@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/isochoric heat transfer.md",
-            "mode": "preview",
+            "file": "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/isochoric heat transfer.md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
+    "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+    "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
+    "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
+    "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
     "Thermofluids/11 Processes, paths and reversibility/isochoric heat transfer.md",
     "Thermofluids/7 Properties of state/enthalpy.md",
-    "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Types of quantitys.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
-    "images/Pasted image 20220515113356.png",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/key scaling ratios.md",
-    "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
-    "Thermofluids/10U Specific heats and the first law of thermodynamics/constant volume specific heat.md",
-    "Thermofluids/10U Specific heats and the first law of thermodynamics/constant pressure specific heat.md"
+    "images/Pasted image 20220515113356.png"
   ]
 }

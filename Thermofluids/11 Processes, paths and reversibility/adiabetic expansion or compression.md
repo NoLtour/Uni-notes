@@ -55,10 +55,11 @@ $Q_{12}=0$
 Nada.
 
 ##### [[enthalpy]] change
-> ### $$ Q_{12} = E_{h12} = 0 $$ 
+> ### $$ d E_{h} = C_{p} dT $$ 
 >> where:
->> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
->> $E_{h12}=$ [[enthalpy]] change from starting to ending conditions
+>> $C_{p}=$ [[constant pressure specific heat]]
+>> $E_{h}=$ [[enthalpy]] 
+>> $T=$ abs temp
 
 ### Uses
 It is a good approximation of the power and compression strokes in a internal combustion engine.
