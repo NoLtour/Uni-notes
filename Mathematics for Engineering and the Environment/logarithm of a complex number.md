@@ -27,4 +27,12 @@ x^{2} + y^{2} &= x^{2} + y^{2}\\
 \ln|z| &=
 \end{align*}$$
 
-Now we have a way to find $u$ we also
+Now we have a way to find $u$ we also want to find $v$, which can be done:
+
+$$\begin{align*}
+&& x &= e^{u} \cos v & y &= e^{u} \sin v\\
+\frac{y}{x} &= \frac{e^{u} \sin v}{e^{u} \cos v}\\
+&= \tan v
+\end{align*}$$
+
+Hence $v$ can be found using: $\arctan \frac{y}{x}$ note that since you are using an inverse
