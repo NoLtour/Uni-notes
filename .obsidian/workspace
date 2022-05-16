@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/Joule expansion.md",
+            "file": "Mathematics for Engineering and the Environment/18 Differential equations 2/Differential equations 2 overview.md",
             "mode": "preview",
             "source": true
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226
+    "width": 273
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/Joule expansion.md",
+                "file": "Mathematics for Engineering and the Environment/18 Differential equations 2/Differential equations 2 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/18 Differential equations 2/Differential equations 2 overview.md",
     "Thermofluids/11 Processes, paths and reversibility/Joule expansion.md",
     "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
@@ -123,7 +124,6 @@
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentionless ratios.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md"
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentionless ratios.md"
   ]
 }
