@@ -23,3 +23,5 @@ tags: ["NotesPage"]
 ![[first mean value theorem of differential calculus]]
 
 ![[Taylor series]]
+
+![[Maclaurin series]]
