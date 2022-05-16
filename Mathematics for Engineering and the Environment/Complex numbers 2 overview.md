@@ -7,10 +7,13 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 I don't think I ever did complex numbers 1. It's kinda ez so I just skipped it, (these notes are open source, add it yourself [[what else do you expect|trol]])
-- 
+- [[representing complex numbers using angle and magnitude|euler's formula]]
+- [[relating circular and hyperbolic functions]]
+- Osbornes rule 
 
 
 ## Expanded articles
 ![[representing complex numbers using angle and magnitude|euler's formula]]
 
 ![[relating circular and hyperbolic functions]]
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/relating circular and hyperbolic functions.md",
+            "file": "Mathematics for Engineering and the Environment/Complex numbers 2 overview.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/relating circular and hyperbolic functions.md",
+                "file": "Mathematics for Engineering and the Environment/Complex numbers 2 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/relating circular and hyperbolic functions.md",
     "Mathematics for Engineering and the Environment/Complex numbers 2 overview.md",
+    "Mathematics for Engineering and the Environment/relating circular and hyperbolic functions.md",
     "Mathematics for Engineering and the Environment/what else do you expect.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
