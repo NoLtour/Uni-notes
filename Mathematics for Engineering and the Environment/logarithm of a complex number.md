@@ -35,4 +35,4 @@ $$\begin{align*}
 &= \tan v
 \end{align*}$$
 
-Hence $v$ can be found using: $\arctan \frac{y}{x}$ note that since you are using an inverse
+Hence $v$ can be found using: $\arctan \frac{y}{x}$ note that since you are using $\arctan$ acceptable answers can have $\pm n\pi$
