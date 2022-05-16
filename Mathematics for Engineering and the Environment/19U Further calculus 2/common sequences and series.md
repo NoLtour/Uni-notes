@@ -24,7 +24,8 @@ tags: ["Question","QFormat3"]
 
 ### Squares series
 
-> ### $$ S_{n} = \sum\limits^{n-1}_{k=1} ak^{2} = a\frac{1}{6} n (n+1)(2n+1) = a + 4a + 9a + ... + n^{2} a $$ 
+> ### $$ S_{n} = \sum\limits^{n}_{k=1} ak^{2} = a\frac{1}{6} n (n+1)(2n+1) = a + 4a + 9a + ... + n^{2} a $$ 
+> ### $$ \frac{S_{n}}{a} = \sum\limits^{n}_{k=1} k^{2} = \frac{1}{6} n (n+1)(2n+1) = 1 + 4 + 9 + ... + n^{2} $$ 
 >> where:
 >> $S_{n}=$ value of series 
 >> $n=$ series length
