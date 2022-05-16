@@ -9,9 +9,9 @@ Basically what this equation is stating is that some value of $x$ exists ($c$) w
 
 > ### $$ f(c) = \frac{1}{b-a} \int^{b}_{a} f(x) \cdot dx $$ 
 > ### $$ f(c)\times(b-a) = \int^{b}_{a} f(x) \cdot dx $$ 
-> ### $$ f^{'}(c) = \frac{f(b) - f(a)}{ b-a } $$
 >> where:
 >> $[a,b]=$ the [[domain (functions)|domain]] over which the function is continuous 
 >> $a<c<b$
 >> $f=$ some function
 
+It can be rearranged to get the [[first mean value theorem of differential calculus]].

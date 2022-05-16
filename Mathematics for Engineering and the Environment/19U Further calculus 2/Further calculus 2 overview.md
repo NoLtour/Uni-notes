@@ -19,3 +19,6 @@ tags: ["NotesPage"]
 ![[Rolles theorem]]
 
 ![[first mean value theorem of integral calculus]]
+
+![[first mean value theorem of differential calculus]]
+
