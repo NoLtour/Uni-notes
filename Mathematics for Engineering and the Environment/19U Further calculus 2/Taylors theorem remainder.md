@@ -15,4 +15,8 @@ There are many ways to calculate the remainder, but here we use [[Taylors theore
 >> $R_{n}(x)=$ the remainder (here shown in [[Taylors theorem remainder|Lagranges form]])
 >> $h=x-a$
 >> $0<\theta<1$
->> Note these bottom requirements are important
+>> Note the bottom requirement
+
+
+#### Not sure what's going on but this seems important [[UNFINISHED STUFF]]
+![[Pasted image 20220516093553.png]]
