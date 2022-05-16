@@ -10,7 +10,11 @@ I don't think I ever did complex numbers 1. It's kinda ez so I just skipped it, 
 - [[representing complex numbers using angle and magnitude|euler's formula]]
 - [[relating circular and hyperbolic functions]]
 - Osbornes rule ([[UNFINISHED STUFF]] idk I'll just look up the formula when I need em)
-
+- [[logarithm of a complex number]]
+- [[Movies theorem]]
+- [[roots of a complex number]]
+- [[powers of trigonometric functions and multiple angles]]
+- [[loci in the complex plane]]
 
 ## Expanded articles
 ![[representing complex numbers using angle and magnitude|euler's formula]]
