@@ -19,10 +19,8 @@ All power series will converge for certain values of x and diverge for others, f
 
 A effective test for convergence is using [[Alemberts ratio test]] where:
 > #### Convergent series
-> ### $$ |x| \lim_{n\to\infty} \left| \frac{a_{n+1}}{a_{n} } \right|  < 1 $$ 
+> ### $$ \lim_{n\to\infty} \left| \frac{a_{n}}{a_{n+1} } \right|  > |x| $$ 
 > #### Divergent series
-> ### $$ |x| \lim_{n\to\infty} \left| \frac{a_{n+1}}{a_{n} } \right|  \g 1 $$ 
+> ### $$ \lim_{n\to\infty} \left| \frac{a_{n}}{a_{n+1} } \right|  \leq |x| $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $a_{i}=$ is a value independent of x in a [[power series]]
