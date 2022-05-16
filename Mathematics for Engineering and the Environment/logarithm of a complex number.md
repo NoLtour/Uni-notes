@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["principal value"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -35,4 +35,6 @@ $$\begin{align*}
 &= \tan v
 \end{align*}$$
 
-Hence $v$ can be found using: $\arctan \frac{y}{x}$ note that since you are using $\arctan$ acceptable answers can have $\pm n\pi$
+Hence $v$ can be found using: $\arctan \frac{y}{x}$ note that since you are using $\arctan$ acceptable answers can have $\pm n\pi$. This gives the final equation:
+$$ \ln z = \ln|z| + j \arg z $$
+This is sometimes called the principle value, also note [[arg (complex numbers)|arg function]].
