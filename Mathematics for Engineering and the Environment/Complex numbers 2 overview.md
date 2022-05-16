@@ -22,3 +22,5 @@ I don't think I ever did complex numbers 1. It's kinda ez so I just skipped it, 
 ![[Movies theorem]]
 
 ![[roots of a complex number]]
+
+![[powers of trigon]]
