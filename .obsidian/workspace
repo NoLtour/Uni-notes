@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Hospitals rule.md",
+            "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cosh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Hospitals rule.md",
+                "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/Hospitals rule.md",
+    "Mathematics for Engineering and the Environment/9 Integration 2/common substitutions for integration.md",
+    "Mathematics for Engineering and the Environment/15U Functions/hyperbolic functions.md",
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/standard Maclaurin series expansions.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/it really do be cringe though.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/barbarian letters.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/common sequences and series.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/important power series.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/power series.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/Alemberts ratio test.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/my opinion on getting annoying names right.md",
-    "images/Pasted image 20220508165105.png"
+    "Mathematics for Engineering and the Environment/19U Further calculus 2/power series.md"
   ]
 }
