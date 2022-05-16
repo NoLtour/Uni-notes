@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cosh",
+                "query": "differentiation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,14 +117,14 @@
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
+    "Mathematics for Engineering and the Environment/General org/differentiation.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/MEE Differentiation 1.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/Basic rules of differentiation.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/Speed, velocity and acceleration/Speed, velocity and acceleration.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/Differentiable functions/Differentiable functions.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/Rates of change/Derivative of simple exponent.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/Rates of change/Rates of change.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/Hospitals rule.md",
-    "Mathematics for Engineering and the Environment/9 Integration 2/common substitutions for integration.md",
-    "Mathematics for Engineering and the Environment/15U Functions/hyperbolic functions.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/standard Maclaurin series expansions.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/it really do be cringe though.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/barbarian letters.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/common sequences and series.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/important power series.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/power series.md"
+    "Mathematics for Engineering and the Environment/9 Integration 2/common substitutions for integration.md"
   ]
 }
