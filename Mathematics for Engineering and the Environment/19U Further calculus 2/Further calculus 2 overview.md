@@ -25,3 +25,5 @@ tags: ["NotesPage"]
 ![[Taylor series]]
 
 ![[Maclaurin series]]
+
+![[Taylors theorem remainder]]
