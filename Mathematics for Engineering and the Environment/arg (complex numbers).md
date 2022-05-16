@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 
 This is a function that gives the angle between the positive real axis and the positive imaginary axis for some input complex number.
 
-> ### $$ \theta = \arg z = \arctan \left(\frac{b}{a}\right) \pm n\pi $$ 
+> ### $$ \theta = \arg z =  \times \arctan \left(\frac{b}{a}\right) \pm 2\pi n $$ 
 > ### $$ z = |z|e^{i\theta} $$
 > ### $$ z = a + ib $$
 >> where:
