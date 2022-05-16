@@ -7,3 +7,7 @@ tags: ["Question","QFormat3"]
 ## Powers of trigonometric functions and multiple angles
 These can be derived using the tears of mathematicians ([[mathematitions do not cry since anyone on that course must be a masachist|true]]) and the stuff covered so far in [[Complex numbers 2 overview]]:
 
+> ### $$ z^{-n} = \cos n\theta - i \sin n\theta $$ 
+> ### $$ z^{n} + z^{-n} = 2 \cos n\theta $$ 
+> ### $$ z^{n} - z^{-n} = 2i \sin n \theta $$
+
