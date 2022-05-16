@@ -21,4 +21,4 @@ I don't think I ever did complex numbers 1. It's kinda ez so I just skipped it, 
 
 ![[Movies theorem]]
 
-![[root of a complex number]]
+![[sqroot of a complex number]]
