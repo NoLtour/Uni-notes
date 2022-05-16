@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
+            "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Taylors theorem remainder.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
+                "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Taylors theorem remainder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/19U Further calculus 2/Taylors theorem remainder.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
     "Mathematics for Engineering and the Environment/General org/differentiation.md",
     "Mathematics for Engineering and the Environment/2 Differentiation/MEE Differentiation 1.md",
@@ -124,7 +125,6 @@
     "Mathematics for Engineering and the Environment/2 Differentiation/Differentiable functions/Differentiable functions.md",
     "Mathematics for Engineering and the Environment/2 Differentiation/Rates of change/Derivative of simple exponent.md",
     "Mathematics for Engineering and the Environment/2 Differentiation/Rates of change/Rates of change.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/Hospitals rule.md",
-    "Mathematics for Engineering and the Environment/9 Integration 2/common substitutions for integration.md"
+    "Mathematics for Engineering and the Environment/19U Further calculus 2/Hospitals rule.md"
   ]
 }
