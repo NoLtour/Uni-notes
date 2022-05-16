@@ -13,7 +13,7 @@ This is a function that gives the angle between the positive real axis and the p
 > ### $$ z = x + iy $$
 > ### $$ \arg z = \arctan \frac{y}{x} \pm 2\pi n \:\:\: \{ x>0 \} $$
 > ### $$ \arg z = - \arctan \frac{y}{x} \pm 2\pi n \:\:\: \{ x<0 \: and \: y\leq0 \} $$
-> ### $$ \arg z = \pi + \arctan \frac{y}{x} \pm 2\pi n \:\:\: \{ x<0 \: and \: y\leq0 \} $$
+> ### $$ \arg z =  \arctan \frac{y}{x} - \pi \pm 2\pi n \:\:\: \{ x<0 \: and \: y<0 \} $$
 > ### $$ \arg z = \pi + \arctan \frac{y}{x} \pm 2\pi n \:\:\: \{ x\leq0, y\leq0 \} $$
 >> where:
 >> $z=$ some complex number 
