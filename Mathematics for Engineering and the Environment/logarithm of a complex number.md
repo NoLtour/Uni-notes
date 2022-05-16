@@ -5,7 +5,14 @@ tags: ["Question","QFormat3"]
 
 #### How do you find the
 ## Logarithm of a complex number
+### Equation
+> ### $$ \ln( z ) = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
+### Proof
 Consider the equation $z = e^{w}$ if we express $z=x+iy$ and $w=u+iv$:
 
 $$\begin{align*}
@@ -35,6 +42,6 @@ $$\begin{align*}
 &= \tan v
 \end{align*}$$
 
-Hence $v$ can be found using: $\arctan \frac{y}{x}$ note that since you are using $\arctan$ acceptable answers can have $\pm n\pi$. This gives the final equation:
+Hence $v$ can be found using: $\arctan \frac{y}{x}$ note that since you are using $\arctan$ information is lost about the signs of the real and imaginary componets to ensure this data isn't lost we use the [[arg (complex numbers)|arg function]]. This gives the final equation:
 $$ \ln z = \ln|z| + j \arg z $$
 This is sometimes called the principle value, also note [[arg (complex numbers)|arg function]].

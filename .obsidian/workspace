@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/arg (complex numbers).md",
-            "mode": "source",
+            "file": "Mathematics for Engineering and the Environment/logarithm of a complex number.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/arg (complex numbers).md",
+                "file": "Mathematics for Engineering and the Environment/logarithm of a complex number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/arg (complex numbers).md",
     "Mathematics for Engineering and the Environment/logarithm of a complex number.md",
+    "Mathematics for Engineering and the Environment/arg (complex numbers).md",
     "Mathematics for Engineering and the Environment/Complex numbers 2 overview.md",
     "Mathematics for Engineering and the Environment/relating circular and hyperbolic functions.md",
     "Mathematics for Engineering and the Environment/what else do you expect.md",
