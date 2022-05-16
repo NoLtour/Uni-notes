@@ -17,4 +17,12 @@ So the [[Maclaurin series#^2648d4|Maclaurin series]] can be described as a [[pow
 ### Convergence and divergence
 All power series will converge for certain values of x and diverge for others, for example it's common for $|x|<1$ to converge towards a single value as the number of terms in the series increases.
 
-A effective test for convergence is using [[Alemberts ratio test]].
+A effective test for convergence is using [[Alemberts ratio test]] where:
+> #### Convergent series
+> ### $$ |x| \lim_{n\to\infty} \left| \frac{a_{n+1}}{a_{n} } \right|  < 1 $$ 
+> #### Divergent series
+> ### $$ |x| \lim_{n\to\infty} \left| \frac{a_{n+1}}{a_{n} } \right|  \g 1 $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
