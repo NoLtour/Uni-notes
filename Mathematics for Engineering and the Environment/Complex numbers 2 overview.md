@@ -6,8 +6,8 @@ tags: ["NotesPage"]
 # <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
 
 #### Intro and contents
-I don't think I ev
+I don't think I ever did complex numbers 1. It's kinda ez so I just skipped it, (these notes are open source, add it yourself [[what else do you expect|trol]])
 - 
 
 
-## Expanded a
+## Expanded articles
