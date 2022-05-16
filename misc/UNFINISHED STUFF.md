@@ -3,7 +3,7 @@ aliases: ["TODO"]
 ---
 
 
-# Link to this if not finished (this is going to get big lol)
+# Link to this if not finished (this is going to get big lol, oh yep it has)
 ![[WOOOOOOOOOAAAAAAWWWWWW.mp4#play]]
 
 Update: it got long.
