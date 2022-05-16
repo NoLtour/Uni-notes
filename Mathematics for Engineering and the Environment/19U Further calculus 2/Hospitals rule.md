@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Hospitals rule
-(Yes I did just name it that, [[barbarian letters|cope]] I don't have an international keyboard and I don't )
+(Yes I did just name it that, [[barbarian letters|cope]] I don't have an international keyboard and naming equations after people is [[it really do be cringe though|annoying and cringy]])
 
 Sometimes you need to find limits in the form:
 $$\begin{align*}
