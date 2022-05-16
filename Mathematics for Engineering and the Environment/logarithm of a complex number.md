@@ -6,6 +6,8 @@ tags: ["Question","QFormat3"]
 #### How do you find the
 ## Logarithm of a complex number
 ### Equation
+This is also sometimes called the principle value.
+
 > ### $$ \ln( z ) = \ln|z| + i \arg z $$ 
 >> where:
 >> $z=$ some imaginary number
