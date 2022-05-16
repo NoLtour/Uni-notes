@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
+            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
+                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/first mean value theorem of integral calculus.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/first mean value theorem of differential calculus.md",
@@ -123,7 +124,6 @@
     "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
-    "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md"
+    "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md"
   ]
 }
