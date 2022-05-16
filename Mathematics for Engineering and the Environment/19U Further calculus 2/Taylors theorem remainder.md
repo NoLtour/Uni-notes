@@ -19,3 +19,5 @@ There are many ways to calculate the remainder, but here we use [[Taylors theore
 
 #### Not sure what's going on but this seems important [[UNFINISHED STUFF]]
 ![[Pasted image 20220516093553.png]]
+
+[[UNFINISHED STUFF]] add notes on calculating remainder for a given series
