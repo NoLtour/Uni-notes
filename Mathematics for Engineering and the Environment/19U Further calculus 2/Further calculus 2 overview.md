@@ -29,3 +29,4 @@ tags: ["NotesPage"]
 ![[Taylors theorem remainder]]
 
 ![[power series]]
+
