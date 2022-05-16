@@ -10,5 +10,6 @@ We can make use of [[representing complex numbers using angle and magnitude|eule
 
 > ### $$ \cosh ix = \frac{e^{jx}+e^{-ix}}{2} = \cos x $$
 > ### $$ \sinh ix = \frac{e^{jx}-e^{-ix}}{2} = i\sin x $$ 
+> ### $$ \cos ix = \frac{ e^{i^{2} x} + e^{-i^{2} x} }{2} = \frac{e^{-x}+e^{x}}{2} = \cosh x $$ 
+> ### $$ \sin ix = \frac{ e^{i^{2} x} - e^{-i^{2} x} }{2i} = \frac{e^{-x}-e^{x}}{2i} = i \sin x $$ 
 > ### $$ \tanh ix = i \tan x $$
-> ### $$ \cos ix = e^ $$ 
