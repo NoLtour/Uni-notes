@@ -30,3 +30,4 @@ tags: ["NotesPage"]
 
 ![[power series]]
 
+![[]]
