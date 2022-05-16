@@ -16,9 +16,11 @@ Where $f(a)=g(a)=0$ but $\lim_{x\to a} \frac{f(x)}{g(x)}$ does have a definite v
 > ### $$ \lim_{x\to a} \frac{f(x)}{g(x)} = \lim_{x\to a} \frac{f^{'}(x)}{g^{'}(x)}  $$ 
 >> where:
 >> $g^{'}(a)\neq 0$
+>> $f(a)=g(a)=0$
 
 You might intuitively see that if the expression above is true it should work for second order derivatives and so on, which is true: Alternatively if $g^{'}(a)= 0$ you can literally just keep differentiating:
 
 > ### $$ \lim_{x\to a} \frac{f(x)}{g(x)} = \lim_{x\to a} \frac{f^{'}(x)}{g^{'}(x)}= \lim_{x\to a} \frac{f^{''}(x)}{g^{''}(x)} = \lim_{x\to a} \frac{f^{'''}(x)}{g^{'''}(x)} = ...  $$ 
 >> where:
 >> $g^{i'}(a)\neq 0$
+>> $f(a)=g(a)=0$
