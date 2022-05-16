@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Complex numbers 2 overview.md",
+            "file": "Mathematics for Engineering and the Environment/relating circular and hyperbolic functions.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Complex numbers 2 overview.md",
+                "file": "Mathematics for Engineering and the Environment/relating circular and hyperbolic functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/relating circular and hyperbolic functions.md",
     "Mathematics for Engineering and the Environment/Complex numbers 2 overview.md",
     "Mathematics for Engineering and the Environment/what else do you expect.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
@@ -123,7 +124,6 @@
     "misc/UNFINISHED STUFF.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/Alemberts ratio test.md",
     "Mathematics for Engineering and the Environment/General org/differentiation.md",
-    "Mathematics for Engineering and the Environment/2 Differentiation/MEE Differentiation 1.md",
-    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/Basic rules of differentiation.md"
+    "Mathematics for Engineering and the Environment/2 Differentiation/MEE Differentiation 1.md"
   ]
 }
