@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["power series convergence"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -14,5 +14,7 @@ Any series in the following format:
 
 So the [[Maclaurin series#^2648d4|Maclaurin series]] can be described as a [[power series]].
 
-### Properties
-All power series will converge for certain v
+### Convergence and divergence
+All power series will converge for certain values of x and diverge for others, for example it's common for $|x|<1$ to converge towards a single value as the number of terms in the series increases.
+
+A effective test for convergence is using [[Alemberts ratio test]].
