@@ -5,4 +5,5 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Hospitals rule
-(Yes I did just name it that, [[bar|cope]])
+(Yes I did just name it that, [[barbarian letters|cope]])
+
