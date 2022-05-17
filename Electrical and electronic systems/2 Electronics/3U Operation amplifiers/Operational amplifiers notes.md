@@ -26,3 +26,5 @@ tags: ["NotesPage"]
 ![[voltage follower]]
 
 ![[summing amplifier]]
+
+![[differential ]]
