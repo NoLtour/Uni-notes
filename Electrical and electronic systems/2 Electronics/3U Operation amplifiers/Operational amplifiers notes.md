@@ -27,4 +27,6 @@ tags: ["NotesPage"]
 
 ![[summing amplifier]]
 
-![[differential ]]
+![[integrator amplifier]]
+
+![[differentiator amplifier]]
