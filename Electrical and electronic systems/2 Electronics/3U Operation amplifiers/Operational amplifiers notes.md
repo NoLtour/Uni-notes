@@ -12,6 +12,8 @@ tags: ["NotesPage"]
 - [[non inverting amplifier]]
 - [[voltage follower]]
 - [[summing amplifier]]
+- [[integrator amplifier]]
+- [[differentiator amplifier]]
 
 
 ## Expanded articles
