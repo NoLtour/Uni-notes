@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "algebra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
