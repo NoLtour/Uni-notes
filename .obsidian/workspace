@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
+            "file": "Electrical and electronic systems/2 Electronics/boolean algebra.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
+                "file": "Electrical and electronic systems/2 Electronics/boolean algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +116,12 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
-    "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
+    "Electrical and electronic systems/2 Electronics/boolean algebra.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/non inverting amplifier.md",
+    "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitors.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/differentiator amplifier.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/integrator amplifier.md",
-    "Electrical and electronic systems/2 Electronics/boolean algebra.md",
     "Mathematics for Engineering and the Environment/powers of trigonometric functions and multiple angles.md",
     "Mathematics for Engineering and the Environment/they do not cry since anyone on that kind of course must be a masachist.md",
     "Mathematics for Engineering and the Environment/Complex numbers 2 overview.md",
