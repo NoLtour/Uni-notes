@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/9 Kinetic theory of gas/individual gas constant.md",
-            "mode": "preview",
+            "file": "Thermofluids/discharge coefficient.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/9 Kinetic theory of gas/individual gas constant.md",
+                "file": "Thermofluids/discharge coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +115,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/discharge coefficient.md",
     "Thermofluids/9 Kinetic theory of gas/individual gas constant.md",
     "Thermofluids/9 Kinetic theory of gas/Kinetic theory of gas notes.md",
     "Thermofluids/Thermofluids read order.md",
@@ -124,7 +124,6 @@
     "Mechanics structures and materials/Materials/2 Phases/3 Steel phase diagram/Steel phase diagrams notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/2 Phases/2 Partial solubility/Partial solubility notes.md",
-    "Mechanics structures and materials/Materials/2 Phases/1 Solid solubility/Solid solubility notes.md",
-    "Thermofluids/8U Phases and behaviours of s/Phases and behaviour of substances notes.md"
+    "Mechanics structures and materials/Materials/2 Phases/1 Solid solubility/Solid solubility notes.md"
   ]
 }
