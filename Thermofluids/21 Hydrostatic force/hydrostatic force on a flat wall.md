@@ -5,7 +5,10 @@ tags: ["Question","QFormat3"]
 
 #### How can you calculate
 ## Hydrostatic force on a flat wall
-### Equation
+
+### Equation (taking $\rho,g,\theta,w$ as constants)
+For versions of the equation that don't take these as constants, use the equations in [[hydrostatic force on a flat wall#Proof]] before integration.
+
 Things are based of this image:
 ![[Pasted image 20220501061443.png]]
 #### Centre pos
@@ -18,7 +21,7 @@ Assuming constant density, gravity, angle and width:
 >> $H_T=$ position of top of surface
 >> $H_B=$ position of bottom of surface 
 
-Assuming the top of the surface reaches fluid level:
+Assuming the top of the surface reaches fluid level (and uses the assumptions above):
 
 > ### $$ H_{CP} = \frac{2}{3} H_{B} $$
 >> where: 
