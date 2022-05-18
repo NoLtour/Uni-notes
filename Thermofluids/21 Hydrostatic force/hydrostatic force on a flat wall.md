@@ -9,14 +9,16 @@ tags: ["Question","QFormat3"]
 Things are based of this image:
 ![[Pasted image 20220501061443.png]]
 #### Centre pos
-General form, this would work for walls with variable thickness and variable pressures:
 
+Assuming constant density, gravity, angle and width:
 > ### $$ H_{CP} = \frac{2}{3} \frac{H_{B}^{3} - H_{T}^{3}}{H_{B}^{2} - H_{T}^{2} } $$
 >> where: 
 >> Vars from [[Pasted image 20220501061443.png|refrence image]]
 >> $H_{CP}=$ position of centre of pressure
 >> $H_T=$ position of top of surface
 >> $H_B=$ position of bottom of surface 
+
+Assuming the top of the surface reaches fluid level:
 
 > ### $$ H_{CP} = \frac{2}{3} H_{B} $$
 >> where: 
@@ -27,7 +29,7 @@ General form, this would work for walls with variable thickness and variable pre
 
 #### Magnitude
 
-Assuming vertical surface and constant density, gravity and width:
+Assuming constant density, gravity, angle and width:
 > ### $$ F_{total} = \frac{\rho w g}{\sin\theta} \frac{ H_{B}^{2} - H_{T}^{2} }{2}$$ 
 >> where: [[UNFINISHED STUFF]] check eq
 >> Vars from [[Pasted image 20220501061443.png|refrence image]]
