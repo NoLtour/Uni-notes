@@ -16,7 +16,7 @@ This is a coefficient that represents the ratio between the actual and theoretic
 To apply it in a venturi nozzle:
 ![[Pasted image 20220518143204.png]]
 
-> ### $$ Q_{e} = $$ 
+> ### $$ Q_{e} = \sqrt{ 2 \frac{ g(h_{1} - h_{2}) + \frac{1}{\rho} ( P_{1} - P_{2} ) }{ \left(\frac{1}{A_{2}^{2}} - \frac{1}{A_{1}^{2}}\right) } } $$ 
 >> where:
 >> $=$ 
 >> $=$
