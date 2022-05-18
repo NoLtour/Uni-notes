@@ -15,6 +15,8 @@ Apply "energy can't be created or destroyed" to flow, there you go... you now kn
 > ### $$ \frac{ U_{1}^{2}}{2}  +  h_{1} g + \frac{P_{1}}{\rho}  =  \frac{ U_{2}^{2}}{2}  + h_{2} g+ \frac{P_{2}}{\rho} $$
 > ### $$ \frac{ U^{2}}{2}  +  h g + \frac{P}{\rho}  =  constant $$
 > ### $$\frac{U_{1}^{2} - U_{2}^{2}}{2}  +  g(h_{1} - h_{2})  + \frac{P_{1} - P_{2}}{\rho} =0 $$ 
+> ### $$ Q/A  = V $$
+> ### $$ Q = AV $$
 >> where:
 >> $U=$ Velocity perpendicular to cross section
 >> $h=$ height of centre of area of cross section vertically upwards from some refrence
