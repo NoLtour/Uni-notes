@@ -14,7 +14,7 @@ This is a coefficient that represents the ratio between the actual and theoretic
 >> $Q_{t}=$ theoretical mass flow rate (no friction)
 
 To apply it in a venturi nozzle:
-![[Pasted image 20220518144020.png]]
+![[Pasted image 20220518144215.png]]
 
 [[UNFINISHED STUFF]] look I'm not sure if this is right, but idk I think it is?
 
@@ -23,6 +23,7 @@ To apply it in a venturi nozzle:
 >> $C_{d}=$ [[discharge coefficient]] 
 >> $Q_{e}=$ experimental mass flow rate
 >> $A=$ cross sectional area
+>> $P=$ pressure
 >> $\rho=$ fluid density (constant)
 >> $h=$ height from some reference
 >> $X_{1}=$ variable associated with upstream location (flow source)
