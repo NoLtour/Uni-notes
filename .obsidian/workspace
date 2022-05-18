@@ -7,8 +7,12 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Electrical and electronic systems/2 Electronics/boolean algebra.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/Operational amplifiers notes.md",
     "Electrical and electronic systems/2 Electronics/3U Operation amplifiers/inverting operational amplifier.md",
@@ -118,7 +124,6 @@
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Depletion region.md",
     "Electrical and electronic systems/2 Electronics/1c Zener diodes/Zener diodes notes.md",
     "Electrical and electronic systems/2 Electronics/1b Diodes as rectifiers/Diodes as rectifiers notes.md",
-    "Electrical and electronic systems/2 Electronics/1b Diodes as rectifiers/diode rectification.md",
-    "Electrical and electronic systems/2 Electronics/1b Diodes as rectifiers/half-wave rectification.md"
+    "Electrical and electronic systems/2 Electronics/1b Diodes as rectifiers/diode rectification.md"
   ]
 }
