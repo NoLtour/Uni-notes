@@ -19,6 +19,7 @@ To apply it in a venturi nozzle:
 This can be subbed directly into the [[Bernouillis equation]] if you rearrange it for flow rate:
 
 > ### $$ Q_{e} = C_{d} \sqrt{ 2 \frac{ g(h_{2} - h_{1}) + \frac{1}{\rho} ( P_{2} - P_{1} ) }{ \left(\frac{1}{A_{1}^{2}} - \frac{1}{A_{2}^{2}}\right) } } $$ 
+> ### $$\frac{Q_{e}^{2}}{2 C_{d}^{2}} \left( \frac{1}{A_{1}^{2}} - \frac{1}{A_{2}^{2}}\right)  +  g(h_{1} - h_{2})  + \frac{P_{1} - P_{2}}{\rho} =0 $$
 >> where:
 >> $C_{d}=$ [[discharge coefficient]] 
 >> $Q_{e}=$ experimental volumetric flow rate
