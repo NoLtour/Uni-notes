@@ -28,3 +28,5 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 ![[under damped free response]]
 
 ![[under damped natural frequency]]
+
+!
