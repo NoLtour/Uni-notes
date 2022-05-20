@@ -4,11 +4,11 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the
-## Equivilant spring for a simply supported beam
+## Equivilant spring for a beam with single end fixed
 
-![[Pasted image 20220520093633.png]]
+![[Pasted image 20220520093907.png]]
 
-> ### $$ k = \frac{48EI}{L^{3}} $$ 
+> ### $$ k = \frac{110EI}{L^{3}} $$ 
 >> where:
 >> $k=$ equivalent [[spring constant]]
 >> $E=$ [[youngs modulus]] of the beam material
