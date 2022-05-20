@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/Linear homogeneous constant-coefficient equation notes.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "centri",
+                "query": "linear equation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/Linear homogeneous constant-coefficient equation notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/Linear homogeneous constant-coefficient equation notes.md",
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/linear homogeneous constant-coefficient equation.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/linear differential equation.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/centrifugal force equation.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivalent springs.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a beam with single end fixed.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a beam with both ends fixed.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a simply supported beam.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a air spring.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
-    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/it really is though.md"
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a simply supported beam.md"
   ]
 }
