@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Centrifugal force equations
 
 > ### $$ F = \frac{mv^{2}}{r} $$ 
-> ### $$ F = m\dot\theta r $$ 
+> ### $$ F = m r \dot\theta^{2}$$ 
 >> where:
 >> $F=$ centrifugal force
 >> $v=$ velocity
