@@ -12,7 +12,7 @@ Here we place a resistor and [[inductor]] in series with the generator to repres
 
 We can get the EMF from [[EMF and rpm in a DC generator#^9a26aa]]
 
-> ### $$ E_{eq} = K_{E}\omega - iR_{a} + L_{a} \frac{di}{dt}  $$ 
+> ### $$ E_{eq} = K_{E}\omega + iR_{a} + L_{a} \frac{di}{dt}  $$ 
 >> where:
 >> $E_{eq}=$ The equivilent emf across the circuit
 >> $K_{E}=$ [[EMF constant (DC generator)|EMF constant]] 
