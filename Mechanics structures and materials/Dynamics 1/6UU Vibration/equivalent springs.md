@@ -13,6 +13,9 @@ Many things can be modelled as springs using the equation $F=kx$ but the equatio
 - [[equivilant spring for a shaft in torsion]]
 - [[equivilant spring for a helical spring under axial load]]
 - [[equivilant spring for a air spring]]
+- [[equivilant spring for a simply supported beam]]
+- [[equivilant spring for a beam with both ends fixed]]
+- [[equivilant spring for a beam with single end fixed]]
 
 ### Embedded
 ![[equivilant spring for a rod under axial load#Equivilant spring for a rod under axial load]]

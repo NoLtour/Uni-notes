@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
-            "mode": "preview",
+            "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a simply supported beam.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+                "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a simply supported beam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a simply supported beam.md",
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivalent springs.md",
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivilant spring for a air spring.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/it really is though.md",
     "Thermofluids/21 Hydrostatic force/hydrostatic force on a flat wall.md",
     "Thermofluids/21 Hydrostatic force/Hydrostatic force notes.md",
-    "Thermofluids/22 Buoyancy and stability/Buoyancy and stability notes.md",
-    "Thermofluids/22 Buoyancy and stability/stability due to buoyancy.md",
-    "Thermofluids/26 Applications of this stuff/applications of bernoulli's theorum notes.md",
-    "Thermofluids/Thermofluids read order.md"
+    "Thermofluids/22 Buoyancy and stability/Buoyancy and stability notes.md"
   ]
 }
