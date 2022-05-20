@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
+            "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linear equation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
+                "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,14 +115,14 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/Linear homogeneous constant-coefficient equation notes.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/linear homogeneous constant-coefficient equation.md",
-    "Mathematics for Engineering and the Environment/7 Differential Equations 3/linear differential equation.md",
-    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/linear differential equation.md",
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/linear homogeneous constant-coefficient equation.md",
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/Linear homogeneous constant-coefficient equation notes.md",
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/centrifugal force equation.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/equivalent springs.md"
   ]
