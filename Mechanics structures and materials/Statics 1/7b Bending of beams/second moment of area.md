@@ -14,3 +14,5 @@ This value is commonly refered to as the second moment of area:
 > ### $$ I_{zz}=I = \int \int y^{2} \cdot dy\cdot dz $$ 
 
 It is a measure of a cross sections resistance to bending.
+
+Note that this equation assumes the centre of area to go through the $z$ axis, if that isn't the case then you will need to use [[parra]]

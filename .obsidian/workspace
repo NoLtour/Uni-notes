@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
-            "mode": "preview",
+            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
+                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
-    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
+    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
+    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/Electrical read order.md",
