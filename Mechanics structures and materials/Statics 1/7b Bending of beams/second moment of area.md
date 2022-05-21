@@ -16,3 +16,5 @@ This value is commonly refered to as the second moment of area:
 >> Note that for this to work the $z$ axis MUST go through the centre of area of the shape, else the [[parallel axis theorem]] must be used!
 
 It is a measure of a cross sections resistance to bending.
+
+Also useful link: [[standard results for second moment of area]]

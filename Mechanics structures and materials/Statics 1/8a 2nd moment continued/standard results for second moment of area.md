@@ -35,4 +35,4 @@ To do the proof you need to integrate using polar coordinates.
 >> $h=d+c=$ height of thing
 >> ![[Pasted image 20220521105202.png]]
 >
->This is derived from the []
+>This is derived from the [[parallel axis theorem]]
