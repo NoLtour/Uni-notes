@@ -8,12 +8,14 @@ tags: ["Question","QFormat3"]
 An example can be found at [[parallel axis theorem and other example#Using the parallel axis theorem]]
 ### Equation
 
-> ### $$ I_{z'z'} = I_{zz} + Ab^{2} $$ 
+> ### $$ I_{z'z'} = I_{zz} + Ab^{2} = \int \int (y+b)^{2} \cdot dydz $$ 
 >> where:
 >> $I_{z'z'}=$ [[second moment of area]] around z'
 >> $I_{zz}=$ [[second moment of area]]
 >> $A=$ Area of shape
 >> $b=$ Separation between center line of shape and [[neutral surface and neutral axis|neutral axis]]
+>> ![[Pasted image 20220521103931.png]]
+
 
 ### Setup
 Suppose you want to use on of the [[standard results for second moment of area]] for a shape that isn't on the [[neutral surface and neutral axis|neutral axis]]:

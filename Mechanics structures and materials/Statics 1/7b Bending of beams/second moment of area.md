@@ -13,8 +13,6 @@ This value is commonly refered to as the second moment of area:
 >> where:
 >> $I_{zz}=$ [[second moment of area]] (around z axis)
 >> ![[Pasted image 20211108132646.png]]
->> Note that for this to work $z$ b
+>> Note that for this to work the $z$ axis MUST go through the centre of area of the shape, else the [[parallel axis theorem]] must be used!
 
 It is a measure of a cross sections resistance to bending.
-
-Note that this equation assumes the centre of area to go through the $z$ axis, if that isn't the case then you will need to use the [[parallel axis theorem]].
