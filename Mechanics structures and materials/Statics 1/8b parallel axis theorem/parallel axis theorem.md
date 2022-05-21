@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 An example can be found at [[parallel axis theorem and other example#Using the parallel axis theorem]]
 ### Equation
 
-> ### $$ I_{z'z'} = I_{zz} + Ab^{2} = \int \int (y+b)^{2} \cdot dydz $$ 
+> ### $$ I_{z'z'} = I_{zz} + Ab^{2} $$ 
 >> where:
 >> $I_{z'z'}=$ [[second moment of area]] around z'
 >> $I_{zz}=$ [[second moment of area]]
