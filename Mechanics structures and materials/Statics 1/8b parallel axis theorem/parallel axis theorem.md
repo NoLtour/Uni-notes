@@ -20,9 +20,7 @@ Suppose you want to use on of the [[standard results for second moment of area]]
 
 ![[Pasted image 20220521103931.png]]
 
-But instead has centre:
-- $y' = y+b$
-- $z' = z+a$
+But instead it's centres now off.
 
 These *parallel axis* are meant to be used instead, see where this is going?
 
