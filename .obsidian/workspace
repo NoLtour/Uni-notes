@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
+            "file": "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parallel",
+                "query": "adia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/proof of second moment of area of a rectangle.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
@@ -124,7 +125,6 @@
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/equivalent circuit of a DC generator.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md"
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/equivalent circuit of a DC generator.md"
   ]
 }
