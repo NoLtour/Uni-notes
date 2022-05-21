@@ -26,7 +26,7 @@ But instead it's centres now off.
 
 These *parallel axis* are meant to be used instead, see where this is going?
 
-### Maths
+### Maths [[UNFINISHED STUFF]] (somethings wrong)
 $$\begin{align*}
    I_{z'z'} &= \int \int (y+b)^{2} \cdot dydz\\
 &= \int \int   y^{2}+2by+b^{2}   \cdot dydz\\
