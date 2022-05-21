@@ -15,4 +15,4 @@ This value is commonly refered to as the second moment of area:
 
 It is a measure of a cross sections resistance to bending.
 
-Note that this equation assumes the centre of area to go through the $z$ axis, if that isn't the case then you will need to use [[parra]]
+Note that this equation assumes the centre of area to go through the $z$ axis, if that isn't the case then you will need to use the [[parallel axis theorem]].
