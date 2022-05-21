@@ -29,6 +29,7 @@ To do the proof you need to integrate using polar coordinates.
 >> $b=$ width of rectangle
 >> $d=$ height of rectangle
 
-> ### $$  = $$ 
+> ### $$ I_{zz} = \frac{b}{3} ( d^{3} + c^{3}  ) $$ 
 >> where:
+>> $I_{zz}=$ [[second moment of area]] 
 >> ![[Pasted image 20220521100605.png]]
