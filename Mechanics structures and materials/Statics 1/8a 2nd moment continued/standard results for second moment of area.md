@@ -29,7 +29,10 @@ To do the proof you need to integrate using polar coordinates.
 >> $b=$ width of rectangle
 >> $d=$ height of rectangle
 
-> ### $$ I_{zz} = b\left( \frac{dc(d+c)}{3} + \frac{ (c-d)^{2} (d+c) }{4} \right) $$ 
+> ### $$ I_{zz} = \frac{b(d+c)}{4}\left(\frac{b(d+c)^{2}}{3} + (c-d)^{2} \right) = \frac{bh}{4}\left(\frac{bh^{2}}{3} + (c-d)^{2} \right)$$ 
 >> where:
 >> $I_{zz}=$ [[second moment of area]] 
+>> $h=d+c=$ height of thing
 >> ![[Pasted image 20220521105202.png]]
+>
+>This is derived from the []
