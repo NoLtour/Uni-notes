@@ -18,7 +18,7 @@ An example can be found at [[parallel axis theorem and other example#Using the p
 ### Setup
 Suppose you want to use on of the [[standard results for second moment of area]] for a shape that isn't on the [[neutral surface and neutral axis|neutral axis]]:
 
-![[Pasted image 20211115100244.png]]
+![[Pasted image 20220521103931.png]]
 
 But instead has centre:
 - $y' = y+b$
