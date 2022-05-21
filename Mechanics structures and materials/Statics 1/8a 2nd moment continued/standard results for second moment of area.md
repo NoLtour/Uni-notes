@@ -28,3 +28,7 @@ To do the proof you need to integrate using polar coordinates.
 >> $I_{zz}=$ [[second moment of area]] 
 >> $b=$ width of rectangle
 >> $d=$ height of rectangle
+
+> ### $$  = $$ 
+>> where:
+>> ![[Pasted image 20220521100605.png]]
