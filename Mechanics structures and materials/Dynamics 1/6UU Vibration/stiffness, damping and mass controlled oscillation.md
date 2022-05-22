@@ -17,6 +17,7 @@ This is especially evident looking at a force response function plotted against 
 ![[Pasted image 20220522193228.png]]
 
 ### Regions
+Note it is also worth considering the magnitude of $k$, $c$ and $m$ since extreme values for these could change when such approximations are appropriate.
 
 ![[Pasted image 20220522193106.png]]
 
