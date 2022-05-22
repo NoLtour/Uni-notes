@@ -5,4 +5,4 @@ tags: ["NotesPage"]
 
 # Indictors notes
 
-![[inductor]]
+![[0]]

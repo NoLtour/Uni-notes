@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### Intro
 It is sometimes desirable to have circuits capable of selectively filtering one frequency or range of frequencies out of a mix of different frequencies in a circuit. A circuit designed to perform this frequency selection is called a filter circuit, or simply a filter.
 
-If you think back to [[electrical impudance|impudance]] you'll remember that by using [[capacitors]] and [[inductor]]s you can get different resistances at different frequencies, a filter basically just exploits that fact to only let certain types of waveform through.
+If you think back to [[electrical impudance|impudance]] you'll remember that by using [[capacitors]] and [[0]]s you can get different resistances at different frequencies, a filter basically just exploits that fact to only let certain types of waveform through.
 
 ### General filter [[UNFINISHED STUFF]] need to validate this something seems off
 Take the following circuit, where the section highlighted in blue represents the filter:

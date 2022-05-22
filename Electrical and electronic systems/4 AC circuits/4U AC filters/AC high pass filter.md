@@ -8,6 +8,6 @@ tags: ["Question","QFormat3"]
 This is a type of [[AC filters]] that lets high frequency AC through but impedes low frequency AC:
 ![[Pasted image 20220428164655.png]]
 
-To achieve this a [[inductor]] is used:
+To achieve this a [[0]] is used:
 ![[Pasted image 20220428164754.png]]
 
