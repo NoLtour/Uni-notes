@@ -16,7 +16,8 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 - [[under damped natural frequency]]
 
 ##### Forced vibration
-- 
+- [[phasor representation of steady state forced vibration]]
+- [[forced oscillation of a unbalanced rotor]]
 
 ## Expanded articles
 ![[equivalent springs]]
@@ -34,3 +35,5 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 ![[under damped natural frequency]]
 
 ![[phasor representation of steady state forced vibration]]
+
+![[forced oscillation of a unbalanced rotor]]
