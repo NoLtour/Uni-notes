@@ -6,6 +6,7 @@ tags: ["NotesPage"]
 # Vibration introduction notes
 
 #### Intro and contents
+##### Free vibration
 This is essentially the dynamics version of [[modelling oscillations of damped elastic systems using constant-coefficient differential equations]]:
 - [[equivalent springs]]
 - [[springs in parallel and series]]
@@ -13,6 +14,9 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 - [[types of dampening (dynamics)]]
 - [[undamped free vibration (dynamics)]]
 - [[under damped natural frequency]]
+
+##### Forced vibration
+- 
 
 ## Expanded articles
 ![[equivalent springs]]
