@@ -55,3 +55,4 @@ Hence we have a function describing the relationship between a driven damped osc
 >> $k=$ [[spring constant]]
 >> $j=\sqrt{-1}$
 
+This is the general form of the equation but in most use cases a single value dominates the equation
