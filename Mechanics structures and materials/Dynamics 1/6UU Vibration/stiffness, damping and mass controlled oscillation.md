@@ -21,3 +21,5 @@ Note it is also worth considering the magnitude of $k$, $c$ and $m$ since extrem
 
 ![[Pasted image 20220522193106.png]]
 
+### Horse
+![[horse.webm]]
