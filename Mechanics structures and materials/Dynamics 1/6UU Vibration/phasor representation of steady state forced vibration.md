@@ -18,13 +18,14 @@ As long as the frequency of the input is a single constant value then you can re
 
 > ### $$ x(t) = Re: (Xe^{j\omega t}) $$ 
 > ### $$ X = |X|e^{j\phi} = |X|\angle \phi $$
+> ### $$$$
 > ### $$ f(t) = F\times Re: ( e^{j\omega t} ) $$
 > ### $$ F = Re: F $$
 >> where:
 >> $x(t)=$ the function that describes displacement relative to time
 >> $f(t)=$ the function that describes driving force relative to time
 >> $F=$ amplitude of driving force (completely real)
->> $X=$ complex number representing displacement
+>> $X=$ complex number representing displacement (displacement [[phasor representation|phasor]])
 
 In a system with some oscillating mass such as the following:
 ![[Pasted image 20220522185212.png]]
@@ -43,9 +44,13 @@ x &= Xe^{j\omega t} \\
 & &  \frac{X}{F} &= \frac{1}{-\omega^{2}m + j \omega c + k} \\
 \end{align*}$$
 
+Hence we have a function describing the relationship between a driven damped oscillator and displacement:
+
 > ### $$ \frac{X}{F} = \frac{1}{-\omega^{2}m + j \omega c + k} $$ 
 >> where:
->> $X=$ displacement 
->> $F=$ Force
->> $=$
+>> $X=$ Displacement [[phasor representation|phasor]]
+>> $F=$ Force amplitude
+>> $m=$ mass of oscillating object
+>> $c=$ [[damping parameter (differentially modelled oscillator)|damping parameter]]
+>> $j=\sqrt{-1}$
 
