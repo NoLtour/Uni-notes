@@ -33,6 +33,15 @@ Basically saying that the flux in a coil is proportional to the current flowing.
 
 ^52f189
 
+This can be integrated to get:
+> ### $$ I = \frac{V_{s}}{R} \left(1-e^{-\frac{tR}{L}}\right) $$ 
+> ### $$ V_{L} = V_{s} e^{-\frac{tR}{L}} $$ 
+>> where:
+>> The inductor has a constant DC source and a purely resistive load
+>> $=$ 
+>> $=$
+>> $=$
+
 ### Example
 >> Plot the voltage across the inductor vs time for the following circuit:
 >> ![[Pasted image 20211107102808.png]]
