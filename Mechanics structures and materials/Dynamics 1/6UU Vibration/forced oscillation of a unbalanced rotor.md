@@ -13,5 +13,5 @@ Basically if you have some shape where the centre of mass rests on the axis of r
 >> $f(t)=$ force as a function of time 
 >> $\omega=$ angular frequency
 >> $m_\varepsilon=$ mass of point
->> $\varepsilon=$ 
+>> $\varepsilon=$ distance between point and axis of rotation
 >> ![[Pasted image 20220522205823.png]]
