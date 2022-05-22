@@ -17,7 +17,18 @@ As long as the frequency of the input is a single constant value then you can re
 ![[Pasted image 20220522184721.png]]
 
 In a system with some oscillating mass such as the following:
+![[Pasted image 20220522185212.png]]
 
+We can sum up the forces on the free body diagram:
+$$\begin{align*}
+m \ddot{x} + c\dot{x} + kx &= Fe^{j\omega t}
+\end{align*}$$
+Since it's a steady state we can also assume that $x(t) = Xe^{j\omega t}$:
+$$\begin{align*}
+x &= Xe^{j\omega t} \\
+\dot{x} &= jwXe^{j\omega t} \\
+\ddot{x} &= Xe^{j\omega t} \\
+\end{align*}$$
 
 > ### $$ \frac{X}{F} $$ 
 >> where:
