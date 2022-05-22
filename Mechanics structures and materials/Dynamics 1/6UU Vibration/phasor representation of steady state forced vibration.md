@@ -16,6 +16,13 @@ Basically phasors are used to relate a input (driving force) to the oscillation:
 As long as the frequency of the input is a single constant value then you can represent the relationship between the driving force and output displacement as a frequency response function of the form $\frac{X}{F}$, in steady state this value is constant and represents the transformation that maps the input force onto the displacement as can be seen below:
 ![[Pasted image 20220522184721.png]]
 
+> ### $$ x(t) = Re: (Xe^{j\omega t}) $$ 
+> ### $$ f(t) = F\times Re: ( e^{j\omega t} ) $$
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
 In a system with some oscillating mass such as the following:
 ![[Pasted image 20220522185212.png]]
 
@@ -30,10 +37,10 @@ x &= Xe^{j\omega t} \\
 \ddot{x} &= -\omega^{2}Xe^{j\omega t} & m \ddot{x} + c\dot{x} + kx &= Fe^{j\omega t}\\
 & & -m\omega^{2}Xe^{j\omega t} + c j\omega Xe^{j\omega t} + kXe^{j\omega t} &= Fe^{j\omega t} \\
 & & (-m\omega^{2} + c j\omega  + k) X &= F \\
-& & (-m\omega^{2} + c j\omega  + k) \frac{X}{F} &= \\
+& &  \frac{X}{F} &= \frac{1}{-\omega^{2}m + j \omega c + k} \\
 \end{align*}$$
 
-> ### $$ \frac{X}{F} $$ 
+> ### $$ \frac{X}{F} = \frac{1}{-\omega^{2}m + j \omega c + k} $$ 
 >> where:
 >> $X=$ displacement 
 >> $F=$ Force
