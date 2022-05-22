@@ -17,5 +17,6 @@ This is especially evident looking at a force response function plotted against 
 ![[Pasted image 20220522193228.png]]
 
 ### Regions
+
 ![[Pasted image 20220522193106.png]]
 
