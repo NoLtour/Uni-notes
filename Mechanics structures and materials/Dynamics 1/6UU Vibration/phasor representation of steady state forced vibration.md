@@ -26,8 +26,11 @@ m \ddot{x} + c\dot{x} + kx &= Fe^{j\omega t}
 Since it's a steady state we can also assume that $x(t) = Xe^{j\omega t}$:
 $$\begin{align*}
 x &= Xe^{j\omega t} \\
-\dot{x} &= jwXe^{j\omega t} \\
-\ddot{x} &= Xe^{j\omega t} \\
+\dot{x} &= j\omega Xe^{j\omega t} \\
+\ddot{x} &= -\omega^{2}Xe^{j\omega t} & m \ddot{x} + c\dot{x} + kx &= Fe^{j\omega t}\\
+& & -m\omega^{2}Xe^{j\omega t} + c j\omega Xe^{j\omega t} + kXe^{j\omega t} &= Fe^{j\omega t} \\
+& & (-m\omega^{2} + c j\omega  + k) X &= F \\
+& & (-m\omega^{2} + c j\omega  + k) \frac{X}{F} &= \\
 \end{align*}$$
 
 > ### $$ \frac{X}{F} $$ 
