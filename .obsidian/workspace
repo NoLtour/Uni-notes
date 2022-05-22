@@ -116,6 +116,7 @@
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/phasor representation of steady state forced vibration.md",
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/stiffness controlled oscillation.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/damping coefficient.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/critical damping coefficient.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/types of dampening (dynamics).md",
@@ -123,7 +124,6 @@
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/undamped free vibration (dynamics).md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/damping parameter (differentially modelled oscillator).md",
-    "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/using dimentional homogeneity to find units.md"
+    "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md"
   ]
 }
