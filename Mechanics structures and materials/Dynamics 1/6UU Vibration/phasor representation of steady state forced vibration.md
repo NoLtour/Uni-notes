@@ -51,6 +51,6 @@ Hence we have a function describing the relationship between a driven damped osc
 >> $X=$ Displacement [[phasor representation|phasor]]
 >> $F=$ Force amplitude
 >> $m=$ mass of oscillating object
->> $c=$ [[damping co]]
+>> $c=$ [[damping coefficient]]
 >> $j=\sqrt{-1}$
 
