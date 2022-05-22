@@ -10,4 +10,7 @@ Yes this is the same thing as [[phasor representation]] covered in AC, but inste
 ![[phasor representation#^93ff19]]
 
 ### Phasors for vibration
-Basically phasors are conveneient when t
+Basically phasors are used to relate a input (driving force) to the oscillation:
+![[Pasted image 20220522184420.png]]
+
+As long as the frequency of the input is constant
