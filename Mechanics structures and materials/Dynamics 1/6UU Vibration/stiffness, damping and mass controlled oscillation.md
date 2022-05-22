@@ -13,6 +13,9 @@ If you look at that equation:
 - high values of $\omega$ will result in the only significant factor being the mass
 - moderate values of $\omega$ may result in the [[damping coefficient]] dominating
 
-### Region definition
+This is especially evident looking at a force response function plotted against frequency:
+![[Pasted image 20220522193228.png]]
+
+### Regions
 ![[Pasted image 20220522193106.png]]
 
