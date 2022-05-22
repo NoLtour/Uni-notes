@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/generalised hookes law.md",
+            "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/generalised hookes law.md",
+                "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
+    "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/generalised hookes law.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed trusses.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
@@ -123,8 +125,6 @@
     "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
     "Electrical and electronic systems/1 Electric circuits/5a Inductors/Indictors notes.md",
-    "Electrical and electronic systems/1 Electric circuits/5a Inductors/0.md",
-    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
-    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md"
+    "Electrical and electronic systems/1 Electric circuits/5a Inductors/0.md"
   ]
 }
