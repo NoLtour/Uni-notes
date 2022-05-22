@@ -52,5 +52,6 @@ Hence we have a function describing the relationship between a driven damped osc
 >> $F=$ Force amplitude
 >> $m=$ mass of oscillating object
 >> $c=$ [[damping coefficient]]
+>> $k=$ [[spring constant]]
 >> $j=\sqrt{-1}$
 

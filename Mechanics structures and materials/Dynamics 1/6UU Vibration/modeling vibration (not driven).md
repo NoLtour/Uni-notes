@@ -13,7 +13,7 @@ In the tutorial they start with free oscillation then move onto damped oscillati
 >> $m=$ mass of particle
 >> $x=$ displacement from equilibrium
 >> $t=$ time
->> $c=$ a constant relating speed and drag (damping coefficient)
+>> $c=$ a constant relating speed and drag ([[damping coefficient]])
 >> $k=$ [[spring constant]]
 
 ^9328aa
