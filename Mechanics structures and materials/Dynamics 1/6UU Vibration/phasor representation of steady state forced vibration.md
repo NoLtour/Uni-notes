@@ -10,4 +10,4 @@ Yes this is the same thing as [[phasor representation]] covered in AC, but inste
 ![[phasor representation#^93ff19]]
 
 ### Phasors for vibration
-Basically think of
+Basically phasors are conveneient when t
