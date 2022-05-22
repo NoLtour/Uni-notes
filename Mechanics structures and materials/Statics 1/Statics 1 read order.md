@@ -5,9 +5,7 @@ tags: ["NotesPage"]
 
 # Statics 1 read order
 ### The based
-Ngl 99% of my favorate bits of music I origionally found in a meme and thought "huh that's neat".
-
-![[Touhou Cirno theme OST remix - YouTube.mp3#play]]
+![[Touhou Cirno theme OST remix - YouTube.mp3]]
 
 Very pog, if you don't believe this to be based... then, uhhh [[you are retard|this]].
 
