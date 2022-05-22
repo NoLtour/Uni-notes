@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+            "file": "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+                "file": "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
+    "Thermofluids/Thermofluids read order.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentionless ratios.md",
     "Thermofluids/32 Introduction to viscous flow/viscosity.md",
@@ -123,8 +125,6 @@
     "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed trusses.md",
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/generalised hookes law.md",
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
-    "Mechanics structures and materials/Statics 2/Statics 2 overview.md"
+    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/generalised hookes law.md"
   ]
 }
