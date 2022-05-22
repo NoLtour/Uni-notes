@@ -47,7 +47,9 @@ x &= Xe^{j\omega t} \\
 Hence we have a function describing the relationship between a driven damped oscillator and displacement:
 
 > ### $$ \frac{X}{F} = \frac{1}{-\omega^{2}m + j \omega c + k} $$ 
+> ### $$ x(t) = Re: (Xe^{j\omega t}) $$ 
 >> where:
+>> $x(t)=$ the function that describes displacement relative to time
 >> $X=$ Displacement [[phasor representation|phasor]]
 >> $F=$ Force amplitude
 >> $m=$ mass of oscillating object
