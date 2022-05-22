@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/1 Electric circuits/5a Inductors/0.md",
+            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1 Electric circuits/5a Inductors/0.md",
+                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Electrical and electronic systems/1 Electric circuits/5a Inductors/0.md",
-    "Electrical and electronic systems/1 Electric circuits/5a Inductors/Indictors notes.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
+    "Electrical and electronic systems/1 Electric circuits/5a Inductors/Indictors notes.md",
+    "Electrical and electronic systems/1 Electric circuits/5a Inductors/0.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
