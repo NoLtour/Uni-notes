@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+            "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/phasor representation of steady state forced vibration.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+                "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/phasor representation of steady state forced vibration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,11 +116,11 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/phasor representation of steady state forced vibration.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/forced oscillation of a unbalanced rotor.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/phasor representation of steady state forced vibration.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/damping coefficient.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/stiffness, damping and mass controlled oscillation.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/critical damping coefficient.md",
