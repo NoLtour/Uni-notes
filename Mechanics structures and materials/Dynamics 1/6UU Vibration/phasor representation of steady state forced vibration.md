@@ -13,4 +13,11 @@ Yes this is the same thing as [[phasor representation]] covered in AC, but inste
 Basically phasors are used to relate a input (driving force) to the oscillation:
 ![[Pasted image 20220522184420.png]]
 
-As long as the frequency of the input is constant
+As long as the frequency of the input is a single constant value then you can represent the relationship between the driving force and output displacement as a frequency response function of the form $\frac{X}{F}$, in steady state this value is constant and can be used:
+![[Pasted image 20220522184721.png]]
+
+> ### $$ \frac{X}{F} $$ 
+>> where:
+>> $X=$ displacement 
+>> $F=$ Force
+>> $=$
