@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
+            "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
             "mode": "preview",
             "source": true
           }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
+                "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
+    "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+    "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
     "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
     "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md",
     "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
     "Thermofluids/24 Conservation of mass in flow/conservation of mass in flow.md",
-    "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
-    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/proof of second moment of area of a rectangle.md",
-    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
-    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
-    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md"
+    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/proof of second moment of area of a rectangle.md"
   ]
 }
