@@ -33,4 +33,4 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 
 ![[under damped natural frequency]]
 
-!
+![[phasor representation of steady state forced vibration]]
