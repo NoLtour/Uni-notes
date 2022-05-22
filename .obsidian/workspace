@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
+            "file": "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "second ",
+                "query": "inductor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
+                "file": "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
@@ -124,7 +125,6 @@
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
-    "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
-    "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md"
+    "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md"
   ]
 }
