@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
+            "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
+                "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
+    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
@@ -123,8 +125,6 @@
     "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
     "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
     "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md",
-    "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
-    "Thermofluids/24 Conservation of mass in flow/conservation of mass in flow.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md"
+    "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md"
   ]
 }
