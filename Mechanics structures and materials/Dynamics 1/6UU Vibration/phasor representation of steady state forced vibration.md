@@ -17,10 +17,12 @@ As long as the frequency of the input is a single constant value then you can re
 ![[Pasted image 20220522184721.png]]
 
 > ### $$ x(t) = Re: (Xe^{j\omega t}) $$ 
+> ### $$ X = |X|e^{j\phi} $$
 > ### $$ f(t) = F\times Re: ( e^{j\omega t} ) $$
+> ### $$ F = Re: F $$
 >> where:
->> $=$ 
->> $=$
+>> $F=$ amplitude of driving force (completely real)
+>> $X=$ complex number 
 >> $=$
 
 In a system with some oscillating mass such as the following:
