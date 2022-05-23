@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md",
+            "file": "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md",
+                "file": "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
+    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/polar second moment of area.md",
+    "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md",
     "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor.md",
     "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductance.md",
     "Electrical and electronic systems/4 AC circuits/2 AC Passive components/AC passive components notes.md",
     "Electrical and electronic systems/4 AC circuits/3 RL and RC circuits/RL and AC circuits notes.md",
-    "Electrical and electronic systems/4 AC circuits/2 AC Passive components/impedance.md",
-    "Electrical and electronic systems/4 AC circuits/2 AC Passive components/AC circuit analysis equations.md",
-    "Electrical and electronic systems/4 AC circuits/2 AC Passive components/AC angular frequency.md",
-    "Thermofluids/11 Processes, paths and reversibility/types of process.md"
+    "Electrical and electronic systems/4 AC circuits/2 AC Passive components/impedance.md"
   ]
 }
