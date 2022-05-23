@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md",
-            "mode": "preview",
+            "file": "misc/UNFINISHED STUFF.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md",
+                "file": "misc/UNFINISHED STUFF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "misc/UNFINISHED STUFF.md",
+    "commutator.md",
     "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md",
     "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md",
@@ -122,8 +124,6 @@
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
-    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/solving statically indeterminate beams.md",
-    "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/Statically indeterminate beams - superposition method notes.md",
-    "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/deflection of beams standard resaults.md"
+    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/solving statically indeterminate beams.md"
   ]
 }

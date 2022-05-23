@@ -8,3 +8,5 @@ aliases: ["TODO"]
 
 Update: it got long.
 ![[final_62747752b48391007664e8b3_22720.mp4]]
+
+Also at some point in the summer redo statics 1, and kind of generally most early notes.
