@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md",
+            "file": "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/statically determinate and indeterminate beams.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DC",
+                "query": "statical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md",
+                "file": "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/statically determinate and indeterminate beams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/statically determinate and indeterminate beams.md",
+    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/solving statically indeterminate beams.md",
     "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md",
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/shear modulus.md",
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
@@ -122,8 +125,6 @@
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/polar second moment of area.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md",
-    "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor.md",
-    "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductance.md"
+    "Electrical and electronic systems/1 Electric circuits/5a Inductors/inductor.md"
   ]
 }
