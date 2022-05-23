@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### What is
 ## Equivalent circuit of a DC generator
 ### General equivalent circuit
-Here we place a resistor and [[0]] in series with the generator to represent it's properties.
+Here we place a resistor and [[inductor]] in series with the generator to represent it's properties.
 
 ![[Pasted image 20220210183324.png]]
 
