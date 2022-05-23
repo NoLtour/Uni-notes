@@ -7,11 +7,9 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
-            "mode": "preview",
-            "source": true
+            "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oscil",
+                "query": "integral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +55,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
+                "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +114,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
+    "Mathematics for Engineering and the Environment/Overall Read order.md",
+    "Mathematics for Engineering and the Environment/12US Integration 4/Integration 4 overview.md",
+    "Mathematics for Engineering and the Environment/12US Integration 4/double integrals with dependent limits.md",
+    "Mathematics for Engineering and the Environment/12US Integration 4/double integrals with independent limits.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
     "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/phasor representation of steady state forced vibration.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
-    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/forced oscillation of a unbalanced rotor.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/damping coefficient.md"
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/phasor representation of steady state forced vibration.md"
   ]
 }
