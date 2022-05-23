@@ -7,9 +7,11 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf"
+            "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational acceleration.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integral",
+                "query": "moment of inert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
+                "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational acceleration.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/conservation of angular momentum.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Mathematics for Engineering and the Environment/12US Integration 4/Integration 4 overview.md",
     "Mathematics for Engineering and the Environment/12US Integration 4/double integrals with dependent limits.md",
     "Mathematics for Engineering and the Environment/12US Integration 4/double integrals with independent limits.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
-    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
-    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/phasor representation of steady state forced vibration.md"
+    "Mechanics structures and materials/Statics 1/Statics 1 read order.md"
   ]
 }
