@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/standard Maclaurin series expansions.md",
+            "file": "Mathematics for Engineering and the Environment/9 Integration 2/volume of a solid of revolution.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maclaur",
+                "query": "volume of rev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/standard Maclaurin series expansions.md",
+                "file": "Mathematics for Engineering and the Environment/9 Integration 2/volume of a solid of revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9 Integration 2/volume of a solid of revolution.md",
     "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/standard Maclaurin series expansions.md",
     "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/Maclaurin series.md",
     "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/minors and cofactors (matrices).md",
@@ -124,7 +125,6 @@
     "Mathematics for Engineering and the Environment/10 Matrices 3/eigenvalues and eigenvectors.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/Integration as antiderivative/Integration by parts.md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
-    "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
-    "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf"
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md"
   ]
 }
