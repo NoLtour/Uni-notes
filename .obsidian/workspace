@@ -7,9 +7,11 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf"
+            "file": "Mathematics for Engineering and the Environment/10 Matrices 3/eigenvalues and eigenvectors.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integral",
+                "query": "eigenv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
+                "file": "Mathematics for Engineering and the Environment/10 Matrices 3/eigenvalues and eigenvectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/10 Matrices 3/eigenvalues and eigenvectors.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/General org/integration.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/MEE Intergration 1.md",
@@ -122,7 +125,6 @@
     "misc/UNFINISHED STUFF.md",
     "commutator.md",
     "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md",
-    "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md"
+    "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md"
   ]
 }
