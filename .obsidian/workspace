@@ -7,11 +7,9 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/8 Matrices 2/inverse matrix.md",
-            "mode": "preview",
-            "source": true
+            "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inverse",
+                "query": "integral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/8 Matrices 2/inverse matrix.md",
+                "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +114,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
+    "Mathematics for Engineering and the Environment/General org/integration.md",
+    "Mathematics for Engineering and the Environment/3 Intergration 1/MEE Intergration 1.md",
+    "Mathematics for Engineering and the Environment/3 Intergration 1/Definite and indefinite intergrals/Definite and indefinite intergrals.md",
     "Mathematics for Engineering and the Environment/8 Matrices 2/inverse matrix.md",
     "misc/UNFINISHED STUFF.md",
     "commutator.md",
     "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md",
     "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md"
+    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md"
   ]
 }
