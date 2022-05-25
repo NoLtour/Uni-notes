@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "misc/UNFINISHED STUFF.md",
-            "mode": "source",
+            "file": "Mathematics for Engineering and the Environment/8 Matrices 2/inverse matrix.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DC motor",
+                "query": "inverse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/UNFINISHED STUFF.md",
+                "file": "Mathematics for Engineering and the Environment/8 Matrices 2/inverse matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/8 Matrices 2/inverse matrix.md",
     "misc/UNFINISHED STUFF.md",
     "commutator.md",
     "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md",
@@ -123,7 +125,6 @@
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
-    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/solving statically indeterminate beams.md"
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md"
   ]
 }
