@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/10 Matrices 3/matrix in echelon form.md",
+            "file": "Mathematics for Engineering and the Environment/13 Statistics 1/conditional probablility.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "echelon",
+                "query": "probabli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/10 Matrices 3/matrix in echelon form.md",
+                "file": "Mathematics for Engineering and the Environment/13 Statistics 1/conditional probablility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/13 Statistics 1/conditional probablility.md",
     "Mathematics for Engineering and the Environment/10 Matrices 3/matrix in echelon form.md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md",
     "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
@@ -124,7 +125,6 @@
     "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Mathematics for Engineering and the Environment/General org/differentiation.md",
     "Mathematics for Engineering and the Environment/18 Differential equations 2/Differential equations 2 overview.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md",
-    "Mathematics for Engineering and the Environment/General org/integration.md"
+    "Mathematics for Engineering and the Environment/19U Further calculus 2/Further calculus 2 overview.md"
   ]
 }
