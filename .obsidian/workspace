@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/3 Intergration 1/Integration as antiderivative/Integration by parts.md",
+            "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "by parts",
+                "query": "damp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/3 Intergration 1/Integration as antiderivative/Integration by parts.md",
+                "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/Integration as antiderivative/Integration by parts.md",
     "Mathematics for Engineering and the Environment/10 Matrices 3/eigenvalues and eigenvectors.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
@@ -123,8 +125,6 @@
     "Mathematics for Engineering and the Environment/3 Intergration 1/MEE Intergration 1.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/Definite and indefinite intergrals/Definite and indefinite intergrals.md",
     "Mathematics for Engineering and the Environment/8 Matrices 2/inverse matrix.md",
-    "misc/UNFINISHED STUFF.md",
-    "commutator.md",
-    "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md"
+    "misc/UNFINISHED STUFF.md"
   ]
 }
