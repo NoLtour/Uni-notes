@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
+            "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fatigue",
+                "query": "cell potent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
+                "file": "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/material fatigue.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/ultimate tensile strength.md",
@@ -124,7 +125,6 @@
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/2 Phases/1 Solid solubility/Solid solubility notes.md",
     "Mechanics structures and materials/Materials/2 Phases/1 Solid solubility/phase diagram basics.md",
-    "Thermofluids/8U Phases and behaviours of s/phase diagrams.md",
-    "Thermofluids/8U Phases and behaviours of s/Phases and behaviour of substances notes.md"
+    "Thermofluids/8U Phases and behaviours of s/phase diagrams.md"
   ]
 }
