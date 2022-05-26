@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mohr",
+                "query": "shear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
