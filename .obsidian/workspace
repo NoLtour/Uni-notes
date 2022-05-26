@@ -7,12 +7,8 @@
         "id": "e3d3dd300327605c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
