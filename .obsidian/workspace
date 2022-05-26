@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+            "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/under damped natural frequency.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dampening",
+                "query": "natural fre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+                "file": "Mechanics structures and materials/Dynamics 1/6UU Vibration/under damped natural frequency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/under damped natural frequency.md",
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/springs in parallel and series.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/types of dampening (dynamics).md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/types of dampening (differentuially modeeled oscillator).md",
@@ -123,8 +125,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/cleavage (crytal).md",
     "Mechanics structures and materials/Materials/2 Phases/1 Solid solubility/Solid solubility notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/2 Phases/2 Partial solubility/Partial solubility notes.md",
-    "Mechanics structures and materials/Materials/2 Phases/3 Steel phase diagram/Steel phase diagrams notes.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/5 Mechanical Properties/yield strength.md"
+    "Mechanics structures and materials/Materials/2 Phases/2 Partial solubility/Partial solubility notes.md"
   ]
 }
