@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+            "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/strain transformation for plane stress.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+                "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/strain transformation for plane stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,14 +116,14 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/strain transformation for plane stress.md",
+    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/Strain measurement notes.md",
     "Mechanics structures and materials/Statics 2/1C  Pressure vessels/Pressure vessels notes.md",
     "Mechanics structures and materials/Statics 2/5 Stress transformation/stress transformation for plane stress.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
-    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md"
   ]
