@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
+            "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stagnation",
+                "query": "dimensional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
+                "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+    "Thermofluids/Thermofluids read order.md",
+    "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
     "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/dynamic pressure.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/rotational kinetic energy.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
     "Mechanics structures and materials/Dynamics 1/6UU Vibration/undamped free vibration (dynamics).md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/under damped natural frequency.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/springs in parallel and series.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
-    "Mechanics structures and materials/Dynamics 1/6UU Vibration/types of dampening (dynamics).md"
+    "Mechanics structures and materials/Dynamics 1/6UU Vibration/under damped natural frequency.md"
   ]
 }
