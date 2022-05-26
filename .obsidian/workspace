@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/10 Composites/Composites notes.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metal fa",
+                "query": "composit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/10 Composites/Composites notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/10 Composites/Composites notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/Fracture mechanics notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
@@ -124,7 +125,6 @@
     "misc/UNFINISHED STUFF.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed trusses.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/statically determinate trusses.md",
-    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/solving statically indeterminate beams.md",
-    "Mechanics structures and materials/Statics 2/7 Strain measurement/strain transformation for plane stress.md"
+    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/solving statically indeterminate beams.md"
   ]
 }
