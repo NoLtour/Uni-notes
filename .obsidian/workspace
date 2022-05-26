@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+            "file": "Mechanics structures and materials/Statics 2/1C  Pressure vessels/Pressure vessels notes.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youngs",
+                "query": "walled pre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+                "file": "Mechanics structures and materials/Statics 2/1C  Pressure vessels/Pressure vessels notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/Pressure vessels notes.md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
     "Mechanics structures and materials/Statics 2/5 Stress transformation/stress transformation for plane stress.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
@@ -124,7 +125,6 @@
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/minors and cofactors (matrices).md"
+    "Mathematics for Engineering and the Environment/6 Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md"
   ]
 }
