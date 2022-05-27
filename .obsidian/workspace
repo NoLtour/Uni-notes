@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-05-26.md",
-            "mode": "source",
+            "file": "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the product rule.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ratio",
+                "query": "chain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-05-26.md",
+                "file": "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the product rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the product rule.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/Basic rules of differentiation.md",
+    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the chain rule.md",
     "2022-05-26.md",
     "Mathematics for Engineering and the Environment/19U Further calculus 2/Alemberts ratio test.md",
     "Thermofluids/33 Surface friction and boundary layers/boundary layer.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed trusses.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/statically indeterminate trusses.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
-    "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
-    "Thermofluids/11 Processes, paths and reversibility/types of process.md",
-    "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md"
+    "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md"
   ]
 }
