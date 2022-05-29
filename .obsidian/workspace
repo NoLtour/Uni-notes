@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md",
-            "mode": "preview",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "equiv",
+                "query": "relative dens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
+    "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf",
+    "SESA1015/Flight mechanics/SESA1015_allOHPs(17).pdf",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/True airspeed.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md",
     "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the product rule.md",
-    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/Basic rules of differentiation.md",
-    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/What's the chain rule.md",
-    "2022-05-26.md",
-    "Mathematics for Engineering and the Environment/19U Further calculus 2/Alemberts ratio test.md",
-    "Thermofluids/33 Surface friction and boundary layers/boundary layer.md",
-    "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed trusses.md",
-    "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/statically indeterminate trusses.md",
-    "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md"
+    "Mathematics for Engineering and the Environment/2 Differentiation/Basic rules of differentiation/Basic rules of differentiation.md"
   ]
 }
