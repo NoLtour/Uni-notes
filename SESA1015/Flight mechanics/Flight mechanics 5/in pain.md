@@ -6,5 +6,3 @@ Me playing touhou, because fuck you:
 
 #### I have stumbled across this page at the end of the year, old me you are trash at touhou
 That said I still haven't beat that stage on lunatic
-
-![[2022-05-24 18-42-00 1.mkv]]
