@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
-            "mode": "source",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/maxamising range for a piston engined aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
@@ -124,7 +125,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing span.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md"
   ]
 }

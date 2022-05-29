@@ -14,11 +14,14 @@ This is caused from the downwash the wing uses to produce lift, it increases in 
 >> $C_L =$ [[Lift coefficient]]
 
 ^4d0b00
+
 ([[you use this a supprising amount]] so remember it)
 The constant $k$ from above can be calculated using:
 
 > $$ k = \frac{K}{\pi A} $$ 
+> $$ K = \frac{C_{Di}}{\pi A C_L^{2}} $$ 
 >> where:
+>> $k =$ a constant from [[induced drag coefficient#^4d0b00|this equation]]
 >> $K =$ another constant
 >> $A =$ [[Wing aspect ratio]]
 
