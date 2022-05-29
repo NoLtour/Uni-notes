@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
-            "mode": "preview",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "span",
+                "query": "range",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/maxamising range for a piston engined aircraft.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing span.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Mach number.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
-    "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf",
-    "SESA1015/Flight mechanics/SESA1015_allOHPs(17).pdf"
+    "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md"
   ]
 }

@@ -19,5 +19,9 @@ $$ \begin{align*}
 Remember since $L=W$.
 
 > ### $$ (L/D)_{max} = \frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  } $$ 
+>> where:
+>> $(L/D)_{max}=$ [[max lift to drag ratio]]
+>> $C_{Do}=$ [[form drag coefficient]]
+>> $=$
 
 ^570509
