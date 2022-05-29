@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
     "SESA1015/Flight mechanics/Flight mechanics 4/min drag lift coefficient in steady level flight.md",
@@ -124,7 +125,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
     "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/jet thrust variation in the stratosphere.md"
+    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md"
   ]
 }
