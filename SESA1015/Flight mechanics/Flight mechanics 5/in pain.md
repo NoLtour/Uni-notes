@@ -1,6 +1,9 @@
 #### It's still fun though
-Me playing touhou, because you have to be a masochist to do aero:
+Me playing touhou, because fuck you:
 ![[2021-11-17 22-59-00.mp4#play]]
 
 #### me
-![[images/video0-20.mov#play]]
+
+#### I have stumbled across this page at the end of the year, old me you are trash at touhou
+That said I still haven't beat that stage on lunatic
+
