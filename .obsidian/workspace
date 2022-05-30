@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 5/endurance equation.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endurance",
+                "query": "span",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 5/endurance equation.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing span.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/comparing maximum range and maximum endurance.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/maxamising endurance for a piston engined aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md"
+    "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md"
   ]
 }
