@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "speed of soun",
+                "query": "static stabi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
@@ -124,7 +125,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
     "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/stalling speed.md"
   ]
 }
