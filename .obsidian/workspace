@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/stalling speed.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mach number",
+                "query": "stall speed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/stalling speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4/stalling speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Mach number.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
@@ -124,7 +125,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance equation.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/comparing maximum range and maximum endurance.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md"
   ]
 }
