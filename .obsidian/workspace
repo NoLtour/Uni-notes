@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/stalling speed.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stall speed",
+                "query": "tail volume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/stalling speed.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/tail volume coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/stalling speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Mach number.md",
@@ -123,8 +125,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing span.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/endurance equation.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md"
   ]
 }
