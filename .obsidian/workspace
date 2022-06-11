@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+            "file": "Mechanics structures and materials/Statics 2/1C  Pressure vessels/stresses in a cylindrical pressure vessel.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adiaba",
+                "query": "pressure ves",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+                "file": "Mechanics structures and materials/Statics 2/1C  Pressure vessels/stresses in a cylindrical pressure vessel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,10 +116,10 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/stresses in a cylindrical pressure vessel.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
     "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
-    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/stresses in a cylindrical pressure vessel.md",
     "Mechanics structures and materials/Statics 2/1C  Pressure vessels/Pressure vessels notes.md",
     "Mechanics structures and materials/Statics 2/1C  Pressure vessels/thin walled pressure vessel assumptions.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
