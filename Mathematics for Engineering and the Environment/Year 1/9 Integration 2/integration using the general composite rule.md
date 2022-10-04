@@ -26,7 +26,7 @@ Alternatively you can replace g(x) with t (or some other letter) and use:
 
 ### Examples
 #### Example 1
-> Find the [[indefinate integral]] of $\int 2x\sqrt{x^{2}+2}\cdot dx$
+> Find the [[Indefinate integral]] of $\int 2x\sqrt{x^{2}+2}\cdot dx$
 
 $$\begin{align*}
 &\int 2x\sqrt{x^{2}+2}\cdot dx \\
@@ -39,7 +39,7 @@ $$\begin{align*}
 \end{align*}$$
 
 #### Example 2
-> Find the [[indefinate integral]] of $\int \frac{x+1}{x^{2}+2x +2}\cdot dx$
+> Find the [[Indefinate integral]] of $\int \frac{x+1}{x^{2}+2x +2}\cdot dx$
 $$\begin{align*}
 &\int \frac{x+1}{x^{2}+2x +2}\cdot dx \\
 && t &= x^{2}+2x +2\\

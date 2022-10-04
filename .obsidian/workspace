@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "98cf1978d69ee3f6",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
+=======
+        "id": "0df6c23a5b1955a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
+            "mode": "preview",
+            "source": true
+          }
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -73,6 +85,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +124,11 @@
     "direction": "horizontal",
     "width": 191
   },
+<<<<<<< Updated upstream
   "active": "98cf1978d69ee3f6",
+=======
+  "active": "0df6c23a5b1955a6",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
     "Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/Differential equations 3 overview.md",

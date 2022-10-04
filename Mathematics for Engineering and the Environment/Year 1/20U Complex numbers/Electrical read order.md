@@ -24,7 +24,7 @@ tags: ["NotesPage"]
 12) [[Thevenins equivalent circuit notes]]
 
 ### Electronics
-1 to 2 = [[(p3-38) Diodes and Transistors.pdf]]
+1 to 2 = [[Electrical and electronic systems/2 Electronics/(p3-38) Diodes and Transistors.pdf]]
 [[(p39-64) Operational Amplifiers.pdf]]
 [[(p65-94) Digital Electronics.pdf]]
 There is honestly too much to write and research rn, like wtf. I'll finish these notes over christmass [[UNFINISHED STUFF]]... probably (I'll finish these notes over easter.... (probably)). 
