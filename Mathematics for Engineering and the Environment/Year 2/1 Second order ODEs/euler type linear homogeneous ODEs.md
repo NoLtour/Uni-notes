@@ -19,4 +19,6 @@ What you'll note is the difference between this and a [[solving linear homogeneo
 
 ### Theory to solve it
 
-So basically if you recall the method from [[solving linear homogeneous constant-coefficient equations#Proofing solving linear homogeneous constant-coefficient equations Method the method|this proof]]
+So basically if you recall the method from [[solving linear homogeneous constant-coefficient equations#Proofing solving linear homogeneous constant-coefficient equations Method the method|this proof]], it's the same(ish). We need to find 2 [[linearly dependent and independent functions|linearly independent functions]] that solve the equation.
+
+Of course the first step is to guess what this function is, since this is a proof [[I am omnipitent ghuahahhd|my guess is right]]
