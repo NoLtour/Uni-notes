@@ -13,10 +13,17 @@ When solving, essentially what you are doing is attempting to find 2 [[linearly 
 (here I'm talking with reference to the equation above)
 In practice what this means is that you get 2 functions of $y(x)$ which can be subbed back into the [[homogeneous and nonhomogeneous differential equations|homogeneous equation]] and are [[linearly dependent and independent functions|linearly independent functions]] hence satisfying: $A \times y_{1} (x) \neq B \times y_{2} (x)$ ($A,B$ are constants)
 
-Once you have those two equations you can sub them into: $y(x) = c_{1} y_{1}(x) + c_{2} y_{2}(x)$ to get your solution for
+Once you have those two equations you can sub them into: $y(x) = c_{1} y_{1}(x) + c_{2} y_{2}(x)$ to get your solution for a general function of $y$. 
+
+#### Proofing [[solving linear homogeneous constant-coefficient equations#Method|the method]]
+
+So we start with some random linear homogeneous constant-coefficient equation
 
 
 ### Method
+
+^dfa318
+
 ![[linear homogeneous constant-coefficient equation#^9a6d21]] ^7adaea
 
 1) 
