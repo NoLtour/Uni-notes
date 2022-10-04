@@ -46,7 +46,11 @@ y &= A \times y_{1} (x) + B \times y_{2} (x) \\
 y &= A \times e^{\alpha_{1} x} + B \times e^{\alpha_{2} x}
 \end{align*}$$
 
-In the event that $\alpha_{1},$
+In the event that $\alpha_{1},\alpha_{2}$ are complex the above stuff still works but you'll have to simplify using [[representing complex numbers using angle and magnitude|euler's formula]]:
+$$\begin{align*}
+y &= A \times y_{1} (x) + B \times y_{2} (x) & \alpha_{1,2} &= a \pm b\\
+&
+\end{align*}$$
 
 
 ### Method (for constant coefficients)
