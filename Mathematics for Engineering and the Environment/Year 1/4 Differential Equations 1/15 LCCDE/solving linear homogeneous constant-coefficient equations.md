@@ -76,7 +76,14 @@ It should be noted that the term $\sqrt{ f^{2} - 4g }$ being zero is what causes
 $$\begin{align*}
  \gamma &= \frac{f \pm \sqrt{ f^{2} - 4g } }{2} & \alpha &= \frac{-f \pm \sqrt{ f^{2} - 4g } }{2} & f^{2} - 4g &= 0 \\
 \gamma &= \frac{f  }{2} & \alpha &= -\frac{f   }{2}\\
-\gamma &= -\alpha
+ \gamma &= -\alpha
+\end{align*}$$
+
+So now we have two [[linearly dependent and independent functions|linearly independent functions]] for $y$: $y_{1} = e^{\alpha x}, y_{2} = e^{-\alpha x}$
+which subbed back gets:
+$$\begin{align*}
+y &= A \times y_{1} (x) + B \times y_{2} (x)\\
+y &= e^{\alpha x} + B e^{-\alpha x}
 \end{align*}$$
 
 ### Method (for constant coefficients)
