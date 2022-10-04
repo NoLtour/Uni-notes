@@ -38,7 +38,7 @@ Since everything cancels nicely we can see that $y=e^{\alpha x}$ is valid, this 
 
 $$ \alpha = \frac{-f \pm \sqrt{ f^{2} - 4g } }{2} $$
 
-In an ideal world your solutions $\alpha_{1},\alpha_{2}$ are unique ($\alpha_{1}\neq \alpha_{2}$), if that's the case they can be substituted into your equation $y=e^{\alpha x}$ to give 2 [[linearly dependent and independent functions|linearly independent functions]]:
+In an ideal world your solutions $\alpha_{1},\alpha_{2}$ are unique ($\alpha_{1}\neq \alpha_{2}$), if that's the case they can be substituted into your equation $y=e^{\alpha x}$ to give 2 [[linearly dependent and independent functions|linearly independent functions]] (clearly the two equations $y_1,y_2$ are linearly independent since they have different exponents):
 
 $$\begin{align*}
 y &= A \times y_{1} (x) + B \times y_{2} (x) \\
@@ -56,6 +56,8 @@ y &= e^{ax}( (A+B)\cos (bx )  + (A-B) (j\sin (bx)  ) \\
 y &= e^{ax}( A\cos (bx )  +  jB\sin (bx)  )
 \end{align*}$$
 If your wondering what happened on the last two lines, since $A,B$ are arbitrary constants I just changed em while keeping the same symbol [[opaiwjfafw|for convenience]]. 
+
+Now the fun proof, what the fuq to do when $\alpha_{1} = \alpha_{2}$
 
 
 ### Method (for constant coefficients)
