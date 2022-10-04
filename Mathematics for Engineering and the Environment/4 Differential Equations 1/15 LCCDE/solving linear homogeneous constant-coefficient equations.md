@@ -8,6 +8,7 @@ tags: ["Question","QFormat3"]
 ### Additional theory
 
 
+
 ### Method
 ![[linear homogeneous constant-coefficient equation#^9a6d21]] ^7adaea
 
