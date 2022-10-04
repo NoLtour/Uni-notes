@@ -8,11 +8,10 @@ tags: ["Question","QFormat3"]
 ### Theory
 
 When solving, essentially what you are doing is attempting to find 2 [[linearly dependent and independent functions|linearly independent]] solutions of the [[homogeneous and nonhomogeneous differential equations|homogeneous equation]]: 
-> ### $$ \frac{d^{2}y}{dx^{2}} + p(x) \frac{dy}{dx} + q(x) = $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+> ### $$ \frac{d^{2}y}{dx^{2}} + p(x) \frac{dy}{dx} + q(x) = 0 $$
+
+(here I'm talking with reference to the equation above)
+In practice what this means is that you get 2 functions of $y(x)$ which can be subbed back into the [[homogeneous and nonhomogeneous differential equations|homogeneous equation]] and are [[lin]]
 
 ### Method
 ![[linear homogeneous constant-coefficient equation#^9a6d21]] ^7adaea
