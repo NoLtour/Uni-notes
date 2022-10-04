@@ -1,5 +1,5 @@
 ---
-aliases: ["homogeneous equation","nonhomogeneous equation"]
+aliases: ["homogeneous equation","nonhomogeneous equation","homogeneous"]
 tags: ["Question","QFormat3"]
 ---
 
