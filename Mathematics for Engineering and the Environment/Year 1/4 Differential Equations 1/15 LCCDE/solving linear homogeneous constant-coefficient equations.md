@@ -38,7 +38,15 @@ Since everything cancels nicely we can see that $y=e^{\alpha x}$ is valid, this 
 
 $$ \alpha = \frac{-f \pm \sqrt{ f^{2} - 4g } }{2} $$
 
-In an ideal world your solutions $\alpha_{1},\alpha_{2}$ are unique ($\alpha_{1}\neq \alpha_{2}$), if that's the case they can be substituted into your equation $y&=e^{\alpha x}$ to give 2 [[linearly dependent and independent functions|linearly independent functions]]
+In an ideal world your solutions $\alpha_{1},\alpha_{2}$ are unique ($\alpha_{1}\neq \alpha_{2}$), if that's the case they can be substituted into your equation $y=e^{\alpha x}$ to give 2 [[linearly dependent and independent functions|linearly independent functions]]:
+
+$$\begin{align*}
+y &= A \times y_{1} (x) + B \times y_{2} (x) \\
+& & y_{1} &= e^{\alpha_{1} x} & y_{1} &= e^{\alpha_{1} x}\\
+y &= A \times e^{\alpha_{1} x} + B \times e^{\alpha_{2} x}
+\end{align*}$$
+
+In the event that $\alpha_{1},$
 
 
 ### Method (for constant coefficients)
