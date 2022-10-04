@@ -25,8 +25,13 @@ $$\begin{align*}
 \frac{d^{2}y}{dx^{2}} + f \frac{dy}{dx} + g y &= 0
 \end{align*}$$
 
-
-
+From here we need to make an educated guess on a valid function of $y$, here lets use $y=e^{\alpha x}$:
+$$\begin{align*}
+ \frac{d^{2}y}{dx^{2}} + f \frac{dy}{dx} + g y &= 0 & y&=e^{\alpha x}\\
+ & & \frac{dy}{dx} &= \alpha e^{\alpha x}\\
+ & & \frac{dy^{2}}{dx^{2}} &= \alpha^{2} e^{\alpha x}\\
+\alpha^{2} e^{\alpha x} + f \alpha e^{\alpha x} + g e^{\alpha x} &= 0
+\end{align*}$$
 
 ### Method (for constant coefficients)
 
