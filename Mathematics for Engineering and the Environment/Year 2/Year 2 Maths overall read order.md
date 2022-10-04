@@ -10,10 +10,8 @@ I'm going to go according to the contents of the lecture notes given out with th
 ### The stuff
 
 #### 1 Ordinary differential equations
-##### Second order equations]]
+##### 1.1 [[Second order ODEs overview]]
 
-[[general case of second order linear ODEs]]
 
-[[solving linear homogeneous constant-coefficient equations|solving linear second order ODEs]]
 
 
