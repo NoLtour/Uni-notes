@@ -25,6 +25,8 @@ $$\begin{align*}
 \frac{d^{2}y}{dx^{2}} + f \frac{dy}{dx} + g y &= 0
 \end{align*}$$
 
+^9d621e
+
 From here we need to make an educated guess on a valid function of $y$, here lets use $y=e^{\alpha x}$:
 $$\begin{align*}
  \frac{d^{2}y}{dx^{2}} + f \frac{dy}{dx} + g y &= 0 & y&=e^{\alpha x}\\
@@ -57,8 +59,19 @@ y &= e^{ax}( A\cos (bx )  +  jB\sin (bx)  )
 \end{align*}$$
 If your wondering what happened on the last two lines, since $A,B$ are arbitrary constants I just changed em while keeping the same symbol [[opaiwjfafw|for convenience]]. 
 
-Now the fun proof, what the fuq to do when $\alpha_{1} = \alpha_{2}  = \alpha$, well it's actually quite simple really basically we just need to find another valid function of $y$ for [[solving linear homogeneous constant-coefficient equations^]] which is [[linearly dependent and independent functions|linearly independent]] of $y=e^{\apha x}$
+Now the fun proof, what the fuq to do when $\alpha_{1} = \alpha_{2}  = \alpha$, well it's actually quite simple really basically we just need to find another valid function of $y$ for [[solving linear homogeneous constant-coefficient equations#^{9d621e]] which is [[linearly dependent and independent functions|linearly independent]] of $y=e^{\apha x}$, lets guess $y=e^{-\gamma x}$: 
 
+$$\begin{align*}
+ \frac{d^{2}y}{dx^{2}} + f \frac{dy}{dx} + g y &= 0 & y&=e^{-\gamma x}\\
+ & & \frac{dy}{dx} &= -\gamma e^{-\gamma x}\\
+ & & \frac{dy^{2}}{dx^{2}} &= \gamma^{2} e^{-\gamma x}\\
+\gamma^{2} e^{-\gamma x} - f \gamma e^{-\gamma x} + g e^{-\gamma x} &= 0\\
+\gamma^{2} - f \gamma + g &= 0
+\end{align*}$$
+And then the method is the same as normal:
+$$\begin{align*}
+\gamma 
+\end{align*}$$
 
 ### Method (for constant coefficients)
 
