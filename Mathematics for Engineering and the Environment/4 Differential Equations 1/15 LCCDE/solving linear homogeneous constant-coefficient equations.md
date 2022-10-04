@@ -1,10 +1,14 @@
 ---
-aliases: [""]
+aliases: ["solving linear second order ordinary differential equations","solving linear second order ODEs"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is the method for
 ## Solving linear homogeneous constant-coefficient equations
+### Additional theory
+For second order linear differential equatio
+
+
 ### Method
 ![[linear homogeneous constant-coefficient equation#^9a6d21]] ^7adaea
 
