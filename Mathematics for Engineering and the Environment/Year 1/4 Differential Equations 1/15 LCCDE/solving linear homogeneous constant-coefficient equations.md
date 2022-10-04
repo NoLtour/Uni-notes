@@ -48,9 +48,10 @@ y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x}
 
 In the event that $\alpha_{1},\alpha_{2}$ are complex the above stuff still works but you'll have to simplify using [[representing complex numbers using angle and magnitude|euler's formula]]:
 $$\begin{align*}
-y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x} & \alpha_{1,2} &= a \pm jb & e^{\theta x} &= \cos (\theta x) + \sin (\theta x) \\
-& & & & e^{-\theta x} &= \cos (\theta x) - \sin (\theta x) \\
-y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x}
+y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x} & \alpha_{1,2} &= a \pm jb & e^{\theta } &= \cos (\theta ) + \sin (\theta ) \\
+y &= A  e^{(a + jb) x} + B e^{(a - jb) x} & & & e^{-\theta } &= \cos (\theta ) - \sin (\theta ) \\
+y &= e^{ax}(A  e^{jbx} + B e^{-jbx} ) \\
+y &= e^{ax}(A  e^{jbx} + B e^{-jbx} ) \\
 \end{align*}$$
 
 
