@@ -57,7 +57,7 @@ y &= e^{ax}( A\cos (bx )  +  jB\sin (bx)  )
 \end{align*}$$
 If your wondering what happened on the last two lines, since $A,B$ are arbitrary constants I just changed em while keeping the same symbol [[opaiwjfafw|for convenience]]. 
 
-Now the fun proof, what the fuq to do when $\alpha_{1} = \alpha_{2}$
+Now the fun proof, what the fuq to do when $\alpha_{1} = \alpha_{2}  = \alpha$, well it's actually quite simple really basically we just need to find another valid function of $y$ for [[solving linear homogeneous constant-coefficient equations^]] which is [[linearly dependent and independent functions|linearly independent]] of $y=e^{\apha x}$
 
 
 ### Method (for constant coefficients)
