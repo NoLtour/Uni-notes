@@ -15,9 +15,23 @@ If the charging p.d is removed the capacitor discharges producing a current thro
 
 Capacitors can be thought of as components that resist changes in [[potential difference|voltage]].
 
+#### Equation
+> ### $$ I(t) = \frac{dQ}{dt} = C \frac{d}{dt}V(t) $$ 
+> ### $$ V(t) = \frac{1}{C} \int^{t}_{t_{0}} I(t) \cdot dt + V(t_{0}) = \frac{1}{C} \int^{t}_{-\infty} I(t) \cdot dt$$ 
+>> where:
+>> $I(t)=$ current as a function of time
+>> $Q=$ charge
+>> $t=$ time
+>> $t_{0}=$ initial time
+>> $V(t)=$ voltage as a function of time
+>> $C=$ [[capacitance]]
+
+^e6fedd
+
 #### Calculating capacity
 ![[capacitance]]
 
 ![[calculating capacitance]]
 
 ![[energy stored in a capacitor]]
+

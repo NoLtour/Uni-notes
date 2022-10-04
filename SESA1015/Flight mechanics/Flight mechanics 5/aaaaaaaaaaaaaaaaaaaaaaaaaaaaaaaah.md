@@ -5,4 +5,10 @@
 ### Anime memes
 ![[olijhih.png]]
 ![[f86df6cf2c73522e387f09e0b948da3d.png]]
-![[R7ORxO7S6Oz6L8seWt8IoQFqBRK6DhaltSCEmEOh.png]]
+![[293_06fd970ec064b896.jpg]]
+![[Seymour_Skinners_Bizarre_Luncheon 1.mp4]]
+![[Im_at_soup_-_code_ment 1.mp4]]
+
+and after much waiting and anticipation the sequel.
+
+![[They_called_me_a_madman.mp4]]

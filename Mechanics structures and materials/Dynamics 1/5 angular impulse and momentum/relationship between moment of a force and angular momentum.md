@@ -1,5 +1,5 @@
 ---
-aliases: ["conservation of angular momentum"]
+aliases: ["conservation of angular momentum for particles"]
 tags: ["Question","QFormat3"]
 ---
 

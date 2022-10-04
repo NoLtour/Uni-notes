@@ -41,3 +41,6 @@ tags: ["NotesPage"]
 31) 
 32) [[Introduction to viscous flow notes]]
 33) [[Reynolds number and surface friction notes]]
+34) [[Pipe velocity distrobution notes]]
+35) [[Boundary layer separation intro notes]]
+36) [[Form and pressure drag notes]]

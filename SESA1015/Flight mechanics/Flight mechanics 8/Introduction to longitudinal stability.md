@@ -17,6 +17,7 @@ tags: ["NotesPage"]
 - [[tailplane lift coefficient]]
 - [[static margin]]
 
+[[UNFINISHED STUFF]]
 
 ## Expanded articles
 

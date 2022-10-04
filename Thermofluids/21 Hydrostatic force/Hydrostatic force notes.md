@@ -11,7 +11,7 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
-![[centre of force on a flat wall]]
+![[hydrostatic force on a flat wall]]
 
 ![[moments on a flat wall of a fluid container]]
 

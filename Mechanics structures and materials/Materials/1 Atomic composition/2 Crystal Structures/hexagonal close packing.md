@@ -17,4 +17,4 @@ Alternative view:
 - Highly symmetrical
 - Has close packed planes
 - Is a [[ABABAB stacking sequence]]
-- It is the smallest reapeatable unit of the [[ABABAB stacking sequence]].
+- It is the smallest repeatable unit of the [[ABABAB stacking sequence]].

@@ -15,11 +15,17 @@ f(x+0) &= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{''
 f(x) &= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ...
 \end{align*}$$
 
+^d36fab
+
 Hence any function can be calculated by:
 
 > ### $$ f(x)= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ... $$ 
+>> where:
+>> $|x| < 1$ it is quite accurate
 
-Link to [[standard Maclaurin series expansions]]
+^2648d4
+
+Link to [[standard Maclaurin series expansions]]. 
 
 ### Example
 

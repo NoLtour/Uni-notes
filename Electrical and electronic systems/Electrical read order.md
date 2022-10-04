@@ -16,7 +16,7 @@ tags: ["NotesPage"]
 4) [[Other Electromagnetic effects notes]]
 5) [[Circuit analysis notes]]
 6) [[KVL, potential dividers notes]]
-7) [[Capacitors]]
+7) [[capacitors]]
 8) [[Capacitor charging derivation]]
 9) [[Indictors notes]]
 10) [[Electrical resonance notes]]
@@ -25,12 +25,16 @@ tags: ["NotesPage"]
 
 ### Electronics
 1 to 2 = [[(p3-38) Diodes and Transistors.pdf]]
+[[(p39-64) Operational Amplifiers.pdf]]
+[[(p65-94) Digital Electronics.pdf]]
 There is honestly too much to write and research rn, like wtf. I'll finish these notes over christmass [[UNFINISHED STUFF]]... probably (I'll finish these notes over easter.... (probably)). 
 
 1) [[Semiconductor theory notes]]
 2) [[Diodes as rectifiers notes]]
 3) [[Zener diodes notes]]
 4) [[Diodes in clamp circuits notes]]
+5) [[Operational amplifiers notes]]
+6) [[boolean algebra]]
 
 ### Electric machines
 provided notes [[Electric Machines - notes(1).pdf]]
@@ -41,4 +45,10 @@ provided notes [[Electric Machines - notes(1).pdf]]
 5) [[DC machines 1 notes]] FILL IN GAPS BASED ON E NOTES [[UNFINISHED STUFF]]
 6) [[DC machines 2 notes]] FILL IN GAPS BASED ON E NOTES
 7) [[DC machines 3 notes]]
-8) [[AC waveform]]
+
+### AC circuits
+1) [[AC waveform]]
+2) [[AC passive components notes]]
+3) [[RL and AC circuits notes]]
+4) [[AC filters notes]]
+5) [[Complex power notes]]

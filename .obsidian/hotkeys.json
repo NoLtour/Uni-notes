@@ -79,5 +79,13 @@
       ],
       "key": "."
     }
+  ],
+  "templater-obsidian:Templates/flashcard template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }

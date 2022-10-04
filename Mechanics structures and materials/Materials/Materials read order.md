@@ -5,20 +5,16 @@ tags: ["NotesPage"]
 
 # Materials read order
 ### Based tunes
-![[the music - YouTube 1.mp3#play]]
+![[the music - YouTube 1.mp3]]
 
-Rewards for knowledge:
-- Where it is from: +2 Kromer
-- Exactly where it is from: +4 Kromer
-- The name: +3 Kromer
-- None of the above: -99 Kromer and -600000 Social credits
+You get 5 internet points if you know it.
+
+![[Alice Margatroid's theme - Doll Judgement (Remix by Ezel-Ash).mp3]]
 
 #### Learning goals
 - See why nature just dosn't want us to have nice things
-- See how nature goes about screwing us
-- See how we use those processes to our advantage
 - Build cool stuff inspite of the [[corrosion|insane amount of processes that want to destroy our stuff,]] which just makes it even more of a triamph over the natural world
-- See that material science is actually insanely interesting
+- Material science is actually insanely interesting
 
 ### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]

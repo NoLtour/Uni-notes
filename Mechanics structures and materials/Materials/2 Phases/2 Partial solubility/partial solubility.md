@@ -22,7 +22,7 @@ The limits of solubility are:
 - $C_{\alpha E }$ limit of Sn in Pb
 - $C_{\beta E}$ limit of Pb in Sn
 
-Basically the sections on the diagram that contain $\alpha \:and\:\beta$ are the area's in which a structure simular to the one in [[microstructure formation during equilibrium cooling for 2 elements with complete solid solubility#^86e2d7|solid solubility]] since no funky precipitates will form in your structure (untill you cross a [[solvus line]]). The region on the graph with $\alpha+\beta$ acctually represents where you get the formation of 2 distinct solids, entering into this region generally resaults in tomfoolary.
+Basically the sections on the diagram that contain $\alpha \:and\:\beta$ are the area's in which a structure simular to the one in [[microstructure formation during equilibrium cooling for 2 elements with complete solid solubility#^86e2d7|solid solubility]] since no funky precipitates will form in your structure (untill you cross a [[solvus line]]). The region on the graph with $\alpha+\beta$ acctually represents where you get the formation of 2 distinct solids, entering into this region generally resaults in [[mmm yes the technical term|tomfoolary]].
 
 $C_E$ is the [[eutectic point]].
 

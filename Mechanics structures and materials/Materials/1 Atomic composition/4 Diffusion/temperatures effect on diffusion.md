@@ -1,5 +1,5 @@
 ---
-aliases: ["diffusion rate","calculating diffusion"]
+aliases: ["diffusion rate","calculating diffusion","diffusion coefficient "]
 tags: ["Question","QFormat3"]
 ---
 
@@ -16,4 +16,5 @@ Diffusion coefficients vary with temperature according to:
 >> $T=$Absolute temerature
 
 ^425f8f
-
+The shape of the graph is:
+![[Pasted image 20220504160908.png|500]]

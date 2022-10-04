@@ -5,11 +5,16 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Wing loading ($w$)
-This is the lift force per unit area on the wing.
-> $$ w = \frac{L}{S}$$ 
+### Definition
+This is the weight per unit area on the wing.
+> $$ w = \frac{W}{S}$$ 
 >> where:
 >> $w=$ wing loading
->> $L=$ Lift
->> $S=$[[Wing plan area]]
+>> $W=$ Weight of plane
+>> $S=$ [[Wing plan area]]
 
 ^39f294
+
+### Exam question
+[[wing loading exam question|Exam question: define wing loading]]
+[[wing loading exam question 2|Exam question: Discuss the influence of wing loading on aircraft performance]]

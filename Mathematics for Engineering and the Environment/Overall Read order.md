@@ -6,7 +6,7 @@ tags: [""]
 # Overall Read order
 Sorted by thing:
 - [[differentiation]]
-- [[integration]]
+- [[integration]] (Also check this out [[single-page-integral-table.pdf]], it is fucking beautiful)
 - [[matrices (maths)|matrices]]
 
 
@@ -30,3 +30,10 @@ Test 3:
 13) [[Statistics 1 overview]]
 14) [[Statistics 2 overview]]
 15) [[Functions overview]]
+
+Final assessment (Don't you [[my honest reaction|love]] being taught right up to the exam week):
+16) [[Differentiation 2 overview]]
+17) [[Integration 3 overview]]
+18) [[Differential equations 2 overview]]
+19) [[Further calculus 2 overview]]
+20) [[Complex numbers 2 overview]]

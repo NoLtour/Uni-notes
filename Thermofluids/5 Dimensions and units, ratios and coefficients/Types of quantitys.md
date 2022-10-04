@@ -19,3 +19,6 @@ Further elaboration:
 ![[kinematic quantitys]]
 
 ![[dynamic quantitys]]
+
+### A list of more
+![[Pasted image 20220515113802.png]]

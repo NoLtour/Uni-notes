@@ -14,19 +14,19 @@ An example can be found at [[parallel axis theorem and other example#Using the p
 >> $I_{zz}=$ [[second moment of area]]
 >> $A=$ Area of shape
 >> $b=$ Separation between center line of shape and [[neutral surface and neutral axis|neutral axis]]
+>> ![[Pasted image 20220521103931.png]]
+
 
 ### Setup
 Suppose you want to use on of the [[standard results for second moment of area]] for a shape that isn't on the [[neutral surface and neutral axis|neutral axis]]:
 
-![[Pasted image 20211115100244.png]]
+![[Pasted image 20220521103931.png]]
 
-But instead has centre:
-- $y' = y+b$
-- $z' = z+a$
+But instead it's centres now off.
 
 These *parallel axis* are meant to be used instead, see where this is going?
 
-### Maths
+### Maths [[UNFINISHED STUFF]] (somethings wrong)
 $$\begin{align*}
    I_{z'z'} &= \int \int (y+b)^{2} \cdot dydz\\
 &= \int \int   y^{2}+2by+b^{2}   \cdot dydz\\

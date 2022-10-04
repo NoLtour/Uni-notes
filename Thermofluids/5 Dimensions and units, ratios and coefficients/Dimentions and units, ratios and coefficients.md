@@ -17,3 +17,4 @@ tags: ["NotesPage"]
 
 ![[prefixes for units]]
 
+![[key scaling ratios]]

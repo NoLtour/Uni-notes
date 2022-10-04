@@ -17,9 +17,8 @@ These are useful when doing calculations on [[p-v diagrams]] since they can be u
 
 ##### Pressure volume temp relationship
 Simply [[ideal gas law]]:
-> ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
+> ### $$ \frac{ V_1}{T_1} = \frac{ V_2}{T_2} $$ 
 >> where:
->> $P=$ Pressure
 >> $V=$ Volume
 >> $T=$ Temperature
 
@@ -51,10 +50,13 @@ from [[pressure volume work]]:
 >> $C_p=$ [[constant pressure specific heat]]
 
 ##### [[enthalpy]] change
-> ### $$ Q_{12} = E_{h12} $$ 
+> ### $$ d E_{h} = C_{p} m dT = dQ $$ 
 >> where:
->> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
->> $E_{h12}=$ [[enthalpy]] change from starting to ending conditions
+>> $C_{p}=$ [[constant pressure specific heat]]
+>> $E_{h}=$ [[enthalpy]] 
+>> $m=$ mass of [[ideal gas law|ideal gas]]
+>> $T=$ abs temp
+>> $Q=$ [[heat]]
 
 ### Uses
 - boilers

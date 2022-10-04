@@ -12,8 +12,9 @@ There are 4 [[process (thermodynamics)|process]] types you need to know, you als
 - [[isochoric heat transfer]]
 - [[isobaric expansion or compression]]
 - [[isothermal expansion or compression]]
-- [[adiabetic expansion or compression]]
+- [[adiabatic expansion or compression]]
 
+Plus [[Joule expansion]].
 
 ### The embeds
 #### General case
@@ -23,4 +24,5 @@ There are 4 [[process (thermodynamics)|process]] types you need to know, you als
 ![[isochoric heat transfer]]
 ![[isobaric expansion or compression]]
 ![[isothermal expansion or compression]]
-![[adiabetic expansion or compression]]
+![[adiabatic expansion or compression]]
+![[Joule expansion]]

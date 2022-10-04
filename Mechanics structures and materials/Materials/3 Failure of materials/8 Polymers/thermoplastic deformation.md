@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### Describe
-## [[Thermoplastic]] deformation
+## [[thermoplastic]] deformation
 ### Forces that resist deformation
 There are 2 forces that dominate this in polymers:
 - Covalent intra-chain bonding, it is the covalent bonds formed between the monomers and is incredibly strong

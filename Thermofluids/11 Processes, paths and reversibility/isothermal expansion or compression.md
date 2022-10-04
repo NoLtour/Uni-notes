@@ -30,7 +30,8 @@ The [[ideal gas law]] can be used where $T$ is constant:
 >> $V=$ Volume
 
 ##### Conservation of energy
-> ### $$ Q_{12} - W_{12} = E_{u12} $$ 
+> ### $$ Q_{12} - W_{12} = E_{u12} = 0 $$ 
+> ### $$ E_{u12} = 0$$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
@@ -51,10 +52,12 @@ from [[pressure volume work]]:
 >> $W_{12}=$ work done from starting to ending conditions
 
 ##### [[enthalpy]] change
-> ### $$ Q_{12} = E_{h12} $$ 
+> ### $$ d E_{h} = C_{p} m dT $$ 
 >> where:
->> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
->> $E_{h12}=$ [[enthalpy]] change from starting to ending conditions
+>> $C_{p}=$ [[constant pressure specific heat]]
+>> $E_{h}=$ [[enthalpy]] 
+>> $m=$ mass of [[ideal gas law|ideal gas]]
+>> $T=$ abs temp
 
 ##### [[entropy|Entropy]] change
 

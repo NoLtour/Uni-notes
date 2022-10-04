@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["newtonian fluid"]
 tags: ["Question","QFormat3"]
 ---
 

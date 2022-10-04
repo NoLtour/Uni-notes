@@ -9,9 +9,9 @@ These are the physical fields that surround electrically charged particles, they
 
 #### Equation
 
-> $$ E = \frac{F}{q} $$ 
+> $$ E = \frac{F}{Q} $$ 
 >> where:
->> $E=$ Electric field 
+>> $E=$ Electric field (Volts/meter)
 >> $F=$ Force
 >> $Q=$ Coulomb
 

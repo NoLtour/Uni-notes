@@ -39,7 +39,7 @@ So:
 Hence the min power speed is less than the min drag speed.
 
 ### Relationships at min power speed
-
+![[Pasted image 20220511185433.png]]
 At the minimum power speed all the following are true:
 
 #### Induced drag and form drag
