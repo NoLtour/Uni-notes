@@ -29,7 +29,8 @@ x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y &= 0 & y &= x^{k} \\
 & & \frac{d^{2}y}{dx^{2}} &= k (k-2) x^{k-2}\\
 x^{2} k (k-2) x^{k-2} + bx k x^{k-1} + c x^{k} &= 0\\
 k (k-2) x^{k} + bx x^{k} + c x^{k} &= 0\\
-k^{2} + (c-1)k + d &= 0
+k^{2} + (b-1)k + c &= 0\\
+k &= \frac{ (b-1) \pm \sqrt{ (b-1)^{2} - 4c } }{ 2 }
 \end{align*}$$
 
-
+If the values of $k$ are n
