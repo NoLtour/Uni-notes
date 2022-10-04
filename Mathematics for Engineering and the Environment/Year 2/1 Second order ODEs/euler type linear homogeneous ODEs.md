@@ -13,6 +13,10 @@ So these are actually quite cool (and common), as you'll see in a bit this is a 
 
 What you'll note is the difference between this and a [[solving linear homogeneous constant-coefficient equations|linear second order homogeneous ODE]] is the multiplication by decreasing powers of $x$, these actually cancel out with the differentials leading to a dimensionless equation.
 
-### Solvei
+### Solving it
+
+
 
 ### Theory to solve it
+
+So basically if you recall the method from [[solving linear homogeneous constant-coefficient equations#Proofing solving linear homogeneous constant-coefficient equations Method the method|this proof]]
