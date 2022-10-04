@@ -30,8 +30,15 @@ $$\begin{align*}
  \frac{d^{2}y}{dx^{2}} + f \frac{dy}{dx} + g y &= 0 & y&=e^{\alpha x}\\
  & & \frac{dy}{dx} &= \alpha e^{\alpha x}\\
  & & \frac{dy^{2}}{dx^{2}} &= \alpha^{2} e^{\alpha x}\\
-\alpha^{2} e^{\alpha x} + f \alpha e^{\alpha x} + g e^{\alpha x} &= 0
+\alpha^{2} e^{\alpha x} + f \alpha e^{\alpha x} + g e^{\alpha x} &= 0\\
+\alpha^{2} + f \alpha + g &= 0
 \end{align*}$$
+
+Since everything cancels nicely we can see that $y=e^{\alpha x}$ is valid, this also leaves the equation in a solvable form that you are familiar with from when you first learn this method. Now by calculating the values of $\alpha$ we can hopefully get 2 [[linearly dependent and independent functions|linearly independent functions]] of $y(x)$.
+
+
+
+
 
 ### Method (for constant coefficients)
 
