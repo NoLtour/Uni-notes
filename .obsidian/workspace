@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3d3dd300327605c",
+        "id": "98cf1978d69ee3f6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homogen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 228
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -77,11 +73,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -111,19 +106,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184
+    "width": 191
   },
-  "active": "e3d3dd300327605c",
+  "active": "98cf1978d69ee3f6",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/homogeneous and nonhomogeneous differential equations.md",
-    "Mathematics for Engineering and the Environment/20U Complex numbers/Complex numbers 2 overview.md",
-    "Mathematics for Engineering and the Environment/20U Complex numbers/arg (complex numbers).md",
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
-    "Mathematics for Engineering and the Environment/Overall Read order.md",
-    "README.md",
-    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/stresses in a cylindrical pressure vessel.md"
+    "Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
+    "Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/Differential equations 3 overview.md",
+    "Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/linear differential equation.md",
+    "Mathematics for Engineering and the Environment/Year 1/Overall Read order.md",
+    "Mathematics for Engineering and the Environment/Year 1/19U Further calculus 2/Further calculus 2 overview.md",
+    "Mathematics for Engineering and the Environment/Year 1/20U Complex numbers/Complex numbers 2 overview.md",
+    "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/Differential equations 2 overview.md",
+    "Mathematics for Engineering and the Environment/Year 1/16 Differentiation 2/Differentiation 2 overview.md",
+    "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of linear differential equations.md",
+    "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md"
   ]
 }
