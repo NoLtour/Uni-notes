@@ -7,7 +7,12 @@ tags: ["Question","QFormat3"]
 ## Solving linear homogeneous constant-coefficient equations
 ### Theory
 
-When solv
+When solving, essentially what you are doing is attempting to find 2 [[linearly dependent and independent functions|linearly independent]] solutions of the [[homogeneous and nonhomogeneous differential equations|homogeneous equation]]: 
+> ### $$ \frac{d^{2}y}{dx^{2}} + p(x) \frac{dy}{dx} + q(x) = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Method
 ![[linear homogeneous constant-coefficient equation#^9a6d21]] ^7adaea
