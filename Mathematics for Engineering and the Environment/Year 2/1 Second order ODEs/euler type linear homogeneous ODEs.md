@@ -5,8 +5,14 @@ tags: []
 
 ## Euler type linear homogeneous ODEs
 
+### What it is
+
 So these are actually quite cool (and common), as you'll see in a bit this is a [[homogeneous and nonhomogeneous differential equations|homogeneous]] Euler type:
 
 > ### $$ x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y = 0 $$ 
 
-What you'
+What you'll note is the difference between this and a [[solving linear homogeneous constant-coefficient equations|linear second order homogeneous ODE]] is the multiplication by decreasing powers of $x$, these actually cancel out with the differentials leading to a dimensionless equation.
+
+### Solvei
+
+### Theory to solve it
