@@ -5,6 +5,9 @@ tags: ["Question","QFormat3"]
 
 #### What is the method for
 ## Solving linear homogeneous constant-coefficient equations
+### Additional theory
+
+
 ### Method
 ![[linear homogeneous constant-coefficient equation#^9a6d21]] ^7adaea
 

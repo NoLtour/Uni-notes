@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
-            "mode": "preview",
+            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
+                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
     "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/homogeneous and nonhomogeneous differential equations.md",
     "Mathematics for Engineering and the Environment/20U Complex numbers/Complex numbers 2 overview.md",
     "Mathematics for Engineering and the Environment/20U Complex numbers/arg (complex numbers).md",
@@ -124,7 +125,6 @@
     "README.md",
     "Mechanics structures and materials/Statics 2/1C  Pressure vessels/stresses in a cylindrical pressure vessel.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
-    "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md"
   ]
 }
