@@ -11,4 +11,5 @@ I'm going to go according to the contents of the lecture notes given out with th
 
 #### 1 Ordinary differential equations
 ##### Second order equations
-[[solution of linear differential equations]]
+![[solving linear homogeneous constant-coefficient equations|solving linear second order ODEs]]
+![[general case of ODEs]]
