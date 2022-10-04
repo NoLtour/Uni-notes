@@ -59,7 +59,7 @@ y &= e^{ax}( A\cos (bx )  +  jB\sin (bx)  )
 \end{align*}$$
 If your wondering what happened on the last two lines, since $A,B$ are arbitrary constants I just changed em while keeping the same symbol [[opaiwjfafw|for convenience]]. 
 
-[[tmp stuff please ignoreish]]
+[[tmp stuff please ignoreish]] [[UNFINISHED STUFF]]
 
 ### Method (for constant coefficients)
 
