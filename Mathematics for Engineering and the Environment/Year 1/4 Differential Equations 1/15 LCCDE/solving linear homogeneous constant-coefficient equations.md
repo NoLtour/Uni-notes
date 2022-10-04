@@ -36,8 +36,9 @@ $$\begin{align*}
 
 Since everything cancels nicely we can see that $y=e^{\alpha x}$ is valid, this also leaves the equation in a solvable form that you are familiar with from when you first learn this method. Now by calculating the values of $\alpha$ we can hopefully get 2 [[linearly dependent and independent functions|linearly independent functions]] of $y(x)$.
 
+$$ \alpha = \frac{-f \pm \sqrt{ f^{2} - 4g } }{2} $$
 
-
+In an ideal world your solutions $\alpha_{1},\alpha_{2}$ are unique ($\alpha_{1}\neq \alpha_{2}$), if that's the case they can be substituted into your equation $y&=e^{\alpha x}$ to give 2 [[linearly dependent and independent functions|linearly independent functions]]
 
 
 ### Method (for constant coefficients)
