@@ -69,8 +69,14 @@ $$\begin{align*}
 \gamma^{2} - f \gamma + g &= 0
 \end{align*}$$
 And then the method is the same as normal:
+
+$$ \gamma = \frac{--f \pm \sqrt{ f^{2} - 4g } }{2} $$
+
+It should be noted that the term $\sqrt{ f^{2} - 4g }$ being zero is what causes $\alpha$ to only have a single root, which also applies to $\gamma$ but this also means that:
 $$\begin{align*}
-\gamma 
+ \gamma &= \frac{f \pm \sqrt{ f^{2} - 4g } }{2} & \alpha &= \frac{-f \pm \sqrt{ f^{2} - 4g } }{2} & f^{2} - 4g &= 0 \\
+\gamma &= \frac{f  }{2} & \alpha &= -\frac{f   }{2}\\
+\gamma &= -\alpha
 \end{align*}$$
 
 ### Method (for constant coefficients)
