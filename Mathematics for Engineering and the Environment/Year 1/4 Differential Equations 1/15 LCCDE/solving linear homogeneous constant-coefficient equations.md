@@ -5,10 +5,10 @@ tags: ["Question","QFormat3"]
 
 #### What is the method for
 ## Solving linear homogeneous constant-coefficient equations
-### Theory
+### Theory (first part covers general case)
 
 When solving, essentially what you are doing is attempting to find 2 [[linearly dependent and independent functions|linearly independent]] solutions of the [[homogeneous and nonhomogeneous differential equations|homogeneous equation]]: 
-> ### $$ \frac{d^{2}y}{dx^{2}} + p(x) \frac{dy}{dx} + q(x) = 0 $$
+> ### $$ \frac{d^{2}y}{dx^{2}} + p(x) \frac{dy}{dx} + q(x)y = 0 $$
 
 (here I'm talking with reference to the equation above)
 In practice what this means is that you get 2 functions of $y(x)$ which can be subbed back into the [[homogeneous and nonhomogeneous differential equations|homogeneous equation]] and are [[linearly dependent and independent functions|linearly independent functions]] hence satisfying: $A \times y_{1} (x) \neq B \times y_{2} (x)$ ($A,B$ are constants)
@@ -17,10 +17,18 @@ Once you have those two equations you can sub them into: $y(x) = c_{1} y_{1}(x) 
 
 #### Proofing [[solving linear homogeneous constant-coefficient equations#Method|the method]]
 
-So we start with some random linear homogeneous constant-coefficient equation
+So we start with some random linear homogeneous constant-coefficient equation: 
+$$ a \frac{d^{2}y}{dx^{2}} + b \frac{dy}{dx} + c y = 0$$
+This can then be rearranged:
+$$\begin{align*}
+\frac{d^{2}y}{dx^{2}} + \frac{b}{a} \frac{dy}{dx} + \frac{c}{a} y &= 0\\
+\frac{d^{2}y}{dx^{2}} + f \frac{dy}{dx} + g y &= 0
+\end{align*}$$
 
 
-### Method
+
+
+### Method (for constant coefficients)
 
 ^dfa318
 
