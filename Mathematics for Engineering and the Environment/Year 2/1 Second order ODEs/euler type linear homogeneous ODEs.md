@@ -40,4 +40,10 @@ y &= A y_{1} + B y_{2} & y_{1} &= x^{k_{1}} & y_{2} &= x^{k_{2}} \\
 y &= A x^{k_{1}} + B x^{k_{2}}
 \end{align*}$$
 
-Else in the case where $k_{1} = k_{2}$ or is complex instead of using $y=x^{k}$ 
+Else in the case where $k_{1} = k_{2}$ or is complex instead of using $y=x^{k}$ substitute $t=\log(x)$:
+
+$$\begin{align*}
+x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y &= 0 & t &= \log(x) \\
+&...\\
+ \frac{d^{2}y}{dt^{2}} + (b-1) \frac{dy}{dt} + c y &= 0 
+\end{align*}$$
