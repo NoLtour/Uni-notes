@@ -33,4 +33,11 @@ k^{2} + (b-1)k + c &= 0\\
 k &= \frac{ (b-1) \pm \sqrt{ (b-1)^{2} - 4c } }{ 2 }
 \end{align*}$$
 
-If the values of $k$ are n
+If the values of $k$ are not complex or duplicates every thing's easy (note this part still works with complex it's just really painful): 
+
+$$\begin{align*}
+y &= A y_{1} + B y_{2} & y_{1} &= x^{k_{1}} & y_{2} &= x^{k_{2}} \\
+y &= A x^{k_{1}} + B x^{k_{2}}
+\end{align*}$$
+
+Else in the case where $k_{1} = k_{2}$ or is complex instead of using $y=x^{k}$ 
