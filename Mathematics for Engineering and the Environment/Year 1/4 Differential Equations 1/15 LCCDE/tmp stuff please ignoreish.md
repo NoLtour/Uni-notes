@@ -1,4 +1,4 @@
-# PR
+# PROB WRONG
 
 Now the fun proof, what the fuq to do when $\alpha_{1} = \alpha_{2}  = \alpha$, well it's actually quite simple really basically we just need to find another valid function of $y$ for [[solving linear homogeneous constant-coefficient equations#^{9d621e]] which is [[linearly dependent and independent functions|linearly independent]] of $y=e^{\apha x}$, lets guess $y=e^{-\gamma x}$: 
 
