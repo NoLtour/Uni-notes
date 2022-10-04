@@ -29,5 +29,7 @@ x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y &= 0 & y &= x^{k} \\
 & & \frac{d^{2}y}{dx^{2}} &= k (k-2) x^{k-2}\\
 x^{2} k (k-2) x^{k-2} + bx k x^{k-1} + c x^{k} &= 0\\
 k (k-2) x^{k} + bx x^{k} + c x^{k} &= 0\\
- &= 0
+k^{2} + (c-1)k + d &= 0
 \end{align*}$$
+
+
