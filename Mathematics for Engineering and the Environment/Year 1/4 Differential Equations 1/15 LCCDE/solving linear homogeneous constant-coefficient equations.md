@@ -48,11 +48,14 @@ y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x}
 
 In the event that $\alpha_{1},\alpha_{2}$ are complex the above stuff still works but you'll have to simplify using [[representing complex numbers using angle and magnitude|euler's formula]]:
 $$\begin{align*}
-y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x} & \alpha_{1,2} &= a \pm jb & e^{\theta } &= \cos (\theta ) + \sin (\theta ) \\
-y &= A  e^{(a + jb) x} + B e^{(a - jb) x} & & & e^{-\theta } &= \cos (\theta ) - \sin (\theta ) \\
+y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x} & \alpha_{1,2} &= a \pm jb & e^{\theta } &= \cos (\theta ) + j\sin (\theta ) \\
+y &= A  e^{(a + jb) x} + B e^{(a - jb) x} & & & e^{-\theta } &= \cos (\theta ) - j\sin (\theta ) \\
 y &= e^{ax}(A  e^{jbx} + B e^{-jbx} ) \\
-y &= e^{ax}(A  e^{jbx} + B e^{-jbx} ) \\
+y &= e^{ax}(A  (\cos (bx ) + j\sin (bx)) + B (\cos (bx ) - j\sin (bx))  ) \\
+y &= e^{ax}( (A+B)\cos (bx )  + (A-B) (j\sin (bx)  ) \\
+y &= e^{ax}( A\cos (bx )  +  jB\sin (bx)  )
 \end{align*}$$
+If your wondering what happened on the last two lines, since $A,B$ are arbitrary constants I just changed em while keeping the same symbol [[opaiwjfafw|for convenience]]. 
 
 
 ### Method (for constant coefficients)
