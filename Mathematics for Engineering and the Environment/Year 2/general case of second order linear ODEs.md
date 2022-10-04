@@ -20,4 +20,11 @@ Often written in standard form instead (the [[first shitpost of year 2|conversio
 
 #### Homogeneous equation
 
-This is the special case where $r \equiv 0$
+This is the special case where $r(x) \equiv 0$ hence:
+
+> ### $$ \frac{d^{2}y}{dx^{2}} + p(x) \frac{dy}{dx} + q(x)y = 0 $$ 
+
+Which is of course quite easy to solve [[solving linear homogeneous constant-coefficient equations|using first year stuff]].
+
+
+

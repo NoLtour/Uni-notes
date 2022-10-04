@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Year 2/general case of second order linear ODEs.md",
+            "file": "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/general case of second order linear ODEs.md",
+                "file": "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/first shitpost of year 2.md",
     "Mathematics for Engineering and the Environment/Year 2/general case of second order linear ODEs.md",
+    "Mathematics for Engineering and the Environment/Year 2/first shitpost of year 2.md",
     "Templates/SESA Notes.md",
     "Templates/SESA question F3.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
