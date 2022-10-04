@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/20U Complex numbers/Complex numbers 2 overview.md",
+            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/homogeneous and nonhomogeneous differential equations.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complex",
+                "query": "homogen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/20U Complex numbers/Complex numbers 2 overview.md",
+                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/homogeneous and nonhomogeneous differential equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "e3d3dd300327605c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/20U Complex numbers/Complex numbers 2 overview.md",
     "Mathematics for Engineering and the Environment/20U Complex numbers/arg (complex numbers).md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
@@ -124,7 +125,6 @@
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
     "Thermofluids/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
-    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/Pressure vessels notes.md",
-    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/thin walled pressure vessel assumptions.md"
+    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/Pressure vessels notes.md"
   ]
 }
