@@ -12,3 +12,8 @@ tags: ["NotesPage"]
 - [[Inhomogeneous linear second order ODEs]]
 
 ## Expanded articles
+
+![[general case of second order linear ODEs]]
+![[solving linear homogeneous constant-coefficient equations|solving linear second order ODEs]]
+![[euler type linear homogeneous ODEs]]
+![[Inhomogeneous linear second order ODEs]]

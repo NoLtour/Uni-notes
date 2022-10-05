@@ -77,4 +77,4 @@ $$ y_{p}=Axe^{-2x} \to y_{p}=Ax^{2}e^{-2x} $$
 Solve:
 $$ \ddot{y} + 4\dot{y} + 4y = \ln\left( \tan\left( x^{-\frac{69x}{3}} \right) \right) $$
 
-Here as you can see the [[source term]] is "fucking bullshit" (that is [[yeah lmao fuck that|the term used in industry]]), the reality is often there is no obvious guess or it is just plain unsolvable (at least using current mathematical techniques) at which  
+Here as you can see the [[source term]] is "fucking bullshit" (that is [[yeah lmao fuck that|the term used in industry]]), the reality is often there is no obvious guess or it is just plain unsolvable (at least using current mathematical techniques). 
