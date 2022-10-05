@@ -29,7 +29,7 @@ $$ y_{c} = c_{1} e^{-2x} + c_{2} xe^{-2x} \to y_{c} = e^{-2x} (c_{1} + x c_{2}) 
 
 This one gave us the functions $y_{1}=e^{-2x}$ and $y_{2}=xe^{-2x}$ (it was a repeated root), so we need to ensure going forward that our [[particular integral]] we form contains no [[linearly dependent and independent functions|linearly dependent functions]] with $e^{-2x},xe^{-2x}$.
 
-So now we need to take a look at our [[source term]] and break it into l
+So now we need to take a look at our [[source term]] and break it into bits that will probably differentiate while making sure not to have them be [[linearly dependent and independent functions|linearly dependent functions]] in context to our established $y_{1},y_{2}$.
 
 $$\begin{align*}
 4x &\to Ax + B\\
