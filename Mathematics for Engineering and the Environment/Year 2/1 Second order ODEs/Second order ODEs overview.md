@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Second order ODEs overview
 
 #### Intro and contents
 - [[general case of second order linear ODEs]]
