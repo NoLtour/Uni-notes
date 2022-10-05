@@ -15,9 +15,22 @@ What you'll note is the difference between this and a [[solving linear homogeneo
 
 ### Solving it
 
+#### The case where k is real and has 2 solutions
+
 > ### $$ x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y = 0 $$ 
-> ### $$ k = \frac{ (b-1) \pm \sqrt{ (b-1)^{2} - 4c } }{ 2 } $$ 
->> where:
+> ### $$ k_{1,2} = \frac{ (b-1) \pm \sqrt{ (b-1)^{2} - 4c } }{ 2 } $$ 
+> ### $$ y = A x^{k_{1}} + B x^{k_{2}} $$ 
+>> solving:
+>> Simply sub the values of $k_{1},k_{2}$ 
+>> $=$
+>> $=$
+
+#### The case where k is complex or duplicate
+
+> ### $$ x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y = 0 $$ 
+> ### $$  \frac{d^{2}y}{dt^{2}} + (b-1) \frac{dy}{dt} + c y = 0 $$ 
+> ### $$ t=\ln x $$ 
+>> solving:
 >> $=$ 
 >> $=$
 >> $=$
