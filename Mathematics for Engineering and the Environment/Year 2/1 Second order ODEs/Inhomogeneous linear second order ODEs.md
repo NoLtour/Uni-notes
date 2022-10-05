@@ -28,8 +28,12 @@ $$\begin{align*}
 So your first guess for this situation would be that $y_{P}=Ax+B+Ce^{3x}$ where $A,B,C$ are constants which if found create a valid [[particular integral]] you get a valid final answer:
 
 $$\begin{align*}
-y_{P}&=Ax+B+Ce^{3x}\\
-\dot{y}_{P} &= A + 3Ce^{3x}\\
-\ddot{y}_{P} &= 9Ce^{3x}\\
-&
+\ddot{y} + 4\dot{y} + 4y &= 4x + 25e^{3x} &y_{P}&=Ax+B+Ce^{3x}\\
+&&\dot{y}_{P} &= A + 3Ce^{3x}\\
+&& \ddot{y}_{P} &= 9Ce^{3x}\\
+9Ce^{3x} + 4(A + 3Ce^{3x}) + 4(Ax+B+Ce^{3x}) &=4x + 25e^{3x}\\
+25Ce^{3x} + 4A + 4Ax+4B &= 4x + 25e^{3x}
+\end{align*}$$
+$$\begin{align*}
+25C +  &= 
 \end{align*}$$
