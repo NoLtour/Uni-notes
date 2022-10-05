@@ -54,3 +54,5 @@ C &= 1 & A &= -B & A &= 1\\
 $$ \therefore y_{p}(x) = x-1+e^{3x} $$
 
 Since everything cleans up, this is clearly a valid solution. The take away is that it doesn't matter what your [[particular integral]] is, as long as it cleans up the solutions valid. 
+
+###### When your "guess" overlaps with 
