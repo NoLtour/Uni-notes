@@ -21,5 +21,15 @@ When looking for a solution for the particular integral what you are looking for
 $$ \ddot{y} + 4\dot{y} + 4y = 4x + 25e^{3x} $$
 Here $r(x)=4x + 25e^{3x}$ is made up of $4x$ and $25e^{3x}$ what your looking for is similar things that will probably differentiate into something solvable when subbed in, the method to find these is either intuition, using a "common situations" equation sheet or repeated guessing. In this example:
 $$\begin{align*}
- &= 
+4x &\to Ax + B\\
+25e^{3x} &\to Ce^{3x}
+\end{align*}$$
+
+So your first guess for this situation would be that $y_{P}=Ax+B+Ce^{3x}$ where $A,B,C$ are constants which if found create a valid [[particular integral]] you get a valid final answer:
+
+$$\begin{align*}
+y_{P}&=Ax+B+Ce^{3x}\\
+\dot{y}_{P} &= A + 3Ce^{3x}\\
+\ddot{y}_{P} &= 9Ce^{3x}\\
+&
 \end{align*}$$
