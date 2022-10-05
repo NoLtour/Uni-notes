@@ -19,18 +19,18 @@ Of course this is easier said than done, finding the [[particular integral]] is 
 ##### Finding the particular integral
 When looking for a solution for the particular integral what you are looking for is "the most general form" of each part of the [[source term]], for example take the following ODE:
 $$ \ddot{y} + 4\dot{y} + 4y = 4x + 25e^{3x} $$
-Here $r(x)=4x + 25e^{3x}$ is made up of $4x$ and $25e^{3x}$ what your looking for is similar things that will probably differentiate into something solvable when subbed in, the method to find these is either intuition, using a "common situations" equation sheet or repeated guessing. In this example:
+Here $r(x)=4x + 25e^{3x}$ is made up of $4x$ and $25e^{3x}$ what your looking for is similar things that will probably differentiate into something solvable when subbed in, the method to find these is either intuition, using a "common situations" equation sheet or repeated guessing. Something also which is __very important__ to note is that all terms in the [[complementary function]] In this example:
 $$\begin{align*}
 4x &\to Ax + B\\
 25e^{3x} &\to Ce^{3x}
 \end{align*}$$
 
-So your first guess for this situation would be that $y_{P}=Ax+B+Ce^{3x}$ where $A,B,C$ are constants which if found create a valid [[particular integral]] you get a valid final answer:
+So your first guess for this situation would be that $y_{p}=Ax+B+Ce^{3x}$ where $A,B,C$ are constants which if found create a valid [[particular integral]] you get a valid final answer:
 
 $$\begin{align*}
-\ddot{y} + 4\dot{y} + 4y &= 4x + 25e^{3x} &y_{P}&=Ax+B+Ce^{3x}\\
-&&\dot{y}_{P} &= A + 3Ce^{3x}\\
-&& \ddot{y}_{P} &= 9Ce^{3x}\\
+\ddot{y} + 4\dot{y} + 4y &= 4x + 25e^{3x} &y_{p}&=Ax+B+Ce^{3x}\\
+&&\dot{y}_{p} &= A + 3Ce^{3x}\\
+&& \ddot{y}_{p} &= 9Ce^{3x}\\
 9Ce^{3x} + 4(A + 3Ce^{3x}) + 4(Ax+B+Ce^{3x}) &=4x + 25e^{3x}\\
 25Ce^{3x} + 4A + 4Ax+4B &= 4x + 25e^{3x}
 \end{align*}$$
@@ -40,6 +40,6 @@ C &= 1 & A &= -B & A &= 1\\
 & & B &= -1
 \end{align*}$$
 
-$$ \therefore y_{p}(x) $$
+$$ \therefore y_{p}(x) = x-1+e^{3x} $$
 
 Since everything cleans up, this is clearly a valid solution. The take away is that it doesn't matter what your [[particular integral]] is, as long as it cleans up the solutions valid. 
