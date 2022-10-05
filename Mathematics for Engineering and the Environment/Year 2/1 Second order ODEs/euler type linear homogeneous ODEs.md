@@ -15,7 +15,12 @@ What you'll note is the difference between this and a [[solving linear homogeneo
 
 ### Solving it
 
-
+> ### $$ x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y = 0 $$ 
+> ### $$ k = \frac{ (b-1) \pm \sqrt{ (b-1)^{2} - 4c } }{ 2 } $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Theory to solve it
 
@@ -49,5 +54,7 @@ x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y &= 0 & t &= \log(x) \\
 \end{align*}$$
 
 ([[UNFINISHED STUFF]] need to figure out intermediate steps)
+
+Then from this step onwards it's just solving the same as [[solving linear homogeneous constant-coefficient equations]].
 
 
