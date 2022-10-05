@@ -51,8 +51,16 @@ C &= 1 & A &= -B & A &= 1\\
 & & B &= -1
 \end{align*}$$
 
-$$ \therefore y_{p}(x) = x-1+e^{3x} $$
+$$\begin{align*}
+\therefore& \:\: y_{p}(x) = x-1+e^{3x}\\
+\therefore& \:\: y = e^{-2x} (c_{1} + x c_{2}) + x-1+e^{3x}
+\end{align*}$$
 
 Since everything cleans up, this is clearly a valid solution. The take away is that it doesn't matter what your [[particular integral]] is, as long as it cleans up the solutions valid. 
 
-###### When your "guess" overlaps with 
+###### When your "guess" overlaps with a part of the [[complementary function]]
+
+Take the previous example we did, assume the [[source term]] is cringe, something like:
+$$ \ddot{y} + 4\dot{y} + 4y = e $$
+$or$
+$$ \ddot{y} + 4\dot{y} + 4y = 4x + 25e^{3x} $$
