@@ -35,5 +35,11 @@ $$\begin{align*}
 25Ce^{3x} + 4A + 4Ax+4B &= 4x + 25e^{3x}
 \end{align*}$$
 $$\begin{align*}
-25C +  &= 
+25Ce^{3x} &= 25 e^{3x} & 4A + 4B &= 0 & 4Ax &= 4x \\
+C &= 1 & A &= -B & A &= 1\\
+& & B &= -1
 \end{align*}$$
+
+$$ \therefore y_{p}(x) $$
+
+Since everything cleans up, this is clearly a valid solution. The take away is that it doesn't matter what your [[particular integral]] is, as long as it cleans up the solutions valid. 
