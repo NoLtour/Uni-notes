@@ -61,6 +61,8 @@ Since everything cleans up, this is clearly a valid solution. The take away is t
 ###### When your "guess" overlaps with a part of the [[complementary function]]
 
 Take the previous example we did, assume the [[source term]] is cringe, something like:
-$$ \ddot{y} + 4\dot{y} + 4y = e $$
-$or$
-$$ \ddot{y} + 4\dot{y} + 4y = 4x + 25e^{3x} $$
+$$ \ddot{y} + 4\dot{y} + 4y = e^{-2x} + xe^{-2x} $$
+
+Here your first guess would probably be $Ae^{-2x}+Bxe^{-2x}$, but we know since we already solved it that the [[complementary function]] contains $e^{-2x}$ and $xe^{-2x}$ so clearly that guess is invalid since "all terms in the [[complementary function]] cannot not match those terms in the [[particular integral]] since they must be [[linearly dependent and independent functions|linearly independent functions]]".
+
+In this case wha
