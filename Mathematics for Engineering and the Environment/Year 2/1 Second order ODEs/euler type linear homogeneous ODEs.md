@@ -47,3 +47,7 @@ x^{2} \frac{d^{2}y}{dx^{2}} + bx \frac{dy}{dx} + c y &= 0 & t &= \log(x) \\
 &...\\
  \frac{d^{2}y}{dt^{2}} + (b-1) \frac{dy}{dt} + c y &= 0 
 \end{align*}$$
+
+([[UNFINISHED STUFF]] need to figure out intermediate steps)
+
+
