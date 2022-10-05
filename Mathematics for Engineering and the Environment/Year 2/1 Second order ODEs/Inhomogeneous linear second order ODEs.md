@@ -10,4 +10,8 @@ So now we get to start dealing with ODEs which are not [[homogeneous and nonhomo
 
 #### Steps to solve it
 
-1) Solve the homogeneous problem for the complementry f
+1) Solve the homogeneous problem for the linearly independent complementary functions ($y_{1},y_{2}$) to get $c_{1} y_{1}(x) + c_{2} y_{2}(x)$
+2) Find a particular integral $y_{p}(x)$
+3) Add them together $y = c_{1} y_{1}(x) + c_{2} y_{2}(x) + y_{p}(x)$
+
+Of course this is easyer said than done, finding the particluar integral is a pain in the ass quite often but there are methods for getting a solution f
