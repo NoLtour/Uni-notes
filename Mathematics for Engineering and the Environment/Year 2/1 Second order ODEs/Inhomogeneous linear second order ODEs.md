@@ -67,10 +67,9 @@ Here your first guess would probably be $Ae^{-2x}$, but we know since we already
 
 In this case what you do is multiply your first guess for a [[particular integral]] by the [[independent variables|independent variable]] (in this case $x$) hence:
 $$ y_{p}=Ae^{-2x} \to y_{p}=Axe^{-2x} $$
-I don't want to type up the maths but take my word for it this works.
-
-In the event the [[particular integral]] is still bad you just multiply by the [[independent variables|independent variable]] again:
+You don't even need to do the maths to see this is also not valid since the complementary function contains $xe^{-2x}$ but in the event the [[particular integral]] is still bad you just multiply by the [[independent variables|independent variable]] again:
 $$ y_{p}=Axe^{-2x} \to y_{p}=Ax^{2}e^{-2x} $$
+I don't want to type up the maths but take my word for it this works.
 
 ###### When the [[source term]] is bullshit
 
