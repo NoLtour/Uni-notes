@@ -21,12 +21,15 @@ When looking for a solution for the particular integral what you are looking for
 $$ \ddot{y} + 4\dot{y} + 4y = 4x + 25e^{3x} $$
 Here $r(x)=4x + 25e^{3x}$ is made up of $4x$ and $25e^{3x}$ what your looking for is similar things that will probably differentiate into something solvable when subbed in, the method to find these is either intuition, using a "common situations" equation sheet or repeated guessing. Something also which is __very important__ to note is that all terms in the [[complementary function]] do not match those terms in the [[particular integral]] since they must be [[linearly dependent and independent functions|linearly independent functions]]. This is best shown in an example.
 
-###### [[]]
+###### [[I be adding a funni|An example]]
 
 First you'd find the [[complementary function]] by treating this as a [[homogeneous and nonhomogeneous differential equations|homogeneous equation]], Ima skip steps (the methods from [[solving linear homogeneous constant-coefficient equations|here]]):
 
 $$ y_{c} = c_{1} e^{-2x} + c_{2} xe^{-2x} \to y_{c} = e^{-2x} (c_{1} + x c_{2}) $$
 
+This one gave us the functions $y_{1}=e^{-2x}$ and $y_{2}=xe^{-2x}$ (it was a repeated root), so we need to ensure going forward that our [[particular integral]] we form contains no [[linearly dependent and independent functions|linearly dependent functions]] with $e^{-2x},xe^{-2x}$.
+
+So now we need to take a look at our [[source term]] and break it into l
 
 $$\begin{align*}
 4x &\to Ax + B\\
