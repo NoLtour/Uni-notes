@@ -16,4 +16,6 @@ So now we get to start dealing with ODEs which are not [[homogeneous and nonhomo
 
 Of course this is easier said than done, finding the [[particular integral]] is a pain in the ass quite often but there are methods for getting a solution faster.
 
-
+##### Finding the particular integral
+When looking for a solution for the particular integral what you are looking for is "the most general form" of each part of the [[source term]], for example take the following ODE:
+$$ \ddot{y} + 4\dot{y} +  $$
