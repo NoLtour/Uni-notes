@@ -18,4 +18,8 @@ Of course this is easier said than done, finding the [[particular integral]] is 
 
 ##### Finding the particular integral
 When looking for a solution for the particular integral what you are looking for is "the most general form" of each part of the [[source term]], for example take the following ODE:
-$$ \ddot{y} + 4\dot{y} +  $$
+$$ \ddot{y} + 4\dot{y} + 4y = 4x + 25e^{3x} $$
+Here $r(x)=4x + 25e^{3x}$ is made up of $4x$ and $25e^{3x}$ what your looking for is similar things that will probably differentiate into something solvable when subbed in, the method to find these is either intuition, using a "common situations" equation sheet or repeated guessing. In this example:
+$$\begin{align*}
+ &= 
+\end{align*}$$
