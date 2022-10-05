@@ -19,11 +19,13 @@ Of course this is easier said than done, finding the [[particular integral]] is 
 ##### Finding the particular integral
 When looking for a solution for the particular integral what you are looking for is "the most general form" of each part of the [[source term]], for example take the following ODE:
 $$ \ddot{y} + 4\dot{y} + 4y = 4x + 25e^{3x} $$
-Here $r(x)=4x + 25e^{3x}$ is made up of $4x$ and $25e^{3x}$ what your looking for is similar things that will probably differentiate into something solvable when subbed in, the method to find these is either intuition, using a "common situations" equation sheet or repeated guessing. Something also which is __very important__ to note is that all terms in the [[complementary function]] do not match those terms in the [[particular integral]] since they must be [[linearly dependent and independent functions|linearly independent functions]]. In this example:
+Here $r(x)=4x + 25e^{3x}$ is made up of $4x$ and $25e^{3x}$ what your looking for is similar things that will probably differentiate into something solvable when subbed in, the method to find these is either intuition, using a "common situations" equation sheet or repeated guessing. Something also which is __very important__ to note is that all terms in the [[complementary function]] do not match those terms in the [[particular integral]] since they must be [[linearly dependent and independent functions|linearly independent functions]]. This is best shown in an example.
+
+###### [[]]
 
 First you'd find the [[complementary function]] by treating this as a [[homogeneous and nonhomogeneous differential equations|homogeneous equation]], Ima skip steps (the methods from [[solving linear homogeneous constant-coefficient equations|here]]):
 
-
+$$ y_{c} = c_{1} e^{-2x} + c_{2} xe^{-2x} \to y_{c} = e^{-2x} (c_{1} + x c_{2}) $$
 
 
 $$\begin{align*}
