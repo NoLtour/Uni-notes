@@ -21,9 +21,7 @@ What you'll note is the difference between this and a [[solving linear homogeneo
 > ### $$ k_{1,2} = \frac{ (b-1) \pm \sqrt{ (b-1)^{2} - 4c } }{ 2 } $$ 
 > ### $$ y = A x^{k_{1}} + B x^{k_{2}} $$ 
 >> solving:
->> Simply sub the values of $k_{1},k_{2}$ 
->> $=$
->> $=$
+>> Simply sub the values of $k_{1},k_{2}$ into $y = A x^{k_{1}} + B x^{k_{2}}$
 
 #### The case where k is complex or duplicate
 
@@ -31,9 +29,7 @@ What you'll note is the difference between this and a [[solving linear homogeneo
 > ### $$  \frac{d^{2}y}{dt^{2}} + (b-1) \frac{dy}{dt} + c y = 0 $$ 
 > ### $$ t=\ln x $$ 
 >> solving:
->> $=$ 
->> $=$
->> $=$
+>> Use the same method as discussed in [[solving linear homogeneous constant-coefficient equations|solving linear second order ODEs]] then sub $t$ back in to get the equation in terms of $x$ and $y$.
 
 ### Theory to solve it
 
