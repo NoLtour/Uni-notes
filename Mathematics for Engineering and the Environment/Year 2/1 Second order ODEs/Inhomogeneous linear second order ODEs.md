@@ -69,7 +69,7 @@ In this case what you do is multiply your first guess for a [[particular integra
 $$ y_{p}=Ae^{-2x} \to y_{p}=Axe^{-2x} $$
 You don't even need to do the maths to see this is also not valid since the complementary function contains $xe^{-2x}$ but in the event the [[particular integral]] is still bad you just multiply by the [[independent variables|independent variable]] again:
 $$ y_{p}=Axe^{-2x} \to y_{p}=Ax^{2}e^{-2x} $$
-I don't want to type up the maths but take my word for it this works.
+I don't want to type up the maths but take my word for it this works. ([[I put it into symblab to verify|see here]])
 
 ###### When the [[source term]] is bullshit
 
