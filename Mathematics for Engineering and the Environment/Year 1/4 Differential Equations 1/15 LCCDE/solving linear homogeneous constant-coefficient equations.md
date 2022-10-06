@@ -69,23 +69,28 @@ So lets say your formula $\ddot{y}+b\dot{y}+cy=0$ results in $\alpha_{1} = \alph
 $$\begin{align*}
 \ddot{y}+b\dot{y}+cy=0 \:\: \to \:\: \alpha^{2} + b \alpha + c &= 0\\
 \alpha &= \frac{-b \pm \sqrt{b^{2} - 4c} }{ 2 } & \sqrt{b^{2} - 4c} &= 0\\
-&& c &= \frac{b^{2}}{4}
+&& c &= \frac{b^{2}}{4}\\
+\alpha &= - \frac{b}{2}
 \end{align*}$$
 
-Since $\alpha$ is a duplicate root the [[complementary function]] is incomplete since functions $y_{1},y_{2}$ would be identical and hence obviously [[linearly dependent and independent functions|linearly dependent]]. So to get around this we use a method introduced slightly later [[Inhomogeneous linear second order ODEs#When your guess overlaps with a part of the complementary function|(this linked method)]], so we take the original guess of $y=e^{\alpha x}$ and slap an x onto it hence getting $y=xe^{\alpha x}$ from which we just do the steps that we did originally for the [[solving linear homogeneous constant-coefficient equations#Normal case|first situation]] but with this new equation to get $y_{2}$:
+Since $\alpha$ is a duplicate root the [[complementary function]] is incomplete since functions $y_{1},y_{2}$ would be identical and hence obviously [[linearly dependent and independent functions|linearly dependent]]. So to get around this we use a method introduced slightly later [[Inhomogeneous linear second order ODEs#When your guess overlaps with a part of the complementary function|(this linked method)]], so we take the original guess of $y=e^{\alpha x}$ and slap an x onto it hence getting $y=xe^{\lambda x}$ from which we just do the steps that we did originally for the [[solving linear homogeneous constant-coefficient equations#Normal case|first situation]] but with this new equation to get $y_{2}$:
 
 $$\begin{align*}
-\ddot{y}+b\dot{y}+\frac{b^{2}}{4}y&=0 & y &= xe^{\alpha x}\\
-&& \dot{y} &= x\alpha e^{\alpha x} + e^{ \alpha x }\\
-&& \dot{y} &= \alpha^{2} x e^{ \alpha x } + 2 \alpha e^{\alpha x}\\
-\alpha^{2} x e^{ \alpha x } + 2 \alpha e^{\alpha x} + b( x\alpha e^{\alpha x} + e^{ \alpha x } ) + \frac{b^{2}}{4} xe^{\alpha x} &= 0\\
-\alpha^{2} x   + 2 \alpha  + b( x\alpha  + 1 ) + \frac{b^{2}}{4} x &=
+\ddot{y}+b\dot{y}+\frac{b^{2}}{4}y&=0 & y &= xe^{\lambda x}\\
+&& \dot{y} &= x\lambda e^{\lambda x} + e^{ \lambda x }\\
+&& \dot{y} &= \lambda^{2} x e^{ \lambda x } + 2 \lambda e^{\lambda x}\\
+\lambda^{2} x e^{ \lambda x } + 2 \lambda e^{\lambda x} + b( x\lambda e^{\lambda x} + e^{ \lambda x } ) + \frac{b^{2}}{4} xe^{\lambda x} &= 0\\
+\lambda^{2} x   + 2 \lambda  + b( x\lambda  + 1 ) + \frac{b^{2}}{4} x &=
 \end{align*}$$
 
 This can then be split according to like terms:
 $$\begin{align*}
- \alpha^{2} x + bx\alpha  + \frac{b^{2}}{4} x &= 0 & 2\alpha &= 0
+ \lambda^{2} x + bx\lambda  + \frac{b^{2}}{4} x &= 0 & 2\lambda + b &= 0\\
+\lambda^{2} + b\lambda  + \frac{b^{2}}{4} &= 0 & \lambda  &= - \frac{b}{2} \\
+\lambda  &= - \frac{b}{2} \: \: \therefore consistant
 \end{align*}$$
+
+
 
 [[UNFINISHED STUFF]]
 
