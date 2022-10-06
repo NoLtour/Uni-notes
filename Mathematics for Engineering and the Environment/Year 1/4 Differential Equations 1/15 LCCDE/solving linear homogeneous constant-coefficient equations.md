@@ -67,7 +67,7 @@ If your wondering what happened on the last two lines, since $A,B$ are arbitrary
 So lets say your formula $\ddot{y}+b\dot{y}+cy=0$ results in $\alpha_{1} = \alpha_{2}$, so mathematically written this means that:
 
 $$\begin{align*}
-\ddot{y}+b\dot{y}+c=0 \:\: \to \:\: \alpha^{2} + b \alpha + c &= 0\\
+\ddot{y}+b\dot{y}+cy=0 \:\: \to \:\: \alpha^{2} + b \alpha + c &= 0\\
 \alpha &= \frac{-b \pm \sqrt{b^{2} - 4c} }{ 2 } & \sqrt{b^{2} - 4c} &= 0\\
 && c &= \frac{b^{2}}{4}
 \end{align*}$$
@@ -78,7 +78,13 @@ $$\begin{align*}
 \ddot{y}+b\dot{y}+\frac{b^{2}}{4}y&=0 & y &= xe^{\alpha x}\\
 && \dot{y} &= x\alpha e^{\alpha x} + e^{ \alpha x }\\
 && \dot{y} &= \alpha^{2} x e^{ \alpha x } + 2 \alpha e^{\alpha x}\\
-\alpha^{2} x e^{ \alpha x } + 2 \alpha e^{\alpha x} + &=
+\alpha^{2} x e^{ \alpha x } + 2 \alpha e^{\alpha x} + b( x\alpha e^{\alpha x} + e^{ \alpha x } ) + \frac{b^{2}}{4} xe^{\alpha x} &= 0\\
+\alpha^{2} x   + 2 \alpha  + b( x\alpha  + 1 ) + \frac{b^{2}}{4} x &=
+\end{align*}$$
+
+This can then be split according to like terms:
+$$\begin{align*}
+ \alpha^{2} x + bx\alpha  + \frac{b^{2}}{4} x &= 0 & 2\alpha &= 0
 \end{align*}$$
 
 [[UNFINISHED STUFF]]
