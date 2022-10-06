@@ -17,6 +17,8 @@ Once you have those two equations you can sub them into: $y(x) = c_{1} y_{1}(x) 
 
 #### Proofing [[solving linear homogeneous constant-coefficient equations#Method|the method]]
 
+##### Normal case
+
 So we start with some random linear homogeneous constant-coefficient equation: 
 $$ a \frac{d^{2}y}{dx^{2}} + b \frac{dy}{dx} + c y = 0$$
 This can then be rearranged:
@@ -48,6 +50,8 @@ y &= A \times y_{1} (x) + B \times y_{2} (x) \\
 y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x}
 \end{align*}$$
 
+##### Complex case
+
 In the event that $\alpha_{1},\alpha_{2}$ are complex the above stuff still works but you'll have to simplify using [[representing complex numbers using angle and magnitude|euler's formula]]:
 $$\begin{align*}
 y &= A  e^{\alpha_{1} x} + B e^{\alpha_{2} x} & \alpha_{1,2} &= a \pm jb & e^{\theta } &= \cos (\theta ) + j\sin (\theta ) \\
@@ -59,7 +63,11 @@ y &= e^{ax}( A\cos (bx )  +  jB\sin (bx)  )
 \end{align*}$$
 If your wondering what happened on the last two lines, since $A,B$ are arbitrary constants I just changed em while keeping the same symbol [[opaiwjfafw|for convenience]]. 
 
-[[tmp stuff please ignoreish]] [[UNFINISHED STUFF]]
+##### Single root case
+So lets say your formula $\ddot{y}+b\dot{y}+c=0$ results in $\alpha_{1} = \alpha_{2}$ aka
+
+[[UNFINISHED STUFF]]
+
 
 ### Method (for constant coefficients)
 
