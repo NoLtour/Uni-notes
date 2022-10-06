@@ -64,7 +64,7 @@ y &= e^{ax}( A\cos (bx )  +  jB\sin (bx)  )
 If your wondering what happened on the last two lines, since $A,B$ are arbitrary constants I just changed em while keeping the same symbol [[opaiwjfafw|for convenience]]. 
 
 ##### Single root case
-So lets say your formula $\ddot{y}+b\dot{y}+c=0$ results in $\alpha_{1} = \alpha_{2}$, so mathematically written this means that:
+So lets say your formula $\ddot{y}+b\dot{y}+cy=0$ results in $\alpha_{1} = \alpha_{2}$, so mathematically written this means that:
 
 $$\begin{align*}
 \ddot{y}+b\dot{y}+c=0 \:\: \to \:\: \alpha^{2} + b \alpha + c &= 0\\
@@ -72,7 +72,14 @@ $$\begin{align*}
 && c &= \frac{b^{2}}{4}
 \end{align*}$$
 
-Since $\alpha$ is a duplicate root the [[complementary function]] is incomplete since functions $y_{1},y_{2}$ would be identical and hence obviously [[linearly dependent and independent functions|linearly dependent]]. So to get around this we use a method introduced slightly later [[Inhomogeneous linear second order ODEs#When your guess overlaps with a part of the complementary function|(this linked method)]], so we take the original guess of $y=e^{\alpha x}$ and slap an x onto it hence getting $y=xe^{\alpha x}$ from which we just do the steps that we did originally for the [[solving linear homogeneous constant-coefficient equations#Normal case|first situation]] but with this new equation to get.
+Since $\alpha$ is a duplicate root the [[complementary function]] is incomplete since functions $y_{1},y_{2}$ would be identical and hence obviously [[linearly dependent and independent functions|linearly dependent]]. So to get around this we use a method introduced slightly later [[Inhomogeneous linear second order ODEs#When your guess overlaps with a part of the complementary function|(this linked method)]], so we take the original guess of $y=e^{\alpha x}$ and slap an x onto it hence getting $y=xe^{\alpha x}$ from which we just do the steps that we did originally for the [[solving linear homogeneous constant-coefficient equations#Normal case|first situation]] but with this new equation to get $y_{2}$:
+
+$$\begin{align*}
+\ddot{y}+b\dot{y}+\frac{b^{2}}{4}y&=0 & y &= xe^{\alpha x}\\
+&& \dot{y} &= x\alpha e^{\alpha x} + e^{ \alpha x }\\
+&& \dot{y} &= \alpha^{2} x e^{ \alpha x } + 2 \alpha e^{\alpha x}\\
+\alpha^{2} x e^{ \alpha x } + 2 \alpha e^{\alpha x} + &=
+\end{align*}$$
 
 [[UNFINISHED STUFF]]
 
