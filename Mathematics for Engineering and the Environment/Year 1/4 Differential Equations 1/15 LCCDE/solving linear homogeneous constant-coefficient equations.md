@@ -87,12 +87,19 @@ This can then be split according to like terms:
 $$\begin{align*}
  \lambda^{2} x + bx\lambda  + \frac{b^{2}}{4} x &= 0 & 2\lambda + b &= 0\\
 \lambda^{2} + b\lambda  + \frac{b^{2}}{4} &= 0 & \lambda  &= - \frac{b}{2} \\
-\lambda  &= - \frac{b}{2} \: \: \therefore consistant
+\lambda  &= - \frac{b}{2} \: \: \therefore consistant\\
+\lambda &= \alpha
 \end{align*}$$
 
+Now we just collect all our terms to make the [[complementary function]]:
 
+$$\begin{align*}
+y &= c_{1} y_{1} + c_{2} y_{2} & y_{1} &= e^{\alpha x} &  y_{2} &= xe^{\lambda x} & \lambda &= \alpha\\
+y &= c_{1} e^{\alpha x} + c_{2} x e^{\alpha x}\\
+y &= e^{\alpha x} (c_{1}  + c_{2} x)
+\end{align*}$$
 
-[[UNFINISHED STUFF]]
+So that's how the second thing exists ([[pog]])
 
 
 ### Method (for constant coefficients)
