@@ -11,6 +11,8 @@ tags: ["NotesPage"]
 - [[euler type linear homogeneous ODEs]]
 - [[Inhomogeneous linear second order ODEs]]
 
+[[problem sheet I.pdf|examples of this stuff (aka the homework)]] 
+
 ## Expanded articles
 
 ![[general case of second order linear ODEs]]
