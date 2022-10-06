@@ -78,7 +78,7 @@ Since $\alpha$ is a duplicate root the [[complementary function]] is incomplete 
 $$\begin{align*}
 \ddot{y}+b\dot{y}+\frac{b^{2}}{4}y&=0 & y &= xe^{\lambda x}\\
 && \dot{y} &= x\lambda e^{\lambda x} + e^{ \lambda x }\\
-&& \dot{y} &= \lambda^{2} x e^{ \lambda x } + 2 \lambda e^{\lambda x}\\
+&& \ddot{y} &= \lambda^{2} x e^{ \lambda x } + 2 \lambda e^{\lambda x}\\
 \lambda^{2} x e^{ \lambda x } + 2 \lambda e^{\lambda x} + b( x\lambda e^{\lambda x} + e^{ \lambda x } ) + \frac{b^{2}}{4} xe^{\lambda x} &= 0\\
 \lambda^{2} x   + 2 \lambda  + b( x\lambda  + 1 ) + \frac{b^{2}}{4} x &=
 \end{align*}$$
@@ -99,7 +99,7 @@ y &= c_{1} e^{\alpha x} + c_{2} x e^{\alpha x}\\
 y &= e^{\alpha x} (c_{1}  + c_{2} x)
 \end{align*}$$
 
-So that's how the second thing exists ([[pog]])
+So that's how the second thing exists ([[yay the proofs are done kinda excessive lol|pog]])
 
 
 ### Method (for constant coefficients)
