@@ -67,10 +67,12 @@ If your wondering what happened on the last two lines, since $A,B$ are arbitrary
 So lets say your formula $\ddot{y}+b\dot{y}+c=0$ results in $\alpha_{1} = \alpha_{2}$, so mathematically written this means that:
 
 $$\begin{align*}
-\ddot{y}+b\dot{y}+c=0 \:\: \to \alpha^{2} + b \alpha + c &= 0\\
+\ddot{y}+b\dot{y}+c=0 \:\: \to \:\: \alpha^{2} + b \alpha + c &= 0\\
 \alpha &= \frac{-b \pm \sqrt{b^{2} - 4c} }{ 2 } & \sqrt{b^{2} - 4c} &= 0\\
 && c &= \frac{b^{2}}{4}
 \end{align*}$$
+
+Since $\alpha$ is a duplicate root the [[complementary function]] is incomplete since functions $y_{1},y_{2}$ would be identical and hence obviously [[linearly dependent and independent functions|linearly dependent]]. So to get around this we use a method introduced slightly later [[Inhomogeneous linear second order ODEs#When your guess overlaps with a part of the complementary function|]]
 
 [[UNFINISHED STUFF]]
 
