@@ -99,7 +99,7 @@ y &= c_{1} e^{\alpha x} + c_{2} x e^{\alpha x}\\
 y &= e^{\alpha x} (c_{1}  + c_{2} x)
 \end{align*}$$
 
-So that's how the second thing exists ([[yay the proofs are done kinda excessive lol|pog]])
+So that's how the thing exists ([[yay the proofs are done kinda excessive lol|pog]])
 
 
 ### Method (for constant coefficients)
