@@ -64,7 +64,13 @@ y &= e^{ax}( A\cos (bx )  +  jB\sin (bx)  )
 If your wondering what happened on the last two lines, since $A,B$ are arbitrary constants I just changed em while keeping the same symbol [[opaiwjfafw|for convenience]]. 
 
 ##### Single root case
-So lets say your formula $\ddot{y}+b\dot{y}+c=0$ results in $\alpha_{1} = \alpha_{2}$ aka
+So lets say your formula $\ddot{y}+b\dot{y}+c=0$ results in $\alpha_{1} = \alpha_{2}$, so mathematically written this means that:
+
+$$\begin{align*}
+\ddot{y}+b\dot{y}+c=0 \:\: \to \alpha^{2} + b \alpha + c &= 0\\
+\alpha &= \frac{-b \pm \sqrt{b^{2} - 4c} }{ 2 } & \sqrt{b^{2} - 4c} &= 0\\
+&& c &= \frac{b^{2}}{4}
+\end{align*}$$
 
 [[UNFINISHED STUFF]]
 
