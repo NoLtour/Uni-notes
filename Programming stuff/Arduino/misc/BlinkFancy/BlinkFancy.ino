@@ -22,7 +22,7 @@
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
 */
 
-#define PULSE_PERIOD 16
+#define PULSE_PERIOD 18
 
 void light( float fraction, int totalTime ){
   fraction = fraction<0?0:( fraction > 1?1:fraction );
@@ -38,20 +38,91 @@ void light( float fraction, int totalTime ){
   }
 }
 
+void light2( float brightness, int totalTime ){
+  brightness = brightness<0?0:( brightness > 1?1:brightness );
+
+  bool invert = brightness>0.5;
+  if (invert){
+    brightness = 1 - brightness;
+  }
+
+  if ( brightness < 0.05 ){
+    digitalWrite(LED_BUILTIN, invert?HIGH:LOW);   
+    delay(totalTime);
+    return;
+  }
+  
+  float offTime = (1-brightness)/brightness;
+  int onTime = 1;
+
+  if ( abs( (offTime - floor( offTime ) ) - 0.5 ) < 0.25 ){
+    //onTime = 2;
+    //offTime *= 2;
+  }
+
+  
+
+  int intOnTime  = (int) (invert?offTime:onTime + 0.49999);
+  int intOffTime = (int) (invert?onTime:offTime + 0.49999);
+
+  int flipTime = onTime + offTime;
+  
+  for ( ;totalTime>=flipTime; totalTime -= flipTime ){
+    digitalWrite(LED_BUILTIN, HIGH);   
+    delay(intOnTime);                       
+    digitalWrite(LED_BUILTIN, LOW);    
+    delay(intOffTime);
+  }
+  
+}
+
+void light3( float brightness, int totalTime ){
+  brightness = brightness<0?0:( brightness > 1?1:brightness );
+
+  bool invert = brightness>0.5;
+  if (invert){
+    brightness = 1 - brightness;
+  }
+
+  if ( brightness < 0.05 ){
+    digitalWrite(LED_BUILTIN, invert?HIGH:LOW);   
+    delay(totalTime);
+    return;
+  }
+  
+  float offTime = 1-brightness;
+  float onTime  = brightness;
+  
+  while ( ( abs(onTime-round(onTime)) > 0.2 || abs(offTime-round(offTime)) > 0.2 ) && ( onTime + offTime ) < 16 ){
+    onTime  *= 1.25;
+    offTime *= 1.25;
+  }
+
+  int intOnTime  = (int) (invert?offTime:onTime + 0.49999);
+  int intOffTime = (int) (invert?onTime:offTime + 0.49999);
+
+  int intFlipTime = intOnTime + intOffTime;
+  
+  for ( ;totalTime>=intFlipTime; totalTime -= intFlipTime ){
+    digitalWrite(LED_BUILTIN, HIGH);   
+    delay(intOnTime);                       
+    digitalWrite(LED_BUILTIN, LOW);    
+    delay(intOffTime);
+  }
+  
+}
+
 void smoothLight( float stBright, float enBright, int transTime ){
   stBright = stBright<0?0:( stBright > 1?1:stBright );
   enBright = enBright<0?0:( enBright > 1?1:enBright );
-
-  float onTime = (PULSE_PERIOD*stBright);
-  float transRate = PULSE_PERIOD*PULSE_PERIOD*(enBright-stBright)/( (float) transTime);
+  
+  float brightness = stBright;
+  float transRate  = (enBright-stBright) * PULSE_PERIOD/( (float) transTime);
 
   for ( int timePassed=0; timePassed<=transTime; timePassed +=PULSE_PERIOD ){
-    digitalWrite(LED_BUILTIN, HIGH);   
-    delay( (int) onTime );                       
-    digitalWrite(LED_BUILTIN, LOW);    
-    delay( PULSE_PERIOD - ( (int) onTime )  ); 
+    light( brightness, PULSE_PERIOD );
 
-    onTime += transRate;
+    brightness += transRate;
   }
 }
 
@@ -68,9 +139,11 @@ void randLight(){
 // the loop function runs over and over again forever
 void loop() {
   //randLight();
-  smoothLight( 1, 0, 500 );
+  smoothLight( 0, 1, 3000 );
 
-  smoothLight( 0, 1, 1500 );
+  //light2( 0.06, 1000 );
+  
+  smoothLight( 1, 0, 3000 );
   
   //digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   //delay(1000);                       // wait for a second
