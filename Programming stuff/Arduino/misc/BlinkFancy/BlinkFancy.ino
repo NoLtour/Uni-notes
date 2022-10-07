@@ -38,6 +38,8 @@ void light( float fraction, int totalTime ){
   }
 }
 
+
+
 void light2( float brightness, int totalTime ){
   brightness = brightness<0?0:( brightness > 1?1:brightness );
 
@@ -143,7 +145,7 @@ void loop() {
 
   //light2( 0.06, 1000 );
   
-  smoothLight( 1, 0, 3000 );
+  smoothLight( 1, 0, 800 );
   
   //digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   //delay(1000);                       // wait for a second
