@@ -3,10 +3,10 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Introduction to formal systems design overview
 
 #### Intro and contents
 - [[log book]]
-
+- [[stakeholders]]
 
 ## Expanded articles
