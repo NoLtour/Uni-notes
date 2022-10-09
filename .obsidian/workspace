@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design and Computing/Design/1-4 Formal Systems Design/Untitled.md",
+            "file": "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Introduction to formal systems design overview.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design and Computing/Design/1-4 Formal Systems Design/Untitled.md",
+                "file": "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Introduction to formal systems design overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +113,10 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "76271610466b8195",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
-    "Design and Computing/Design/Overally read order (Design year 2).md",
+    "Design and Computing/Design/Overall read order (Design year 2).md",
+    "Design and Computing/Design/1-4 Formal Systems Design/Overview for systems design.md",
     "Design and Computing/Design/Annotated slides/Lecture 2 - Concept generation 2020 online lecture(2).pdf",
     "Design and Computing/Design/Annotated slides/Lecture 1 -Formal Systems Design; Introduction and customer requirements 2020 online lecture(2).pdf",
     "SESA2024 Astronautics/1 Intro/Introduction to system engineering overview.md",
@@ -123,7 +124,6 @@
     "SESA2024 Astronautics/1 Intro/outline of design phases from European Cooperation for Space Standardisation.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/representing complex numbers using angle and magnitude.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/this is all you need to know.md",
-    "Electrical and electronic systems/4 AC circuits/1 AC waveform/complex numbers notes.md",
-    "Mathematics for Engineering and the Environment/Year 1/20U Complex numbers/arg (complex numbers).md"
+    "Electrical and electronic systems/4 AC circuits/1 AC waveform/complex numbers notes.md"
   ]
 }
