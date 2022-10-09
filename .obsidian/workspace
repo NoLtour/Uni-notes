@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Introduction to formal systems design overview.md",
+            "file": "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/binary weighting matrix.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Introduction to formal systems design overview.md",
+                "file": "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/binary weighting matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
-    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/effectively capturing customer requirements.md",
     "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Introduction to formal systems design overview.md",
+    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/effectively capturing customer requirements.md",
     "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/objective tree.md",
     "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/binary weighting matrix.md",
     "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/log book.md",
