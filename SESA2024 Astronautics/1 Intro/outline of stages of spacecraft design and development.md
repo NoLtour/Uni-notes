@@ -1,5 +1,5 @@
 ---
-aliases: ["stages of spacecraft design and development"]
+aliases: ["stages of spacecraft design and development","stages of getting design requirements"]
 tags: []
 ---
 
@@ -8,7 +8,7 @@ tags: []
 
 ![[Pasted image 20221006143446.png]]
 
-### Breakdown of stages
+### Breakdown of stages (for getting design requirements)
 
 #### Step 1: Defining the mission objectives
 Customer/users of proposed spacecraft defines what the spacecraft needs to be able to do using a detailed specification including mission outline, possibly instrument requirements ect.

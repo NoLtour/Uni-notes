@@ -12,7 +12,6 @@ Contents:
 - [[essential spacecraft subsystems]]
 - [[outline of stages of spacecraft design and development]]
 - [[outline of design phases from European Cooperation for Space Standardisation]]
-- [[]]
 
 ## Expanded articles
 ![[essential spacecraft subsystems]]
