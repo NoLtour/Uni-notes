@@ -7,11 +7,9 @@
         "id": "76271610466b8195",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
-            "mode": "preview",
-            "source": true
+            "file": "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 Mathematical and Numerical Concepts(4).pdf"
           }
         }
       }
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
+                "file": "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 Mathematical and Numerical Concepts(4).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +115,7 @@
   "active": "76271610466b8195",
   "lastOpenFiles": [
     "Aerodynamics/Aerodynamics overview.md",
+    "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
     "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 Mathematical and Numerical Concepts(4).pdf",
     "Law n management/Resources and Strategy/Slides/Lecture 1 FEEG 2006 Introduction to Costing 2022 23(1).pdf",
     "2022-10-09.md",
@@ -124,7 +123,6 @@
     "Design and Computing/Design/Overall read order (Design year 2).md",
     "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Introduction to formal systems design overview.md",
     "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/binary weighting matrix.md",
-    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Racist.md",
-    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/effectively capturing customer requirements.md"
+    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Racist.md"
   ]
 }
