@@ -7,11 +7,9 @@
         "id": "76271610466b8195",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "SESA2024 Astronautics/1 Intro/Introduction to system engineering overview.md",
-            "mode": "source",
-            "source": true
+            "file": "Design and Computing/Design/Annotated slides/Lecture 2 - Concept generation 2020 online lecture(2).pdf"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/1 Intro/Introduction to system engineering overview.md",
+                "file": "Design and Computing/Design/Annotated slides/Lecture 2 - Concept generation 2020 online lecture(2).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +111,17 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "76271610466b8195",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/1 Intro/outline of stages of spacecraft design and development.md",
+    "Design and Computing/Design/Annotated slides/Lecture 1 -Formal Systems Design; Introduction and customer requirements 2020 online lecture(2).pdf",
     "SESA2024 Astronautics/1 Intro/Introduction to system engineering overview.md",
+    "SESA2024 Astronautics/1 Intro/outline of stages of spacecraft design and development.md",
     "SESA2024 Astronautics/1 Intro/outline of design phases from European Cooperation for Space Standardisation.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/representing complex numbers using angle and magnitude.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/this is all you need to know.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/complex numbers notes.md",
     "Mathematics for Engineering and the Environment/Year 1/20U Complex numbers/arg (complex numbers).md",
     "Mathematics for Engineering and the Environment/Year 1/5U Complex Numbers 1/All the stuff you could ever need to know about complex numbers.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/general case of second order linear ODEs.md"
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md"
   ]
 }
