@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "SESA2024 Astronautics/1 Intro/outline of stages of spacecraft design and development.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -116,6 +116,7 @@
   "active": "76271610466b8195",
   "lastOpenFiles": [
     "SESA2024 Astronautics/1 Intro/Introduction to system engineering overview.md",
+    "SESA2024 Astronautics/1 Intro/outline of stages of spacecraft design and development.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/representing complex numbers using angle and magnitude.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/this is all you need to know.md",
     "Electrical and electronic systems/4 AC circuits/1 AC waveform/complex numbers notes.md",
@@ -123,7 +124,6 @@
     "Mathematics for Engineering and the Environment/Year 1/5U Complex Numbers 1/All the stuff you could ever need to know about complex numbers.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/general case of second order linear ODEs.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/first shitpost of year 2.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md"
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/first shitpost of year 2.md"
   ]
 }
