@@ -7,7 +7,8 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[log book]]
-- [[effectively capturing customer requirements]]
+- [[effectively capturing customer requirements]] adw
+- [[objective tree]]
 - [[binary weighting matrix]]
 
 #### Extra notes

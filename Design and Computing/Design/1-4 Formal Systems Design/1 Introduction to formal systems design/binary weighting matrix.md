@@ -15,4 +15,8 @@ An effective method of determining an non bias estimate the relative importance 
 
 ![[Pasted image 20221009103016.png]]
 
+It should always be kept in mind that an importance score of zero doesn't mean ignore it, this is simply a tool for getting an overall feel for what should be priortised.
+
 ### Example
+![[Pasted image 20221009103125.png]]
+![[Pasted image 20221009103203.png]]
