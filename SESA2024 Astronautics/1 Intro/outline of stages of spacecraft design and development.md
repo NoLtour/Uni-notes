@@ -24,7 +24,11 @@ This contains specific quantitative requirements, not some child's doodle of a s
 - Preformed by system team.
 - The requirements from steps 1 and 2 get converted into [[top level requirements (subsystems)|top level requirements]].
 
+
+#### Step 4: Generation of design requirements
+- 
+
 subsystem requirements (messy paste):
 The overall subsystem requirements, these are long quantitative lists which subsystems are designed with reference to.
 
-For example top level requirements in refrence to a power subsystem could be max waste heat, size, operating conditions (eg refrence to sun), power output specifics, variation in output.
+For example top level requirements in reference to a power subsystem could be max waste heat, size, operating conditions (eg reference to sun), power output specifics, variation in output.
