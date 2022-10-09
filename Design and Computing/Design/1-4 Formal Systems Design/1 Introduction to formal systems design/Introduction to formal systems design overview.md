@@ -15,3 +15,7 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[log book]]
+![[effectively capturing customer requirements]]
+![[objective tree]]
+![[binary weighting matrix]]
