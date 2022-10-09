@@ -7,6 +7,10 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[log book]]
-- [[stakeholders]]
+- [[effectively capturing customer requirements]]
+- [[binary weighting matrix]]
+
+#### Extra notes
+
 
 ## Expanded articles
