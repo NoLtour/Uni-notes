@@ -22,5 +22,5 @@ It should always be kept in mind that an importance score of zero doesn't mean i
 ![[Pasted image 20221009103125.png]]
 ![[Pasted image 20221009103203.png]]
 
-#### [[|Racist]] helmet
+#### [[Racist]] helmet
 ![[Pasted image 20221009104518.png]]
