@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 NEWER.pdf"
+            "file": "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2/Lecture4_FourierSeries1(4).pdf"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 NEWER.pdf",
+                "file": "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2/Lecture4_FourierSeries1(4).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
+    "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 NEWER.pdf",
     "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 Mathematical and Numerical Concepts(4).pdf",
     "Aerodynamics/Aerodynamics overview.md",
     "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
@@ -121,7 +122,6 @@
     "Design and Computing/Design/1-4 Formal Systems Design/2 Concept generation/Concept generation overview.md",
     "Design and Computing/Design/Overall read order (Design year 2).md",
     "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Introduction to formal systems design overview.md",
-    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/binary weighting matrix.md",
-    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Racist.md"
+    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/binary weighting matrix.md"
   ]
 }
