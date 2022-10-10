@@ -55,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +111,7 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "76271610466b8195",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
     "Aerodynamics/Aerodynamics overview.md",
     "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
