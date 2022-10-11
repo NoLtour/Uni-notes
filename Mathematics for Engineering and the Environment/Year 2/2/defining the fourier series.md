@@ -45,4 +45,8 @@ a_{m} &= \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cos(mx) \cdot dx & f(x) = x\\
 &= \frac{1}{\pi} \int^{\pi}_{-\pi} x \cos(mx) \cdot dx
 \end{align*}$$
 
-Here we have to use the
+Here we have to use [[Integration by parts]] which gives:
+$$\begin{align*}
+a_{m} &= \frac{1}{\pi}\left(  \left[ \frac{1}{m} x \sin (mx) \right]^{\pi}_{-\pi} - \int^{\pi}_{-\pi} \frac{1}{m} \sin(mx) \cdot dx \right)\\
+
+\end{align*}$$
