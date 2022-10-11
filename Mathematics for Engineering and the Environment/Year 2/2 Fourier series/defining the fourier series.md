@@ -4,7 +4,7 @@ tags: []
 ---
 
 ## Defining the Fourier series
-(ngl this sounds [[French|Fr*nch]]. (I looked it up, it is Fr\*nch [[ahhhhhhhhhhhhhhhhh FRENCH|:anguish:]], [[ewwwwwwwwwwwwwww]] ))
+(ngl this sounds [[French|Fr*nch]]. (I looked it up, it is Fr\*nch [[ahhhhhhhhhhhhhhhhh FRENCH|:anguish:]], [[ewwwwwwwwwwwwwww Frnch|terrible]] ))
 
 ###### Note for this page I'm using $2\pi$ for the period
 
@@ -72,7 +72,7 @@ b_{m} &= \frac{1}{\pi}\left(  \left[- \frac{1}{m}\cos(mx)\right]^{\pi}_{-\pi} - 
 b_{m} &= \frac{2(-1)^{m+1}}{m}
 \end{align*}$$
 
-NOTE I did [[defining the fourier series#^7a2fe6|this]] again for the last step.
+NOTE: I did [[defining the fourier series#^7a2fe6|this]] again for the last steps.
 
 It's clearer to see with $b$ since it's non zero, but the goal here was to get some expression that can define for us $b_{1},b_{2},b_{3}....b_{\infty}$ now all that's left is $a_{0}$.
 
