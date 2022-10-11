@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Year 2/2/Fourier Series Overview.md",
+            "file": "Mathematics for Engineering and the Environment/Year 2/2/defining the fourier series.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2/Fourier Series Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2/defining the fourier series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2/ahhhhhhhhhhhhhhhhh FRENCH.md",
+    "Mathematics for Engineering and the Environment/Year 2/2/defining the fourier series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2/Lecture4_FourierSeries1(4).pdf",
     "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 NEWER.pdf",
     "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 Mathematical and Numerical Concepts(4).pdf",
     "Aerodynamics/Aerodynamics overview.md",
     "Thermofluids/32 Introduction to viscous flow/reynolds number.md",
     "Law n management/Resources and Strategy/Slides/Lecture 1 FEEG 2006 Introduction to Costing 2022 23(1).pdf",
-    "2022-10-09.md",
-    "Design and Computing/Design/1-4 Formal Systems Design/2 Concept generation/Concept generation overview.md",
-    "Design and Computing/Design/Overall read order (Design year 2).md",
-    "Design and Computing/Design/1-4 Formal Systems Design/1 Introduction to formal systems design/Introduction to formal systems design overview.md"
+    "2022-10-09.md"
   ]
 }

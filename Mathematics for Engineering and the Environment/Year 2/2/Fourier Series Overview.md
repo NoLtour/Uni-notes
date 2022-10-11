@@ -1,12 +1,12 @@
 ---
-aliases: [""]
+aliases: ["Fourier series"]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Fourier Series Overview
 
 #### Intro and contents
-- 
+- [[defining the fourier series]]
 
 
 ## Expanded articles
