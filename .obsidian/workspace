@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/mechanical twinning.md",
+            "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FCC",
+                "query": "corrosion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,12 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 154
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/mechanical twinning.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +111,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184
+    "width": 184,
+    "collapsed": true
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/mechanical twinning.md",
     "Electrical and electronic systems/4 AC circuits/2 AC Passive components/resistance in AC.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/Crystal Structures.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/ABCABC stacking sequence.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/face centred cubic.md",
-    "Mechanics structures and materials/Materials/2 Phases/3 Steel phase diagram/austenite.md",
-    "Mechanics structures and materials/Materials/0 Flashcards/Atomic composition.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/spring constant.md",
-    "Mathematics for Engineering and the Environment/Year 2/2/defining the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2/ewwwwwwwwwwwwwww.md",
-    "Mathematics for Engineering and the Environment/Year 2/2/ahhhhhhhhhhhhhhhhh FRENCH.md"
+    "Mechanics structures and materials/Materials/2 Phases/3 Steel phase diagram/austenite.md"
   ]
 }
