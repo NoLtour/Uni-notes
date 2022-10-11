@@ -18,12 +18,18 @@ tags: []
 
 The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ which when solved allows you to calculate the constants $a_{1},a_{2},a_{3}...$ where the more constants calculated the closer the approximation of the original periodic function $f(x)$.
 
+(CBA to do the proof, just look it up)
+
 #### Finding the constants
 
 > ### $$ a_{m} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cos(mx) \cdot dx $$ 
 > ### $$ b_{m} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \sin(mx) \cdot dx $$ 
 > ### $$ a_{0} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cdot dx $$
 >> where:
->> $a_{m}=$ the $m$th constant related to $\cos$ and $\sin$ respectively, (basically $n$th constant, but changed essentially for convention)
->> $a_{0}=$ a offset constant (offsets the function from an average of 0)
+>> $a_{m}=$ often expands to a function defining the $n$th $a$ constant in terms of $m$.
+>> $b_{m}=$ often expands to a function defining the $n$th $b$ constant in terms of $m$.
 >> $f(x)=$ a periodic function (it repeats perfectly every $2\pi$)
+
+### Example
+![[Pasted image 20221011090614.png]]
+
