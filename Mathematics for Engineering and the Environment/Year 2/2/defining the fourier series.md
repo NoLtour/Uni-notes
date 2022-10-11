@@ -8,7 +8,7 @@ tags: []
 
 ###### Note for this page I'm using $2\pi$ for the period
 
-### Defenition
+### Definition
 
 > ### $$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}[ a_{n} \cos ( n x ) + b_{n} \sin (n x) ] $$ 
 >> where:
@@ -18,3 +18,11 @@ tags: []
 
 The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ which when solved allows you to calculate the constants $a_{1},a_{2},a_{3}...$ where the more constants calculated the closer the approximation of the original periodic function $f(x)$.
 
+#### Finding the constants
+
+> ### $$ a_{m} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cos(mx) \cdot dx $$ 
+> ### $$ b_{m} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \sin(mx) \cdot dx $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
