@@ -22,7 +22,8 @@ The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ wh
 
 > ### $$ a_{m} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cos(mx) \cdot dx $$ 
 > ### $$ b_{m} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \sin(mx) \cdot dx $$ 
+> ### $$ a_{0} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cdot dx $$
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $a_{m}=$ the $m$th constant related to $\cos$ and $\sin$ respectively, (basically $n$th constant, but changed essentially for convention)
+>> $a_{0}=$ a offset constant (offsets the function from an average of 0)
+>> $f(x)=$ a periodic function (it repeats perfectly every $2\pi$)
