@@ -31,5 +31,7 @@ The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ wh
 >> $f(x)=$ a periodic function (it repeats perfectly every $2\pi$)
 
 ### Example
-![[Pasted image 20221011090614.png]]
+> Find the [[Fourier Series Overview|Fourier series]] for:
+> ![[Pasted image 20221011090614.png]]
 
+From the graph we can clearly see that the function is $f(x)=x$ in the range $-\pi\leq x \leq \pi$ repeating every $2\pi$. 
