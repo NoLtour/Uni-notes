@@ -15,3 +15,8 @@ Can be thought of as the objects reaction to torque in some axis.
 >> $\underline{I}=$ [[moment of inertia]]
  
 
+> ### $$ \underline{I} = \begin{pmatrix} I_{xx}  & -I_{xy} & -I_{xz} \\ I_{xy} & I_{yy} & -I_{yz}  \\ I_{xz} & -I_{yy} & I_{zz} \end{pmatrix} $$ 
+>> where:
+>> $\underline{H}=$ [[moment]]
+ 
+
