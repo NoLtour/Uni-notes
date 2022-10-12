@@ -12,5 +12,6 @@ tags: ["NotesPage"]
 - [[gyroscopic rigidity]]
 - [[goals of attitude control]]
 - [[sources of instability in an inertia matrix]]
+- [[categories for spacecraft stabilisation]]
 
 ## Expanded articles
