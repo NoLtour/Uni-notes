@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of linear momentum.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -115,6 +115,8 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of linear momentum.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "Aerodynamics/Aerodynamics overview.md",
     "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 NEWER.pdf",
@@ -122,8 +124,6 @@
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/odd function.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/even function.md",
-    "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2 Fourier Series/Lecture4_FourierSeries1(4).pdf"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/odd function.md"
   ]
 }
