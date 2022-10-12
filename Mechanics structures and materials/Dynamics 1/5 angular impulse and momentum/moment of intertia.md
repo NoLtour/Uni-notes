@@ -8,10 +8,10 @@ tags: ["Question","QFormat3"]
 The moment of inertia, otherwise known as the mass moment of inertia, angular mass, second moment of mass, or most accurately, rotational inertia, of a rigid body is a quantity that determines the torque needed for a desired angular acceleration about a rotational axis, akin to how mass determines the force needed for a desired acceleration. It depends on the body's mass distribution and the axis chosen, with larger moments requiring more torque to change the body's rate of rotation.
 Can be though of as the objects reaction to torque in some axis.
 
-> ### $$ \underline{H} = \underline{I} \times \bold{\omega} $$ 
+> ### $$ \underline{H} = \underline{I} \times \underline{\omega} $$ 
 >> where:
 >> $\underline{H}=$ [[moment of linear momentum|angular momentum]]
->> $=$
+>> $=$ [[rigid body rotation around a fixed axis|rigid body rotation]]
 >> $=$
 
 Moment of Inertia or Mass moment of inertia is resistance to angular deflection due to applied torque.

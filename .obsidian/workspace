@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
-            "mode": "source",
+            "file": "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/rigid body rotation around a fixed axis.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
+                "file": "Mechanics structures and materials/Dynamics 1/7 Kinematics of rigid bodies/rigid body rotation around a fixed axis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of linear momentum.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of linear momentum.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
