@@ -10,4 +10,12 @@ Basically, if you slab some metal in space with no spin, it'll continue to not s
 (at least barring it being huge and given a few million years to tidally lock)
 
 ### What we want
-Basically what we want the spacecraft to do whlile in orbit d
+Basically what we want the spacecraft to do while in orbit during the duration of the mission varies based on payload/mission goals/[[essential spacecraft subsystems|subsystems]]:
+- Solar panels work best faceing the sun
+- Coms need to face specific directions
+- Radiators work best not facing the sun
+- Telescopes need to go all over the place
+- Pointy bit should [[rocket go brrrrrrrrr|point in right direction]]
+- Atmosphere causes unequal drag in many cases which builds up even in really thin conditions
+
+Essentially po
