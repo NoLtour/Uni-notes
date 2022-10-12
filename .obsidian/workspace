@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
+            "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/2 Attitude control/this does not link up right lol.md",
     "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
+    "SESA2024 Astronautics/2 Attitude control/this does not link up right lol.md",
     "SESA2024 Astronautics/2 Attitude control/rocket go brrrrrrrrr.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "SESA2024 Astronautics/2 Attitude control/gyroscopic rigidity.md",

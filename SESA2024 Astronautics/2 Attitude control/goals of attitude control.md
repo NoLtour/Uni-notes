@@ -19,3 +19,5 @@ Basically what we want the spacecraft to do while in orbit during the duration o
 - Atmosphere causes unequal drag in many cases which builds up even in really thin conditions
 
 Essentially: Where the thing points is important, we need to control it + we need to prevent annoying things fucking with the rotation (eg atmosphere, [[this does not link up right lol|radiation pressure]])
+
+
