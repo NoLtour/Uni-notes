@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
-            "mode": "source",
+            "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of linear momentum.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
+                "file": "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of linear momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of intertia.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of linear momentum.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
@@ -123,7 +124,6 @@
     "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 NEWER.pdf",
     "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 Mathematical and Numerical Concepts(4).pdf",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md"
   ]
 }
