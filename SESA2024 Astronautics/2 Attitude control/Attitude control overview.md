@@ -9,6 +9,6 @@ tags: ["NotesPage"]
 - [[moment of linear momentum|angular momentum]] 
 - [[angular momentum in multiple dimensions]]
 - 
-[[moment of intertia]]
+[[moment of inertia]]
 
 ## Expanded articles
