@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 154
+    "width": 278
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -115,15 +115,15 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/ewwwwwwwwwwwwwww Frnch.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/odd function.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/even function.md",
+    "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2 Fourier Series/Lecture4_FourierSeries1(4).pdf",
+    "Law n management/Resources and Strategy/Slides/Lecture 1 FEEG 2006 Introduction to Costing 2022 23(1).pdf",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/ewwwwwwwwwwwwwww Frnch.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/mechanical twinning.md",
-    "Electrical and electronic systems/4 AC circuits/2 AC Passive components/resistance in AC.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/Crystal Structures.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/ABCABC stacking sequence.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/face centred cubic.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion.md"
   ]
 }

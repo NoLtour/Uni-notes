@@ -32,7 +32,7 @@ The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ wh
 
 ^918760
 
-### Example
+### Example (Sawtooth function)
 > Find the [[Fourier Series Overview|Fourier series]] for:
 > ![[Pasted image 20221011090614.png]]
 
@@ -92,4 +92,28 @@ f(x) &= \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}[ a_{n} \cos ( n x ) + b_{
 
 In a similar way to most series, as you increase the term count it becomes a closer approximation to the actual function:
 
+Something that is worth noting is that in reality $a_{0}$ and $a_{m}$ are obviously going to be zero, in the case of $a_{m}$ this is because the function is clearly a [[odd function]] hence it wont contain any [[even function]]s ($\cos$). The fact that there is no upwards or downwards shift also makes it clear that $a_{0}$ would end up as zero. This will be elaborated in [[shortcuts for the fourier series|this doc]].
+
+Also something worth observing is that the goal of setting up the functions this way is to ensure that when we setup equations that make use of $\sin(?)$ and $\cos(?)$ such that we get functions that simplify to zero or some alternating integer (aka: v$(-1)^{n}$).
+
 ![[Pasted image 20221011143249.png]]
+
+
+
+### Example: Tent function
+
+> Find the [[Fourier Series Overview|Fourier series]] for:
+> ![[Pasted image 20221011163613.png]]
+
+From the graph we can clearly see that the function is $f(x)=|x|$ in the range $-\pi\leq x \leq \pi$ repeating every $2\pi$. 
+
+So now we just sub the function into [[defining the fourier series#^918760|these equations]] and solve to get definitions for the constants.
+
+$$\begin{align*}
+a_{0} &= \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cdot dx & f(x) &=  |x|\\
+ &= \frac{1}{\pi} \int^{\pi}_{-\pi} |x| \cdot dx =  \\
+&= \frac{1}{\pi} \left( \left[ - \frac{x^{2}}{2} \right]^{0}_{-\pi} + \left[ \frac{x^{2}}{2} \right]^{\pi}_{0} \right)\\
+a_{0} &=\pi
+\end{align*}$$
+
+Then we calculate $a_{m}$, (For speed we can skip steps by reusing the solution to example 1)
