@@ -1,1 +1,1 @@
-![[gigabara.mp4#pla]]
+![[gigabara.mp4#play]]
