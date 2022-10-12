@@ -14,7 +14,7 @@ Can be thought of as the objects reaction to torque in some axis.
 >> $\underline{\omega}=$ [[rigid body rotation around a fixed axis|angular velocity]]
 >> $\underline{I}=$ [[moment of inertia]]
 
-### Inertia matrix (For when you need to use moment of inertia in multi)
+### Inertia matrix (For when you need to use moment of inertia in multiple axis [[insert some funny|aka 3D]])
 
 When dealing with 3D rotation you use the inertia matrix:
 
@@ -22,6 +22,6 @@ When dealing with 3D rotation you use the inertia matrix:
 >> where:
 >> $\underline{I}=$ [[moment of inertia|inertia matrix]]
 >> $I_{xx},I_{yy},I_{zz}=$ [[moment of inertia|moments of inertia]] for individual axis
->> $I_{xy},I_{yz},I_{zx}=$ [[product of inertia]]
+>> $I_{xy},I_{yz},I_{zx}=$ [[products of inertia|product of inertia]]
  
 
