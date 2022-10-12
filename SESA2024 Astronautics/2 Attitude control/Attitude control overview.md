@@ -10,5 +10,6 @@ tags: ["NotesPage"]
 - [[moment of inertia|inertia matrix]]
 - [[gyroscopic procession]]
 - [[gyroscopic rigidity]]
+- [[goals of attitude control]]
 
 ## Expanded articles
