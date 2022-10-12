@@ -13,9 +13,11 @@ Moment of momentum measures an objects tendency to continue to spin, it describe
 > ### $$ \underline{H_{O}} = \underline{r} \times \underline{p} $$ 
 >> where:
 >> $\underline{H_{O}}=$ [[moment of linear momentum]]
->> $\underline{r}=$ the position expressed as a displacement vector from the origin 
+>> $\underline{p}=$ particles momentum
+>> $\underline{r}=$ the position expressed as a displacement vector from the origin (often the point it's rotating around)
 >> $m=$ mass
 >> $\underline{v}=$ [[velocity and speed|velocity]]
+>> (This is making use of [[cross product (vectors)|cross product]])
 
 The equation above works for 3D and 2D, but for 2D problems it is often easyer to use:
 
