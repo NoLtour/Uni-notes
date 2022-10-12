@@ -42,9 +42,10 @@ The point mass is kinda useless for most of our use cases, so this form is what 
  
 As long as you have some definition for the [[moment of inertia]] it becomes easy to relate [[rigid body rotation around a fixed axis|angular velocity]] and [[moment of linear momentum|angular momentum]].
 
-In 3D you get this:
-> ### $$ \underline{H} = \begin{pmatrix} I_{xx}  & -I_{xy} & -I_{xz} \\ I_{xy} & I_{yy} & -I_{yz}  \\ I_{xz} & -I_{yy} & I_{zz} \end{pmatrix} \begin{pmatrix} \omega_{z} & \omega_{y}  & \omega_{z} \end{pmatrix} $$ 
+In 3D it can be expanded as this:
+
+> ### $$ \underline{H} = \begin{pmatrix} I_{xx}  & -I_{xy} & -I_{xz} \\ I_{xy} & I_{yy} & -I_{yz}  \\ I_{xz} & -I_{yy} & I_{zz} \end{pmatrix} \begin{pmatrix} \omega_{z} \\ \omega_{y}  \\ \omega_{z} \end{pmatrix} $$ 
 >> where:
 >> $\underline{H}=$ [[moment of linear momentum|angular momentum]]
->> $\underline{\omega}=\begin{pmatrix} \omega_{z} & \omega_{y}  & \omega_{z} \end{pmatrix}=$ [[angul;a]]
+>> $\underline{\omega}=\begin{pmatrix} \omega_{z} \\\omega_{y}  \\ \omega_{z} \end{pmatrix}=$ [[rigid body rotation around a fixed axis|angular velocity]]
 >> $\underline{I}=\begin{pmatrix} I_{xx}  & -I_{xy} & -I_{xz} \\ I_{xy} & I_{yy} & -I_{yz}  \\ I_{xz} & -I_{yy} & I_{zz} \end{pmatrix}=$ [[moment of inertia]] ([[moment of inertia|inertia matrix]])
