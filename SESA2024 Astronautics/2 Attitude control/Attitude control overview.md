@@ -7,6 +7,8 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[moment of linear momentum|angular momentum]] 
+- [[angular momentum in multiple dimensions]]
+- 
 
 
 ## Expanded articles
