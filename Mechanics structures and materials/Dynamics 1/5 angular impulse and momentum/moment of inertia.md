@@ -23,5 +23,8 @@ When dealing with 3D rotation you use the inertia matrix:
 >> $\underline{I}=$ [[moment of inertia|inertia matrix]]
 >> $I_{xx},I_{yy},I_{zz}=$ [[moment of inertia|moments of inertia]] for individual axis
 >> $I_{xy},I_{yz},I_{zx}=$ [[products of inertia|product of inertia]]
+
+^cc3cb6
+
  
 The inertia matrix is __REALLY__ useful to have defined, since it gives you all the information regarding a rigid bodies behaviour to toques and how they translate to rotational motion.

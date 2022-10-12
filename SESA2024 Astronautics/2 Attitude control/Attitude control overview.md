@@ -11,5 +11,6 @@ tags: ["NotesPage"]
 - [[gyroscopic procession]]
 - [[gyroscopic rigidity]]
 - [[goals of attitude control]]
+- [[sources of instability in an inertia matrix]]
 
 ## Expanded articles

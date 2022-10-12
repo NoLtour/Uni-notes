@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+            "file": "SESA2024 Astronautics/2 Attitude control/cross-coupling.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+                "file": "SESA2024 Astronautics/2 Attitude control/cross-coupling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/2 Attitude control/sources of instability in an inertia matrix.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/products of inertia.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/product of inertia.md",
+    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of inertia.md",
+    "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
     "SESA2024 Astronautics/2 Attitude control/this does not link up right lol.md",
     "SESA2024 Astronautics/2 Attitude control/rocket go brrrrrrrrr.md",
-    "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "SESA2024 Astronautics/2 Attitude control/gyroscopic rigidity.md",
-    "SESA2024 Astronautics/2 Attitude control/gyroscopic procession.md",
-    "SESA2024 Astronautics/2 Attitude control/omega based.md",
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of linear momentum.md",
-    "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of inertia.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md"
+    "SESA2024 Astronautics/2 Attitude control/gyroscopic procession.md"
   ]
 }

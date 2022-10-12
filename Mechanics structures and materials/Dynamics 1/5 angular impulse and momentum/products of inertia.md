@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["product of inertia"]
 tags: []
 ---
 
