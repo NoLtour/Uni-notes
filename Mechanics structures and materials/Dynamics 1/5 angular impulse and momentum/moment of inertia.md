@@ -1,5 +1,5 @@
 ---
-aliases: ["mass moment of inertia","angular mass","rotational inertia"]
+aliases: ["mass moment of inertia","angular mass","rotational inertia","inertia matrix"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -13,10 +13,15 @@ Can be thought of as the objects reaction to torque in some axis.
 >> $\underline{H}=$ [[moment of linear momentum|angular momentum]]
 >> $\underline{\omega}=$ [[rigid body rotation around a fixed axis|angular velocity]]
 >> $\underline{I}=$ [[moment of inertia]]
- 
+
+### Inertia matrix
+
+When dealing with 3D rotation you use the inertia matrix:
 
 > ### $$ \underline{I} = \begin{pmatrix} I_{xx}  & -I_{xy} & -I_{xz} \\ I_{xy} & I_{yy} & -I_{yz}  \\ I_{xz} & -I_{yy} & I_{zz} \end{pmatrix} $$ 
 >> where:
->> $\underline{H}=$ [[moment]]
+>> $\underline{I}=$ [[moment of inertia|inertia matrix]]
+>> $I_{xx},I_{yy},I_{zz}=$ 
+>> $I_{xy},I_{yz},I_{zx}=$ [[product of inertia]]
  
 
