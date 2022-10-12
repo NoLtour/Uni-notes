@@ -32,7 +32,7 @@ The equation above works for 3D and 2D, but for 2D problems it is often easyer t
 ![[Pasted image 20220221183830.png]]
 
 ### Angular momentum of a rotating body
-The point mass is kinda useless for most of our use cases, so this form 
+The point mass is kinda useless for most of our use cases, so this form is what we'll often use:
 
 > ### $$ \underline{H} = \underline{I} \underline{\omega} $$ 
 >> where:
@@ -40,4 +40,4 @@ The point mass is kinda useless for most of our use cases, so this form
 >> $\underline{\omega}=$ [[rigid body rotation around a fixed axis|angular velocity]]
 >> $\underline{I}=$ [[moment of inertia]]
  
-
+As long as you have some definition for the [[moment of inertia]] it becomes easy to relate [[rigid body rotation around a fixed axis|angular velocity]] and [[moment of linear momentum|angular momentum]]. 
