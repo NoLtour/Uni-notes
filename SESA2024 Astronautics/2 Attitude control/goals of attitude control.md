@@ -18,6 +18,10 @@ Basically what we want the spacecraft to do while in orbit during the duration o
 - Pointy bit should [[rocket go brrrrrrrrr|point in right direction]]
 - Atmosphere causes unequal drag in many cases which builds up even in really thin conditions
 
-Essentially: Where the thing points is important, we need to control it + we need to prevent annoying things fucking with the rotation (eg atmosphere, [[this does not link up right lol|radiation pressure]])
+Essentially: Where the thing points is important, we need to control it + we need to prevent annoying things fucking with the rotation.
+
+
+#### Sources of disturbance torques
+![[Pasted image 20221012194045.png]]
 
 
