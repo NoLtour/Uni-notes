@@ -7,7 +7,9 @@ tags: ["Question","QFormat3"]
 ## Moment of linear momentum ($H_{O}, \underline{H_{O}}$)
 Moment of linear momentum is basically the general case of [[moment of linear momentum|angular momentum]].
 
-Moment of momentum measures an objects tendency to continue to spin, it describes the rotary inertia of a system in motion about an axis. It can be applied to situations involving [[Curvilinear motion notes|curvilinear motion]], the equation defining this for a point mass is:
+Moment of momentum measures an objects tendency to continue to spin, it describes the rotary inertia of a system in motion about an axis. It can be applied to situations involving [[Curvilinear motion notes|curvilinear motion]].
+
+### Angular momentum of a point mass
 
 > ### $$ \underline{H_{O}} = \underline{r} \times (m \underline{v}) $$ 
 > ### $$ \underline{H_{O}} = \underline{r} \times \underline{p} $$ 
@@ -28,3 +30,9 @@ The equation above works for 3D and 2D, but for 2D problems it is often easyer t
 >> $=$
 
 ![[Pasted image 20220221183830.png]]
+
+### Angular momentum of a rotating body
+The point mass is kinda useless for most of our use cases, 
+
+
+
