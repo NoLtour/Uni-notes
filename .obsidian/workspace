@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md",
+            "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md",
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,13 +116,13 @@
   "active": "0fcab0031f4d6164",
   "lastOpenFiles": [
     "SESA2024 Astronautics/2 Attitude control/categories for spacecraft stabilisation.md",
+    "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "SESA2024 Astronautics/2 Attitude control/sources of instability in an inertia matrix.md",
     "SESA2024 Astronautics/2 Attitude control/nutation.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/moment of inertia.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/products of inertia.md",
     "SESA2024 Astronautics/2 Attitude control/spin vid.md",
-    "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md",
     "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
     "SESA2024 Astronautics/2 Attitude control/principle axis.md"
   ]
