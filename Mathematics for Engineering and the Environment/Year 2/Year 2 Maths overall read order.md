@@ -10,8 +10,8 @@ I'm going to go according to the contents of the lecture notes given out with th
 ### The stuff
 
 #### 1 Ordinary differential equations
-##### 1.1 [[Second order ODEs overview]]
-##### [[Fourier Series Overview]]
+##### 1 [[Second order ODEs overview]]
+##### 2 [[Fourier Series Overview]]
 
 
 
