@@ -1,5 +1,5 @@
 ---
-aliases: ["rigid body rotation"]
+aliases: ["rigid body rotation","angular velocity","angular acceleration","angular displacement"]
 tags: ["Question","QFormat3"]
 ---
 
