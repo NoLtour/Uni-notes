@@ -13,7 +13,8 @@ The [[products of inertia]] can be interpreted as "a measure of unbalance", they
 For long term stability such as what you want for [[spin stabilising a spacecraft]] you want the following properties in your [[moment of inertia|inertia matrix]]:
 
 > ### $$ \begin{pmatrix} I_{xx}  & 0 & 0 \\ 0 & I_{xx} & 0 \\ 0 & 0 & I_{zz} \end{pmatrix}  $$ 
->> where:
+>> To achieve maximum long term stability:
 >> $I_{xx}=I_{yy}=$ the non rotational axis should have equal [[moment of inertia|moments of inertia]]
 >> $I_{xx} << I_{zz}$ the rotational axis [[moment of inertia]] should be larger than the other axis' [[moment of inertia|moments of inertia]]
 >> $I_{zz}$ to be large
+>> By having all the [[products of inertia]] be as close to zero as possible it minimises [[nutation]].
