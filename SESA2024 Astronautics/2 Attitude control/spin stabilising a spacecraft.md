@@ -14,4 +14,4 @@ Well now anything axially positioned is rotating such that not only are there co
 - Most payloads/communication equipment cannot function effectively if radially mounted.
 
 ### Choice of spin axis
-The spin axis can only have a constant direction if it is a [[principle axis]].
+The spin axis can only have a constant direction if it is a [[principle axis]] (specifically either one with the maximum or minimum [[moment of linear momentum|angular momentum]] else you get [[spin vid|this issue]]).
