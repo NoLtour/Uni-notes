@@ -17,4 +17,8 @@ Well now anything axially positioned is rotating such that not only are there co
 The spin axis can only have a constant direction if it is a [[principle axis]] (specifically either one with the maximum or minimum [[moment of linear momentum|angular momentum]] else you get [[spin vid|this issue]]).
 For long term stability it's best to choose the axis of maximum inertia.
 
-### Maximising 
+### Maximising stability
+![[sources of instability in an inertia matrix#The ideal matrix]]
+
+### Dampening
+To counteract [[nutation]] you might have passive or active dampeners to counteract the nutation.
