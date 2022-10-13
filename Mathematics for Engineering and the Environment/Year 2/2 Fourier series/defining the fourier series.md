@@ -111,9 +111,28 @@ So now we just sub the function into [[defining the fourier series#^918760|these
 
 $$\begin{align*}
 a_{0} &= \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cdot dx & f(x) &=  |x|\\
- &= \frac{1}{\pi} \int^{\pi}_{-\pi} |x| \cdot dx =  \\
+ &= \frac{1}{\pi} \int^{\pi}_{-\pi} |x| \cdot dx  \\
 &= \frac{1}{\pi} \left( \left[ - \frac{x^{2}}{2} \right]^{0}_{-\pi} + \left[ \frac{x^{2}}{2} \right]^{\pi}_{0} \right)\\
 a_{0} &=\pi
 \end{align*}$$
 
-Then we calculate $a_{m}$, (For speed we can skip steps by reusing the solution to example 1)
+Then we calculate $a_{m}$ using integration by parts on $\frac{1}{\pi} \int^{\pi}_{-\pi} |x| \cos(mx) \cdot dx$ (we split it into two parts like this to show the effect of the abs function):
+
+$$\begin{align*}
+a_{m} &= \frac{1}{\pi} \left( -\left[ \frac{x\sin(mx)}{m} + \frac{\cos(mx)}{m^{2}} \right]^{0}_{-\pi} + \left[ \frac{x\sin(mx)}{m} + \frac{\cos(mx)}{m^{2}} \right]^{\pi}_{0} \right) \\
+ &= \frac{1}{\pi} \left( - \left[ 0 - 0 + \frac{1}{m^{2}} - \frac{(-1)^{m}}{m^{2}} \right] + \left[ 0-0+ \frac{(-1)^{m}}{m^{2}} - \frac{1}{m^{2}} \right] \right) \\
+ &= 2 \frac{(-1)^{m} - 1}{\pi m^{2}}
+\end{align*}$$
+
+(cba to write up the solution for $b_{m}$ but it's the same sort of thing as above but now it ends up going to zero $b_{m}=0$). In the end you get the equation:
+
+$$\begin{align*}
+f(x) &= \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}[ a_{n} \cos ( n x ) + b_{n} \sin (n x) ] & a_{0}&=0 & a_{n}&=2 \frac{(-1)^{n} - 1}{\pi n^{2}} & b_{n} &= 0\\
+&=   \sum\limits^{\infty}_{n=1}\left[ 2 \frac{(-1)^{n} - 1}{\pi n^{2}} \cos ( n x )  \right]   
+\end{align*}$$
+
+Which when expanded approximates the function, and you can see it quickly gets quite accurate by the following:
+
+![[Pasted image 20221013115321.png]]
+
+

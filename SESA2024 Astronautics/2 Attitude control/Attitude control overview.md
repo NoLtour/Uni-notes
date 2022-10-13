@@ -13,5 +13,7 @@ tags: ["NotesPage"]
 - [[goals of attitude control]]
 - [[sources of instability in an inertia matrix]]
 - [[categories for spacecraft stabilisation]]
+- [[attitude control subsystem (ACS)|ACS]]
+- [[internal and external torques]]
 
 ## Expanded articles
