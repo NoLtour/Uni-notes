@@ -1,9 +1,9 @@
 ---
-aliases: ["aerodynamic distrubance torque","gravitational gradient disturbance torque","radiation pressure disturbance torque"]
+aliases: ["aerodynamic distrubance torque","gravitational gradient disturbance torque","radiation pressure disturbance torque","magnetic disturbance torque"]
 tags: []
 ---
 
-## Naturally occurring [[internal and external torques|external torques]]
+## Disturbance [[internal and external torques|torques]]
 Refer back to this chart:
 ![[Pasted image 20221012194045.png]]
 
@@ -22,3 +22,11 @@ The atmosphere of planets extends waaay higher than you think, though in this co
 - The force imparted by photons and other forms of radiation hitting your spacecraft.
 - Depends on geometry (again think solar panels as sails).
 - Can be used for attitude control (but very slow) and of course stabilisation.
+
+### Magnetic
+- The interaction between localised and planetary magnetic fields
+- Can be used for attitude control (but very slow) and of course stabilisation.
+
+### Thrust misalignment
+- The effect of over/underburing a thruster and or misalignment
+- Over planatery scales even 1mm misalignment becomes HUGE so it's basically inevitable

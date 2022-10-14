@@ -15,7 +15,7 @@ tags: ["NotesPage"]
 - [[categories for spacecraft stabilisation]]
 - [[attitude control subsystem (ACS)|ACS]]
 - [[internal and external torques]]
-- [[naturally occurring external torques]]
+- [[disturbance torques]]
 
 
 ## Expanded articles
