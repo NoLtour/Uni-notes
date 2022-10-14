@@ -24,9 +24,10 @@ The atmosphere of planets extends waaay higher than you think, though in this co
 - Can be used for attitude control (but very slow) and of course stabilisation.
 
 ### Magnetic
-- The interaction between localised and planetary magnetic fields
+- The interaction between localised and planetary magnetic fields.
 - Can be used for attitude control (but very slow) and of course stabilisation.
 
 ### Thrust misalignment
-- The effect of over/underburing a thruster and or misalignment
-- Over planatery scales even 1mm misalignment becomes HUGE so it's basically inevitable
+- The effect of over/underburing a thruster and or misalignment.
+- Over planetary scales even 1mm misalignment becomes HUGE so it's basically inevitable.
+- Forms of [[categories for spacecraft stabilisation|spin stabilisation]] are quite effective at reducing this.

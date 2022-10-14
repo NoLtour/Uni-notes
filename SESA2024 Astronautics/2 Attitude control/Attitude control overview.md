@@ -16,6 +16,7 @@ tags: ["NotesPage"]
 - [[attitude control subsystem (ACS)|ACS]]
 - [[internal and external torques]]
 - [[disturbance torques]]
+- [[controllable external torquers]]
 
 
 ## Expanded articles

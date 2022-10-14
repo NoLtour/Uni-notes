@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["spin stabilisation"]
 tags: []
 ---
 
