@@ -7,8 +7,12 @@
         "id": "76271610466b8195",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/Matricies 3 overview.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "SESA2024 Astronautics/2 Attitude control/controllable external torquers.md",
     "SESA2024 Astronautics/2 Attitude control/I think I explained that quite well.md",
@@ -119,7 +125,6 @@
     "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
     "SESA2024 Astronautics/2 Attitude control/internal and external torques.md",
     "SESA2024 Astronautics/1 Intro to subsystems/attitude control subsystem (ACS).md",
-    "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md",
-    "SESA2024 Astronautics/2 Attitude control/dual spin stabilising a spacecraft.md"
+    "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md"
   ]
 }
