@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "d0c14cc675cac024",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d6e04c7a059846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76271610466b8195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f9c908532dcadb73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc1bd9a94f95c536",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e274904d58ff975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dba8c53e0736664",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "075671ccff8c4b69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "corrosion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "013240ac8a59389f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278
+  },
+  "right": {
+    "id": "12c168c46d609ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6972ccb990ee134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d7e22d6e635444b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2fba8ea68884c642",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f129e36997eea1cb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 184,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f9c908532dcadb73",
+  "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/Matricies 3 overview.md",
+    "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+    "SESA2024 Astronautics/2 Attitude control/controllable external torquers.md",
+    "SESA2024 Astronautics/2 Attitude control/I think I explained that quite well.md",
+    "SESA2024 Astronautics/2 Attitude control/disturbance torques.md",
+    "SESA2024 Astronautics/2 Attitude control/categories for spacecraft stabilisation.md",
+    "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
+    "SESA2024 Astronautics/2 Attitude control/internal and external torques.md",
+    "SESA2024 Astronautics/1 Intro to subsystems/attitude control subsystem (ACS).md",
+    "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md"
+  ]
+}

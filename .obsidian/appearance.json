@@ -3,5 +3,6 @@
   "cssTheme": "Cybertron",
   "enabledCssSnippets": [
     "truncc"
-  ]
+  ],
+  "accentColor": ""
 }
