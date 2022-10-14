@@ -23,4 +23,9 @@ tags: []
 ![[Pasted image 20221014102351.png]]
 
 ### Geometry manipulation
-- Can ustilise [[disturbance torques|radiation pressure]] 
+- Can utilize [[disturbance torques|radiation pressure]] or [[disturbance torques|aerodynamic distrubance]] to create torques.
+- Slow response.
+- Effectiveness varies based on position relative to radiation sources (mainly the sun), or atmosphere.
+- Only uses power, but also has mechanical dependence.
+
+![[Pasted image 20221014102733.png]]
