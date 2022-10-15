@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2958e22730e0de12",
+        "id": "07931604513c5b05",
         "type": "tabs",
         "children": [
           {
@@ -16,16 +16,6 @@
                 "file": "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "9e4d3bcbc95429f6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
               }
             }
           }
@@ -137,15 +127,15 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/Matricies 3 overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
+    "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "SESA2024 Astronautics/2 Attitude control/controllable external torquers.md",
     "SESA2024 Astronautics/2 Attitude control/I think I explained that quite well.md",
     "SESA2024 Astronautics/2 Attitude control/disturbance torques.md",
     "SESA2024 Astronautics/2 Attitude control/categories for spacecraft stabilisation.md",
     "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
     "SESA2024 Astronautics/2 Attitude control/internal and external torques.md",
-    "SESA2024 Astronautics/1 Intro to subsystems/attitude control subsystem (ACS).md",
-    "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md"
+    "SESA2024 Astronautics/1 Intro to subsystems/attitude control subsystem (ACS).md"
   ]
 }
