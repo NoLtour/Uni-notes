@@ -21,13 +21,14 @@ The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ wh
 
 #### Finding the constants
 
-> ### $$ a_{m} = \frac{1}{\pi} \int^{L}_{-L} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
-> ### $$ b_{m} = \frac{1}{\pi} \int^{L}_{-L} f(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
-> ### $$ a_{0} = \frac{1}{\pi} \int^{\pi}_{-\pi} f(x) \cdot dx $$
+> ### $$ a_{m} = \frac{1}{L} \int^{L}_{-L} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
+> ### $$ b_{m} = \frac{1}{L} \int^{L}_{-L} f(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
+> ### $$ a_{0} = \frac{1}{L} \int^{L}_{-L} f(x) \cdot dx $$
 >> where:
 >> $a_{m}=$ often expands to a function defining the $n$th $a$ constant in terms of $m$.
 >> $b_{m}=$ often expands to a function defining the $n$th $b$ constant in terms of $m$.
 >> $f(x)=$ a periodic function (it repeats perfectly every $2\pi$)
+>> $L=$ half the period of the function
 
 ^918760
 
