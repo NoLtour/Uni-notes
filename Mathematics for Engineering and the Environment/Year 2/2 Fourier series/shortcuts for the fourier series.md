@@ -14,8 +14,8 @@ If we look at the equation that actually defines the [[Fourier Series Overview|F
 
 Hence from this it becomes obvious that:
 - If a function is a [[odd function]] then in its [[Fourier Series Overview|fourier series]] $a_{n}=0$ and $a_{0}=0$.
-- If a function is a [[even function]] then in its [[Fourier Series Overview|fourier series]] $a_{n}=0$ and $a_{0}=0$.
-- If a function is a [[odd function]] then in its [[Fourier Series Overview|fourier series]] $a_{n}=0$ and $a_{0}=0$.
+- If a function is a [[even function]] then in its [[Fourier Series Overview|fourier series]] $b_{n}=0$.
+- If a function has equal area's above and below the x axis then $a_{0}=0$.
 
 
 
