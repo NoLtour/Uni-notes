@@ -26,6 +26,6 @@ Hence from this it becomes obvious that:
 
 From the graph we can clearly see that the function is $f(x)=|x|$ in the range $-\pi\leq x \leq \pi$ repeating every $2\pi$. 
 
-So now we just sub the function into [[defining the fourier series#^918760|these equations]] and solve to get definitions for the constants, but something should
+Simply by looking at the function it's obvious that this is a [[even function]] hence $b_n=0$, so all that needs to be calculated is $a_{0}$ and $b_{n}$. 
 
 
