@@ -5,7 +5,7 @@ tags: []
 
 ## Relationships with odd and even functions
 
-There are intresting relationships that you can get by combining [[odd function]]s and [[even function]]s, here we explore them.
+There are [[i needed to put a meme somewhere|interesting]] relationships that you can get by combining [[odd function]]s and [[even function]]s, here we explore them.
 
 ### Multiplying two even functions
 

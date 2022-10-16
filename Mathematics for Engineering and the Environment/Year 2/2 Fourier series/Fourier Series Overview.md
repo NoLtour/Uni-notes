@@ -8,8 +8,8 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[trig identities for Fourier series]]
 - [[defining the fourier series]]
-- [[shortcuts for the fourier series]]
 - [[relationships with odd and even functions]]
+- [[shortcuts for the fourier series]]
 
 
 ## Expanded articles
