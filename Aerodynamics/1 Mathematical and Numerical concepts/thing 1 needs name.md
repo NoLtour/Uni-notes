@@ -7,6 +7,7 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[geometric similarity]]
+- [[dynamic similarity]]
 
 
 ## Expanded articles
