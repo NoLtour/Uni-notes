@@ -10,7 +10,7 @@ tags: []
 
 > ### $$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \frac{n\pi}{L} x \right) + b_{n} \sin \left(\frac{n\pi}{L} x\right) \right] $$ 
 >> where:
->> $f(x)=$ a periodic function (it repeats perfectly every $2\pi$)
+>> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
 >> $a_{0}=$ a offset constant (offsets the function from an average of 0)
 >> $a_{n},b_{n}=$ the $n$th constant related to $\cos$ and $\sin$ respectively
 >> $L=$ half the period of the function
@@ -27,7 +27,7 @@ The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ wh
 >> where:
 >> $a_{m}=$ often expands to a function defining the $n$th $a$ constant in terms of $m$.
 >> $b_{m}=$ often expands to a function defining the $n$th $b$ constant in terms of $m$.
->> $f(x)=$ a periodic function (it repeats perfectly every $2\pi$)
+>> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
 >> $L=$ half the period of the function
 
 ^918760
