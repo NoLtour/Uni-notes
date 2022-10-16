@@ -6,7 +6,7 @@ tags: ["NotesPage"]
 # Fourier Series Overview
 
 #### Intro and contents
-- 
+- [[trig identities for Fourier series]]
 - [[defining the fourier series]]
 - [[shortcuts for the fourier series]]
 
