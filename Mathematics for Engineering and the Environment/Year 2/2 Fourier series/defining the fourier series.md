@@ -15,6 +15,8 @@ tags: []
 >> $a_{n},b_{n}=$ the $n$th constant related to $\cos$ and $\sin$ respectively
 >> $L=$ half the period of the function
 
+^3f0fc8
+
 The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ which when solved allows you to calculate the constants $a_{1},a_{2},a_{3}...$ where the more constants calculated the closer the approximation of the original periodic function $f(x)$.
 
 (CBA to do the proof, just look it up)
