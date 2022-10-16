@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fca8f2acc4298823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathematical and Numerical concepts overview.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathematical and Numerical concepts overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,14 +138,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "76271610466b8195",
+  "active": "fca8f2acc4298823",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/relationships with odd and even functions.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/i needed to put a meme somewhere.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/odd function.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/even function.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
