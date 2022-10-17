@@ -40,5 +40,7 @@ $$ \frac{\rho V_{s}^{2}}{r} = \frac{\delta p}{\delta n } $$
 This relationship implies that surface curvature (or curvature of the streamline) is directly linked to the pressure gradient:
 ![[Pasted image 20221017185113.png]]
 Such that:
-- For a convex surface, the pressure will be lower than freestream
-- 
+- For a convex surface, the pressure will be lower than freestream.
+- For a concave surface, the pressure will be higher than freestream.
+
+Now consider 
