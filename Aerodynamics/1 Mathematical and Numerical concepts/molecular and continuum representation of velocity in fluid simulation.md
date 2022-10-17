@@ -20,5 +20,4 @@ Since representing each molecules not really possible instead we take a continuu
 ![[Pasted image 20221017090343.png]]
 
 Here each cell represents a bunch of fluid, with the average velocity of the air in the fluid being the velocity of the cell. For a small cell this approximation is quite accurate and of course the smaller the cell the more accurate the representation.
-
-[[part]]
+Since we need to isolate changes in 
