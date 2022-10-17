@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# Thing 1 needs name 
+# Mathematical and numerical concepts overview
 
 #### Intro and contents
 - [[geometric similarity]]
@@ -13,6 +13,7 @@ tags: ["NotesPage"]
 - [[divergence operator]]
 - [[mass continuity using divergence]]
 - [[curl of a vector]]
+- [[streamlines|streamline]]
 
 
 ## Expanded articles
