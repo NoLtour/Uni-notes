@@ -29,5 +29,8 @@ Which is $\frac{\delta \vec{v}}{\delta x} \times \Delta x$ (here in the [[deriva
 #### Partial derivatives across a continuum
 We can take a linear set of cells like a line relative to some reference such as $i$:
 ![[Pasted image 20221017093836.png]]
-Each side holding $i-1,i-2,i+1,i+2...$ with $f_{i+n}$ representing some value associated at that point. Now if only there was a mathematical tool used for finding adjustment terms using a reference point plus additional derivatives \*cough\* ([[Taylor series]]).
-
+Each side holding $i-1,i-2,i+1,i+2...$ with $f_{i+n}$ representing some value associated at that point. Now if only there was a mathematical tool used for finding adjustment terms using a reference point plus additional derivatives \*cough\* ([[Taylor series]]). So if we write out the [[Taylor series]] for $f_{i+1}$:
+$$ f_{i+1} = f_{i} + \frac{\delta f}{\delta x} \Delta x + \frac{\delta^{2} f}{\delta x^{2}} \frac{(\Delta x)^{2}}{2} + ... $$
+Since in this case $\Delta x$ is tiny, $(\Delta x)^{2}$ and any other higher order terms (HOT's) are negligible:
+$$ f_{i+1} = f_{i} + \frac{\delta f}{\delta x} \Delta x $$
+A simular expression can be found for $f_{i-1}$
