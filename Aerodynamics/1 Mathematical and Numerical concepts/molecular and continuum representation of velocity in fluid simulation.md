@@ -17,7 +17,11 @@ Then just do some basic particle collision simulation for lets say $2\times 10^2
 ### Continuum representation
 Since representing each molecules not really possible instead we take a continuum representation, in which we represent velocity as a property of units of space:
 
+![[Pasted image 20221017091801.png]]
+
+Here each cell represents a bunch of fluid, with the average velocity of the air in the fluid being the velocity of the cell (we also apply this average to all other properties such as density, pressure ect). For a small cell this approximation is quite accurate and of course the smaller the cell the more accurate the representation (since it's closer to the size of the individual molecules). 
+In the diagram the average velocity of a cell is described with the vector $\vec{v}$, so now to find the value of the velocity in the box adjasent you need to add the change in velocity between the box's:
+
 ![[Pasted image 20221017090343.png]]
 
-Here each cell represents a bunch of fluid, with the average velocity of the air in the fluid being the velocity of the cell (we also apply this average to all other properties such as density, pressure ect). For a small cell this approximation is quite accurate and of course the smaller the cell the more accurate the representation (since it's closer to the size of the individual molecules).
-Since we need to isolate changes in 
+Which is $\frac{\delta \vec{v}}{\delta x} \times$
