@@ -27,7 +27,7 @@
               "state": {
                 "file": "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -140,6 +140,8 @@
   },
   "active": "fca8f2acc4298823",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/thing 1 needs name.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md",
     "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
@@ -147,8 +149,6 @@
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathematical and Numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/dynamic similarity.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/geometric similarity.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md"
   ]
 }
