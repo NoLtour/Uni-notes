@@ -35,12 +35,8 @@
             "id": "212e89c451002fe5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,9 +106,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -149,17 +144,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "212e89c451002fe5",
+  "active": "3d7e22d6e635444b",
   "lastOpenFiles": [
+    "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/thing 1 needs name.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
     "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md",
     "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/Mathematical and Numerical concepts overview.md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md"
   ]
 }

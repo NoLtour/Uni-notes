@@ -1,6 +1,8 @@
 ---
-aliases: ["curl",]
+aliases: ["curl","vorticity"]
 tags: []
 ---
 
 ## Curl of a vector
+
+
