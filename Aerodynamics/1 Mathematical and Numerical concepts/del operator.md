@@ -27,5 +27,5 @@ $$\begin{align*}
 &= \left( 2x,\: 21y^{2}x,\: 3e^{3z} \right)
 \end{align*}$$
 
-### Vid bit
-![youtube](https://youtu.be/ynzRyIL2atU?t=82)
+### Vid bit (graphical representation of [[del operator]])
+![youtube](https://youtu.be/ynzRyIL2atU?t=82#t=82)
