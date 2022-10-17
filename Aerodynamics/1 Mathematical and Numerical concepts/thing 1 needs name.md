@@ -15,6 +15,7 @@ tags: ["NotesPage"]
 - [[del operator]]
 - [[divergence operator]]
 - [[mass continuity using divergence]]
+- [[curl of a vector]]
 
 
 ## Expanded articles

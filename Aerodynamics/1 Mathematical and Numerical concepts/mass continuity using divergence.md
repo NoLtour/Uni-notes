@@ -32,4 +32,6 @@ This equation looks similar to something we did recently [[hhhhuuuuuuuuuuuuuuuuu
 >> $v=V_{y}=$ velocity $y$ component
 >> made use of [[divergence operator#^0f35d6]]
 
-So if we look back at what each value of the [[divergence operator]] means according to it's defenition
+So if we look back at what each value of the [[divergence operator]] means according to it's definition:
+![[divergence operator#^951754]]
+It can be seen that equaling zero means conservation, which is inline with the original assumption of mass conservation; hence if we have a vector field where at some point the [[divergence operator]] is not zero we know that mass isn't conserved, this means there exists a "source" or "drain" which is unrealistic.

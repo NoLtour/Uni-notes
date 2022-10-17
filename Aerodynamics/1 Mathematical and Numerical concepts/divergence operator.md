@@ -19,3 +19,6 @@ tags: []
 Divergence gives a measure of the expansion/contraction of a [[Scalars and vectors|vector]] field at every point, hence different values of divergence can be interpreted as describing certain features of the [[Scalars and vectors|vector]] field:
 
 > $$\begin{align*}\text{div}\: \underline{F} > 0:&\:\:\text{is expanding at that point}\\ \text{div}\: \underline{F} < 0:&\:\:\text{is contracting at that point}\\\text{div}\: \underline{F} = 0:&\:\:\text{is conserved at that point}\\\end{align*}$$
+
+^951754
+
