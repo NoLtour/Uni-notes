@@ -19,7 +19,7 @@ Since representing each molecules not really possible instead we take a continuu
 
 ![[Pasted image 20221017091801.png]]
 
-Here each cell represents a bunch of fluid, with the average velocity of the air in the fluid being the velocity of the cell (we also apply this average to all other properties such as density, pressure ect). For a small cell this approximation is quite accurate and of course the smaller the cell the more accurate the representation (since it's closer to the size of the individual molecules). This 
+Here each cell represents a bunch of fluid, with the average velocity of the air in the fluid being the velocity of the cell (we also apply this average to all other properties such as density, pressure ect). For a small cell this approximation is quite accurate and of course the smaller the cell the more accurate the representation (since it's closer to the size of the individual molecules). This is essentially treating each unit as a [[control volume]].
 In the diagram the average velocity of a cell is described with the vector $\vec{v}$, so now to find the value of the velocity in the box adjacent you need to add the change in velocity between the box's:
 
 ![[Pasted image 20221017090343.png]]
@@ -30,3 +30,4 @@ Which is $\frac{\delta \vec{v}}{\delta x} \times \Delta x$ (here in the [[deriva
 We can take a linear set of cells like a line relative to some reference such as $i$:
 ![[Pasted image 20221017093836.png]]
 Each side holding $i-1,i-2,i+1,i+2...$ 
+[[Taylor series]]
