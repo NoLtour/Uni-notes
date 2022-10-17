@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   "active": "90c7530434d759ce",
   "lastOpenFiles": [
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Thermofluids/23 Flow characterisation and visualisation/streamlines.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathematical and Numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
@@ -147,7 +148,6 @@
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "images/video0(5) 1.mp4",
     "SESA1015/Flight mechanics/Flight mechanics 5/god just saying that makes me cringe but yeah based.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md"
   ]
 }
