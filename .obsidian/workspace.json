@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,10 +139,10 @@
   },
   "active": "fca8f2acc4298823",
   "lastOpenFiles": [
+    "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/thing 1 needs name.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
     "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md",
