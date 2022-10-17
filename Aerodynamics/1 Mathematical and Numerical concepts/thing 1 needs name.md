@@ -3,10 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# Thing 1 needs name
-
-### Confusion slides [[UNFINISHED STUFF]]
-- 13
+# Thing 1 needs name 
 
 #### Intro and contents
 - [[geometric similarity]]
