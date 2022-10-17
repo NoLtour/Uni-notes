@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["central difference","forward difference","backward difference"]
 tags: []
 ---
 
@@ -27,6 +27,9 @@ In the diagram the average velocity of a cell is described with the vector $\vec
 Which is $\frac{\delta \vec{v}}{\delta x} \times \Delta x$ (here in the [[derivative symbols|partial derivative]] we are holding $y$ constant).
 
 #### Partial derivatives across a continuum
+
+##### Forward/Backward difference
+
 We can take a linear set of cells like a line relative to some reference such as $i$:
 ![[Pasted image 20221017093836.png]]
 Each side holding $i-1,i-2,i+1,i+2...$ with $f_{i+n}$ representing some value associated at that point. Now if only there was a mathematical tool used for finding adjustment terms using a reference point plus additional derivatives \*cough\* ([[Taylor series]]). So if we write out the [[Taylor series]] for $f_{i+1}$:
@@ -39,7 +42,11 @@ Both of these formulas can then be rearranged to get the rate of change of some 
 ![[Pasted image 20221017095243.png]]
 (you end up with an equation which is literally just gradient)
 
+##### Central difference
+
 It is possible to get a more accurate representation of the difference at the central point by averaging the gradients between $i-1 \to i$ and $i \to i+1$ to get:
 $$\begin{align*}
 \frac{\delta f}{\delta x} = \frac{f_{i+1} - f_{i-1}}{2\Delta x}
 \end{align*}$$
+
+We call this [[molecular and continuum representation of velocity in fluid simulation|central difference]] which can be done on numpy using "np.gradient". (It should be noted that at the boundaries of a simulation, you cannot take [[molecular and continuum representation of velocity in fluid simulation|central difference]] and instead a forward of backward difference is used)
