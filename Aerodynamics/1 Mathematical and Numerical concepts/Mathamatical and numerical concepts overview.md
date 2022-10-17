@@ -14,6 +14,7 @@ tags: ["NotesPage"]
 - [[mass continuity using divergence]]
 - [[curl of a vector]]
 - [[streamlines|streamline]]
+- [[stream function]]
 
 
 ## Expanded articles

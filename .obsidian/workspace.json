@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermofluids/23 Flow characterisation and visualisation/streamlines.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/23 Flow characterisation and visualisation/streamlines.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
