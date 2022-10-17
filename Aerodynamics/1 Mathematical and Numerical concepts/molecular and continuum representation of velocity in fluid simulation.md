@@ -7,7 +7,7 @@ tags: []
 
 ### Molecular representation
 
-In reality fluids are composed of many fast moving atoms, where their interactions with the environment/eachother determine the forces we observe:
+In reality fluids are composed of many fast moving atoms, where their interactions with the environment/each other determine the forces we observe:
 ![[Pasted image 20221017085758.png]]
 This can be represented using [[ordinary differential equation]]s, such as:
 $$ \vec{V_{i}} = \frac{d\vec{x_{i}}}{dt} $$
@@ -19,5 +19,5 @@ Since representing each molecules not really possible instead we take a continuu
 
 ![[Pasted image 20221017090343.png]]
 
-Here each cell represents a bunch of fluid, with the average velocity of the air in the fluid being the velocity of the cell. For a small cell this approximation is quite accurate and of course the smaller the cell the more accurate the representation.
+Here each cell represents a bunch of fluid, with the average velocity of the air in the fluid being the velocity of the cell (we also apply this average to all other properties such as density, pressure ect). For a small cell this approximation is quite accurate and of course the smaller the cell the more accurate the representation (since it's closer to the size of the individual molecules).
 Since we need to isolate changes in 
