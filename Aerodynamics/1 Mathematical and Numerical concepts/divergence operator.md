@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["divergence"]
 tags: []
 ---
 
@@ -13,4 +13,10 @@ tags: []
 >> $F=$ some function
 >> $\cdot=$ [[dot product (vectors)|dot product]]
 
-Divergence gives a measure of the expansion/contraction of a scalar field at every point.
+Divergence gives a measure of the expansion/contraction of a scalar field at every point, hence different values of divergence can be interpreted as describing certain features of the scalar field:
+
+>> $\text{div}\: \underline{F} > 0:&\:\:\text{is expanding at that point}$
+>> $\text{div}\: \underline{F} > 0:&\:\:\text{is expanding at that point}$
+>> $\text{div}\: \underline{F} > 0:&\:\:\text{is expanding at that point}$ 
+>> $=$
+>> $=$
