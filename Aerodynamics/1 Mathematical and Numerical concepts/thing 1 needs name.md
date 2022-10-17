@@ -14,6 +14,7 @@ tags: ["NotesPage"]
 - [[molecular and continuum representation of velocity in fluid simulation]]
 - [[del operator]]
 - [[divergence operator]]
+- [[mass continuity using divergence]]
 
 
 ## Expanded articles
