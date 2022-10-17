@@ -22,4 +22,11 @@ $$\begin{align*}
 Since we've taken density as constant we know there cannot be a change in the mass of the [[control volume]], hence $\frac{dm}{dt}=0$ and so:
 $$  \frac{\delta u}{\delta x}  + \frac{\delta v}{\delta y}  = 0 $$
 
-This equation looks similar to something we did recently [[hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm|:think:]], since $v$ and $u$
+This equation looks similar to something we did recently [[hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm|:think:]], since $v$ and $u$ are just the components of the velocity vector in their respective directions it's a form of the [[divergence operator]] applied to velocity:
+
+> ### $$ \frac{\delta u}{\delta x}  + \frac{\delta v}{\delta y} = \frac{\delta V_{x}}{\delta x}  + \frac{\delta V_{y}}{\delta y} = 0 = \nabla \cdot \vec{V} $$ 
+>> where:
+>> $
+>> $\vec{V}=$  [[velocity and speed|velocity]] vector
+>> $u=V_{x}=$ velocity $x$ component
+>> $v=V_{y}=$ velocity $y$ component
