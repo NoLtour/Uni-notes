@@ -26,3 +26,6 @@ $$\begin{align*}
 \nabla p &= \left( p \frac{\delta }{\delta x}, p \frac{\delta  }{\delta y}, p \frac{\delta  }{\delta z} \right)\\
 &= \left( 2x,\: 21y^{2}x,\: 3e^{3z} \right)
 \end{align*}$$
+
+### Vid bit
+![youtube](https://youtu.be/ynzRyIL2atU?t=82)
