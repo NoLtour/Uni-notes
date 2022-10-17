@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
-                "mode": "preview",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "fca8f2acc4298823",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/thing 1 needs name.md",
@@ -148,7 +149,6 @@
     "Aerodynamics/1 Mathematical and Numerical concepts/geometric similarity.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/relationships with odd and even functions.md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md"
   ]
 }

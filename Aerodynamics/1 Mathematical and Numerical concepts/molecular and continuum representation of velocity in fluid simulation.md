@@ -29,5 +29,5 @@ Which is $\frac{\delta \vec{v}}{\delta x} \times \Delta x$ (here in the [[deriva
 #### Partial derivatives across a continuum
 We can take a linear set of cells like a line relative to some reference such as $i$:
 ![[Pasted image 20221017093836.png]]
-Each side holding $i-1,i-2,i+1,i+2...$ 
-[[Taylor series]]
+Each side holding $i-1,i-2,i+1,i+2...$ with $f_{i+n}$ representing some value associated at that point. Now if only there was a mathematical tool used for finding adjustment terms using a reference point plus additional derivatives \*cough\* ([[Taylor series]]).
+
