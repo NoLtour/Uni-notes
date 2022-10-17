@@ -1,8 +1,14 @@
 ---
-aliases: [""]
+aliases: ["del","nabla"]
 tags: []
 ---
 
-## Del operator
+## Del operator ($\nabla$)
 
+This is quite simple:
 
+> ### $$ \nab = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
