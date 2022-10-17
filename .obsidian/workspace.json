@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +140,9 @@
   },
   "active": "fca8f2acc4298823",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/thing 1 needs name.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
+    "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md",
     "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md",

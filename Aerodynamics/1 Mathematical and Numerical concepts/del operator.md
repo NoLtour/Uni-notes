@@ -1,9 +1,11 @@
 ---
-aliases: ["del","nabla"]
+aliases: ["del","nabla","grad"]
 tags: []
 ---
 
 ## Del operator ($\nabla$)
+
+Also referred too as nabla or grad.
 
 ### Def
 
@@ -17,6 +19,7 @@ This is quite simple:
 >> $\vec{e}_{i}=$ $i_{th}$ [[unit vector]] in the $i_{th}$ dimension
 
 All this means is that for some function $f$, if you apply the [[del operator]] you get the rate of change of each of it's components, this results in a vector which points in the direction of increase.
+So the [[del operator]] will give you a vector representing the direction of increase in a [[Scalars and vectors|scalar]] field.
 
 ### Example
 > Take the [[del operator]] of $p=x^{2} + 7yx + e^{3z}$ where $p$ represents pressure:
