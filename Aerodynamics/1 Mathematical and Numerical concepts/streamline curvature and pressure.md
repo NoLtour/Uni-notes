@@ -43,5 +43,6 @@ Such that:
 - For a convex surface, the pressure will be lower than freestream.
 - For a concave surface, the pressure will be higher than freestream.
 
-Now consider a airfoil:
-
+Now consider a air foil:
+![[Pasted image 20221017190156.png]]
+It can clearly be seen that the top is convex and the bottom concave, hence a high pressure on the bottom and low pressure on top.

@@ -18,6 +18,7 @@ tags: ["NotesPage"]
 - [[momentum balance in inviscid incompressible flow]]
 - [[euler equations for inviscid and incompressible flow]]
 - [[streamline curvature and pressure]]
+- [[navier stokes equations]]
 
 
 ## Expanded articles
