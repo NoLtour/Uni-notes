@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["stream function"]
 tags: []
 ---
 
@@ -9,3 +9,12 @@ Since no mass crosses a [[streamlines|streamline]], we can associate each stream
 
 ![[Pasted image 20221017165004.png]]
 
+The volume flow rate in between two streamlines can be found using the difference between their [[stream function (2D)|stream function]]s:
+
+> ### $$ \Delta \psi = V\Delta n = V_{x} \Delta y - V_{y} \Delta x $$ 
+> ### $$  $$
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+>> ![[Pasted image 20221017165004.png]]
