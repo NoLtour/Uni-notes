@@ -12,9 +12,11 @@ Since no mass crosses a [[streamlines|streamline]], we can associate each stream
 The volume flow rate in between two streamlines can be found using the difference between their [[stream function (2D)|stream function]]s:
 
 > ### $$ \Delta \psi = V\Delta n = V_{x} \Delta y - V_{y} \Delta x $$ 
-> ### $$  $$
+> ### $$ V_{x} = \frac{\delta \psi}{ \delta y } $$
+> ### $$ V_{y} = - \frac{\delta \psi}{ \delta x } $$
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\psi=$ a stream function
+>> $\Delta n=$ length of line between streamlines
+>> $V_{x},V_{y}=$ velocity in x and y directions
+>> 
 >> ![[Pasted image 20221017165004.png]]
