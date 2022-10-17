@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
-                "mode": "preview",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/momentum balance in inviscid incompressible flow.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/momentum balance in inviscid incompressible flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,9 +140,9 @@
   "active": "90c7530434d759ce",
   "lastOpenFiles": [
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Thermofluids/23 Flow characterisation and visualisation/streamlines.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathematical and Numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",

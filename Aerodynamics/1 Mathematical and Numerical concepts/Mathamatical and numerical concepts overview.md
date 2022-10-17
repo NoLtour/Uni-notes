@@ -15,6 +15,7 @@ tags: ["NotesPage"]
 - [[curl of a vector]]
 - [[streamlines|streamline]]
 - [[stream function (2D)]]
+- [[momentum balance in inviscid incompressible flow]]
 
 
 ## Expanded articles
