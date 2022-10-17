@@ -16,5 +16,10 @@ If we take $\rho$ as a constant, then plug the numbers into a single equation:
 $$\begin{align*}
 \Delta y \left( \rho \left(u+ \frac{\delta u}{\delta x} \Delta x\right) - \rho u \right) + \Delta x \left( \rho \left(v+ \frac{\delta v}{\delta y} \Delta y\right) - \rho v \right) &= \frac{dm}{dt} \\
 \Delta y \left( \rho  \frac{\delta u}{\delta x} \Delta x \right) + \Delta x \left( \rho  \frac{\delta v}{\delta y} \Delta  y \right) &=\\
-\Delta y \Delta  x \rho \left(  \frac{\delta u}{\delta x}   \frac{\delta v}{\delta y}  \right) &=
+\rho\Delta y \Delta  x  \left(  \frac{\delta u}{\delta x}  + \frac{\delta v}{\delta y}  \right) &=
 \end{align*}$$
+
+Since we've taken density as constant we know there cannot be a change in the mass of the [[control volume]], hence $\frac{dm}{dt}=0$ and so:
+$$  \frac{\delta u}{\delta x}  + \frac{\delta v}{\delta y}  = 0 $$
+
+This equation looks simular to something we did recently [[hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm|:think:]]
