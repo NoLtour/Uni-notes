@@ -4,3 +4,10 @@ tags: []
 ---
 
 ## Divergence operator
+
+
+> ### $$  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
