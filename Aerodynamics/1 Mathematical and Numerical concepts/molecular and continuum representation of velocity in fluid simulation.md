@@ -39,3 +39,7 @@ Both of these formulas can then be rearranged to get the rate of change of some 
 ![[Pasted image 20221017095243.png]]
 (you end up with an equation which is literally just gradient)
 
+It is possible to get a more accurate representation of the difference at the central point by averaging the gradients between $i-1 \to i$ and $i \to i+1$ to get:
+$$\begin{align*}
+\frac{\delta f}{\delta x} = \frac{f_{i+1} - f_{i-1}}{2\Delta x}
+\end{align*}$$
