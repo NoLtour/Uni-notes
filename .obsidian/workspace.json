@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/streamline curvature and pressure.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/streamline curvature and pressure.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,8 +139,8 @@
   },
   "active": "90c7530434d759ce",
   "lastOpenFiles": [
-    "Aerodynamics/1 Mathematical and Numerical concepts/euler equations for inviscid and incompressible flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/euler equations for inviscid and incompressible flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/momentum balance in inviscid incompressible flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",

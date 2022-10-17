@@ -17,7 +17,7 @@ tags: ["NotesPage"]
 - [[stream function (2D)]]
 - [[momentum balance in inviscid incompressible flow]]
 - [[euler equations for inviscid and incompressible flow]]
-- [[]]
+- [[streamline curvature and pressure]]
 
 
 ## Expanded articles
