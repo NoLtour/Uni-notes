@@ -11,7 +11,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[geometric similarity]]
 - [[dynamic similarity]]
-- [[molecular and continum representation of velocity in fluid simul]]
+- [[molecular and continuum representation of velocity in fluid simulation]]
 
 
 ## Expanded articles
