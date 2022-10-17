@@ -26,7 +26,10 @@ This equation looks similar to something we did recently [[hhhhuuuuuuuuuuuuuuuuu
 
 > ### $$ \frac{\delta u}{\delta x}  + \frac{\delta v}{\delta y} = \frac{\delta V_{x}}{\delta x}  + \frac{\delta V_{y}}{\delta y} = 0 = \nabla \cdot \vec{V} $$ 
 >> where:
->> $
+>> mass is conserved, density is constant.
 >> $\vec{V}=$  [[velocity and speed|velocity]] vector
 >> $u=V_{x}=$ velocity $x$ component
 >> $v=V_{y}=$ velocity $y$ component
+>> made use of [[divergence operator#^0f35d6]]
+
+So if we look back at what each value of the [[divergence operator]] means according to it's defenition
