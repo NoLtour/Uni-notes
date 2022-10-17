@@ -5,4 +5,4 @@ tags: []
 
 ## Curl of a vector
 
-This is a vector which measures the vorticity of a point 
+This is a vector which measures the vorticity of a point, for a 2D
