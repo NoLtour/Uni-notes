@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["centrifugal force"]
 tags: ["Question","QFormat3"]
 ---
 
