@@ -24,4 +24,4 @@ In the diagram the average velocity of a cell is described with the vector $\vec
 
 ![[Pasted image 20221017090343.png]]
 
-Which is $\frac{\delta \vec{v}}{\delta x} \times \Delta x$
+Which is $\frac{\delta \vec{v}}{\delta x} \times \Delta x$ (here in the [[derivative symbols|partial derivative]] we are holding $y$ constant).
