@@ -15,5 +15,7 @@ They generally look more like:
 Note that two streamlines can never cross, this is because that would imply two different velocities occupying the same point in space and time.
 
 ### Particle representation
-If we take a fluid particle and trace it's path through a fluid we can get it's [[pathlines|pathline]], 
+If we take a fluid particle and trace it's path through a fluid we can get it's [[pathlines|pathline]]:
+![[Pasted image 20221017155055.png]]
 
+It should be noted that in [[steady flow]] a [[pathlines|pathline]] is a [[streamlines|streamline]] where the s
