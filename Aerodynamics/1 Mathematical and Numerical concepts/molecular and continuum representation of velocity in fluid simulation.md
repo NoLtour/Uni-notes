@@ -31,6 +31,11 @@ We can take a linear set of cells like a line relative to some reference such as
 ![[Pasted image 20221017093836.png]]
 Each side holding $i-1,i-2,i+1,i+2...$ with $f_{i+n}$ representing some value associated at that point. Now if only there was a mathematical tool used for finding adjustment terms using a reference point plus additional derivatives \*cough\* ([[Taylor series]]). So if we write out the [[Taylor series]] for $f_{i+1}$:
 $$ f_{i+1} = f_{i} + \frac{\delta f}{\delta x} \Delta x + \frac{\delta^{2} f}{\delta x^{2}} \frac{(\Delta x)^{2}}{2} + ... $$
-Since in this case $\Delta x$ is tiny, $(\Delta x)^{2}$ and any other higher order terms (HOT's) are negligible:
+Since in this case $\Delta x$ is tiny, $(\Delta x)^{2}$ and any other higher order terms (HOT's) are negligible with the smaller the $\Delta x$ the more exponentially insignificant the error (hence small box's):
 $$ f_{i+1} = f_{i} + \frac{\delta f}{\delta x} \Delta x $$
-A simular expression can be found for $f_{i-1}$
+A similar expression can be found for $f_{i-1}$:
+$$ f_{i+1} = f_{i} - \frac{\delta f}{\delta x} \Delta x $$
+Both of these formulas can then be rearranged to get the rate of change of some property $f$ at each point:
+![[Pasted image 20221017095243.png]]
+(you end up with an equation which is literally just gradient)
+
