@@ -22,4 +22,4 @@ $$\begin{align*}
 Since we've taken density as constant we know there cannot be a change in the mass of the [[control volume]], hence $\frac{dm}{dt}=0$ and so:
 $$  \frac{\delta u}{\delta x}  + \frac{\delta v}{\delta y}  = 0 $$
 
-This equation looks simular to something we did recently [[hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm|:think:]]
+This equation looks similar to something we did recently [[hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm|:think:]], since $v$ and $u$

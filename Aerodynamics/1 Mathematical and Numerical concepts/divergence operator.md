@@ -7,10 +7,11 @@ tags: []
 
 
 > ## $$ \text{div}\: \underline{F} = \nabla \cdot \underline{F} $$ 
-> ## $$ 3D:\:\: \text{div}\: \underline{F} =  \left . \frac{\delta F}{\delta x} \right |_{y,z} + \left . \frac{\delta F}{\delta y} \right |_{x,z} + \left . \frac{\delta F}{\delta z} \right |_{x,y} $$
+> ## $$ 3D:\:\: \text{div}\: \underline{F} =  \left . \frac{\delta F_{x}}{\delta x} \right |_{y,z} + \left . \frac{\delta F_{y}}{\delta y} \right |_{x,z} + \left . \frac{\delta F_{z}}{\delta z} \right |_{x,y} $$
 >> where:
 >> $\nabla=$ [[del operator]]
 >> $F=$ some function
+>> $F_{i}=$ some function in the direction of $i$
 >> $\cdot=$ [[dot product (vectors)|dot product]]
 
 Divergence gives a measure of the expansion/contraction of a scalar field at every point, hence different values of divergence can be interpreted as describing certain features of the scalar field:

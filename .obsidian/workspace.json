@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
-                "mode": "source",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,8 +139,8 @@
   },
   "active": "fca8f2acc4298823",
   "lastOpenFiles": [
-    "Aerodynamics/1 Mathematical and Numerical concepts/hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/thing 1 needs name.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
