@@ -11,8 +11,7 @@ In reality fluids are composed of many fast moving atoms, where their interactio
 ![[Pasted image 20221017085758.png]]
 This can be represented using [[ordinary differential equation]]s, such as:
 $$ \vec{V_{i}} = \frac{d\vec{x_{i}}}{dt} $$
-Then just do some basic particle collision simulation for lets say 
-But of course representing each molecule with a velocity vector then crunching numbers to find useful results is practically impossible.
+Then just do some basic particle collision simulation for lets say $2\times 10^25$ molecules and you can simulate the forces in one cubic meter of air... of course representing each molecule with a velocity vector then crunching numbers to find useful results is practically impossible ([[it is not that hard ngl I could do it with some paper and half an hour|skill issue]]), hence why we take the other approach.
 
 
 ### Continuum representation
