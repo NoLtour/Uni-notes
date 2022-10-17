@@ -35,8 +35,12 @@
             "id": "212e89c451002fe5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,8 +149,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3d7e22d6e635444b",
+  "active": "212e89c451002fe5",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 5/god just saying that makes me cringe but yeah based.md",
+    "images/video0(5) 1.mp4",
     "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/thing 1 needs name.md",
@@ -153,8 +160,6 @@
     "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/hhhhuuuuuuuuuuuuuuuuummmmmmmmmmmmmmmm.md",
     "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md",
-    "Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/molecular and continuum representation of velocity in fluid simulation.md"
   ]
 }
