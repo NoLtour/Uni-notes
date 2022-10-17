@@ -43,4 +43,5 @@ Such that:
 - For a convex surface, the pressure will be lower than freestream.
 - For a concave surface, the pressure will be higher than freestream.
 
-Now consider 
+Now consider a airfoil:
+
