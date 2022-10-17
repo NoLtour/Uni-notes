@@ -49,4 +49,4 @@ $$\begin{align*}
 \frac{\delta f}{\delta x} = \frac{f_{i+1} - f_{i-1}}{2\Delta x}
 \end{align*}$$
 
-We call this [[molecular and continuum representation of velocity in fluid simulation|central difference]] which can be done on numpy using "np.gradient". (It should be noted that at the boundaries of a simulation, you cannot take [[molecular and continuum representation of velocity in fluid simulation|central difference]] and instead a forward of backward difference is used)
+We call this [[molecular and continuum representation of velocity in fluid simulation|central difference]] which can be done on numpy using "np.gradient". (It should be noted that at the boundaries of a simulation, you cannot take [[molecular and continuum representation of velocity in fluid simulation|central difference]] and instead a forward of backward difference is used, hence error near the boundaries are greater)
