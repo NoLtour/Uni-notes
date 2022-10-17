@@ -12,6 +12,7 @@ tags: ["NotesPage"]
 - [[geometric similarity]]
 - [[dynamic similarity]]
 - [[molecular and continuum representation of velocity in fluid simulation]]
+- [[del operator]]
 
 
 ## Expanded articles
