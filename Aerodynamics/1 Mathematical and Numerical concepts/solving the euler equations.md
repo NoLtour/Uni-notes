@@ -15,5 +15,12 @@ Start by assuming the flow is irrotational [[curl of a vector|vorticity]] is zer
 
 $$\begin{align*}
 0&=\left(\frac{\delta V_{y}}{\delta x} - \frac{\delta V_{x}}{\delta y} \right) \hat{e}_{z}\\
-\frac{\delta V_{y}}{\delta x} - \frac{\delta V_{x}}{\delta y
+\frac{\delta V_{y}}{\delta x} &= \frac{\delta V_{x}}{\delta y}
+\end{align*}$$
+
+Now we can take [[momentum balance in inviscid incompressible flow#^da19ae|these equations]] and sub into them:
+$$\begin{align*}
+V_{x} \frac{\delta V_{x}}{\delta x} + V_{y} \frac{\delta V_{x}}{\delta y} &= - \frac{1}{\rho} \frac{\delta p}{\delta x}  & V_{x} \frac{\delta V_{y}}{\delta x} + V_{y} \frac{\delta V_{y}}{\delta y}  &= - \frac{1}{\rho} \frac{\delta p}{\delta y}\\
+V_{x} \frac{\delta V_{x}}{\delta x} + V_{y} \frac{\delta V_{y}}{\delta x} &= - \frac{1}{\rho} \frac{\delta p}{\delta x}  & V_{x} \frac{\delta V_{x}}{\delta y} + V_{y} \frac{\delta V_{y}}{\delta y}  &= - \frac{1}{\rho} \frac{\delta p}{\delta y}\\
+p + \frac{1}{2} \rho( V_{x}^{2} V_{y}^{2}  ) = f(y)&
 \end{align*}$$
