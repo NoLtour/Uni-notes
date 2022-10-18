@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 207
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184
+    "width": 200,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "90c7530434d759ce",
   "lastOpenFiles": [
-    "Aerodynamics/1 Mathematical and Numerical concepts/momentum balance in inviscid incompressible flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/momentum balance in inviscid incompressible flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/euler equations for inviscid and incompressible flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/putting this away since I dont know why its needed.md",
