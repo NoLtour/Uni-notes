@@ -7,10 +7,13 @@ tags: []
 
 These equations are still too complex to be solved analytically so we simplify them. (yes even further)
 
-Basically we know the [[stream function (2D)|stream function]] satisfies [[mass continuity using divergence]]:
+[[putting this away since I dont know why its needed|ignore]]
+
+### Assuming irrotational flow
+
+Start by assuming the flow is irrotational [[curl of a vector|vorticity]] is zero:
+
 $$\begin{align*}
-V_{y} &= - \frac{\delta \psi}{ \delta x } & V_{x} &= \frac{\delta \psi}{ \delta y } & \frac{\delta V_{x}}{\delta x}  + \frac{\delta V_{y}}{\delta y} &= 0 \\
-\frac{\delta V_{y}}{\delta y} &= - \frac{\delta^{2} \psi}{ \delta x\delta y } & \frac{\delta V_{x}}{\delta x} &= \frac{\delta^{2} \psi}{ \delta y\delta x  }\\
-& & & & \frac{\delta^{2} \psi}{ \delta x\delta y  }- \frac{\delta^{2} \psi}{ \delta y\delta x } &= 0\\
-& & & & 0 &= 0
+0&=\left(\frac{\delta V_{y}}{\delta x} - \frac{\delta V_{x}}{\delta y} \right) \hat{e}_{z}\\
+\frac{\delta V_{y}}{\delta x} - \frac{\delta V_{x}}{\delta y
 \end{align*}$$
