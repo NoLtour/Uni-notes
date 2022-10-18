@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plot
 
-dx = 0.1
-dy = 0.1
+dx = 0.01
+dy = 0.01
 
 axisSize = 4
 
@@ -15,13 +15,14 @@ X, Y = np.meshgrid( xPoints, yPoints );
 xVels = 5*X*(Y**2)
 yVels = X*(Y**3)
 
-xDelMod = np.abs( np.subtract( np.gradient( yVels )[0] , np.gradient( xVels )[1] ) )
+
+xDelMod =( np.subtract(  (Y**3), 10*X*Y  ) )
 
 plot.figure( 69 );
 
 #plot.quiver( X, Y, xVels, yVels )
 
-plot.colorbar( plot.contourf( X, Y, xDelMod, 10 ) )
+plot.colorbar( plot.contourf( X, Y, xDelMod, 101 ) )
 #plot.plot( xPoints, intPoints, "bx" );
 
 plot.show();
