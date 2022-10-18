@@ -28,4 +28,6 @@ f(y) &= g(x)
 
 The only way that the unkown functions $f(y)$ and $g(x)$ can be equal is if they are just equal to some constant, hence:
 $$p + \frac{1}{2} \rho( V_{x}^{2} +V_{y}^{2}  )  =C$$
-Here there is nothing linking the equation to a specific streamline, which means that in a irrotational flow [[Bernouillis equation]] (ignoring gravity) the bernoulli constant is the same everywhere.
+Here there is nothing linking the equation to a specific streamline, which means that in a irrotational flow [[Bernouillis equation]] (ignoring gravity) the bernoulli constant is the same everywhere allowing it to be applied between __any__ two points in the flow.
+
+
