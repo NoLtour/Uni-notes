@@ -1,3 +1,7 @@
+#include <Servo.h>
+
+Servo myServo;
+
 #define G0 -1
 #define G1 393
 #define G2 441
@@ -44,8 +48,10 @@
 #define PIN_C 9
 #define PIN_D 6
 
-unsigned long currentTime = 0;
+long currentTime = 0;
 
+int motorPos  = 0;
+bool motorDir = false;
 
 #define SOUND_PIN_COUNT 4
 int SOUND_PINS [SOUND_PIN_COUNT] = { PIN_A, PIN_B, PIN_C, PIN_D };
@@ -86,7 +92,7 @@ class SoundManager{
     long oupPeriods [SOUND_PIN_COUNT];
     bool oupStates  [SOUND_PIN_COUNT];
     
-    unsigned long killTime [SOUND_PIN_COUNT];
+    long killTime [SOUND_PIN_COUNT];
 
     void updateOutputStates(){
       for ( int pinIndex=0; pinIndex<SOUND_PIN_COUNT; pinIndex++ ){
@@ -212,12 +218,16 @@ float * timeBlocks [] = {
 
 SoundManager soundManager = SoundManager();
 
+
 void setup() {
   // put your setup code here, to run once:
   //soundManager.playSound( 1000 , 1000 );
   //soundManager.playSound( 2000 , 2000 );
   //soundManager.playSound( 4000 , 3000 );
   //soundManager.playSound( 8000 , 4000 );
+
+  myServo.attach( 6 );
+
 }
 
 #define TIME_MUL 433

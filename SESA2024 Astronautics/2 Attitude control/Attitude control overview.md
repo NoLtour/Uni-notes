@@ -17,7 +17,8 @@ tags: ["NotesPage"]
 - [[internal and external torques]]
 - [[disturbance torques]]
 - [[controllable external torquers]]
-- 
+- [[internal torques and torquers]]
+- [[attitude sensor]]
 
 
 ## Expanded articles
