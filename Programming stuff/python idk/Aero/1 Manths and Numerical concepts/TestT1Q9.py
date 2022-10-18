@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plot
 
-dx = 0.1
-dy = 0.1
+dx = 0.25
+dy = 0.25
 
 axisSize = 4
 
@@ -19,7 +19,9 @@ xDelMod = np.add( np.gradient( xVels ) , np.gradient( yVels ) )
 
 plot.figure( 69 );
 
-plot.colorbar( plot.contourf( X, Y, np.gradient( xVels ), 8 ) )
+plot.quiver( X, Y, xVels, yVels )
+
+#plot.colorbar( plot.contourf( X, Y, np.gradient( xVels ), 8 ) )
 #plot.plot( xPoints, intPoints, "bx" );
 
 plot.show();
