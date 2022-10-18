@@ -19,7 +19,7 @@ tags: ["NotesPage"]
 - [[euler equations for inviscid and incompressible flow]]
 - [[streamline curvature and pressure]]
 - [[navier stokes equations]]
-- [[]]
+- [[solving the euler equations]]
 
 
 ## Expanded articles

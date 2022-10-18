@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["euler equations"]
 tags: []
 ---
 
