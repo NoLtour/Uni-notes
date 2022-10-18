@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/navier stokes equations.md",
-                "mode": "source",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/navier stokes equations.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,15 +139,15 @@
   },
   "active": "90c7530434d759ce",
   "lastOpenFiles": [
-    "Thermofluids/32 Introduction to viscous flow/kinematic viscosity.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/French.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/ewwwwwwwwwwwwwww Frnch.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/ahhhhhhhhhhhhhhhhh FRENCH.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/navier stokes equations.md",
+    "Thermofluids/32 Introduction to viscous flow/kinematic viscosity.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/BaSeD.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/crenge.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/streamline curvature and pressure.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/centrifugal force equation.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/euler equations for inviscid and incompressible flow.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/momentum balance in inviscid incompressible flow.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md"
+    "SESA1015/Flight mechanics/Flight mechanics 7/centrifugal force equation.md"
   ]
 }
