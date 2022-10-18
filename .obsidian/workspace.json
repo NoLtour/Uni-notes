@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "90c7530434d759ce",
   "lastOpenFiles": [
+    "Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
     "SESA2024 Astronautics/2 Attitude control/attitude sensor.md",
@@ -148,7 +149,6 @@
     "SESA2024 Astronautics/2 Attitude control/maintaining orientation on an orbital path.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/momentum balance in inviscid incompressible flow.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/euler equations for inviscid and incompressible flow.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/euler equations for inviscid and incompressible flow.md"
   ]
 }

@@ -15,7 +15,7 @@ X, Y = np.meshgrid( xPoints, yPoints );
 xVels = 5*X*(Y**2)
 yVels = X*(Y**3)
 
-xDelMod = np.abs( np.add( np.gradient( xVels )[0] , np.gradient( yVels )[1] ) )
+xDelMod = np.abs( np.subtract( np.gradient( yVels )[0] , np.gradient( xVels )[1] ) )
 
 plot.figure( 69 );
 
