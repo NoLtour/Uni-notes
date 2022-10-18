@@ -21,7 +21,7 @@ plot.figure( 69 );
 
 #plot.quiver( X, Y, xVels, yVels )
 
-plot.colorbar( plot.contourf( X, Y, xDelMod ) )
+plot.colorbar( plot.contourf( X, Y, xDelMod, 10 ) )
 #plot.plot( xPoints, intPoints, "bx" );
 
 plot.show();
