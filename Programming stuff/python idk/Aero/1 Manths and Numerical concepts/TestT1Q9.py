@@ -19,7 +19,7 @@ xDelMod = np.add( np.gradient( xVels ) , np.gradient( yVels ) )
 
 plot.figure( 69 );
 
-plot.colorbar( plot.contourf( X, Y, xDelMod, 8 ) )
+plot.colorbar( plot.contourf( X, Y, np.gradient( xVels ), 8 ) )
 #plot.plot( xPoints, intPoints, "bx" );
 
 plot.show();
