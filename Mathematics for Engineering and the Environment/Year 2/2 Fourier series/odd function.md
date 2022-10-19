@@ -6,6 +6,10 @@ tags: []
 ## Odd function
 
 > ### $$ f(x) = -f(-x) $$ 
+> ### $$ \int f(x) = $$ 
+>> where:
+>> $f(x)=$ some [[odd function]]
+>> $g(x)=$ some [[even function]]
 
 A function that satisfies $f(x)=-f(-x)$. On a chart that looks like being rotatable 180 degrees around the origin.
 
