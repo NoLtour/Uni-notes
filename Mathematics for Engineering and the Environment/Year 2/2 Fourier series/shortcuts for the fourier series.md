@@ -18,7 +18,10 @@ If we look at the equation that actually defines the [[Fourier Series Overview|F
 
 Since it's clear for [[even function]]s there is no $\sin$ we can just take $b_{n}=0$, further we know that $f(x)=f(-x)$ and hence $f(x)=|f(x)|$ which also means that:
 $$\begin{align*}
-\int^{R}_{-R} f(x) \cdot dx &= \int^{R}_{-R} |f(x)| \cdot dx
+\int^{R}_{-R} f(x) \cdot dx &= \int^{R}_{-R} |f(x)| \cdot dx\\
+&= \int^{R}_{0} f(x) \cdot dx + \int^{0}_{-R} f(x) \cdot dx\\
+&= \int^{R}_{0} f(x) \cdot dx + \int^{R}_{0} f(x) \cdot dx\\
+&= 2\int^{R}_{0} f(x) \cdot dx
 \end{align*}$$
 
 > ### $$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \frac{n\pi}{L} x \right)  \right] $$ 
