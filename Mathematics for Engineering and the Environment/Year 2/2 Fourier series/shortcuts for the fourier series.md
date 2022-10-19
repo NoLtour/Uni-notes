@@ -28,14 +28,7 @@ If we look at the equation that actually defines the [[Fourier Series Overview|F
 
 ### Simplifications for [[even function]]s
 
-Since it's clear for [[even function]]s there is no $\sin$ we can just take $b_{n}=0$, further we know that $f(x)=f(-x)$ and hence $f(x)=|f(x)|$ which also means that:
-$$\begin{align*}
-\int^{R}_{-R} f(x) \cdot dx &= \int^{R}_{-R} |f(x)| \cdot dx\\
-&= \int^{R}_{0} f(x) \cdot dx + \int^{0}_{-R} f(x) \cdot dx\\
-&= \int^{R}_{0} f(x) \cdot dx + \int^{R}_{0} f(x) \cdot dx\\
-&= 2\int^{R}_{0} f(x) \cdot dx
-\end{align*}$$
-Hence the integration steps can be further simplified for even functions.
+Since it's clear for [[even function]]s there is no $\sin$ we can just take $b_{n}=0$ further we know that for an [[even function]] $\int^{A}_{-A} f_{e}(x) \cdot dx = 2 \int^{A}_{0} f_{e}(x) \cdot dx$ this allows further 
 
 > ### $$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \frac{n\pi}{L} x \right)  \right] $$ 
 > ### $$ a_{m} = \frac{2}{L} \int^{L}_{0} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$  
