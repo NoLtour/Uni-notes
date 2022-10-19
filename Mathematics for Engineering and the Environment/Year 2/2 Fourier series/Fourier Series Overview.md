@@ -1,5 +1,5 @@
 ---
-aliases: ["Fourier series"]
+aliases: [ ]
 tags: ["NotesPage"]
 ---
 
