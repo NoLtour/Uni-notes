@@ -23,18 +23,20 @@ $$\begin{align*}
 &= \int^{R}_{0} f(x) \cdot dx + \int^{R}_{0} f(x) \cdot dx\\
 &= 2\int^{R}_{0} f(x) \cdot dx
 \end{align*}$$
+Hence the integration steps can be further simplified for even functions.
 
 > ### $$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \frac{n\pi}{L} x \right)  \right] $$ 
-> ### $$ a_{m} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$  
-> ### $$ a_{0} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \cdot dx $$
+> ### $$ a_{m} = \frac{2}{L} \int^{L}_{0} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$  
+> ### $$ a_{0} = \frac{2}{L} \int^{L}_{0} f(x) \cdot dx $$
 >> where:
 >> $a_{m}=$ often expands to a function defining the $n$th $a$ constant in terms of $m$.
 >> $b_{m}=0$
 >> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
->> $L=$ half the period of the function
->> $R_{1},R_{2}=$ a region the functions defined over, often this is just $R_{1}=L$ and $R_{2}=-L$
+>> $L=$ half the period of the function 
 
 
+
+### Simplifications for [[odd function]]s
 
 Hence from this it becomes obvious that:
 - If a function is a [[odd function]] then in its [[Fourier Series Overview|fourier series]] $a_{n}=0$ and $a_{0}=0$.
