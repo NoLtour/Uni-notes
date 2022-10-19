@@ -9,4 +9,8 @@ It's possible to be given a function where you only know it's definition for hal
 ![[Pasted image 20221019144811.png]]
 
 ### Case: Periodic extension
-In this case we 
+In this case we simply use the half range as it's range
+
+
+#### Example
+
