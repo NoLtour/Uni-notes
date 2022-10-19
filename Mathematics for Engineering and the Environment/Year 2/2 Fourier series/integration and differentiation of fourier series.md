@@ -5,6 +5,9 @@ tags: []
 
 ## Integration and differentiation of fourier series
 
+It's quite ez.
+
+### Differentiation
 It's really not complicated, like at all:
 
 $$\begin{align*}
@@ -13,3 +16,4 @@ f(x) &= \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \
 \ddot{f}(x) &=   \sum\limits^{\infty}_{n=1}\left[ - a_{n} \left(\frac{n\pi}{L}\right)^{2} \cos \left( \frac{n\pi}{L} x \right) - b_{n}\left(\frac{n\pi}{L}\right)^{2} \sin \left(\frac{n\pi}{L} x\right) \right]
 \end{align*}$$
 
+Something to keep in mind however is that some [[Fourier Series Overview|Fourier series]] cannot be differentiated.
