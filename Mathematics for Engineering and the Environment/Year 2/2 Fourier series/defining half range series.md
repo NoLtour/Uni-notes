@@ -33,9 +33,8 @@ We take $f_{ext}(x)=|f_{orig}(x)|$ then extend the range to $-L\leq x < L$. Sinc
 > Given the function $g(x)$ over the half range $0\leq x < \pi$ what is it's fourier series (using a even extension)
 
 We find the period, which in this case is $2\pi$, hence it's half period $L=\pi$ so looking at [[defining the fourier series#^918760|these equations]] and the [[shortcuts for the fourier series]] since this is an even function:
-  $$ g(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( nx \right)   \right] $$ 
- $$ a_{m} = \frac{1}{\pi} \int^{\pi}_{-\pi} g(x) \cos\left( n x\right) \cdot dx $$ 
- $$ b_{m} = 0 $$ 
- $$ a_{0} = \frac{1}{\pi} \int^{\pi}_{-\pi} g(x) \cdot dx $$
+$$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \frac{n\pi}{L} x \right)  \right] $$ 
+ $$ a_{m} = \frac{2}{L} \int^{L}_{0} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$  
+ $$ a_{0} = \frac{2}{L} \int^{L}_{0} f(x) \cdot dx $$
 
 Then it's just the case of solving for the constants.
