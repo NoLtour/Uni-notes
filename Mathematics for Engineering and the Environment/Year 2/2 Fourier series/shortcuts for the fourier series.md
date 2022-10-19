@@ -16,10 +16,10 @@ If we look at the equation that actually defines the [[Fourier Series Overview|F
 
 ### Simplifications for [[odd function]]s
 
-Since it's clear for [[odd function]]s there is no $\cos$ we can just take $a_{n}=0$ also $a_{0}=0$, further when finding 
+Since it's clear for [[odd function]]s there is no $\cos$ we can just take $a_{n}=0$ also $a_{0}=0$, further when finding $b_{m}$ we know that we will be integrating the result of multiplying two [[odd function]]s ($\sin$ and $f(x)$) which according to [[relationships with odd and even functions]] will produce an [[even function]], hence we can apply [[even function]] identities to it.
 
 > ### $$ f(x) = \sum\limits^{\infty}_{n=1}\left[   b_{n} \sin \left(\frac{n\pi}{L} x\right) \right] $$  
-> ### $$ b_{m} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$  
+> ### $$ b_{m} = \frac{2}{L} \int^{L}_{0} f(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$  
 >> where:
 >> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
 >> $a_{0}=0$  
@@ -40,10 +40,7 @@ Since it's clear for [[even function]]s there is no $\sin$ we can just take $b_{
 >> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
 >> $L=$ half the period of the function 
 
-Hence from this it becomes obvious that:
-- If a function is a [[odd function]] then in its [[Fourier Series Overview|fourier series]] $a_{n}=0$ and $a_{0}=0$.
-- If a function is a [[even function]] then in its [[Fourier Series Overview|fourier series]] $b_{n}=0$.
-- If a function has equal area's above and below the x axis then $a_{0}=0$.
+### Further implications
 
 When solving for the identities of $a_{0}$, $a_{n}$ and $b_{n}$ it becomes possible to simplify complex functions by removing components that will clearly solve to zero and not contribute anything to the final solution.
 
