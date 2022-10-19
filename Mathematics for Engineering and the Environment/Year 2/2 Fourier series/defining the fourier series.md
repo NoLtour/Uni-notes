@@ -23,14 +23,15 @@ The constants $a_{n},b_{n}$ usually end up being defined as a function of $n$ wh
 
 #### Finding the constants
 
-> ### $$ a_{m} = \frac{1}{L} \int^{L}_{-L} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
-> ### $$ b_{m} = \frac{1}{L} \int^{L}_{-L} f(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
-> ### $$ a_{0} = \frac{1}{L} \int^{L}_{-L} f(x) \cdot dx $$
+> ### $$ a_{m} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
+> ### $$ b_{m} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
+> ### $$ a_{0} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \cdot dx $$
 >> where:
 >> $a_{m}=$ often expands to a function defining the $n$th $a$ constant in terms of $m$.
 >> $b_{m}=$ often expands to a function defining the $n$th $b$ constant in terms of $m$.
 >> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
 >> $L=$ half the period of the function
+>> $R_{1},R_{2}=$ a region the functions defined over, often this is just $R_{1}=L$ and $R_{2}=-L$
 
 ^918760
 
