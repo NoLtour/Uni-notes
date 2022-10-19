@@ -15,6 +15,7 @@ tags: ["NotesPage"]
 - [[defining half range series]]
 - [[fouriers theorem]]
 - [[integration and differentiation of fourier series]]
+- [[complex fourier series]]
 
 
 ## Expanded articles
