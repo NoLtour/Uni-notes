@@ -14,7 +14,12 @@ If we look at the equation that actually defines the [[Fourier Series Overview|F
 - $a_{n}$ creates graphs which are symetric about the y axis (aka purely $\cos$ based functions will be [[even function]]s).
 - $b_{n}$ creates graphs which are clearly [[odd function]]s (if made solely out of sin functions).
 
-### Simplifications for [[odd function]]s
+### Simplifications for [[even function]]s
+
+Since it's clear for [[even function]]s there is no $\sin$ we can just take $b_{n}=0$, further we know that $f(x)=f(-x)$ and hence $f(x)=|f(x)|$ which also means that:
+$$\begin{align*}
+\int^{R}_{-R} f(x) \cdot dx &= \int^{R}_{-R} |f(x)| \cdot dx
+\end{align*}$$
 
 > ### $$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \frac{n\pi}{L} x \right)  \right] $$ 
 > ### $$ a_{m} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$  
@@ -25,6 +30,8 @@ If we look at the equation that actually defines the [[Fourier Series Overview|F
 >> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
 >> $L=$ half the period of the function
 >> $R_{1},R_{2}=$ a region the functions defined over, often this is just $R_{1}=L$ and $R_{2}=-L$
+
+
 
 Hence from this it becomes obvious that:
 - If a function is a [[odd function]] then in its [[Fourier Series Overview|fourier series]] $a_{n}=0$ and $a_{0}=0$.
