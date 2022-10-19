@@ -6,6 +6,7 @@ tags: []
 ## Complex fourier series
 [[It took me 20 mins to find this in my meme folder|Fourier complex? I find it quite simple.]]
 
+### Theory
 
 Pretty much take the complex trig identities and apply them to the [[Fourier Series Overview|Fourier series]] stuff:
 
@@ -25,4 +26,7 @@ f(x) &= \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & c_{n} &= 
 >> $f(x)=$ some function
 >> $j=\sqrt{-1}$ 
 >> $c_{n} =$ the $n$th constant
+
+### Example
+![[Pasted image 20221019231102.png]]
 
