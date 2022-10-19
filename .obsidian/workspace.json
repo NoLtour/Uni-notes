@@ -11,11 +11,9 @@
             "id": "63655603a1179f75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
-                "mode": "preview",
-                "source": true
+                "file": "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2 Fourier Series/Lecture5_FourierSeries2(3).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2 Fourier Series/Lecture5_FourierSeries2(3).pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,9 +124,9 @@
   },
   "active": "63655603a1179f75",
   "lastOpenFiles": [
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
     "Thermofluids/33 Surface friction and boundary layers/boundary layer.md",
     "Thermofluids/33 Surface friction and boundary layers/Reynolds number and surface friction notes.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/characteristics of boundary layers on an aerofoil.md",
