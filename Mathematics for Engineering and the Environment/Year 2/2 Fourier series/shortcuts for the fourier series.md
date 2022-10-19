@@ -14,6 +14,18 @@ If we look at the equation that actually defines the [[Fourier Series Overview|F
 - $a_{n}$ creates graphs which are symetric about the y axis (aka purely $\cos$ based functions will be [[even function]]s).
 - $b_{n}$ creates graphs which are clearly [[odd function]]s (if made solely out of sin functions).
 
+### Simplifications for [[odd function]]s
+
+> ### $$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[   b_{n} \sin \left(\frac{n\pi}{L} x\right) \right] $$  
+> ### $$ b_{m} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$ 
+> ### $$ a_{0} = \frac{1}{L} \int^{R_{1}}_{R_{2}} f(x) \cdot dx $$
+>> where:
+>> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
+>> $a_{0}=$ a offset constant (offsets the function from an average of 0)
+>> $b_{n}=$ the $n$th constant related to $\sin$  
+>> $a_{n}=0$
+>> $L=$ half the period of the function
+
 ### Simplifications for [[even function]]s
 
 Since it's clear for [[even function]]s there is no $\sin$ we can just take $b_{n}=0$, further we know that $f(x)=f(-x)$ and hence $f(x)=|f(x)|$ which also means that:
@@ -33,10 +45,6 @@ Hence the integration steps can be further simplified for even functions.
 >> $b_{m}=0$
 >> $f(x)=f(x+2L)=$ a periodic function (it repeats perfectly every $2L$)
 >> $L=$ half the period of the function 
-
-
-
-### Simplifications for [[odd function]]s
 
 Hence from this it becomes obvious that:
 - If a function is a [[odd function]] then in its [[Fourier Series Overview|fourier series]] $a_{n}=0$ and $a_{0}=0$.
