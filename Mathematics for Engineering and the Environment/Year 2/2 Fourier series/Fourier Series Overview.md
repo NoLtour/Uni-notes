@@ -14,6 +14,7 @@ tags: ["NotesPage"]
 - [[shortcuts for the fourier series]]
 - [[defining half range series]]
 - [[fouriers theorem]]
+- 
 
 
 ## Expanded articles
