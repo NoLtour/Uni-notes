@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/troll.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/troll.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,6 +126,7 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/It took me 20 mins to find this in my meme folder.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
@@ -134,7 +135,6 @@
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/dir shlit.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/integration and differentiation of fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/like shockingly easy.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/piecewise smooth.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fouriers theorem.md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/piecewise smooth.md"
   ]
 }

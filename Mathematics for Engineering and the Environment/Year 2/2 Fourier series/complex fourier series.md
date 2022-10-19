@@ -4,6 +4,6 @@ tags: []
 ---
 
 ## Complex fourier series
-[[troll|Fourier complex? I find it quite simple.]]
+[[It took me 20 mins to find this in my meme folder|Fourier complex? I find it quite simple.]]
 
 
