@@ -33,22 +33,22 @@ We take $f_{ext}(x)=f_{orig}(|x|)$ then extend the range to $-L\leq x < L$. Sinc
 > Given the function $g(x)$ over the half range $0\leq x < \pi$ what is it's fourier series (using a even extension)
 
 We find the period, which in this case is $2\pi$, hence it's half period $L=\pi$ so looking at [[defining the fourier series#^918760|these equations]] and the [[shortcuts for the fourier series]] since this is an even function:
-$$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \frac{n\pi}{L} x \right)  \right] $$ 
- $$ a_{m} = \frac{2}{L} \int^{L}_{0} f(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$  
- $$ a_{0} = \frac{2}{L} \int^{L}_{0} f(x) \cdot dx $$
+$$ g(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \frac{n\pi}{L} x \right)  \right] $$ 
+ $$ a_{m} = \frac{2}{L} \int^{L}_{0} g(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$  
+ $$ a_{0} = \frac{2}{L} \int^{L}_{0} g(x) \cdot dx $$
 
 Then it's just the case of solving for the constants.
 
 ### Case: Odd extension
-We take $f_{ext}(x)=f_{orig}(x)$ then extend the range to $-L\leq x < L$. Since we're taking the function as an [[odd function]] we can use the [[shortcuts for the fourier series]] that apply to odd functions ($a_{n}=0,a_{0}=0$).
+Since we're taking the function as an [[odd function]] we can use the [[shortcuts for the fourier series]] that apply to odd functions ($a_{n}=0,a_{0}=0$).
 
-![[Pasted image 20221019150710.png]]
+![[Pasted image 20221019155955.png]]
 
 #### Example
 > Given the function $g(x)$ over the half range $0\leq x < \pi$ what is it's fourier series (using a odd extension)
 
 We find the period, which in this case is $2\pi$, hence it's half period $L=\pi$ so looking at [[defining the fourier series#^918760|these equations]] and the [[shortcuts for the fourier series]] since this is an odd function:
-$$ f(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ b_{n} \sin \left( \frac{n\pi}{L} x \right)  \right] $$ 
- $$ b_{m} = \frac{2}{L} \int^{L}_{0} f(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$   
+$$ g(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ b_{n} \sin \left( \frac{n\pi}{L} x \right)  \right] $$ 
+ $$ b_{m} = \frac{2}{L} \int^{L}_{0}g(x) \sin\left(\frac{n\pi}{L} x\right) \cdot dx $$   
 
 Then it's just the case of solving for the constants.
