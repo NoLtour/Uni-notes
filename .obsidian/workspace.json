@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,15 +139,15 @@
   },
   "active": "0e299eede65d70e8",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/French.md",
     "images/factual.mp4",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2 Fourier Series/Lecture5_FourierSeries2(3).pdf",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
-    "Thermofluids/33 Surface friction and boundary layers/boundary layer.md",
-    "Thermofluids/33 Surface friction and boundary layers/Reynolds number and surface friction notes.md"
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md"
   ]
 }

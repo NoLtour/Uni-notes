@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["Fourier series","french propaganda (vomit)"]
 tags: []
 ---
 
