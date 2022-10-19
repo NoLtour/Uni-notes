@@ -19,4 +19,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
-[[UNFINISHED STUFF]] Something about orthogonality
+ 
