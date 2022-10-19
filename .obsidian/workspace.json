@@ -23,12 +23,8 @@
             "id": "0e299eede65d70e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,15 +134,15 @@
   },
   "active": "0e299eede65d70e8",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/relationships with odd and even functions.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/odd function.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/even function.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/French.md",
-    "images/factual.mp4",
-    "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 2 Fourier Series/Lecture5_FourierSeries2(3).pdf",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md"
+    "images/factual.mp4"
   ]
 }
