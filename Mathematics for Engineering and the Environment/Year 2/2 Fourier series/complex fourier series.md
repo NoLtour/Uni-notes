@@ -18,11 +18,11 @@ f(x) &= \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \
 \frac{1}{2}a_{0} & n=0\\
 \frac{1}{2}(a_{-n} + jb_{-n}) & n<0 \end{dcases}
 \end{align*}$$
-
-> ### $$ f(x)   = \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} $$ 
-> ### $$ f(x)   = \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} $$ 
+ 
+> ## $$ \begin{align*} f(x)  & = \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & & & c_{n} &= \begin{dcases} \frac{1}{2}(a_{n} - jb_{n}) & n>0\\\frac{1}{2}a_{0} & n=0\\\frac{1}{2}(a_{-n} + jb_{-n}) & n<0 \end{dcases} \end{align*} $$  
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $f(x)=$ some function
+>> $j=\sqrt{-1}$
+>> 
+>> $c_{n} = \begin{dcases} \frac{1}{2}(a_{n} - jb_{n}) & n>0\\\frac{1}{2}a_{0} & n=0\\\frac{1}{2}(a_{-n} + jb_{-n}) & n<0 \end{dcases}$ 
 
