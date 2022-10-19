@@ -13,4 +13,6 @@ In this case we simply use the half range as it's range
 
 
 #### Example
+> Given the function $g(x)$ over the half range $0\leq x < \pi$ what is it's fourier series
 
+We find the period, which in this case is $\pi$, hence it's half period $L=\frac{\pi}{2}$
