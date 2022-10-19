@@ -9,7 +9,12 @@ Fourier’s Theorem essentially states that: If $f(x)$ obeys the Dirichlet condi
 - If $f(x)$ is continuous, the series converges to $f(x)$ at a given point $x$
 - If $f(x)$ is discontinuous at a given point x, at this point x the series converges to the average value at the jump (average value between the two points where the jump occurs)
 
-Diri[[dir shlit|chlet]] conditions:
+
+
+
+These are the Diri[[dir shlit|chlet]] conditions:
 - $f(x)$ is bounded
 - $f(x)$ is periodic with period $2L$
-- $f(x)$ has a finite number of extrema and discontinuities in $$
+- $f(x)$ has a finite number of extrema and discontinuities in $-L \leq x \leq L$
+
+The Dirshit conditions must be met in order for it to be possible 
