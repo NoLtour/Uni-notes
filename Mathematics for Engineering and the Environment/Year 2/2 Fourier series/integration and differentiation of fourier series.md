@@ -18,4 +18,5 @@ f(x) &= \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \
 
 Something to keep in mind however is that some [[Fourier Series Overview|Fourier series]] cannot be differentiated. Hence for a fourier series to have a valid differnetial it must satisfy the following:
 - $f(x)$ meets the [[fouriers theorem|dirichlet conditions]] (hence can be a [[Fourier Series Overview|Fourier series]])
-- $f(x)$ is continous, including a
+- $f(x)$ is continuous, including at the edges of the range
+- $\dot{f}(x)$ is [[piecewise smooth]] for all x
