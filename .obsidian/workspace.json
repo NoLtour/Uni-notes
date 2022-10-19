@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "07931604513c5b05",
+        "id": "de6c4b1a2b0db0a4",
         "type": "tabs",
         "children": [
           {
-            "id": "fca8f2acc4298823",
+            "id": "63655603a1179f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "90c7530434d759ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Lift equation.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1898087bd5281891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Law n management/Coursework notes.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corrosion",
+                "query": "boundary layer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law n management/Coursework notes.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,17 +124,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9dba8c53e0736664",
+  "active": "63655603a1179f75",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 2/Lift equation.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/speed of sound.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
-    "SESA2024 Astronautics/2 Attitude control/attitude sensor.md",
-    "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
-    "SESA2024 Astronautics/2 Attitude control/internal torques and torquers.md",
-    "SESA2024 Astronautics/2 Attitude control/maintaining orientation on an orbital path.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md"
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
+    "Thermofluids/33 Surface friction and boundary layers/boundary layer.md",
+    "Thermofluids/33 Surface friction and boundary layers/Reynolds number and surface friction notes.md",
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/characteristics of boundary layers on an aerofoil.md",
+    "Thermofluids/33 Surface friction and boundary layers/turbulent flow regime.md",
+    "Thermofluids/32 Introduction to viscous flow/fluid no slip condition.md",
+    "Templates/Specific Subject.md",
+    "Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md"
   ]
 }

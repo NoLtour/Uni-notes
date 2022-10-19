@@ -87,5 +87,13 @@
       ],
       "key": "F"
     }
+  ],
+  "templater-obsidian:Templates/Specific Subject.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
   ]
 }
