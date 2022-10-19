@@ -14,6 +14,15 @@ f(x) &= \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left( \
 &= \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \frac{1}{2} \left( e^{j\frac{n\pi}{L} x  } + e^{-j\frac{n\pi}{L} x} \right)+ b_{n} \frac{1}{2j} \left( e^{j\frac{n\pi}{L} x  } - e^{-j\frac{n\pi}{L} x} \right)  \right]\\
 &= \frac{1}{2}a_{0} + \sum\limits^{\infty}_{n=1} \left[\frac{1}{2} ( a_{n} - jb_{n} )  e^{j\frac{n\pi x}{L} }\right] + \sum\limits^{\infty}_{n=1} \left[\frac{1}{2} ( a_{n} + jb_{n} )  e^{-j\frac{n\pi x}{L} }\right]\\
 &... \: (\text{some algerbraic magic})\\
-&= \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & c_{n} &= 
+&= \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & c_{n} &= \begin{dcases} \frac{1}{2}(a_{n} - jb_{n}) & n>0\\
+\frac{1}{2}a_{0} & n=0\\
+\frac{1}{2}(a_{-n} + jb_{-n}) & n<0 \end{dcases}
 \end{align*}$$
+
+> ### $$ f(x)   = \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} $$ 
+> ### $$ f(x)   = \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
