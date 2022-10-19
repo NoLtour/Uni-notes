@@ -17,4 +17,4 @@ These are the Diri[[dir shlit|chlet]] conditions:
 - $f(x)$ is periodic with period $2L$
 - $f(x)$ has a finite number of extrema and discontinuities in $-L \leq x \leq L$
 
-The Dirshit conditions must be met in order for it to be possible 
+The Dirshit conditions must be met in order for it to be possible for a [[Fourier Series Overview|Fourier series]] to exist for that function.
