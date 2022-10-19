@@ -20,3 +20,12 @@ Something to keep in mind however is that some [[Fourier Series Overview|Fourier
 - $f(x)$ meets the [[fouriers theorem|dirichlet conditions]] (hence can be a [[Fourier Series Overview|Fourier series]])
 - $f(x)$ is continuous, including at the edges of the range
 - $\dot{f}(x)$ is [[piecewise smooth]] for all x
+
+For example a sawtooth function is not continuous at the edges and therefore is not suitable for differentiation using a Fourier series:
+![[Pasted image 20221019214609.png]]
+
+### Integration
+Even less complicated [[l|lol]], there are no restrictions as long as you can get the function as a [[Fourier Series Overview|Fourier series]] you can integrate it:
+
+
+
