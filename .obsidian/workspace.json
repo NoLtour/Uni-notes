@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
-                "mode": "preview",
+                "file": "Thermofluids/Thermofluids read order.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
+                "file": "Thermofluids/Thermofluids read order.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,6 +138,7 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 1/3 Intergration 1/Integration as antiderivative/Integration by parts.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
@@ -146,7 +147,6 @@
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/It took me 20 mins to find this in my meme folder.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/ewwwwwwwwwwwwwww Frnch.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/dir shlit.md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/ewwwwwwwwwwwwwww Frnch.md"
   ]
 }
