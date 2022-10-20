@@ -19,6 +19,7 @@ tags: ["NotesPage"]
 - [[controllable external torquers]]
 - [[internal torques and torquers]]
 - [[attitude sensor]]
+- [[onboard and offboard processing]]
 
 
 ## Expanded articles

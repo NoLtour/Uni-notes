@@ -15,4 +15,7 @@ The problem with reference sensors is that often there is periodic disturbance t
 ### Inertial sensor
 These figure out the vehicles attitude by using something to measure the relative change between some onboard thing vs the main vehicle body, such as a gyroscope. These build up errors over time leading to inaccuracy and need for recalibration.
 
+### Practical use
+Most vehicles will have both reference and inertial sensors, where the reference sensors are used to calibrate the inertial sensors and the inertial sensors are sued to measure short term changes in attitude.
+
 
