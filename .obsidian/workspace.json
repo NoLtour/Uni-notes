@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boundary layer",
+                "query": "hyperbolic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,15 +139,15 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 1/15U Functions/hyperbolic functions.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/It took me 20 mins to find this in my meme folder.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/ewwwwwwwwwwwwwww Frnch.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/dir shlit.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/integration and differentiation of fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/like shockingly easy.md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/integration and differentiation of fourier series.md"
   ]
 }
