@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["laplacian"]
 tags: []
 ---
 
@@ -13,7 +13,9 @@ $$\begin{align*}
 0 &= \frac{\delta^{2} \psi}{\delta x^{2}} + \frac{\delta^{2} \psi}{\delta  y^{2}}
 \end{align*}$$
 
-> ### $$ 0 &= \frac{\delta^{2} \psi}{\delta x^{2}} + \frac{\delta^{2} \psi}{\delta  y^{2}} $$ 
+> ### $$ 0 = \frac{\delta^{2} \psi}{\delta x^{2}} + \frac{\delta^{2} \psi}{\delta  y^{2}} $$ 
 >> where:
 >> $\psi=$ [[stream function (2D)|stream function]]
 >> [[curl of a vector|vorticity]] is zero
+
+This equation is a laplace equation hence it can be solved using numerical methods. In numpy if you have $\psi$ then this can be calculated by taking gradient twice.
