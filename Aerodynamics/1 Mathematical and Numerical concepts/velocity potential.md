@@ -5,7 +5,8 @@ tags: []
 
 ## Velocity potential ($\Phi$)
 
-A velocity potential is a scalar function 
+A velocity potential is a [[scalar potential]] that 
+
 
 > ### $$ \frac{\delta^{2} \psi_{1} }{ \delta x^{2} } + \frac{\delta^{2} \psi_{1} }{ \delta y^{2} } = 0 $$ 
 >> where:
