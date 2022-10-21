@@ -20,6 +20,7 @@ tags: ["NotesPage"]
 - [[streamline curvature and pressure]]
 - [[navier stokes equations]]
 - [[solving the euler equations]]
+- [[laplace equations]]
 
 
 ## Expanded articles

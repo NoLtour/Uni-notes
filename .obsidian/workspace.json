@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
-                "mode": "preview",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/laplace equations.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/laplace equations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,14 +140,14 @@
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/laplace equations.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
     "Aerodynamics/Aerodynamics overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "SESA2024 Astronautics/2 Attitude control/onboard and offboard processing.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
-    "SESA2024 Astronautics/2 Attitude control/attitude sensor.md",
-    "Thermofluids/Thermofluids read order.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/shortcuts for the fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 1/3 Intergration 1/Integration as antiderivative/Integration by parts.md"
+    "SESA2024 Astronautics/2 Attitude control/attitude sensor.md"
   ]
 }
