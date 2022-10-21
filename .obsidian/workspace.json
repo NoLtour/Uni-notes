@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,15 +135,15 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md",
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
     "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
-    "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
-    "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md"
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md"
   ]
 }
