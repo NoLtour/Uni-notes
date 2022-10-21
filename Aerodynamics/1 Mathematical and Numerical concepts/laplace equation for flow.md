@@ -5,9 +5,11 @@ tags: []
 
 ## Laplace equation for flow
 
-You can do pretty much the same thing done in [[mass conservation and velocity potential]] but using [[stream function (2D)|stream functions]]. If we apply mass conservation ([[mass continuity using divergence]]) then we can get an equation that applies in that situation defined in terms of [[stream function (2D)|stream functions]]:
+If we find [[curl of a vector]] then define it in terms of [[stream function (2D)|stream functions]] we can get an equation that is solveable, assuming [[curl of a vector|vorticity]] is zero:
 
 $$\begin{align*}
-  \frac{\delta }{\delta x}V_{x}  + \frac{\delta }{\delta y}V_{y} &= 0  & V_{x} &= \frac{\delta \psi}{\delta y} & V_{y} &= -\frac{\delta \psi}{\delta x} \\ 
+  \nabla \times \vec{V} = \left(\frac{\delta V_{y}}{\delta x} - \frac{\delta V_{x}}{\delta y} \right) \hat{e}_{z}   &= \frac{\delta \psi}{\delta y} & V_{y} &= -\frac{\delta \psi}{\delta x} \\ 
 \frac{\delta^{2} \psi}{\delta y^{2}}  - \frac{\delta^{2} \psi}{\delta x^{2}} &= 0
 \end{align*}$$
+
+This equation only applies when there is zero [[curl of a vector|vorticity]]
