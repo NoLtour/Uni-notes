@@ -3,9 +3,9 @@ aliases: [""]
 tags: []
 ---
 
-## Velocity potential
+## Velocity potential ($\Phi$)
 
-In the same way that gravitational potential is the gradient
+A velocity potential is a scalar function 
 
 > ### $$ \frac{\delta^{2} \psi_{1} }{ \delta x^{2} } + \frac{\delta^{2} \psi_{1} }{ \delta y^{2} } = 0 $$ 
 >> where:
