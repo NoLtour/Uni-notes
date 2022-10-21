@@ -11,8 +11,12 @@
             "id": "cfd79ca0887ce227",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,15 +139,15 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
+    "Thermofluids/28 Steady flow energy equation/Steady flow energy equation notes.md",
+    "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
+    "Thermofluids/33 Surface friction and boundary layers/Reynolds number and surface friction notes.md",
+    "Thermofluids/21 Hydrostatic force/Hydrostatic force notes.md",
+    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/mass conservation and velocity potential.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/scalar potential.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
-    "Aerodynamics/Aerodynamics overview.md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md"
   ]
 }
