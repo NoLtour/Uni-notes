@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,8 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md",
@@ -146,8 +148,6 @@
     "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
     "Thermofluids/28 Steady flow energy equation/Steady flow energy equation notes.md",
     "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
-    "Thermofluids/33 Surface friction and boundary layers/Reynolds number and surface friction notes.md",
-    "Thermofluids/21 Hydrostatic force/Hydrostatic force notes.md",
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md"
+    "Thermofluids/33 Surface friction and boundary layers/Reynolds number and surface friction notes.md"
   ]
 }
