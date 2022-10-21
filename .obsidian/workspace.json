@@ -11,12 +11,8 @@
             "id": "cfd79ca0887ce227",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,8 +134,8 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
-    "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
