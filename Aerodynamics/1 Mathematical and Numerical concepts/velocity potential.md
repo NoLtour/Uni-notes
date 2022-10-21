@@ -7,11 +7,14 @@ tags: []
 
 A velocity potential is a [[scalar potential]] that 
 
-> ### $$ \vec{V} = \nabla \Phi = \begin{pmatrix}  \end{pmatrix} $$ 
+> ### $$ \vec{V} = \nabla \Phi = \begin{pmatrix} \frac{\delta \Phi}{\delta x}  \\ \frac{\delta \Phi}{\delta y}  \\ \frac{\delta \Phi}{\delta z} \end{pmatrix} $$ 
+> ### $$ V_{x} = \frac{\delta }{\delta x}\Phi $$ 
+> ### $$ V_{y} = \frac{\delta }{\delta y} \Phi$$ 
+> ### $$ V_{z} = \frac{\delta}{\delta z} \Phi $$ 
 >> where:
->> $=$ [[del operator|grad]]
->> $=$
->> $=$
+>> $\Phi=\Phi(x,y,z)=$ [[velocity potential]], can be described as a function of position
+>> $\nabla=$ [[del operator|grad]]
+>> $\vec{V}=$ velocity
 
 > ### $$ \frac{\delta^{2} \psi_{1} }{ \delta x^{2} } + \frac{\delta^{2} \psi_{1} }{ \delta y^{2} } = 0 $$ 
 >> where:
