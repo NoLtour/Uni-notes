@@ -5,7 +5,7 @@ tags: []
 
 ## Velocity potential
 
-In the same way that gravitaional potential is the gradient
+In the same way that gravitational potential is the gradient
 
 > ### $$ \frac{\delta^{2} \psi_{1} }{ \delta x^{2} } + \frac{\delta^{2} \psi_{1} }{ \delta y^{2} } = 0 $$ 
 >> where:
