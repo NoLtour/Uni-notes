@@ -18,6 +18,10 @@ A velocity potential is a [[scalar potential]] for velocity:
 
 If given a function for [[velocity potential]] it becomes possible to easily derive the velocity at any point in the region.
 
+#### Relationship with [[streamlines|streamline]]
 
+According to the definition of [[streamlines|streamline]] and [[velocity potential]], the two will always be perpendicular to each other:
 
+![[Pasted image 20221021111817.png]]
 
+![[Pasted image 20221021112008.png]]
