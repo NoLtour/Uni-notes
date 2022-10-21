@@ -21,7 +21,7 @@ tags: ["NotesPage"]
 - [[navier stokes equations]]
 - [[solving the euler equations]]
 - [[velocity potential]]
-- [[]]
+- [[mass conservation and velocity potential]]
 
 
 ## Expanded articles
