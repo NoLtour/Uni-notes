@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -139,13 +139,13 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
-    "Aerodynamics/1 Mathematical and Numerical concepts/mass conservation and velocity potential.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/mass conservation and velocity potential.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/scalar potential.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/1 Mathematical and Numerical concepts/solving the euler equations.md",
     "Aerodynamics/Aerodynamics overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md"
