@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 15,
-  "cssTheme": "Dracula Official",
+  "baseFontSize": 13,
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "truncc"
   ],
