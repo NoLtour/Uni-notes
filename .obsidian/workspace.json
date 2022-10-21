@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "79da433f145d2bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "82a92d31b4dc93e4",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,8 +150,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cfd79ca0887ce227",
+  "active": "79da433f145d2bcb",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
     "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
     "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
@@ -147,7 +161,6 @@
     "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
     "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
     "Thermofluids/28 Steady flow energy equation/Steady flow energy equation notes.md",
-    "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
-    "Thermofluids/33 Surface friction and boundary layers/Reynolds number and surface friction notes.md"
+    "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md"
   ]
 }
