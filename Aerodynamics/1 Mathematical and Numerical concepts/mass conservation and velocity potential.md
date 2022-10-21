@@ -12,7 +12,7 @@ $$\begin{align*}
 \frac{\delta^{2} \Phi}{\delta x^{2}}  + \frac{\delta^{2} \Phi}{\delta y^{2}} &= 0
 \end{align*}$$
 
-Which can also be written using [[del operator|grad]] as $\nabla^{2} \Phi=0$
+Which can also be written using [[del operator|grad]] as $\nabla^{2} \Phi=0$.
 
 > ### $$ \frac{\delta^{2} \Phi}{\delta x^{2}}  + \frac{\delta^{2} \Phi}{\delta y^{2}} = \nabla^{2} \Phi= 0 $$ 
 >> where:

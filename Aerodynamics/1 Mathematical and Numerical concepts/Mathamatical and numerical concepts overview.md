@@ -22,6 +22,7 @@ tags: ["NotesPage"]
 - [[solving the euler equations]]
 - [[velocity potential]]
 - [[mass conservation and velocity potential]]
+- [[laplace equation for flow]]
 
 
 ## Expanded articles
