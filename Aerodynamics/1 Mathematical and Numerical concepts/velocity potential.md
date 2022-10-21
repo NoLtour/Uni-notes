@@ -7,6 +7,11 @@ tags: []
 
 A velocity potential is a [[scalar potential]] that 
 
+> ### $$ \vec{V} = \nabla \Phi = \begin{pmatrix}  \end{pmatrix} $$ 
+>> where:
+>> $=$ [[del operator|grad]]
+>> $=$
+>> $=$
 
 > ### $$ \frac{\delta^{2} \psi_{1} }{ \delta x^{2} } + \frac{\delta^{2} \psi_{1} }{ \delta y^{2} } = 0 $$ 
 >> where:
