@@ -21,6 +21,8 @@ The equation's quite simple, it just represents how much push you get for the st
 
 ### The proof
 
-Pretty simple proof ngl,
+Pretty simple proof ngl:
 
+![[Pasted image 20221022170930.png]]
 
+We know that
