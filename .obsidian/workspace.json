@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d1b3d986f4ee661a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA1015/Astro/3 Launch Vehicles/the rocket equation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "82a92d31b4dc93e4",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
+                "file": "SESA1015/Astro/3 Launch Vehicles/the rocket equation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,8 +157,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9dba8c53e0736664",
+  "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
+    "SESA1015/Astro/3 Launch Vehicles/Launch Vehicles overview.md",
+    "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Inhomogeneous linear second order ODEs.md",
@@ -154,8 +168,6 @@
     "video0-20.mov",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/BaSeD.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md",
-    "Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md"
   ]
 }
