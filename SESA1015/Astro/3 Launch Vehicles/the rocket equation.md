@@ -23,6 +23,9 @@ The equation's quite simple, it just represents how much push you get for the st
 
 Pretty simple proof ngl:
 
-![[Pasted image 20221022170930.png]]
+![[Pasted image 20221022171006.png]]
 
-We know that
+We know a few things:
+- The mass expelled can be defined as mass flow rate $Q= -\frac{dM}{dt}$
+- At the instant of expulsion the relative velocity of the exhaust is $V_{ex}$
+- The 
