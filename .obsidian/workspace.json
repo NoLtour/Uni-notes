@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "commutator.md",
-                "mode": "source",
+                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commutator.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,14 +127,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Inhomogeneous linear second order ODEs.md",
+    "commutator.md",
     "video0-20.mov",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/BaSeD.md",
@@ -142,8 +143,6 @@
     "Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md"
   ]
 }
