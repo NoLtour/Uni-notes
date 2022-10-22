@@ -18,3 +18,9 @@ tags: []
 >> $V_{0}=$ initial rocket velocity
 
 The equation's quite simple, it just represents how much push you get for the stuff you throw below you. No matter how fancy your propulsion method this equation is what enables all rockets to move (unless your some sort of [[space boat cringe|cringe solar sail]]).
+
+### The proof
+
+Pretty simple proof ngl,
+
+
