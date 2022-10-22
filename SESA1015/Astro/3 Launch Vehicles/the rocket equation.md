@@ -11,7 +11,7 @@ tags: []
 > ### $$ V = V_{ex} \ln\left( \frac{M_{0}}{M} \right) + V_{0} $$ 
 >> where:
 >> $V=$ current rocket velocity
->> $V_{ex}=$ exhaust velocity
+>> $V_{ex}=$ exhaust velocity (constant)
 >> $M_{0}=$ initial rocket mass
 >> $M_{b}=$ final rocket mass
 >> $M=$ current mass
@@ -26,6 +26,14 @@ Pretty simple proof ngl:
 ![[Pasted image 20221022171006.png]]
 
 We know a few things:
-- The mass expelled can be defined as mass flow rate $Q= -\frac{dM}{dt}$
-- At the instant of expulsion the relative velocity of the exhaust is $V_{ex}$
-- The 
+- The mass expelled can be defined as mass flow rate $Q= -\frac{dM}{dt}$ which is mass lost from the rocket
+- At the instant of expulsion the relative velocity of the exhaust is $V_{ex}$ (modelling it as constant)
+- The impulse that accelerates the exhaust has an equal and opposite effect on the rocket $\frac{dV}{dt} M = Q V_{ex}$
+
+Then it's as simple as combining and integrating:
+
+$$\begin{align*}
+\frac{dV}{dt} M &= Q V_{ex} & Q= -\frac{dM}{dt}\\
+\frac{dV}{dt} M &= -\frac{dM}{dt} V_{ex}\\
+dV &= 
+\end{align*}$$
