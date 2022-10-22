@@ -1,5 +1,5 @@
 ---
-aliases: ["the rocket equation"]
+aliases: ["the rocket equation","basic rocket equation"]
 tags: []
 ---
 
