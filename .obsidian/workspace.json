@@ -11,8 +11,12 @@
             "id": "cfd79ca0887ce227",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "commutator.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "commutator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,8 +133,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9dba8c53e0736664",
+  "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "video0-20.mov",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/BaSeD.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md",
@@ -138,7 +144,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/in pain.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/specific fuel consumption (aircraft).md"
   ]
 }
