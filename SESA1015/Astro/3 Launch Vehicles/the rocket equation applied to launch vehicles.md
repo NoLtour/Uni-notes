@@ -11,6 +11,7 @@ tags: []
 > ### $$ \Delta V = \Delta V_{ideal} - \Delta V_{g} - \Delta V_{D} $$ 
 >> where:
 >> $\Delta V=$ velocity change
->> $\Delta V_{ideal}=$ ideal veloic
->> $=$
+>> $\Delta V_{ideal}=$ [[the basic rocket equation|ideal change in veloicty from exhust]]
+>> $\Delta V_{g}=$ gravity loss
+>> $\Delta V_{D}=$ [[drag force (dynamics)|drag]] loss
 >> ![[Pasted image 20221022173350.png]]
