@@ -1,9 +1,9 @@
 ---
-aliases: [""]
+aliases: ["the rocket equation"]
 tags: []
 ---
 
-## The rocket equation
+## The (basic) rocket equation
 
 ### The equation
 

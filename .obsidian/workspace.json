@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA1015/Astro/3 Launch Vehicles/the rocket equation.md",
-                "mode": "preview",
+                "file": "SESA1015/Astro/3 Launch Vehicles/Launch Vehicles overview.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Astro/3 Launch Vehicles/the rocket equation.md",
+                "file": "SESA1015/Astro/3 Launch Vehicles/Launch Vehicles overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,15 +159,15 @@
   },
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
-    "SESA1015/Astro/3 Launch Vehicles/space boat cringe.md",
-    "SESA1015/Astro/3 Launch Vehicles/the rocket equation.md",
+    "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md",
     "SESA1015/Astro/3 Launch Vehicles/Launch Vehicles overview.md",
+    "SESA1015/Astro/3 Launch Vehicles/the rocket equation applied to launch vehicles.md",
+    "SESA1015/Astro/3 Launch Vehicles/space boat cringe.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Inhomogeneous linear second order ODEs.md",
     "commutator.md",
-    "video0-20.mov",
-    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md"
+    "video0-20.mov"
   ]
 }
