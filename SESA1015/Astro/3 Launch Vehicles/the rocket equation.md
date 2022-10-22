@@ -26,7 +26,7 @@ Pretty simple proof ngl:
 ![[Pasted image 20221022171006.png]]
 
 We know a few things:
-- The mass expelled can be defined as mass flow rate $Q= -\frac{dM}{dt}$ which is mass lost from the rocket
+- The mass expelled can be defined as mass flow rate $Q= -\frac{dM}{dt}$ which is also mass lost from the rocket
 - At the instant of expulsion the relative velocity of the exhaust is $V_{ex}$ (modelling it as constant)
 - The impulse that accelerates the exhaust has an equal and opposite effect on the rocket $\frac{dV}{dt} M = Q V_{ex}$
 
@@ -35,5 +35,7 @@ Then it's as simple as combining and integrating:
 $$\begin{align*}
 \frac{dV}{dt} M &= Q V_{ex} & Q= -\frac{dM}{dt}\\
 \frac{dV}{dt} M &= -\frac{dM}{dt} V_{ex}\\
-dV &= 
+\int^{V}_{V_0} dV &= -V_{ex} \int^{M}_{M_{0}}  \frac{1}{M} dM \\
+V - V_{0} &= -V_{ex} \ln \frac{M}{M_{0}} \\
+V &= V_{ex} \ln \frac{M_{0}}{M} + V_{0} \\
 \end{align*}$$
