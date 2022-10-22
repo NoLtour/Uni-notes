@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA1015/Astro/3 Launch Vehicles/the rocket equation.md",
+                "file": "SESA1015/Astro/3 Launch Vehicles/space boat cringe.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Astro/3 Launch Vehicles/the rocket equation.md",
+                "file": "SESA1015/Astro/3 Launch Vehicles/space boat cringe.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
+    "SESA1015/Astro/3 Launch Vehicles/the rocket equation.md",
     "SESA1015/Astro/3 Launch Vehicles/Launch Vehicles overview.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
@@ -167,7 +168,6 @@
     "commutator.md",
     "video0-20.mov",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/BaSeD.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/it is not that hard ngl I could do it with some paper and half an hour.md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/BaSeD.md"
   ]
 }
