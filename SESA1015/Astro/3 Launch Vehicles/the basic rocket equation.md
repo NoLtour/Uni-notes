@@ -5,6 +5,8 @@ tags: []
 
 ## The (basic) rocket equation
 
+[[rocket science|Hey it's the thing! We made it to the thing!]]
+
 ### The equation
 
 > ### $$ \Delta V = V_{ex} \ln\left( \frac{M_{0}}{M_{b}} \right) $$ 
