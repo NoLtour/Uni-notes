@@ -11,6 +11,7 @@ tags: []
 
 > ### $$ \Delta V = V_{ex} \ln\left( \frac{M_{0}}{M_{b}} \right) $$ 
 > ### $$ V = V_{ex} \ln\left( \frac{M_{0}}{M} \right) + V_{0} $$ 
+> ### $$ T=\sigma V_{ex} $$ 
 >> where:
 >> $V=$ current rocket velocity
 >> $V_{ex}=$ exhaust velocity (constant)
@@ -18,6 +19,8 @@ tags: []
 >> $M_{b}=$ final rocket mass
 >> $M=$ current mass
 >> $V_{0}=$ initial rocket velocity
+>> $T=$ thrust
+>> $\sigma= \frac{dm}{dt}=$ mass flow rate of exhaust
 
 The equation's quite simple, it just represents how much push you get for the stuff you throw below you. No matter how fancy your propulsion method this equation is what enables all rockets to move (unless your some sort of [[space boat cringe|cringe solar sail]]).
 
@@ -41,3 +44,5 @@ $$\begin{align*}
 V - V_{0} &= -V_{ex} \ln \frac{M}{M_{0}} \\
 V &= V_{ex} \ln \frac{M_{0}}{M} + V_{0} \\
 \end{align*}$$
+
+Also note that $\frac{dV}{dt} M  = -\frac{dM}{dt} V_{ex}$ can be written as $T=\sigma V_{ex}$ where $\sigma$ is mass expelled and $T$ is thrust.
