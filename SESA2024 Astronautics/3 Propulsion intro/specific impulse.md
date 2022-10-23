@@ -18,6 +18,6 @@ Specific impulse is a measure of how efficiently a reaction mass engine (a rocke
 >> $I=$ impulse
 >> $g_{0}=9.81=$ [[standard gravity]]
 >> $V_{ex}=$ exhaust velocity
->> $M_{e}=$
+>> $M_{e}=$ mass exhausted
 
 
