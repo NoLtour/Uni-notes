@@ -9,4 +9,7 @@ The [[the basic rocket equation|rocket equation]] is nice and all but it doesn't
 
 ![[Pasted image 20221023104126.png]]
 
-If we go get the thrust equation from [[the basic rocket equation|here]] we can account for the effect of 
+If we go get the thrust equation from [[the basic rocket equation|here]] we can account for the effect of  pressure:
+![[Pasted image 20221023105328.png]]
+If we imagine the exit of the nozzle as a flat plate where the internal pressure and external pressure meet, we can sum the 
+
