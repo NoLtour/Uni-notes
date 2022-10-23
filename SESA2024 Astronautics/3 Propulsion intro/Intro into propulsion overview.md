@@ -19,6 +19,7 @@ But at the end of the day they all operate on the same principle, thing go out m
 - [[bi propellant systems]]
 - [[solid propellant systems]]
 - [[hybrid propellant systems]]
+- [[cold gas thrusters]]
 
 
 ## Expanded articles
