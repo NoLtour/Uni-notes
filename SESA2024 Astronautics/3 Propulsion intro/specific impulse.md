@@ -26,4 +26,4 @@ Hence it can be seen that to increase $I_{sp}$:
 - Increase exit velocity
 - Increase combustion chamber pressure
 - Increase mass floe rate
-- Increase molecular weight of exhaust
+- Decrease molecular weight of exhaust
