@@ -5,7 +5,7 @@ tags: []
 
 ## Thrust within an atmospheric environment
 
-### 
+### The equation
 
 The [[the basic rocket equation|rocket equation]] is nice and all but it doesn't account for the effect of ambient pressure and how that interacts with the exhaust:
 
@@ -26,11 +26,11 @@ If we slap this onto the thrust equation we get:
 >> $P_{e}=$ exhaust pressure
 >> $A_{e}=$ cross section area of nozzle exit
 
-### Optimal preformance
+### Optimal performance
 
 Depending on the relative size of $P_{a}$ compared to $P_{e}$ we either call the exhaust over or under expanded:
-- When $P_{e}<P_{a}$ it's over expanded, creating a backward force
-- When $P_{e}>P_{a}$ it's over expanded, creating a forward force
+- When $P_{e}<P_{a}$ it's over expanded, creating a backward force which leads to inefficiency. 
+- When $P_{e}>P_{a}$ it's over expanded, creating a forward force. This wastes potential thrust from increased $V_{ex}$ leading to inefficiency.
 
 The thing is the shape of the motor converts the pressure of the exhaust into an increased exit velocity, so the best case for exit pressure which achieves max efficiency is when $P_{e}=P_{a}$. This isn't practically possible inside the atmosphere though since the ambient pressure changes constantly as you move through the atmosphere and anything short of a nozzle that can freely change shape wont be able to work at this optimal ratio.
 

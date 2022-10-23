@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/thrust within an atmospheric environment.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/thrust within an atmospheric environment.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,10 +159,10 @@
   },
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
-    "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md",
     "SESA2024 Astronautics/3 Propulsion intro/thrust within an atmospheric environment.md",
-    "SESA2024 Astronautics/3 Propulsion intro/um actually there is no such thing as suction just a difference in pressure which leads to the illusion of a vacuum creating a suction force.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
+    "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md",
+    "SESA2024 Astronautics/3 Propulsion intro/um actually there is no such thing as suction just a difference in pressure which leads to the illusion of a vacuum creating a suction force.md",
     "SESA2024 Astronautics/3 Propulsion intro/primary and secondary propulsion.md",
     "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
     "SESA1015/Astro/3 Launch Vehicles/the rocket equation applied to launch vehicles.md",
