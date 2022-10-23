@@ -14,4 +14,16 @@ $$ (P_{a} - P_{e})A_{e} = F_{atm} $$
 A lower pressure inside the nozzle of course leads to a sort of vacuum effect which "pulls the rocket down" ([[um actually there is no such thing as suction just a difference in pressure which leads to the illusion of a vacuum creating a suction force|also stfu]]).
 
 If we slap this onto the thrust equation we get:
-$$ T = \sigma V_{e} + (P_{a} - P_{e})A_{e} $$
+
+> ### $$ T = \sigma V_{e} + (P_{a} - P_{e})A_{e} $$
+>> where:
+>> $V_{ex}=$ exhaust velocity (constant)
+>> $T=$ thrust
+>> $\sigma= \frac{dm}{dt}=$ mass flow rate of exhaust
+>> $P_{a}=$ atmospheric pressure
+>> $P_{e}=$ exhust pressure
+>> $A_{e}=$ cross section area of nozzle exit
+
+Depending on the relative size of $P_{a}$ compared to $P_{e}$ we either call the exhust over or under expanded:
+- When $P_{e}<P_{a}$ it's over expanded, creating a 
+
