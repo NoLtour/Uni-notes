@@ -11,5 +11,9 @@ A system that uses 2 substances, a fuel and an oxidiser to cause a reaction for 
 ![[Pasted image 20221023120731.png]]
 
 Note that oxidizers with a \* are [[hypergolic]].
+Many oxidisers and propellants sued in bi propellant systems require cryogenic cooling, which leads to greatly increased complexity.
 
+### Basic diagram
+![[Pasted image 20221023121128.png]]
 
+The plumbing of bi propellant systems tends to be much more complex than [[mono propellant systems]].
