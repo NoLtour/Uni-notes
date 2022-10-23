@@ -14,6 +14,10 @@ Specific impulse is a measure of how efficiently a reaction mass engine (a rocke
 >> $K=$ a constant 
 >> $\bar{M}=$ average molecular weight of exhaust gases
 >> $T_{c}=$ combustion chamber temperature
->> $T=$ t
+>> $T=$ thrust
+>> $I=$ impulse
+>> $g_{0}=9.81=$ [[standard gravity]]
+>> $V_{ex}=$ exhaust velocity
+>> $M_{e}=$
 
 
