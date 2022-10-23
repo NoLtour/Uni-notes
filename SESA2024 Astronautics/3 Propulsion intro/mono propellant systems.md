@@ -11,4 +11,8 @@ Ok this definition will take rocket science tier difficulty to understand. Mono 
 
 ### Example (hydrazine)
 
-Hydrazine ($N_{2}H_{4}$) is a common mono propellant, the reaction to produce thrust is simple: the hydrazine enters a chamber containing a catalytic bed (made of platinum and iridium)  
+Hydrazine ($N_{2}H_{4}$) is a common mono propellant, the reaction to produce thrust is simple: the hydrazine enters a chamber containing a catalytic bed (made of platinum and iridium) which causes the hydrazine to decompose into really hot ammonia and hydrogen gas which get expelled to produce thrust:
+
+![[Pasted image 20221023115445.png]]
+
+Hydrazine is [[I eat it every day|very safe]], it is highly toxic, corrosive and flammable. All around a fun time, most mono propellants are because well highly unstable energy dense stuff makes good propellant lol. 
