@@ -1,5 +1,5 @@
 ---
-aliases: ["bi propellant"]
+aliases: ["bi propellant","bi propellant system"]
 tags: []
 ---
 

@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["solid propellant system"]
 tags: []
 ---
 
@@ -17,4 +17,9 @@ These are often created out of repeating sections which are stacked to reduce ma
 
 ### Properties
 - Medium [[specific impulse]]
-- H
+- High thrust
+- Cannot be toggled, unsuitable for [[primary and secondary propulsion|secondary propulsion]]
+- Very simple with no need for plumbing
+- Not refuellable, this becomes increasingly relevant with the increase in reusable launch vehicles
+
+As you can guess solid propellant systems are great for first stages as well as boosting satellites.

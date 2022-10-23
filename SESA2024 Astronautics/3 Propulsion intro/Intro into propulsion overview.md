@@ -18,6 +18,7 @@ But at the end of the day they all operate on the same principle, thing go out m
 - [[mono propellant systems]]
 - [[bi propellant systems]]
 - [[solid propellant systems]]
+- [[hybrid propellant systems]]
 
 
 ## Expanded articles

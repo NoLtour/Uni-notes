@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/solid propellant systems.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/hybrid propellant systems.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/solid propellant systems.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/hybrid propellant systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,15 +159,15 @@
   },
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
+    "SESA2024 Astronautics/3 Propulsion intro/ungodly abomination.md",
+    "SESA2024 Astronautics/3 Propulsion intro/hybrid propellant systems.md",
     "SESA2024 Astronautics/3 Propulsion intro/bi propellant systems.md",
+    "SESA2024 Astronautics/3 Propulsion intro/solid propellant systems.md",
+    "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
     "SESA2024 Astronautics/3 Propulsion intro/hypergolic.md",
     "SESA2024 Astronautics/3 Propulsion intro/mono propellant systems.md",
     "SESA2024 Astronautics/3 Propulsion intro/I eat it every day.md",
     "SESA2024 Astronautics/3 Propulsion intro/this is crazy.md",
-    "SESA2024 Astronautics/3 Propulsion intro/specific impulse.md",
-    "SESA2024 Astronautics/3 Propulsion intro/standard gravity.md",
-    "SESA2024 Astronautics/3 Propulsion intro/thrust within an atmospheric environment.md",
-    "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md"
+    "SESA2024 Astronautics/3 Propulsion intro/specific impulse.md"
   ]
 }
