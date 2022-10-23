@@ -16,6 +16,7 @@ But at the end of the day they all operate on the same principle, thing go out m
 - [[thrust within an atmospheric environment]]
 - [[specific impulse]]
 - [[mono propellant systems]]
+- [[bi propellant systems]]
 
 
 ## Expanded articles

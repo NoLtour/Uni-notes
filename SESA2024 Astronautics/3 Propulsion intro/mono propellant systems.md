@@ -9,7 +9,11 @@ tags: []
 
 Ok this definition will take rocket science tier difficulty to understand. Mono propellant systems... are systems that produce thrust using a single propellant. ([[this is crazy|mind blown]]) The propellent can be reacted without the need of a separate fluid such as an oxidiser. 
 
-
+Traits:
+- A single propellant makes plumbing simpler
+- Tend to have a lower [[specific impulse]]
+- Reduced combustion chamber complexity
+- Often VERY toxic, so needs careful handling
 
 ### Example (hydrazine)
 
