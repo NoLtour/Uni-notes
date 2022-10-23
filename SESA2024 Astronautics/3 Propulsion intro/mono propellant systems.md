@@ -13,8 +13,9 @@ Traits:
 - A single propellant makes plumbing simpler
 - Tend to have a lower [[specific impulse]]
 - Reduced combustion chamber complexity
-- Often VERY toxic, so needs careful handling
-- Low thrust, not suited for use as [[primary and secondary propulsion|primary propulsion]]
+- Often VERY toxic, so needs careful handling 
+- Toggleable but not throttleable
+- Often not restart able
 
 ### Example (hydrazine)
 
