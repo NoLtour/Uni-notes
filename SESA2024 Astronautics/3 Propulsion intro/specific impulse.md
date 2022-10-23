@@ -8,7 +8,7 @@ tags: []
 Specific impulse is a measure of how efficiently a reaction mass engine (a rocket using propellant or a jet engine using fuel) creates thrust. For engines whose reaction mass is only the fuel they carry, specific impulse is exactly proportional to the effective exhaust gas velocity.
 
 > ### $$ I_{sp} = K \sqrt{ \frac{T_{c}}{\bar{M}} } = \frac{I}{M_{e} g_{0}} = \frac{V_{eq}}{g_{0}}  $$ 
-> ### $$ I = \int^{t}_{0} T \cdot dt $$
+> ### $$ I = \int^{t}_{0} T \cdot dt = \int^{t}_{0} V_{ex} \frac{d{M}_{e}}{dt} \cdot dt $$
 >> where:
 >> $I_{sp}=$ [[specific impulse]]
 >> $K=$ a constant 
@@ -20,4 +20,8 @@ Specific impulse is a measure of how efficiently a reaction mass engine (a rocke
 >> $V_{ex}=$ exhaust velocity
 >> $M_{e}=$ mass exhausted
 
-
+Hence it can be seen that to increase $I_{sp}$:
+- Increase exit veloicty
+- Increase combustion chamber pressure
+- Increase mass floe rate
+- Increase mo
