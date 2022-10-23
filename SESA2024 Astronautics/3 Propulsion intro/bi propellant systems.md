@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["bi propellant"]
 tags: []
 ---
 
@@ -17,3 +17,8 @@ Many oxidisers and propellants sued in bi propellant systems require cryogenic c
 ![[Pasted image 20221023121128.png]]
 
 The plumbing of bi propellant systems tends to be much more complex than [[mono propellant systems]].
+
+### Attributes
+- High [[specific impulse]] and thrust
+- Increased plumbing complexity
+- Increased complexity in storage

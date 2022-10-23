@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/bi propellant systems.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/solid propellant systems.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/bi propellant systems.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/solid propellant systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,9 +159,9 @@
   },
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/3 Propulsion intro/hypergolic.md",
-    "SESA2024 Astronautics/3 Propulsion intro/bi propellant systems.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
+    "SESA2024 Astronautics/3 Propulsion intro/bi propellant systems.md",
+    "SESA2024 Astronautics/3 Propulsion intro/hypergolic.md",
     "SESA2024 Astronautics/3 Propulsion intro/mono propellant systems.md",
     "SESA2024 Astronautics/3 Propulsion intro/I eat it every day.md",
     "SESA2024 Astronautics/3 Propulsion intro/this is crazy.md",

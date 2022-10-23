@@ -17,6 +17,7 @@ But at the end of the day they all operate on the same principle, thing go out m
 - [[specific impulse]]
 - [[mono propellant systems]]
 - [[bi propellant systems]]
+- [[solid propellant systems]]
 
 
 ## Expanded articles
