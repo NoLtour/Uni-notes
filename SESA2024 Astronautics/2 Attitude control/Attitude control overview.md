@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["attitude control"]
 tags: ["NotesPage"]
 ---
 

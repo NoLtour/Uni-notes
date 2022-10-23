@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "SESA2024 Astronautics/3 Propulsion intro/primary and secondary propulsion.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -159,6 +159,8 @@
   },
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+    "SESA2024 Astronautics/3 Propulsion intro/primary and secondary propulsion.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
     "SESA1015/Astro/3 Launch Vehicles/the rocket equation applied to launch vehicles.md",
     "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md",
@@ -166,8 +168,6 @@
     "SESA1015/Astro/3 Launch Vehicles/rocket science.md",
     "SESA1015/Astro/3 Launch Vehicles/space boat cringe.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Inhomogeneous linear second order ODEs.md",
-    "commutator.md"
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md"
   ]
 }
