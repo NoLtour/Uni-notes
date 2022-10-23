@@ -12,6 +12,8 @@ But at the end of the day they all operate on the same principle, thing go out m
 
 #### Contents
 - [[primary and secondary propulsion]]
+- [[the basic rocket equation]]
+- [[thrust within an atmospheric environment]]
 
 
 ## Expanded articles
