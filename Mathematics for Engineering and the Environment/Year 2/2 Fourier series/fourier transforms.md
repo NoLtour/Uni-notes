@@ -18,7 +18,7 @@ Unlike [[defining the fourier series|Fourier series]] which is for repeating thi
 >> $f(t)=$ some input function of $t$
 >> $F(\omega)=$ the fourier transform of $f(t)$
 >> $j=\sqrt{-1}$
->> $\omega=$ ?
+>> $\omega=$ frequency
 >> $\mathcal{F}[...]=$ fourier transform of some function 
 
 
