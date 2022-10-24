@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["fourier transform","inverse fourier transform"]
 tags: []
 ---
 
@@ -12,6 +12,8 @@ tags: []
 > ### $$ \text{Inverse Transform:} \:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:  f(t) = \frac{1}{\sqrt{2\pi}} \int^{\infty}_{-\infty} F(\omega) e^{j\omega t} \cdot d\omega $$ 
 >> where:
 >> $f(t)=$ some input function of $t$
->> $=$
->> $=$
+>> $F(\omega)=$ the fourier transform of $f(t)$
+>> $j=\sqrt{-1}$
+>> $\omega=$ ?
+>> $\mathcal{F}[...]=$ 
 
