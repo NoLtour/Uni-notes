@@ -18,9 +18,12 @@ Let's define a set of equations to describe the properties of the spacecraft and
 - Here $\beta$ is the specific power of the plant (Watts per kg) $\beta=W/M_W$, this measures the power to generator weight efficiency.
 - The initial mass of the vehicle $M_{0}$ can be described interms of it's components $M_{p}=$ payload mass, $M_W=$ power plant mass, $M_{e}=$ propellant mass; hence $M_{0}=M_W+M_e+M_p$.
 - The efficiency of the power generated to the KE given to propellant can be described as $W_{jet}=\eta W$ where $eta$ is the efficiency of energy conversion.
+- The rate of mass burn (assuming constant) $\sigma=M_{e}/t_{b}$ where $t_{b}=$ time taken to burn fuel.
 
 Now by combining these equations can get a definition of potential thrust:
 
 $$\begin{align*}
-W_{jet} &= \eta W & W &= 
+W_{jet} &= \eta W & W &= \beta M_{W}\\
+\frac{1}{2} M V^{2} &= \eta \beta M_{W}\\
+&= 
 \end{align*}$$
