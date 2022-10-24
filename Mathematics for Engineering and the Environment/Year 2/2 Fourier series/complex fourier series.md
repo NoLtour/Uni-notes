@@ -20,7 +20,7 @@ f(x) &= \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & c_{n} &= 
 \frac{1}{2}(a_{-n} + jb_{-n}) & n<0 \end{dcases}
 \end{align*}$$
  
-> ## $$ \begin{align*} f(x)  & = \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & c_{n} &= \begin{dcases} \frac{1}{2}(a_{n} - jb_{n}) & n>0\\\frac{1}{2}a_{0} & n=0\\\frac{1}{2}(a_{-n} + jb_{-n}) & n<0 \end{dcases} \\ & = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1} c_{n} e^{\frac{jn\pi x}{L}} + \sum\limits^{\infty}_{n=1} c_{(-n)} e^{\frac{-jn\pi x}{L}} \\ & = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1} \left[c_{n} e^{\frac{jn\pi x}{L}} + c_{(-n)} e^{\frac{-jn\pi x}{L}}\right]  \end{align*} $$  
+> ## $$ \begin{align*} f(x)  & = \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & c_{n} &= \begin{dcases} \frac{1}{2}(a_{n} - jb_{n}) & n>0\\\frac{1}{2}a_{0} & n=0\\\frac{1}{2}(a_{-n} + jb_{-n}) & n<0 \end{dcases} \\ & = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1} c_{n} e^{\frac{jn\pi x}{L}} + \sum\limits^{-1}_{n=-\infty} c_{(n)} e^{\frac{jn\pi x}{L}} \\ & = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1} \left[c_{n} e^{\frac{jn\pi x}{L}} + c_{(-n)} e^{\frac{-jn\pi x}{L}}\right]  \end{align*} $$  
 > ### $$ c_{n} = \frac{1}{2L} \int^{L}_{-L} f(x) e^{-j \frac{n\pi x}{L} } \cdot dx $$
 > ### $$ a_{0} = \frac{1}{L} \int^{L}_{-L} f(x)  \cdot dx $$
 >> where:
