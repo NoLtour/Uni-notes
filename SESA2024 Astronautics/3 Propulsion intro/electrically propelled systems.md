@@ -31,5 +31,8 @@ W_{jet} &= \eta W & W &= \beta M_{W}\\
 
 Subbing this into the equation of $M_{0}$ gives:
 $$\begin{align*}
-M_{0}=M_{W}+M_{e}+M_{p} &= 
+M_{0}&=M_{W}+M_{e}+M_{p} &  \frac{ M_{e} V^{2} }{2 \eta t_{b} \beta } &= M_{W}\\
+&= \frac{ M_{e} V^{2} }{2 \eta t_{b} \beta }+M_{e}+M_{p} \\
+M_{0} - M_{p} &= \left(\frac{  V^{2} }{2 \eta t_{b} \beta }+1\right) M_{e} \\
+M_{0} - M_{p} &= \left(\frac{  V^{2} }{2 \eta t_{b} \beta }+1\right) M_{e} 
 \end{align*}$$
