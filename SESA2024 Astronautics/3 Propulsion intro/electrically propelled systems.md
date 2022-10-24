@@ -36,3 +36,10 @@ M_{0}&=M_{W}+M_{e}+M_{p} &  \frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta } &= M_
 M_{0} - M_{p} &= \left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right) M_{e} \\
 \frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)} &=  M_{e} 
 \end{align*}$$
+Subbing into [[the basic rocket equation|the rocket equation]] gives:
+$$\begin{align*}
+\Delta V = V_{ex} \ln\left( \frac{M_{0}}{M_{e}} \right) & M_{e} &= \frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)} \\
+\Delta V = V_{ex} \ln\left( \frac{M_{0}}{\frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)}} \right)   \\
+\Delta V = V_{ex} \ln\left( \frac{M_{0}\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)}{ M_{0} - M_{p} } \right)   \\
+&
+\end{align*}$$
