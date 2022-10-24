@@ -16,6 +16,7 @@ tags: ["NotesPage"]
 - [[fouriers theorem]]
 - [[integration and differentiation of fourier series]]
 - [[complex fourier series]]
+- [[fourier transforms]]
 
 
 ## Expanded articles
