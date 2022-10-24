@@ -28,6 +28,10 @@ f(x) &= \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & c_{n} &= 
 >> $j=\sqrt{-1}$ 
 >> $c_{n} =$ the $n$th constant
 
+When dealing with this type of problem, the following identity is very frequently used:
+
+> ## $$ \sin(A) = \frac{1}{2} $$
+
 ### Example
 ![[Pasted image 20221019231102.png]]
 
