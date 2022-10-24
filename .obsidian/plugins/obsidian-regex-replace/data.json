@@ -1,0 +1,10 @@
+{
+  "findText": "V",
+  "replaceText": "V_{ex}",
+  "useRegEx": false,
+  "selOnly": true,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": false
+}

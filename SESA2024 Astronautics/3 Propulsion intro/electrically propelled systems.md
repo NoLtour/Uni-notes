@@ -24,15 +24,15 @@ Now by combining these equations can get a definition of potential thrust:
 
 $$\begin{align*}
 W_{jet} &= \eta W & W &= \beta M_{W}\\
-\sigma \frac{1}{2} V^{2} &= \eta \beta M_{W}\\
- \frac{\sigma V^{2} }{2 \eta} &= \beta M_{W} & \sigma&=\frac{M_{e}}{t_{b}}\\
-\frac{ M_{e} V^{2} }{2 \eta t_{b} \beta } &= M_{W}
+\sigma \frac{1}{2} V_{ex}^{2} &= \eta \beta M_{W}\\
+ \frac{\sigma V_{ex}^{2} }{2 \eta} &= \beta M_{W} & \sigma&=\frac{M_{e}}{t_{b}}\\
+\frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta } &= M_{W}
 \end{align*}$$
 
 Subbing this into the equation of $M_{0}$ gives:
 $$\begin{align*}
-M_{0}&=M_{W}+M_{e}+M_{p} &  \frac{ M_{e} V^{2} }{2 \eta t_{b} \beta } &= M_{W}\\
-&= \frac{ M_{e} V^{2} }{2 \eta t_{b} \beta }+M_{e}+M_{p} \\
-M_{0} - M_{p} &= \left(\frac{  V^{2} }{2 \eta t_{b} \beta }+1\right) M_{e} \\
-M_{0} - M_{p} &= \left(\frac{  V^{2} }{2 \eta t_{b} \beta }+1\right) M_{e} 
+M_{0}&=M_{W}+M_{e}+M_{p} &  \frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta } &= M_{W}\\
+&= \frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta }+M_{e}+M_{p} \\
+M_{0} - M_{p} &= \left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right) M_{e} \\
+\frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)} &=  M_{e} 
 \end{align*}$$
