@@ -40,5 +40,7 @@ $$\begin{align*}
 \end{align*}$$
 We can find the max value by differentiating with respect to $V_{ex}$ (going to skip some steps, but it's just [[What's the chain rule|chain rule]]+pain):
 $$\begin{align*}
-\frac{d\Delta V}{dV_{ex}} &= \ln\left( \frac{V_{ex}^{2} + V_{c}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}}}{ V_{ex}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}} } \right) - \frac{2  V_{ex}^{2} V_{c}^{2} }{  }
+\frac{d\Delta V}{dV_{ex}} &= \ln\left( \frac{V_{ex}^{2} + V_{c}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}}}{ V_{ex}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}} } \right) - \frac{2  V_{ex}^{2} V_{c}^{2} }{ \left(V_{ex}^{2} + V_{c}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}} \right) \left(V_{ex}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}}\right) }\\
+&\text{let: } \frac{d\Delta V}{dV_{ex}}=0\\
+\frac{2  V_{ex}^{2} V_{c}^{2} }{ \left(V_{ex}^{2} + V_{c}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}} \right) \left(V_{ex}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}}\right) } &= \ln\left( \frac{V_{ex}^{2} + V_{c}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}}}{ V_{ex}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}} } \right) \\
 \end{align*}$$
