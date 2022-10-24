@@ -40,5 +40,5 @@ $$\begin{align*}
 \end{align*}$$
 We can find the max value by differentiating with respect to $V_{ex}$:
 $$\begin{align*}
- &= 
+\frac{d\Delta V}{dV_{ex}} &= 
 \end{align*}$$
