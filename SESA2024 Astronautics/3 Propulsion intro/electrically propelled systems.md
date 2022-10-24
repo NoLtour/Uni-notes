@@ -38,7 +38,7 @@ $$\begin{align*}
   &= -V_{ex} \ln\left( 1- \frac{1}{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}} }   \right) \\
   &= V_{ex} \ln\left( \frac{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}}}{\frac{  V_{ex}^{2} }{ V_{c}^{2} } + \frac{M_{p}}{M_{e}} } \right) \\
 \end{align*}$$
-We can find the max value by differentiating with respect to $V_{ex}$:
+We can find the max value by differentiating with respect to $V_{ex}$ (going to skip some steps, but it's just [[What's the chain rule|chain rule]]+pain):
 $$\begin{align*}
-\frac{d\Delta V}{dV_{ex}} &= 
+\frac{d\Delta V}{dV_{ex}} &= \ln\left( \frac{V_{ex}^{2} + V_{c}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}}}{ V_{ex}^{2} + V_{c}^{2} \frac{M_{p}}{M_{e}} } \right) - \frac{2  V_{ex}^{2} V_{c}^{2} }{  }
 \end{align*}$$
