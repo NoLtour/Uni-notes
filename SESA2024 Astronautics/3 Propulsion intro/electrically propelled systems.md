@@ -15,5 +15,12 @@ Something else worth noting is although for more traditional propellant systems 
 When working with electrically propelled systems the importance of the effect of the power plant mass should be considered, a larger power plant of course generates more power allowing for a greater thrust but also increases the mass ([[phat generator|obviously]]).
 
 Let's define a set of equations to describe the properties of the spacecraft and it's subsystems:
-- Here $\beta$ is the specific power of the plant (Watts per kg) $\beta=W/M_W$, this measures the power to generator weight efficiency
-- The initial mass of the vehicle $M_{0}$ can be described interms of it's components $M_{p}=$ payload mass, $M_W=$ power plant mass, $M_{e}=$ propellant mass
+- Here $\beta$ is the specific power of the plant (Watts per kg) $\beta=W/M_W$, this measures the power to generator weight efficiency.
+- The initial mass of the vehicle $M_{0}$ can be described interms of it's components $M_{p}=$ payload mass, $M_W=$ power plant mass, $M_{e}=$ propellant mass; hence $M_{0}=M_W+M_e+M_p$.
+- The efficiency of the power generated to the KE given to propellant can be described as $W_{jet}=\eta W$ where $eta$ is the efficiency of energy conversion.
+
+Now by combining these equations can get a definition of potential thrust:
+
+$$\begin{align*}
+W_{jet} &= \eta W & W &= 
+\end{align*}$$
