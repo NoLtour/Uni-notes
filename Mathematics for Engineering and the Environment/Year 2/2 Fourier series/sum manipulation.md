@@ -13,5 +13,9 @@ tags: []
 
 #### Example
 
-
+$$\begin{align*}
+\sum\limits^{5}_{n=1} xn^{2} &= ? & \sum\limits^{-1}_{n=-5} x(-n)^{2} &= ? \\
+&= x + 4x + 9x + 16x + 25x & &= 25x + 16x + 9x + 4x + x\\
+&= 55x & &= 55x
+\end{align*}$$
 
