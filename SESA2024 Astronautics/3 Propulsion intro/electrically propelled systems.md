@@ -38,3 +38,6 @@ $$\begin{align*}
   &= -V_{ex} \ln\left( 1- \frac{1}{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}} }   \right) \\
   &= V_{ex} \ln\left( \frac{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}}}{\frac{  V_{ex}^{2} }{ V_{c}^{2} } + \frac{M_{p}}{M_{e}} } \right) \\
 \end{align*}$$ 
+If you plot this equation as $\Delta V$ in terms of $V_{ex}$ you get the following shape graph (specifics change depending on other constant's used but it always ends up as some form of this graph):
+![[Pasted image 20221025002635.png]]
+This shows there is an optimal value for $V_{ex}$ to maximise $\Delta V$, unlike with chemical fuels where efficiency keeps increasing as $V_{ex}$ increases.
