@@ -38,8 +38,12 @@ M_{0} - M_{p} &= \left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right) M_{e} 
 \end{align*}$$
 Subbing into [[the basic rocket equation|the rocket equation]] gives:
 $$\begin{align*}
-\Delta V = V_{ex} \ln\left( \frac{M_{0}}{M_{e}} \right) & M_{e} &= \frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)} \\
-\Delta V = V_{ex} \ln\left( \frac{M_{0}}{\frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)}} \right)   \\
-\Delta V = V_{ex} \ln\left( \frac{ \frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1 }{1  - \frac{M_{p}}{M_{0}} } \right)   \\
+\Delta V &= V_{ex} \ln\left( \frac{M_{0}}{M_{e}} \right) & M_{e} &= \frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)} \\
+\Delta V &= V_{ex} \ln\left( \frac{M_{0}}{\frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)}} \right)   \\
+\Delta V &= V_{ex} \ln\left( \frac{ \frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1 }{1  - \frac{M_{p}}{M_{0}} } \right)   \\
 &
+\end{align*}$$
+This form's not very useful to read so we'll introduce this variable "characteristic velocity" $V_{c}=\sqrt{2\eta \beta t_{b}}$:
+$$\begin{align*}
+\Delta V = V_{ex} \ln\left( \frac{ \frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1 }{1  - \frac{M_{p}}{M_{0}} } \right)  
 \end{align*}$$
