@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
-                "mode": "preview",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/sum manipulation.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/sum manipulation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,7 @@
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "SESA2024 Astronautics/3 Propulsion intro/electrically propelled systems.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
@@ -167,7 +168,6 @@
     "SESA2024 Astronautics/3 Propulsion intro/mono propellant systems.md",
     "SESA2024 Astronautics/3 Propulsion intro/cold gas thrusters.md",
     "SESA2024 Astronautics/3 Propulsion intro/I mean what did you expect the meme here to be.md",
-    "SESA2024 Astronautics/3 Propulsion intro/hybrid propellant systems.md",
-    "SESA2024 Astronautics/3 Propulsion intro/ungodly abomination.md"
+    "SESA2024 Astronautics/3 Propulsion intro/hybrid propellant systems.md"
   ]
 }
