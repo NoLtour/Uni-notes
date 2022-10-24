@@ -29,26 +29,16 @@ W_{jet} &= \eta W & W &= \beta M_{W}\\
 \frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta } &= M_{W}
 \end{align*}$$
 
-Subbing this into the equation of $M_{0}$ gives:
-$$\begin{align*}
-M_{0}&=M_{W}+M_{e}+M_{p} &  \frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta } &= M_{W}\\
-&= \frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta }+M_{e}+M_{p} \\
-M_{0} - M_{p} &= \left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right) M_{e} \\
-\frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)} &=  M_{e} 
-\end{align*}$$
-Subbing into [[the basic rocket equation|the rocket equation]] gives:
-$$\begin{align*}
-\Delta V &= V_{ex} \ln\left( \frac{M_{0}}{M_{0}-M_{e}} \right) & M_{e} &= \frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)} \\
-\Delta V &= V_{ex} \ln\left( \frac{M_{0}}{\frac{M_{0} - M_{p}}{\left(\frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1\right)}} \right)   \\
-\Delta V &= V_{ex} \ln\left( \frac{ \frac{  V_{ex}^{2} }{2 \eta t_{b} \beta }+1 }{1  - \frac{M_{p}}{M_{0}} } \right)   \\
-&
-\end{align*}$$
-This form's not very useful to read so we'll introduce this variable "characteristic velocity" $V_{c}=\sqrt{2\eta \beta t_{b}}$:
+
+We'll introduce this variable "characteristic velocity" $V_{c}=\sqrt{2\eta \beta t_{b}}$ as well as sub into [[the basic rocket equation|the rocket equation]]:
 $$\begin{align*}
 \Delta V &= V_{ex} \ln\left( \frac{M_{0}}{M_{0}-M_{e}} \right)  & M_{0}&=\frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta }+M_{e}+M_{p}\\
   &= V_{ex} \ln\left( \frac{1}{1- \frac{M_{e}}{\frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta }+M_{e}+M_{p}} } \right) \\
   &= V_{ex} \ln\left( \frac{1}{1- \frac{1}{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}} } } \right) \\
   &= -V_{ex} \ln\left( 1- \frac{1}{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}} }   \right) \\
   &= V_{ex} \ln\left( \frac{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}}}{\frac{  V_{ex}^{2} }{ V_{c}^{2} } + \frac{M_{p}}{M_{e}} } \right) \\
-  &= V_{ex} \ln\left( \frac{  V_{ex}^{2} }{V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}}   \right)\\
+\end{align*}$$
+We can find the max value by differentiating with respect to $V_{ex}$:
+$$\begin{align*}
+ &= 
 \end{align*}$$
