@@ -48,6 +48,7 @@ $$\begin{align*}
 \Delta V &= V_{ex} \ln\left( \frac{M_{0}}{M_{0}-M_{e}} \right)  & M_{0}&=\frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta }+M_{e}+M_{p}\\
   &= V_{ex} \ln\left( \frac{1}{1- \frac{M_{e}}{\frac{ M_{e} V_{ex}^{2} }{2 \eta t_{b} \beta }+M_{e}+M_{p}} } \right) \\
   &= V_{ex} \ln\left( \frac{1}{1- \frac{1}{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}} } } \right) \\
-  &= V_{ex} \ln\left( 1- \frac{1}{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}} }   \right) \\
+  &= -V_{ex} \ln\left( 1- \frac{1}{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}} }   \right) \\
+  &= V_{ex} \ln\left( \frac{\frac{  V_{ex}^{2} }{ V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}}}{\frac{  V_{ex}^{2} }{ V_{c}^{2} } + \frac{M_{p}}{M_{e}} } \right) \\
   &= V_{ex} \ln\left( \frac{  V_{ex}^{2} }{V_{c}^{2} }+1+ \frac{M_{p}}{M_{e}}   \right)\\
 \end{align*}$$
