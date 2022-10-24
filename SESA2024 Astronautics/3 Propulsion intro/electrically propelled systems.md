@@ -24,6 +24,7 @@ Now by combining these equations can get a definition of potential thrust:
 
 $$\begin{align*}
 W_{jet} &= \eta W & W &= \beta M_{W}\\
-\frac{1}{2} M V^{2} &= \eta \beta M_{W}\\
-\frac{1}{2} (M_{W}+M_{e}+M_{p}) V^{2} &= 
+\sigma \frac{1}{2} M V^{2} &= \eta \beta M_{W}\\
+ \frac{\sigma M V^{2} }{2 \eta} &= \beta M_{W} & \sigma&=M_{e}/t_{b}\\
+\frac{\sigma M V^{2} }{2 \eta} &= 
 \end{align*}$$
