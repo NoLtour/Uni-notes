@@ -8,4 +8,4 @@ This is a type of [[electrically propelled systems|electrically propelled system
 
 ![[Pasted image 20221025094031.png]]
 
-Thrust scales with the atomic mass of the propellant, 
+Thrust scales with the atomic mass of the propellant, so things such as Xenon, water and butane are used. This is cheap and offers much higher ISP than chemical [[bi propellant systems]], the trade off of course is low thrust making this only really practical in space.

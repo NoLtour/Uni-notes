@@ -22,6 +22,7 @@ But at the end of the day they all operate on the same principle, thing go out m
 - [[cold gas thrusters]]
 - [[electrically propelled systems]]
 - [[resistojet]]
+- [[arcjet]]
 
 
 ## Expanded articles
