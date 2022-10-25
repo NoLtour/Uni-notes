@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,6 +126,8 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
     "Aerodynamics/Aerodynamics overview.md",
     "SESA2024 Astronautics/Astro overview.md",
@@ -133,8 +135,6 @@
     "SESA2024 Astronautics/3 Propulsion intro/ion thruster.md",
     "SESA2024 Astronautics/3 Propulsion intro/electromagnetic thruster.md",
     "SESA2024 Astronautics/3 Propulsion intro/arcjet.md",
-    "SESA2024 Astronautics/3 Propulsion intro/resistojet.md",
-    "SESA2024 Astronautics/3 Propulsion intro/electrically propelled systems.md",
-    "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md"
+    "SESA2024 Astronautics/3 Propulsion intro/resistojet.md"
   ]
 }
