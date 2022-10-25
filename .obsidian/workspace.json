@@ -18,49 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "565645a32d4ec4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d1b3d986f4ee661a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/Aerodynamics overview.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "28dcaf56b9f7f401",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "82a92d31b4dc93e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,13 +124,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "28dcaf56b9f7f401",
+  "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/Astro overview.md",
+    "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
     "Aerodynamics/Aerodynamics overview.md",
+    "SESA2024 Astronautics/Astro overview.md",
     "SESA2024 Astronautics/Organisation and resources/Week 3/Chapter 7 - Propulsion - original slides(1).pdf",
     "SESA2024 Astronautics/3 Propulsion intro/ion thruster.md",
-    "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
     "SESA2024 Astronautics/3 Propulsion intro/electromagnetic thruster.md",
     "SESA2024 Astronautics/3 Propulsion intro/arcjet.md",
     "SESA2024 Astronautics/3 Propulsion intro/resistojet.md",
