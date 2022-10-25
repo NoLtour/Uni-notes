@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/arcjet.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/electromagnetic.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/arcjet.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/electromagnetic.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,7 @@
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
+    "SESA2024 Astronautics/3 Propulsion intro/arcjet.md",
     "SESA2024 Astronautics/3 Propulsion intro/resistojet.md",
     "SESA2024 Astronautics/3 Propulsion intro/electrically propelled systems.md",
     "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md",
@@ -167,7 +168,6 @@
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining the fourier series.md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md"
   ]
 }

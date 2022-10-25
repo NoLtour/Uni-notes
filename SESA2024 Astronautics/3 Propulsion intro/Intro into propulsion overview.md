@@ -23,6 +23,7 @@ But at the end of the day they all operate on the same principle, thing go out m
 - [[electrically propelled systems]]
 - [[resistojet]]
 - [[arcjet]]
+- [[electromagnetic]]
 
 
 ## Expanded articles
