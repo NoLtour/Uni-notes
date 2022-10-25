@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["electrically propelled system"]
 tags: []
 ---
 
@@ -9,8 +9,6 @@ tags: []
 
 Electrical propulsion systems use electrical power to accelerate the propellant gas out of the rocket nozzle. Electrically propelled systems tend to have very high [[specific impulse]], even multiple times higher than traditional [[bi propellant systems]], the trade off is they require large amounts of power as well as are quite low thrust (thrust being mainly limited by electricity generation).
 Something else worth noting is although for more traditional propellant systems the burn time is negligible compared to orbital period such that it can be approximated by an impulse, since electrically propelled systems might burn for weeks, months even years this assumption is often not applicable.
-
-Types:
 
 
 ### Performance analysis

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/electrically propelled systems.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/resistojet.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/3 Propulsion intro/electrically propelled systems.md",
+                "file": "SESA2024 Astronautics/3 Propulsion intro/resistojet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,10 +159,10 @@
   },
   "active": "d1b3d986f4ee661a",
   "lastOpenFiles": [
-    "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md",
-    "SESA2024 Astronautics/3 Propulsion intro/electrically propelled systems.md",
-    "SESA2024 Astronautics/3 Propulsion intro/phat generator.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
+    "SESA2024 Astronautics/3 Propulsion intro/electrically propelled systems.md",
+    "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md",
+    "SESA2024 Astronautics/3 Propulsion intro/phat generator.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
