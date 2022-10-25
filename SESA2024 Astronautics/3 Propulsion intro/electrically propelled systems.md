@@ -10,7 +10,10 @@ tags: []
 Electrical propulsion systems use electrical power to accelerate the propellant gas out of the rocket nozzle. Electrically propelled systems tend to have very high [[specific impulse]], even multiple times higher than traditional [[bi propellant systems]], the trade off is they require large amounts of power as well as are quite low thrust (thrust being mainly limited by electricity generation).
 Something else worth noting is although for more traditional propellant systems the burn time is negligible compared to orbital period such that it can be approximated by an impulse, since electrically propelled systems might burn for weeks, months even years this assumption is often not applicable.
 
-### Maths
+Types:
+
+
+### Performance analysis
 
 When working with electrically propelled systems the importance of the effect of the power plant mass should be considered, a larger power plant of course generates more power allowing for a greater thrust but also increases the mass ([[phat generator|obviously]]).
 
@@ -40,4 +43,4 @@ $$\begin{align*}
 \end{align*}$$ 
 If you plot this equation as $\Delta V$ in terms of $V_{ex}$ you get the following shape graph (specifics change depending on other constant's used but it always ends up as some form of this graph):
 ![[Pasted image 20221025002635.png]]
-This shows there is an optimal value for $V_{ex}$ to maximise $\Delta V$, unlike with chemical fuels where efficiency keeps increasing as $V_{ex}$ increases.
+This shows there is an optimal value for $V_{ex}$ to maximise $\Delta V$, unlike with chemical fuels where efficiency keeps increasing as $V_{ex}$ increases. There is also the clear fact that increasing $V_{c}=\sqrt{2\eta \beta t_{b}}$ results in greater $\Delta V$, hence increasing the efficiency obviously leads to performance benefits, the other consequence is that increased burn time (hence also lower thrust) also leads to increased performance benefit.
