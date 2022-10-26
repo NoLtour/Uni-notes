@@ -22,7 +22,7 @@ tags: ["NotesPage"]
 - [[complex fourier series]]
 - [[fourier transforms]]
 - [[properties of fourier transforms]]
-- [[fourier transform and]]
+- [[fourier transform and response function]]
 
 
 ## Expanded articles
