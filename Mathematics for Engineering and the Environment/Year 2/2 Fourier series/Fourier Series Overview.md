@@ -21,6 +21,7 @@ tags: ["NotesPage"]
 - [[sum manipulation]]
 - [[complex fourier series]]
 - [[fourier transforms]]
+- [[properties of fourier transforms]]
 
 
 ## Expanded articles
@@ -36,5 +37,5 @@ tags: ["NotesPage"]
 ![[sum manipulation]]
 ![[complex fourier series]]
 ![[fourier transforms]]
-
+![[properties of fourier transforms]]
  
