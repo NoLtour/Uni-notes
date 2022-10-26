@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
-                "mode": "preview",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,10 +140,10 @@
   },
   "active": "af50b59e840861cf",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
