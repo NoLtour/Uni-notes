@@ -27,3 +27,13 @@ Essentially, if you apply a fourier transform to some function which is construc
 >> $j=\sqrt{-1}$
 >> $\omega=$ frequency
 >> $\mathcal{F}[...]=$ fourier transform of some function 
+
+### Fourier transform shift properties
+
+> ### $$ \mathcal{F}[  f(x + A ) ] = e^{-j\omega A} \mathcal{F}[f(x)]  = e^{-j\omega A} F(\omega) $$ 
+>> where:
+>> $f(x) =$ some input function of $x$ 
+>> $A =$ variables independent of $x$
+>> $j=\sqrt{-1}$
+>> $\omega=$ frequency
+>> $\mathcal{F}[...]=$ fourier transform of some function 
