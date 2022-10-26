@@ -7,6 +7,7 @@ tags: []
 
 ### Fourier transform of the differential
 
+
 > ### $$ \mathcal{F}\left[ \frac{df}{dt} \right] = j\omega \mathcal{F}[f(t)] $$ 
 > ### $$ \mathcal{F}\left[ \frac{d^{n}f}{dt^{n}} \right] = (j\omega)^{n} \mathcal{F}[f(t)] $$ 
 >> where:
@@ -22,7 +23,7 @@ Essentially, if you apply a fourier transform to some function which is construc
 > ### $$ \mathcal{F}[ Af(x) + Bg(x) ] =  A\mathcal{F}[ f(x) ] + B\mathcal{F}[g(x)] $$ 
 >> where:
 >> $f(x),g(x)=$ some input function of $x$ 
->> $A,B=$ variables independant of x
+>> $A,B=$ variables independent of $x$
 >> $j=\sqrt{-1}$
 >> $\omega=$ frequency
 >> $\mathcal{F}[...]=$ fourier transform of some function 
