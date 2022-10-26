@@ -35,5 +35,15 @@ Essentially, if you apply a fourier transform to some function which is construc
 >> $f(x) =$ some input function of $x$ 
 >> $A =$ variables independent of $x$
 >> $j=\sqrt{-1}$
+>> $F(\omega)=$ the fourier transform of $f(t)$
+>> $\omega=$ frequency
+>> $\mathcal{F}[...]=$ fourier transform of some function 
+
+> ### $$   F(\omega-A) = \mathcal{F}[ e^{jAt} f(x ) ] $$ 
+>> where:
+>> $f(x) =$ some input function of $x$ 
+>> $A =$ variables independent of $\omega$
+>> $j=\sqrt{-1}$
+>> $F(\omega)=$ the fourier transform of $f(t)$
 >> $\omega=$ frequency
 >> $\mathcal{F}[...]=$ fourier transform of some function 

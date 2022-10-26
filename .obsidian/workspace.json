@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,8 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
