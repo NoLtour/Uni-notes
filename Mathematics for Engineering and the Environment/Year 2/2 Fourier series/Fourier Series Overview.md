@@ -5,7 +5,10 @@ tags: ["NotesPage"]
 
 # Fourier Series Overview
 
-#### Intro and contents
+#### Intro 
+![youtube](https://www.youtube.com/watch?v=spUNpyF58BY)
+
+#### Contents
 - [[trig identities for Fourier series]]
 - [[defining the fourier series]]
 - [[odd function]]
