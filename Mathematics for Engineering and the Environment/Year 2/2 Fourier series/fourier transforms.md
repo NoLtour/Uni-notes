@@ -32,7 +32,7 @@ $$\begin{align*}
 Since for this function it is zero outside of $-1<x<1$ we can simplify the equation to:
 
 $$\begin{align*}
-\mathcal{F}[f(t)] &= \frac{1}{\sqrt{2\pi}} \int^{-1}_{-\infty}0e^{-j\omega t} \cdot dt + \frac{1}{\sqrt{2\pi}} \int^{1}_{-1} 1 e^{-j\omega t} \cdot dt + \frac{1}{\sqrt{2\pi}} \int^{\infty}_{1} 0 e^{-j\omega t} \cdot dt \\
+\mathcal{F}[f(t)] = F(\omega)&= \frac{1}{\sqrt{2\pi}} \int^{-1}_{-\infty}0e^{-j\omega t} \cdot dt + \frac{1}{\sqrt{2\pi}} \int^{1}_{-1} 1 e^{-j\omega t} \cdot dt + \frac{1}{\sqrt{2\pi}} \int^{\infty}_{1} 0 e^{-j\omega t} \cdot dt \\
   &=  \frac{1}{\sqrt{2\pi}} \int^{1}_{-1} e^{-j\omega t} \cdot dt & \sin \omega &= \frac{1}{2j }( e^{j\omega} - e^{-j\omega} )   \\
   &=  \frac{1}{j\omega\sqrt{2\pi}} [ e^{-j\omega t} ]^{1}_{-1} & \sin \omega &= j \frac{1}{2}( e^{-j\omega} - e^{j\omega} ) \\
 &= \sqrt{\frac{2}{\pi}} \frac{\sin(\omega)}{\omega}\\
