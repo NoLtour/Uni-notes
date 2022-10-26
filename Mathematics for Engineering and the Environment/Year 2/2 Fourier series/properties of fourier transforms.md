@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["Fourier transform shift properties","Fourier transform linerarity","Fourier transform of the differential","Fourier transform of differential"]
 tags: []
 ---
 
