@@ -21,4 +21,5 @@ Unlike [[defining the fourier series|Fourier series]] which is for repeating thi
 >> $\omega=$ frequency
 >> $\mathcal{F}[...]=$ fourier transform of some function 
 
+### E
 

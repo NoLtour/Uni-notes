@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "af50b59e840861cf",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
     "SESA2024 Astronautics/3 Propulsion intro/Intro into propulsion overview.md",
-    "Aerodynamics/Aerodynamics overview.md",
-    "SESA2024 Astronautics/Astro overview.md",
-    "SESA2024 Astronautics/Organisation and resources/Week 3/Chapter 7 - Propulsion - original slides(1).pdf",
-    "SESA2024 Astronautics/3 Propulsion intro/ion thruster.md"
+    "Aerodynamics/Aerodynamics overview.md"
   ]
 }
