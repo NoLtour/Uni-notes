@@ -21,5 +21,17 @@ Unlike [[defining the fourier series|Fourier series]] which is for repeating thi
 >> $\omega=$ frequency
 >> $\mathcal{F}[...]=$ fourier transform of some function 
 
-### E
+### Example
+
+> Find the fourier transform of $f(t)=\begin{dcases} 1, & |t|<1 \\ 0, &else \end{dcases}$
+
+$$\begin{align*}
+\mathcal{F}[f(t)] &= \frac{1}{\sqrt{2\pi}} \int^{\infty}_{-\infty} f(t) e^{-j\omega t} \cdot dt 
+\end{align*}$$
+
+Since for this function it is zero outside of $-1<x<1$ we can simplify the equation to:
+
+$$\begin{align*}
+\mathcal{F}[f(t)] &= \frac{1}{\sqrt{2\pi}} \int^{\infty}_{-\infty} f(t) e^{-j\omega t} \cdot dt 
+\end{align*}$$
 
