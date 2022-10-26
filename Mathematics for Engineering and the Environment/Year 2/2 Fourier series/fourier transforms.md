@@ -41,4 +41,5 @@ $$\begin{align*}
 Visualised, you can see the red line representing the frequency distribution, while the blue line is a reconstruction of the original function based off that frequency distribution:
 ![[Pasted image 20221026180916.png]]
 As can be seen the blue is not 100% accurate as it is a sum within limited bounds, aka an approximation.
+![[Pasted image 20221026181414.png]]
 
