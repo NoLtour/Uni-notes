@@ -35,9 +35,23 @@
             "id": "4792557d7039b85e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a4c07b4fb47e3f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/TODO NOTE.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,15 +172,15 @@
   },
   "active": "4792557d7039b85e",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/TODO NOTE.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transform and response function.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fouriers theorem.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md"
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md"
   ]
 }
