@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Mission analysis overview
 
 #### Intro 
 ![[Pasted image 20221027233152.png]]
