@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "4792557d7039b85e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
             "id": "af50b59e840861cf",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "ae96f4497124ddf3",
+  "active": "4792557d7039b85e",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
