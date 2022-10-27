@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,10 +170,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "4792557d7039b85e",
+  "active": "ae96f4497124ddf3",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/TODO NOTE.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/TODO NOTE.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
