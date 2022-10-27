@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "ae96f4497124ddf3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
             "id": "af50b59e840861cf",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,10 +144,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "cfd79ca0887ce227",
+  "active": "ae96f4497124ddf3",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transform and response function.md",
