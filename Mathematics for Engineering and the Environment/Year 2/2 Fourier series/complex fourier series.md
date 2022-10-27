@@ -30,8 +30,8 @@ f(x) &= \sum\limits^{\infty}_{n=-\infty} c_{n} e^{\frac{jn\pi x}{L}} & c_{n} &= 
 
 When dealing with this type of problem, the following identity is very frequently used:
 
-> ## $$  \sin(A) = \frac{1}{2j} ( e^{jA} - e^{jA} ) $$
-> ## $$  \cos(A) = \frac{1}{2} ( e^{jA} + e^{jA} ) $$
+> ## $$  \sin(A) = \frac{1}{2j} ( e^{jA} - e^{-jA} ) $$
+> ## $$  \cos(A) = \frac{1}{2} ( e^{jA} + e^{-jA} ) $$
 
 ### Example
 ![[Pasted image 20221019231102.png]]
