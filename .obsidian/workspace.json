@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
-                "mode": "preview",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,17 +146,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "ae96f4497124ddf3",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "SESA2024 Astronautics/Astro overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "conflict-files-obsidian-git.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
     "Aerodynamics/Aerodynamics overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transform and response function.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md"
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md"
   ]
 }
