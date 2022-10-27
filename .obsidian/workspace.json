@@ -23,9 +23,11 @@
             "id": "ae96f4497124ddf3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transform and response function.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,11 +148,11 @@
   },
   "active": "ae96f4497124ddf3",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transform and response function.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fouriers theorem.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
