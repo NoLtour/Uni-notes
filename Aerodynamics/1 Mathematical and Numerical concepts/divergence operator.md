@@ -7,7 +7,7 @@ tags: []
 
 
 > ## $$ \text{div}\: \underline{F} = \nabla \cdot \underline{F} $$ 
-> ## $$ 3D:\:\: \text{div}\: \underline{F} =  \left . \frac{\delta F_{x}}{\delta x} \right |_{y,z} + \left . \frac{\delta F_{y}}{\delta y} \right |_{x,z} + \left . \frac{\delta F_{z}}{\delta z} \right |_{x,y} $$
+> ## $$ 3D:\:\: \text{div}\: \underline{F} =   \frac{\delta F_{x}}{\delta x}  +   \frac{\delta F_{y}}{\delta y} +   \frac{\delta F_{z}}{\delta z}  $$
 >> where:
 >> $\nabla=$ [[del operator]]
 >> $\underline{F}=$ some [[Scalars and vectors|vector]] function

@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "af50b59e840861cf",
+            "id": "1789a53023e90b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,15 +148,15 @@
   },
   "active": "ae96f4497124ddf3",
   "lastOpenFiles": [
+    "Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "Aerodynamics/Aerodynamics overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fourier transform and response function.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/properties of fourier transforms.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fouriers theorem.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/trig identities for Fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md"
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/fouriers theorem.md"
   ]
 }
