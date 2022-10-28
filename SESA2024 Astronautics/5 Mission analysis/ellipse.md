@@ -1,5 +1,5 @@
 ---
-aliases: ["major axis","semi-major axis","minor axis","semi-minor axis"]
+aliases: ["major axis","semi-major axis","minor axis","semi-minor axis","eccentricity"]
 tags: []
 ---
 
@@ -13,5 +13,5 @@ An ellipse has multiple properties that define it's shape:
 >> $2a=$ [[ellipse|major axis]] 
 >> $b=$ [[ellipse|semi-minor axis]] 
 >> $2b=$ [[ellipse|minor axis]] 
->> $E=$
+>> $E=\sqrt{1- \frac{b^{2}}{a^{2}}}=$ eccentricity 
 >> $=$
