@@ -17,4 +17,6 @@ An ellipse has multiple properties that define it's shape:
 >> $2b=$ [[ellipse|minor axis]] 
 >> $E=\sqrt{1- \frac{b^{2}}{a^{2}}}=$ eccentricity 
 
+^822c92
+
 
