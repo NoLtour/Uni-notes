@@ -12,6 +12,7 @@ This guy figured out planets orbit in ellipses, then he made a telescope and put
 #### Contents
 - [[ellipse]]
 - [[ellipse equation polar form]]
+- [[tangential and radial acceleration in orbital motion]]
 
 
 ## Expanded articles
