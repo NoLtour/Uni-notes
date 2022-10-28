@@ -13,5 +13,5 @@ An ellipse has multiple properties that define it's shape:
 >> $2a=$ [[ellipse|major axis]] 
 >> $b=$ [[ellipse|semi-minor axis]] 
 >> $2b=$ [[ellipse|minor axis]] 
->> $=$
+>> $E=$
 >> $=$
