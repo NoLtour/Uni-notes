@@ -16,6 +16,7 @@ This guy figured out planets orbit in ellipses, then he made a telescope and put
 - [[specific orbital moment of momentum]]
 - [[orbital path in ellipse form]]
 - [[keplers laws of orbital motion]]
+- [[orbital mean motion]]
 
 
 ## Expanded articles

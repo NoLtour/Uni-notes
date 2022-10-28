@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/keplers laws of orbital motion.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/keplers laws of orbital motion.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,8 +148,8 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/5 Mission analysis/it kinda is.md",
     "SESA2024 Astronautics/5 Mission analysis/keplers laws of orbital motion.md",
+    "SESA2024 Astronautics/5 Mission analysis/it kinda is.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital path in ellipse form.md",
     "SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
