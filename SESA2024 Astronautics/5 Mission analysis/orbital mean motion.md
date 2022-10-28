@@ -6,7 +6,7 @@ tags: []
 ## Orbital mean motion ($n$)
 
 If you look at the orbital period equation from [[keplers laws of orbital motion]]:
-!![[keplers laws of orbital motion#^e855e8]]
+![[keplers laws of orbital motion#^e855e8]]
 You can see that taking $a$ and $\mu$ ($\mu=MG$) to be constant will give you $\tau$ equal to a constant, this clearly shows that the orbital period is the same for some [[ellipse|major axis]] regardless of [[ellipse|minor axis]]:
 ![[Pasted image 20221028165126.png]]
 
