@@ -1,8 +1,8 @@
 {
-  "findText": "V",
-  "replaceText": "V_{ex}",
+  "findText": "\\underline",
+  "replaceText": "",
   "useRegEx": false,
-  "selOnly": true,
+  "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": true,
   "processTab": false,
