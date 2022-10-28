@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/orbital mean motion.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/orbital mean motion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,15 +148,15 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/5 Mission analysis/keplers laws of orbital motion.md",
-    "SESA2024 Astronautics/5 Mission analysis/it kinda is.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+    "SESA2024 Astronautics/5 Mission analysis/keplers laws of orbital motion.md",
+    "SESA2024 Astronautics/5 Mission analysis/orbital mean motion.md",
+    "SESA2024 Astronautics/5 Mission analysis/it kinda is.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital path in ellipse form.md",
     "SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/universal constant of gravitation.md",
     "SESA2024 Astronautics/5 Mission analysis/gravitational constant.md",
     "SESA2024 Astronautics/5 Mission analysis/tangential and radial acceleration in orbital motion.md",
-    "Templates/Maths equation highlighted.md",
-    "SESA2024 Astronautics/5 Mission analysis/ellipse equation polar form.md"
+    "Templates/Maths equation highlighted.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["orbital period"]
 tags: []
 ---
 
@@ -31,3 +31,6 @@ Since law 1 is [[it kinda is|obvious]] I'm only elaborating on 2 and 3. It is po
 >> $M=$ mass of body being orbited
 >> $\tau=$ satellites orbital period
 >> $a=$ satellite orbits [[ellipse|semi-major axis]]
+
+^e855e8
+
