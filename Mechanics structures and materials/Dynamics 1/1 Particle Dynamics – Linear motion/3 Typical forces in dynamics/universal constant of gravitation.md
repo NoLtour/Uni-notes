@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["universal gravitational constant","gravitational constant"]
 tags: ["Question","QFormat4"]
 ---
 ### Universal constant of gravitation ($G$)
