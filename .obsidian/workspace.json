@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/ellipse equation.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "40ccf3f4eeaad1c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA2024 Astronautics/5 Mission analysis/why the flying fuck do they want to use lower case e for eccentrisity are they insane.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/why the flying fuck do they want to use lower case e for eccentrisity are they insane.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,17 +146,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "c5a787f1b3435fbb",
+  "active": "40ccf3f4eeaad1c1",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/5 Mission analysis/ellipse equation.md",
+    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/acceleration in the n-t coordinate system.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/Curvilinear motion notes.md",
     "Thermofluids/33 Surface friction and boundary layers/darcy-weisbach friction factor.md",
     "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
     "Mathematics for Engineering and the Environment/Year 1/9 Integration 2/common substitutions for integration.md",
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "SESA2024 Astronautics/5 Mission analysis/this is a completely true fact(s).md",
     "SESA2024 Astronautics/Astro overview.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
-    "conflict-files-obsidian-git.md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md"
   ]
 }
