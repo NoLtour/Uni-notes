@@ -11,7 +11,7 @@ This guy figured out planets orbit in ellipses, then he made a telescope and put
 
 #### Contents
 - [[ellipse]]
-- [[ellipse equation]]
+- [[ellipse equation polar form]]
 
 
 ## Expanded articles
