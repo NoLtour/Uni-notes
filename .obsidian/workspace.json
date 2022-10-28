@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/tangential and radial acceleration in orbital motion.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/tangential and radial acceleration in orbital motion.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,8 +148,8 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "SESA2024 Astronautics/5 Mission analysis/tangential and radial acceleration in orbital motion.md",
+    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "SESA2024 Astronautics/5 Mission analysis/ellipse equation polar form.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/acceleration in the n-t coordinate system.md",
     "SESA2024 Astronautics/5 Mission analysis/ellipse.md",
