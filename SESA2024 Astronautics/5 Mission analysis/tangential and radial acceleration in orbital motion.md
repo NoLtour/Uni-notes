@@ -5,4 +5,6 @@ tags: []
 
 ## Tangential and radial acceleration in orbital motion
 
-By using the defenitions from the [[ellipse equation polar form]], it becomes possible to derive ac
+If we describe the motion of a body relative to some origin interms of radius and angle, in the following convention:
+
+
