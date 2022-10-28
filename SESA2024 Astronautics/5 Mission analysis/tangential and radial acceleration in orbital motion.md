@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["tangential acceleration","radial acceleration"]
 tags: []
 ---
 
@@ -12,6 +12,8 @@ Then it is possible to describe the bodies cartesian acceleration in the tangent
 > ### $$ a_{j} = 2 \dot{\underline{r}} \dot{\theta} + \underline{r} \ddot{\theta} $$ 
 > ### $$ a_{i} = \ddot{\underline{r}} - \underline{r} \dot{\theta}^{2} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $a_{j}=$ tangential acceleration
+>> $a_{i}=$ radial acceleration
+>> $\underline{r}=$ vector from origin to body
+>> $\theta=$ angle between some static reference (on the plane of motion of the body) and $\underline{r}$
+>> ![[Pasted image 20221028111435.png]]
