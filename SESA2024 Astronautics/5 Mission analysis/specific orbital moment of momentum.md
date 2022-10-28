@@ -3,7 +3,7 @@ aliases: ["specific relative angular momentum","specific orbital angular momentu
 tags: []
 ---
 
-## specific orbital [[moment of linear momentum|moment of momentum]]
+## specific orbital [[moment of linear momentum|moment of momentum]] ($\underline{h}$)
 The specific relative angular momentum is defined as the [[cross product (vectors)|cross product]] of the relative position vector $\underline{r}$ and the relative velocity vector $\underline{V}$. (the orbital [[moment of linear momentum|angular momentum]] per unit mass)
  
 > ## $$ \underline{h} = \underline{r} \times \underline{V} $$ 
