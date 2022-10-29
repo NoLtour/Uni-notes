@@ -15,11 +15,11 @@ def getBLThickness( distances, velocities ):
 
     return np.interp( FS_Vel*0.9, distances, velocities )
 
-laminarVels  = laminarSet[ laminarSet.columns[0] ]
-laminarDists = laminarSet[ laminarSet.columns[1] ]
+laminarVels  = laminarSet[ laminarSet.columns[1] ]
+laminarDists = laminarSet[ laminarSet.columns[0] ]
 
-turbulantVels  = turbulantSet[ turbulantSet.columns[0] ]
-turbulantDists = turbulantSet[ turbulantSet.columns[1] ]
+turbulantVels  = turbulantSet[ turbulantSet.columns[1] ]
+turbulantDists = turbulantSet[ turbulantSet.columns[0] ]
 
 print( "laminar thickness:", getBLThickness( laminarVels, laminarDists ), "mm"  )
 
@@ -29,7 +29,7 @@ print( "turbulant thickness:", getBLThickness( turbulantVels, turbulantDists ), 
 plot.figure( 69 );
 
 plot.plot( laminarDists, laminarVels, "k" );
-#plot.plot(  , "kx" );
+plot.plot( getBLThickness( laminarVels, laminarDists ), max(laminarVels)*0.9 , "kx" );
  
 plot.ylabel("veloicty (m/s)")
 plot.xlabel("surface distance (mm)")
