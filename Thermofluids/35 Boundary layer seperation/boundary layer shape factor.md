@@ -17,4 +17,6 @@ The greater the value of H, the stronger the adverse pressure gradient. A high a
 
 When you consider the physical meaning behined the shape factor. [[boundary layer displacement thickness|displacement thickness]] is a measure of lost volumetric flow and [[boundary layer momentum thickness|momentum thickness]] is a measure of lost momentum in flow, so consider:
 $$ \frac{\theta}{\delta*} $$
-This could be considered as the lost momentum per lost volumetric flow
+This could be considered as the lost momentum per lost volumetric flow which when considering a flow profile:
+![[Pasted image 20221029185004.png]]
+Profiles with a less even velocity distribution, such as [[boundary layer|turbulent flows]] 
