@@ -28,11 +28,9 @@ print( "turbulant thickness:", getBLThickness( turbulantVels, turbulantDists ), 
 
 plot.figure( 69 );
 
-plot.plot( laminarVels, laminarDists, "k" );
-plot.plot( max( laminarVels )*0.9, getBLThickness( laminarVels, laminarDists ), "kx" );
-
-plot.plot( turbulantVels, turbulantDists, "r" );
-plot.plot( max( turbulantVels )*0.9, getBLThickness( turbulantVels, turbulantDists ), "rx" );
+plot.plot( laminarDists, laminarVels, "k" );
+#plot.plot(  , "kx" );
+ 
 
 plot.show();
 
