@@ -5,6 +5,8 @@ tags: []
 
 ## Momentum thickness and [[skin drag|viscous drag]]
 
+### Relationship
+
 There is a direct relationship between [[skin drag|skin friction]] and [[boundary layer momentum thickness|momentum thickness]] (the proof is effort so you [[appreciate I even give you the equation smh|just]] get the equation):
 
 > ## $$ D'(x) = \rho U_{\infty}^{2} \times \theta(x) $$ 
@@ -16,3 +18,5 @@ There is a direct relationship between [[skin drag|skin friction]] and [[boundar
 >> $U_{\infty}=$ [[freestream]] velocity
 
 This means that it is possible to calculate the skin drag of any body given you know the [[boundary layer momentum thickness|momentum thickness]] at the end.
+
+### 

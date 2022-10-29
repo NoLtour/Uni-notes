@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/appreciate I even give you the equation smh.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/appreciate I even give you the equation smh.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/appreciate I even give you the equation smh.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/viscous drag coefficient.md",
@@ -144,7 +145,6 @@
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/skin friction.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/effective body and flow.md",
     "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
-    "Thermofluids/35 Boundary layer seperation/boundary layer shape factor.md",
-    "Thermofluids/35 Boundary layer seperation/but it should atleast give a vague idea of the flows characterisation at a glance.md"
+    "Thermofluids/35 Boundary layer seperation/boundary layer shape factor.md"
   ]
 }
