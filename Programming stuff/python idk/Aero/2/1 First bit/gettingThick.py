@@ -13,7 +13,7 @@ turbulantSet = pd.read_csv( directory_path+"\\turbulent_profile.csv" )
 def getBLThickness( distances, velocities ):
     FS_Vel = max( velocities );
 
-    return np.interp( FS_Vel*0.99, distances, velocities )
+    return np.interp( FS_Vel*0.9, distances, velocities )
 
 laminarVels  = laminarSet[ laminarSet.columns[0] ]
 laminarDists = laminarSet[ laminarSet.columns[1] ]
@@ -29,10 +29,10 @@ print( "turbulant thickness:", getBLThickness( turbulantVels, turbulantDists ), 
 plot.figure( 69 );
 
 plot.plot( laminarVels, laminarDists, "k" );
-plot.plot( max( laminarVels ), getBLThickness( laminarVels, laminarDists ), "kx" );
+plot.plot( max( laminarVels )*0.9, getBLThickness( laminarVels, laminarDists ), "kx" );
 
 plot.plot( turbulantVels, turbulantDists, "r" );
-plot.plot( max( turbulantVels ), getBLThickness( turbulantVels, turbulantDists ), "rx" );
+plot.plot( max( turbulantVels )*0.9, getBLThickness( turbulantVels, turbulantDists ), "rx" );
 
 plot.show();
 
