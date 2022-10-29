@@ -13,5 +13,5 @@ The momentum thickness, θ  is the distance by which a surface would have to be 
 >> $\theta=$ [[boundary layer momentum thickness]]
 >> $U(y)=$ flow rate as a function of y
 >> $y=$ displacement relative to surface
->> $U_{0}=$ Free stream velocity?? [[UNFINISHED STUFF|notes don't clarify so check, they also use 0 not inf so idk]]
+>> $U_{\infty}=$ [[freestream]] veloicty
 >> Flow is incompressible
