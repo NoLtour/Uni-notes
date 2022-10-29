@@ -25,3 +25,6 @@ Heres what I've been writing but as an equation:
 >> $\tau=$ shear stress
 >> $\mu=$ [[shear viscosity of the fluid]] 
 >> $\frac{\delta u}{\delta y}=$  rate of change of flow velocity along boundary with height change above boundary
+
+^1d39aa
+
