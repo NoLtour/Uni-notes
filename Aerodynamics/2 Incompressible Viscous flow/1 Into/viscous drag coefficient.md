@@ -9,10 +9,10 @@ tags: []
 
 This is the viscous drag coefficient at a specific point:
 
-> ## $$ C_{f} = \frac{\tau}{\frac{1}{2}\rho U_{\infty}^{2} } $$ 
+> ## $$ C_{f} = \frac{\tau_{w}}{\frac{1}{2}\rho U_{\infty}^{2} } $$ 
 >> where:
 >> $C_{f}=$ [[viscous drag coefficient|local viscous drag coefficient]]
->> $\tau=$ wall shear stress
+>> $\tau_{w}=$ [[local wall shear stress]]
 >> $\rho=$ fluid density
 >> $U_{\infty}=$ [[freestream]] velocity
 
