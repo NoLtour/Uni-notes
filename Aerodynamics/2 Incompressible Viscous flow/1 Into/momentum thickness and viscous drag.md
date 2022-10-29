@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["calculating viscous drag","calculating skin drag"]
 tags: []
 ---
 
@@ -15,3 +15,4 @@ There is a direct relationship between [[skin drag|skin friction]] and [[boundar
 >> $\rho=$ density
 >> $U_{\infty}=$ [[freestream]] velocity
 
+This means that it is possible to calculate the skin drag of any body given you know the [[boundary layer momentum thickness|momentum thickness]] at the end.
