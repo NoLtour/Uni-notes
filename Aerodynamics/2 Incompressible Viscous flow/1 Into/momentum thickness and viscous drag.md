@@ -8,8 +8,7 @@ tags: []
 ### Relationship
 
 There is a direct relationship between [[skin drag|skin friction]] and [[boundary layer momentum thickness|momentum thickness]] (the proof is effort so you [[appreciate I even give you the equation smh|just]] get the equation):
-
-> ## $$ D'(x) = \int^{x}_{0} \tau_{w} dx $$ 
+ 
 > ## $$ D'(x) = \rho U_{\infty}^{2} \times \theta(x) $$ 
 >> where:
 >> $D'(x)=$ total [[skin drag|viscous drag]] caused up to that point as a function of $x$
