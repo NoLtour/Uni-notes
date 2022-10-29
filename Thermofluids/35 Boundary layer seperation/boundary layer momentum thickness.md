@@ -19,4 +19,4 @@ The definition is confusing, but essential it's the [[boundary layer displacemen
 >> $\delta_{99}=$ [[boundary layer thickness]]
 >> Flow is incompressible
 
-Note how it can be approximated by limiting the bounds to the [[boundary layer thickness]], this 
+Note how it can be approximated by limiting the bounds to the [[boundary layer thickness]], because at this point $U = U_{\infty} * 0.99$ hence it will lead to a "good enough" approximation of $\theta$.

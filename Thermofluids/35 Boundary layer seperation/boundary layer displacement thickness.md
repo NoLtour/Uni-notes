@@ -15,22 +15,24 @@ Or put simply the displacement needed from the surface to encapsulate a volume e
 
 This can be defined algebraically:
 
-> ### $$ \delta * = \int^{\infty}_{0} \left( 1 - \frac{U(y)}{U_{\infty}} \right) dy $$ 
+> ### $$ \delta * = \int^{\infty}_{0} \left( 1 - \frac{U(y)}{U_{\infty}} \right) dy \approx \int^{\delta_{99} }_{0} \left( 1 - \frac{U(y)}{U_{\infty}} \right) dy $$ 
 >> where:
 >> $\delta *=$ [[boundary layer displacement thickness]] 
 >> $U(y)=$ flow rate as a function of y
 >> $y=$ displacement relative to surface
 >> $U_{\infty}=$ [[freestream]] velocity 
+>> $\delta_{99}=$ [[boundary layer thickness]]
 >> Flow is incompressible
 
 
-> ### $$ \delta * = \int^{\infty}_{0} \left( 1 - \frac{\rho(y) U(y)}{\rho_{0} U_{\infty}} \right) dy $$ 
+> ### $$ \delta * = \int^{\infty}_{0} \left( 1 - \frac{\rho(y) U(y)}{\rho_{\infty} U_{\infty}} \right) dy $$ 
 >> where:
 >> $\delta *=$ [[boundary layer displacement thickness]] 
 >> $U(y)=$ flow rate as a function of y
 >> $\rho(y)=$ density as a function of y
 >> $y=$ displacement relative to surface
 >> $U_{\infty}=$ [[freestream]] velocity 
->> $\rho_{0}=$ Free stream density??
+>> $\rho_{\infty}=$ Free stream density
 >> Flow is compressible
 
+Note how it can be approximated by limiting the bounds to the [[boundary layer thickness]], because at this point $U = U_{\infty} * 0.99$ hence it will lead to a "good enough" approximation of $\delta *$.
