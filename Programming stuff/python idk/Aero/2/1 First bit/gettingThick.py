@@ -18,9 +18,11 @@ laminarSet = pd.read_csv( directory_path+"\\laminar_profile.csv" )
 turbulantSet = pd.read_csv( directory_path+"\\turbulent_profile.csv" )
 
 laminarVels  = laminarSet[ laminarSet.columns[1] ] 
+laminarVels = laminarVels/max(laminarVels)
 laminarDists = laminarSet[ laminarSet.columns[0] ]
 
 turbulantVels  = turbulantSet[ turbulantSet.columns[1] ]
+turbulantVels = turbulantVels/max(turbulantVels)
 turbulantDists = turbulantSet[ turbulantSet.columns[0] ]
 
 
