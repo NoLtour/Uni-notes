@@ -23,17 +23,9 @@
             "id": "c5a787f1b3435fbb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "40ccf3f4eeaad1c1",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/why the flying fuck do they want to use lower case e for eccentrisity are they insane.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,6 +136,7 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/5 Mission analysis/why the flying fuck do they want to use lower case e for eccentrisity are they insane.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/skin drag.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/skin friction.md",
@@ -151,7 +145,6 @@
     "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
     "Thermofluids/35 Boundary layer seperation/boundary layer shape factor.md",
     "Thermofluids/35 Boundary layer seperation/but it should atleast give a vague idea of the flows characterisation at a glance.md",
-    "Thermofluids/35 Boundary layer seperation/boundary layer momentum thickness.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md"
+    "Thermofluids/35 Boundary layer seperation/boundary layer momentum thickness.md"
   ]
 }
