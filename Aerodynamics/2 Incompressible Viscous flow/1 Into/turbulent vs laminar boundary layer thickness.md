@@ -17,5 +17,7 @@ $$ \left. \frac{du}{dy} \right|^{TBL}_{y=0} > \left. \frac{du}{dy} \right|^{LBL}
 We can describe shear stress from our understanding of [[newtonian fluids]], aka the following equation applies $\tau = \mu \frac{du}{dy} \to \frac{\tau}{\mu} = \frac{du}{dy}$ hence using the above:
 
 $$\begin{align*}
- \left. \frac{du}{dy} \right|^{TBL}_{y=0} > &= 
+ \left. \frac{\tau}{\mu} \right|^{TBL}_{y=0} &> \left. \frac{\tau}{\mu} \right|^{LBL}_{y=0}\\\\
+ \left. \tau  \right|^{TBL}_{y=0} &> \left. \tau \right|^{LBL}_{y=0}\\
 \end{align*}$$
+It becomes obvious that near the wall, the turbulant boundary layer has a greater wall shear and hence higher [[skin drag|skin friction]].
