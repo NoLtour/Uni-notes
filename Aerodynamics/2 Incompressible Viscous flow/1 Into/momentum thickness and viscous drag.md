@@ -19,4 +19,9 @@ There is a direct relationship between [[skin drag|skin friction]] and [[boundar
 
 This means that it is possible to calculate the skin drag of any body given you know the [[boundary layer momentum thickness|momentum thickness]] at the end.
 
-### 
+### Calculating drag from wakes
+
+Since we know that [[boundary layer momentum thickness|momentum thickness]] is directly proportional to drag using the identity above, we can easily calculate the skin drag of a object just by knowing the width of it's wake:
+![[Pasted image 20221029201701.png]]
+
+This is how we usually measure skin drag in a wind tunnel.
