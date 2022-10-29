@@ -10,13 +10,14 @@ tags: ["NotesPage"]
 - [[characteristics of boundary layers on an aerofoil]]
 - [[boundary layer thickness]]
 - [[turbulent vs laminar boundary layer thickness]]
-- "define non-dimensional local skin-friction coefficient" not sure if needed, come back at end
 - [[boundary layer displacement thickness]]
 - [[boundary layer momentum thickness]]
 - [[boundary layer shape factor]]
 - [[effective body and flow]]
+- [[local wall shear stress]]
 - [[momentum thickness and viscous drag]]
 - [[viscous drag coefficient]]
+- [[]]
 
 
 
