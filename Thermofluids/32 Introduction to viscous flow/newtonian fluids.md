@@ -15,7 +15,13 @@ Heres what I've been writing but as an equation:
 > ### $$ \tau = \mu \times dV $$ 
 >> where:
 >> $\tau=$ shear stress
->> $\mu=$ [[shear viscosity of the fluid]] [[UNFINISHED STUFF|(not sure if needs a page)]] 
+>> $\mu=$ [[shear viscosity of the fluid]]
 >> $dV=$ difference in velocity between two adjasent layers
 
 ^998109
+
+> ### $$ \tau = \mu  \frac{\delta u}{\delta y} $$ 
+>> where:
+>> $\tau=$ shear stress
+>> $\mu=$ [[shear viscosity of the fluid]] 
+>> $\frac{\delta u}{\delta y}=$  rate of change of flow velocity along boundary with height change above boundary
