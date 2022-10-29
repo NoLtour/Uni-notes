@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermofluids/35 Boundary layer seperation/boundary layer shape factor.md",
+                "file": "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/35 Boundary layer seperation/boundary layer shape factor.md",
+                "file": "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
