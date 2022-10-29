@@ -1,5 +1,5 @@
 ---
-aliases: ["skin friction"]
+aliases: ["skin friction","viscous drag"]
 tags: ["Question","QFormat3"]
 ---
 

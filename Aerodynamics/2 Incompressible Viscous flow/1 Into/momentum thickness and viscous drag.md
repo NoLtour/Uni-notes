@@ -3,4 +3,4 @@ aliases: [""]
 tags: []
 ---
 
-## Momentum thickness and viscous drag
+## Momentum thickness and [[skin drag|skin friction]]
