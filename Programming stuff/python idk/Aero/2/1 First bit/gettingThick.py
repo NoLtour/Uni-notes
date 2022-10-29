@@ -20,14 +20,16 @@ turbulantSet = pd.read_csv( directory_path+"\\turbulent_profile.csv" )
 laminarVels  = laminarSet[ laminarSet.columns[1] ] 
 laminarVels = laminarVels/max(laminarVels)
 laminarDists = laminarSet[ laminarSet.columns[0] ]
+laminarDists = laminarDists/getBLThickness( laminarDists, laminarVels )
 
 turbulantVels  = turbulantSet[ turbulantSet.columns[1] ]
 turbulantVels = turbulantVels/max(turbulantVels)
 turbulantDists = turbulantSet[ turbulantSet.columns[0] ]
+turbulantDists = turbulantDists/getBLThickness( turbulantDists, turbulantVels )
 
 
-print( "laminar thickness:", getBLThickness( laminarDists, laminarVels ), "mm"  )
-print( "turbulant thickness:", getBLThickness( turbulantDists, turbulantVels ), "mm"  )
+#print( "laminar thickness:", getBLThickness( laminarDists, laminarVels ), "mm"  )
+#print( "turbulant thickness:", getBLThickness( turbulantDists, turbulantVels ), "mm"  )
 
 # plotting data
 
@@ -39,8 +41,8 @@ plot.plot( getBLThickness( laminarDists, laminarVels ), max(laminarVels)*0.99 , 
 plot.plot( turbulantDists, turbulantVels, "r" );
 plot.plot( getBLThickness( turbulantDists, turbulantVels ), max(turbulantVels)*0.99 , "rx" );
  
-plot.ylabel("veloicty (m/s)")
-plot.xlabel("surface distance (mm)")
+plot.ylabel("veloicty ")
+plot.xlabel("surface distance ")
 
 plot.show();
 
