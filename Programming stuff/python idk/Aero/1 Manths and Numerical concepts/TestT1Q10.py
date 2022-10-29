@@ -16,3 +16,4 @@ plot.plot( np.arange(160,340,1), np.interp( np.arange(160,340,1), xPoints, yPoin
 print( np.interp( 303, xPoints, yPoints ) )
 
 plot.show();
+
