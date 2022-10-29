@@ -14,6 +14,7 @@ tags: ["NotesPage"]
 - [[boundary layer displacement thickness]]
 - [[boundary layer momentum thickness]]
 - [[boundary layer shape factor]]
+- [[effective body and flow]]
 
 
 

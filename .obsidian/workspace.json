@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
-                "mode": "preview",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/effective body and flow.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/effective body and flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,10 +149,10 @@
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
+    "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
     "Thermofluids/35 Boundary layer seperation/boundary layer shape factor.md",
     "Thermofluids/35 Boundary layer seperation/but it should atleast give a vague idea of the flows characterisation at a glance.md",
     "Thermofluids/35 Boundary layer seperation/boundary layer momentum thickness.md",
-    "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Never have I related to an inanimate object so much..md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/turbulent vs laminar boundary layer thickness.md",
