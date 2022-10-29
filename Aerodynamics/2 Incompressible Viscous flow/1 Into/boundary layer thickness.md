@@ -18,7 +18,7 @@ The [[boundary layer]] is often defined as the distance between the surface and 
 
 Note that:
 - Boundary layer thickness varies along the surface (obv)
-- Boundary layer thickness is useful for non dimensionalising things
+- Boundary layer thickness is useful for non-dimensionalising things since it is
 
 ### Other ways of categorising thickness
 - [[boundary layer momentum thickness]]

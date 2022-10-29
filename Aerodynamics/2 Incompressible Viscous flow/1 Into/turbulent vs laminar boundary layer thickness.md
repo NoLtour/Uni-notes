@@ -20,4 +20,6 @@ $$\begin{align*}
  \left. \frac{\tau}{\mu} \right|^{TBL}_{y=0} &> \left. \frac{\tau}{\mu} \right|^{LBL}_{y=0}\\\\
  \left. \tau  \right|^{TBL}_{y=0} &> \left. \tau \right|^{LBL}_{y=0}\\
 \end{align*}$$
-It becomes obvious that near the wall, the turbulent boundary layer has a greater wall shear and hence higher [[skin drag|skin friction]].
+It becomes obvious that near the wall, the turbulent boundary layer has a greater wall shear and hence higher [[skin drag|skin friction]]. (The increased difference in velocity between adjacent fluid layers in turbulent layers leads to more friction)
+
+

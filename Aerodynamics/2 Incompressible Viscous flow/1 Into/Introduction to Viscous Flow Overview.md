@@ -10,6 +10,8 @@ tags: ["NotesPage"]
 - [[characteristics of boundary layers on an aerofoil]]
 - [[boundary layer thickness]]
 - [[turbulent vs laminar boundary layer thickness]]
+- "define non-dimensional local skin-friction coefficient" not sure if needed, come back at end
+- 
 
 
 
