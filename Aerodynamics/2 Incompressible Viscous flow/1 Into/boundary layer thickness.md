@@ -15,10 +15,10 @@ The [[boundary layer]] is often defined as the distance between the surface and 
 >> $\delta_{99}=$ [[boundary layer thickness]] 
 >> $U_\infty=$ [[freestream]] velocity
 >> $u(y)=$ the velocity at some point as a function of distance normal to the surface
-
+[[material fatigue]]
 Note that:
-- Boundary layer thickness varies along the surface (obv)
-- Boundary layer thickness is useful for non-dimensionalising things since it is
+- Boundary layer thickness varies along the surface (obv).
+- Boundary layer thickness is useful for non-dimensionalising.
 
 ### Other ways of categorising thickness
 - [[boundary layer momentum thickness]]
