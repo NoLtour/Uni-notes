@@ -9,7 +9,7 @@ The [[boundary layer]] is often defined as the distance between the surface and 
 
 ![[Pasted image 20221019113449.png]]
 
-> ### $$ u(\delta_{99}) = 0.99 \times U_\infty  $$
+> ### $$ u(\delta_{99}) = \left.u\right|_{y=\delta_{99}} = 0.99 \times U_\infty  $$
 > ### $$ \delta_{99} = u^{-1}( 0.99 \times U_\infty)  $$ 
 >> where:
 >> $\delta_{99}=$ [[boundary layer thickness]] 
