@@ -15,6 +15,7 @@ tags: ["NotesPage"]
 - [[boundary layer momentum thickness]]
 - [[boundary layer shape factor]]
 - [[effective body and flow]]
+- [[momentum thickness and viscous drag]]
 
 
 
