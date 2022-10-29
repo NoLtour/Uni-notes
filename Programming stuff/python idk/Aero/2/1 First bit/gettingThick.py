@@ -31,6 +31,8 @@ plot.figure( 69 );
 plot.plot( laminarDists, laminarVels, "k" );
 #plot.plot(  , "kx" );
  
+plot.ylabel("veloicty (m/s)")
+plot.xlabel("surface distance (mm)")
 
 plot.show();
 
