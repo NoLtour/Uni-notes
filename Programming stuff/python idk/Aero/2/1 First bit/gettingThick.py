@@ -39,7 +39,9 @@ turbulantDists = turbulantSet[ turbulantSet.columns[0] ]
 
 print( "dthick: ", getDisplacementThickness( laminarDists, laminarVels ) );
 print( "mthick: ", getMomentumThickness( laminarDists, laminarVels ) );
-print( "sFact: ", getShapeFactor( laminarDists, laminarVels ) );
+print( "L sFact: ", getShapeFactor( laminarDists, laminarVels ) );
+ 
+print( "T sFact: ", getShapeFactor( turbulantDists, turbulantVels ) );
 
 print( "laminar thickness:", getBLThickness( laminarDists, laminarVels ), "mm"  )
 #print( "turbulant thickness:", getBLThickness( turbulantDists, turbulantVels ), "mm"  )
