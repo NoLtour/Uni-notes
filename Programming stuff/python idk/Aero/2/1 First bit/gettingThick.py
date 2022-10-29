@@ -11,6 +11,16 @@ def getBLThickness( distances, velocities ):
     FS_Vel = max( velocities );
     return np.interp( FS_Vel*0.99, velocities, distances )
 
+def getDisplacementThickness( dists, vels ):
+    FS_Vel = max( vels );
+    return np.trapz( 1-(vels/FS_Vel), dists )
+
+def getMomentumThickness( dists, vels ):
+    FS_Vel = max( vels );
+    return np.trapz( (1-(vels/FS_Vel))*(vels/FS_Vel), dists )
+
+def getShapeFactor( dists, vels ):
+    return getDisplacementThickness( dists, vels )/getMomentumThickness( dists, vels )
 
 # importing data
 
@@ -18,17 +28,20 @@ laminarSet = pd.read_csv( directory_path+"\\laminar_profile.csv" )
 turbulantSet = pd.read_csv( directory_path+"\\turbulent_profile.csv" )
 
 laminarVels  = laminarSet[ laminarSet.columns[1] ] 
-laminarVels = laminarVels/max(laminarVels)
+#laminarVels = laminarVels/max(laminarVels)
 laminarDists = laminarSet[ laminarSet.columns[0] ]
-laminarDists = laminarDists/getBLThickness( laminarDists, laminarVels )
+#laminarDists = laminarDists/getBLThickness( laminarDists, laminarVels )
 
 turbulantVels  = turbulantSet[ turbulantSet.columns[1] ]
-turbulantVels = turbulantVels/max(turbulantVels)
+#turbulantVels = turbulantVels/max(turbulantVels)
 turbulantDists = turbulantSet[ turbulantSet.columns[0] ]
-turbulantDists = turbulantDists/getBLThickness( turbulantDists, turbulantVels )
+#turbulantDists = turbulantDists/getBLThickness( turbulantDists, turbulantVels )
 
+print( "dthick: ", getDisplacementThickness( laminarDists, laminarVels ) );
+print( "mthick: ", getMomentumThickness( laminarDists, laminarVels ) );
+print( "sFact: ", getShapeFactor( laminarDists, laminarVels ) );
 
-#print( "laminar thickness:", getBLThickness( laminarDists, laminarVels ), "mm"  )
+print( "laminar thickness:", getBLThickness( laminarDists, laminarVels ), "mm"  )
 #print( "turbulant thickness:", getBLThickness( turbulantDists, turbulantVels ), "mm"  )
 
 # plotting data
