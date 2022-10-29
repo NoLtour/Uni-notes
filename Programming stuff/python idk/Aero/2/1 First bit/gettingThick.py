@@ -6,14 +6,16 @@ import os
 
 directory_path = "C:\\uni stuff\\Uni notes\\Programming stuff\\python idk\Aero\\2\\1 First bit"
 
-laminarSet = pd.read_csv( directory_path+"\\laminar_profile.csv" )
-turbulantSet = pd.read_csv( directory_path+"\\turbulent_profile.csv" )
-
 
 def getBLThickness( distances, velocities ):
     FS_Vel = max( velocities );
-
     return np.interp( FS_Vel*0.99, velocities, distances )
+
+
+# importing data
+
+laminarSet = pd.read_csv( directory_path+"\\laminar_profile.csv" )
+turbulantSet = pd.read_csv( directory_path+"\\turbulent_profile.csv" )
 
 laminarVels  = laminarSet[ laminarSet.columns[1] ] 
 laminarDists = laminarSet[ laminarSet.columns[0] ]
@@ -25,6 +27,7 @@ turbulantDists = turbulantSet[ turbulantSet.columns[0] ]
 print( "laminar thickness:", getBLThickness( laminarDists, laminarVels ), "mm"  )
 print( "turbulant thickness:", getBLThickness( turbulantDists, turbulantVels ), "mm"  )
 
+# plotting data
 
 plot.figure( 69 );
 
