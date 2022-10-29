@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["momentum thickness"]
 tags: ["Question","QFormat3"]
 ---
 

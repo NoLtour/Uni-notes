@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["displacement thickness"]
 tags: ["Question","QFormat3"]
 ---
 

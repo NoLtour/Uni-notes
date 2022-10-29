@@ -11,7 +11,8 @@ tags: ["NotesPage"]
 - [[boundary layer thickness]]
 - [[turbulent vs laminar boundary layer thickness]]
 - "define non-dimensional local skin-friction coefficient" not sure if needed, come back at end
-- 
+- [[boundary layer displacement thickness]]
+- [[boundary layer momentum thickness]]
 
 
 
