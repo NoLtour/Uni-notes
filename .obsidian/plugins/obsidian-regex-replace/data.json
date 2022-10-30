@@ -1,6 +1,6 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "V_{y}",
+  "replaceText": "v",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,
