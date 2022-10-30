@@ -23,12 +23,8 @@
             "id": "c5a787f1b3435fbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/approximating a laminar BL profile.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/approximating a laminar BL profile.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,9 +144,9 @@
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/Viscous Flow for a laminar boundary layer Overview.md",
+    "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/approximating a laminar BL profile.md",
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/parabolic laminar BL profile.md",
     "Thermofluids/32 Introduction to viscous flow/Reynolds number.md",
-    "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/approximating a laminar BL profile.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum integral equation for a flat plate.md",
     "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
     "Thermofluids/35 Boundary layer seperation/boundary layer momentum thickness.md",
