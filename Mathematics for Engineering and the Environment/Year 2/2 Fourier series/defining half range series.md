@@ -37,7 +37,7 @@ $$ g(x) = \frac{1}{2} a_{0} + \sum\limits^{\infty}_{n=1}\left[ a_{n} \cos \left(
  $$ a_{m} = \frac{2}{L} \int^{L}_{0} g(x) \cos\left(\frac{n\pi}{L} x\right) \cdot dx $$  
  $$ a_{0} = \frac{2}{L} \int^{L}_{0} g(x) \cdot dx $$
 
-Then it's just the case of solving for the constants.
+Then it's just the case of solving for the constants. [[UNFINISHED STUFF]] I DONT THINK THE $2\times \frac{1}{L}$ IS CORRECT, VERIFY
 
 ### Case: Odd extension
 Since we're taking the function as an [[odd function]] we can use the [[shortcuts for the fourier series]] that apply to odd functions ($a_{n}=0,a_{0}=0$).
