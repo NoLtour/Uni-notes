@@ -21,6 +21,7 @@ $$\begin{align*}
 \frac{d\theta}{dx} &= \frac{\nu}{U_{\infty}^{2}} \left. \frac{du}{dy} \right|_{y=0} & u(y) &= U_{\infty} \frac{y}{\delta}\\
 & & \frac{du}{dy} &= U_{\infty} \frac{1}{\delta}\\
 \frac{d\theta}{dx} &= \frac{\nu}{U_{\infty}^{2}}  \frac{U_{\infty}}{\delta}\\
-&= \frac{\nu}{U_{\infty} }  \frac{ }{\delta}\\
+&= \frac{\nu}{U_{\infty} \delta} = \frac{\nu}{U_{\infty} 6\theta}  \\
+\theta &= x \frac{\nu}{6U_{\infty}\theta}
 \end{align*}$$
 
