@@ -16,7 +16,7 @@ $$\begin{align*}
 \theta & =\delta \frac{1}{6} & \delta * & =\delta \frac{1}{2}\\
 6\theta & =\delta  & 2\delta * & =\delta 
 \end{align*}$$
-The [[boundary layer shape factor|shape factor]] can then easily be calculated, which gives us $H=3$. We can also use the formula for [[momentum integral equation for a flat plate|MIE]]:
+The [[boundary layer shape factor|shape factor]] can then easily be calculated, which gives us $H=3$. We can also use the formula for [[momentum integral equation for a flat plate|MIE]]:  
 $$\begin{align*}
 \frac{d\theta}{dx} &= \frac{\nu}{U_{\infty}^{2}} \left. \frac{du}{dy} \right|_{y=0} & u(y) &= U_{\infty} \frac{y}{\delta}\\
 & & \frac{du}{dy} &= U_{\infty} \frac{1}{\delta}\\
@@ -25,6 +25,8 @@ $$\begin{align*}
 \int^{\theta}_{0} \theta d\theta &= \int^{x}_{0} \frac{\nu}{6 U_{\infty}}dx\\
 &...\\
 \frac{\theta^{2}}{x} &=  \frac{\nu}{3 U_{\infty}}\\
-\frac{\theta}{x } &=  \frac{\nu}{3 U_{\infty}}\\
+\frac{\theta}{x } &= \sqrt \frac{\nu}{3 x U_{\infty}} & Re &= \frac{UL}{\nu}\\
+ &= \sqrt \frac{1}{3 Re_{x}}  \\
+ &\approx \frac{0.577}{\sqrt{Re_{x}}}
 \end{align*}$$
 
