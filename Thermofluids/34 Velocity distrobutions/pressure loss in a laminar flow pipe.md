@@ -16,7 +16,7 @@ tags: ["Question","QFormat3"]
 >> $U=$ flow velocity
  
 ### Derivation
-Basically take the [[pressure loss darcy weisbach equation]] and sub in the equation for [[darcy-weisbach friction factor]] with [[reynolds number]] equation.
+Basically take the [[pressure loss darcy weisbach equation]] and sub in the equation for [[darcy-weisbach friction factor]] with [[Reynolds number]] equation.
 
 $$\begin{align*}
 \Delta p &= f_{D} \frac{L}{D} \frac{\rho U^{2}}{2} & f_{D} &= \frac{64}{Re} & Re &= \frac{\rho U D}{\mu} \\

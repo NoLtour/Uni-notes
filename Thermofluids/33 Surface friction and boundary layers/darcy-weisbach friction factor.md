@@ -11,7 +11,7 @@ For laminar flow it's easy to find ([[relative roughness]] doesn't factor becaus
 
 > ### $$ f_{D} = \frac{64}{Re} $$ 
 >> where:
->> $Re=$ [[reynolds number]] 
+>> $Re=$ [[Reynolds number]] 
 >> $f_{D}=$ [[darcy-weisbach friction factor]]
 >> Pipe has circular cross section
 

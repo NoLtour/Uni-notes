@@ -9,7 +9,7 @@ tags: ["Question","QFormat3"]
 
 ![[Pasted image 20220317164308.png]]
 
-Finding the [[darcy-weisbach friction factor]] for a [[relative roughness]] and [[reynolds number]] is easy for laminar flow:
+Finding the [[darcy-weisbach friction factor]] for a [[relative roughness]] and [[Reynolds number]] is easy for laminar flow:
 
 ![[darcy-weisbach friction factor#^753b11]]
 
