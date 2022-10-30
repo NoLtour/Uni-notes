@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "c5a787f1b3435fbb",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
