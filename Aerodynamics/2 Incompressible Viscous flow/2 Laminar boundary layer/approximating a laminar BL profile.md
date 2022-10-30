@@ -33,5 +33,5 @@ Then using the identity $3\theta = \delta *$ and the definition of [[viscous dra
 $$\begin{align*}
 \frac{\delta*}{x} &= \frac{3\theta}{x} & C_{f} &= 2 \frac{d\theta}{dx} = 2\frac{\nu}{U_{\infty} 6\theta} \\
 &\approx \frac{1.732}{\sqrt{Re_{x}}} & &...\\
-&&C_{f}=
+&&C_{f}&= \sqrt{\frac{1}{3 Re_{x}}} \approx \frac{0.577}{\sqrt{Re_{x}}}
 \end{align*}$$

@@ -7,6 +7,7 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[approximating a laminar BL profile]]
+- [[parabolic laminar BL profile]]
 
 
 ## Expanded articles
