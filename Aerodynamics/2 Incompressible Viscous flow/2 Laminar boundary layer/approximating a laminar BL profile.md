@@ -31,8 +31,8 @@ $$\begin{align*}
 \end{align*}$$
 Then using the identity $3\theta = \delta *$ and the definition of [[viscous drag coefficient|local viscous drag coefficient]] we can also get the following identities from the above quite easily:
 $$\begin{align*}
-\frac{\delta*}{x} &= \frac{3\theta}{x} & C_{f} &= 2 \frac{d\theta}{dx} = 2\frac{\nu}{U_{\infty} 6\theta} \\
-&\approx \frac{1.732}{\sqrt{Re_{x}}} & &...\\
-&&C_{f}&= \sqrt{\frac{1}{3 Re_{x}}} \approx \frac{0.577}{\sqrt{Re_{x}}}
+\frac{\delta*}{x} &= \frac{3\theta}{x} & C_{f} = 2 \frac{d\theta}{dx} = 2\frac{\nu}{U_{\infty} 6\theta} &=  \frac{\nu}{U_{\infty} 3\theta} \\
+&\approx \frac{1.732}{\sqrt{Re_{x}}} &  &= \frac{\theta^{2}}{x}  \\ 
+&& C_{f} &\approx \frac{0.577}{\sqrt{Re_{x}}}
 \end{align*}$$
 The process for deriving these for a more accurate and complex profile is basically the same as above but more a pain in the ass, hence the results [[parabolic laminar BL profile]].
