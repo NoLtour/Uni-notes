@@ -31,3 +31,5 @@ We can preform the same analysis on the momentum equations to find the relative 
  $$\begin{align*}
 u &\frac{\delta u}{\delta x} \to \frac{U^{2}}{\delta} & v &\frac{\delta u}{\delta y} \to \frac{U^{2}}{L}\\
 \end{align*}$$
+
+
