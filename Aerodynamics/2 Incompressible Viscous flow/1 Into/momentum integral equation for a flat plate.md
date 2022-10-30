@@ -24,4 +24,5 @@ Then by simplifieing and subbing in the defenition for [[kinematic viscosity]] w
 $$\begin{align*}
 \frac{d\theta}{dx} &= \frac{\nu}{U_{\infty}^{2}} \left. \frac{du}{dy} \right|_{y=0}
 \end{align*}$$
-This form is useful
+This shows us that 
+

@@ -16,7 +16,7 @@ This is the viscous drag coefficient at a specific point:
 >> $\tau_{w}=$ [[local wall shear stress]]
 >> $\rho=$ fluid density
 >> $U_{\infty}=$ [[freestream]] velocity
->> $\theta=$ [[boundary layer momentum thickness|momentum thickness]]
+>> $\theta=$ [[boundary layer momentum thickness|momentum thickness]] as a function of $x$
 >> $x=$ position along object
 
 ^3df2aa
