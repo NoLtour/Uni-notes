@@ -22,6 +22,6 @@ So to get an order of magnitude estimate of $v$ we can use the equation for [[ma
 $$\begin{align*}
 \frac{\delta u}{ \delta x } + \frac{\delta v}{ \delta y } &= 0\\
 \frac{\delta u}{ \delta x } &= - \frac{\delta v}{ \delta y } \\
-U_\infty\frac{ \delta}{ L } & \approx - v 
+U_\infty\frac{ \delta}{ L } &\to  v 
 \end{align*}$$
-
+(This type of analysis gives us the [[mmmmm dimensional analysis|rough]] order of magnitude of $v$) It can be seen that for v to be small $L$ must be large relative to $\delta$, hence a descent estimate can be found even if we ignore $v$ for a long plate.
