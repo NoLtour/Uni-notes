@@ -22,6 +22,8 @@ $$\begin{align*}
 & & \frac{du}{dy} &= U_{\infty} \frac{1}{\delta}\\
 \frac{d\theta}{dx} &= \frac{\nu}{U_{\infty}^{2}}  \frac{U_{\infty}}{\delta}\\
 &= \frac{\nu}{U_{\infty} \delta} = \frac{\nu}{U_{\infty} 6\theta}  \\
-\theta &= x \frac{\nu}{6U_{\infty}\theta}
+\int^{\theta}_{0} \theta d\theta &= \int^{x}_{0} \frac{\nu}{6 U_{\infty}}dx\\
+&...\\
+\theta &=
 \end{align*}$$
 
