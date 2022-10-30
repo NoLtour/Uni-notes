@@ -24,5 +24,14 @@ Then by simplifieing and subbing in the defenition for [[kinematic viscosity]] w
 $$\begin{align*}
 \frac{d\theta}{dx} &= \frac{\nu}{U_{\infty}^{2}} \left. \frac{du}{dy} \right|_{y=0}
 \end{align*}$$
-This shows us that 
+This equation is known as the [[momentum integral equation for a flat plate]]:
+
+> ## $$ \frac{d\theta}{dx} = \frac{\nu}{U_{\infty}^{2}} \left. \frac{du}{dy} \right|_{y=0} $$ 
+>> where:  
+>> $y=$ normal distance from surface 
+>> $U_{\infty}=$ [[freestream]] velocity
+>> $\theta=$ [[boundary layer momentum thickness|momentum thickness]] as a function of $x$
+>> $x=$ position along object
+>> $u=$ tangential velocity of fluid to surface
+>> $\nu=$ [[kinematic viscosity]]
 

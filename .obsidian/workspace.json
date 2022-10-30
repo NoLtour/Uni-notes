@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum integral equation for a flat plate.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -136,9 +136,9 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/viscous drag coefficient.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum integral equation for a flat plate.md",
     "Thermofluids/32 Introduction to viscous flow/kinematic viscosity.md",
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum integral equation for a flat plate.md",
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/viscous drag coefficient.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/local wall shear stress.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md",
