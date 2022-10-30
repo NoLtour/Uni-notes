@@ -25,3 +25,6 @@ $$\begin{align*}
 U_\infty\frac{ \delta}{ L } &\to  v 
 \end{align*}$$
 (This type of analysis gives us the [[mmmmm dimensional analysis|rough]] order of magnitude of $v$) It can be seen that for v to be small $L$ must be large relative to $\delta$, hence a descent estimate can be found even if we ignore $v$ for a long plate.
+We can preform the same analysis on the momentum equations to find the relative size of different terms:
+ $$ u \frac{\delta u}{\delta x} + v \frac{\delta u}{\delta y}  = - \frac{1}{\rho} \frac{\delta p}{\delta x} + \nu \left( \frac{\delta^{2} u }{ \delta x^{2} } + \frac{\delta^{2} u }{ \delta y^{2} } \right)  $$  
+ We know there is no pressure gradient hence $\frac{\delta p}{\delta x}$ can be ignored, then we split the equation:
