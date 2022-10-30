@@ -24,6 +24,7 @@ $$\begin{align*}
 &= \frac{\nu}{U_{\infty} \delta} = \frac{\nu}{U_{\infty} 6\theta}  \\
 \int^{\theta}_{0} \theta d\theta &= \int^{x}_{0} \frac{\nu}{6 U_{\infty}}dx\\
 &...\\
-\theta &=
+\frac{\theta^{2}}{x} &=  \frac{\nu}{3 U_{\infty}}\\
+\frac{\theta}{x } &=  \frac{\nu}{3 U_{\infty}}\\
 \end{align*}$$
 
