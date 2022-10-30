@@ -29,8 +29,7 @@ We can preform the same analysis on the momentum equations to find the relative 
  $$ u \frac{\delta u}{\delta x} + v \frac{\delta u}{\delta y}  = - \frac{1}{\rho} \frac{\delta p}{\delta x} + \nu \left( \frac{\delta^{2} u }{ \delta x^{2} } + \frac{\delta^{2} u }{ \delta y^{2} } \right)  $$  
  We know there is no pressure gradient hence $\frac{\delta p}{\delta x}$ can be ignored, then we split the equation into it's components:
  $$\begin{align*}
-u &\frac{\delta u}{\delta x} \to \frac{U^{2}}{L} & v &\frac{\delta u}{\delta y} \to \frac{U_\infty\frac{ \delta}{ L }U_\infty}{\delta} = \frac{U^{2}}{L} & \nu  \\
+u &\frac{\delta u}{\delta x} \to \frac{U^{2}}{L} & v &\frac{\delta u}{\delta y} \to \frac{U_\infty\frac{ \delta}{ L }U_\infty}{\delta} = \frac{U^{2}}{L} & \nu \frac{\delta^{2} u }{ \delta x^{2} } \to \nu \frac{U }{L^{2}} &  & \nu \frac{\delta^{2} u }{ \delta y^{2} } \to \nu \frac{U}{\delta^{2}} \\
 \end{align*}$$
-Hence 
-
+Since $\delta$ is small relative to $L$ we know that $\frac{1}{L^{2}} << \frac{1}{\delta^{2}}$ hence in the momentum equation $\nu \left( \frac{\delta^{2} u }{ \delta x^{2} } + \frac{\delta^{2} u }{ \delta y^{2} } \right)$ 
 
