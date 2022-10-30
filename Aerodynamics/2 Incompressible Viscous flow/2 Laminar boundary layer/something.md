@@ -29,7 +29,8 @@ We can preform the same analysis on the momentum equations to find the relative 
  $$ u \frac{\delta u}{\delta x} + v \frac{\delta u}{\delta y}  = - \frac{1}{\rho} \frac{\delta p}{\delta x} + \nu \left( \frac{\delta^{2} u }{ \delta x^{2} } + \frac{\delta^{2} u }{ \delta y^{2} } \right)  $$  
  We know there is no pressure gradient hence $\frac{\delta p}{\delta x}$ can be ignored, then we split the equation into it's components:
  $$\begin{align*}
-u &\frac{\delta u}{\delta x} \to \frac{U^{2}}{\delta} & v &\frac{\delta u}{\delta y} \to \frac{U^{2}}{L}\\
+u &\frac{\delta u}{\delta x} \to \frac{U^{2}}{L} & v &\frac{\delta u}{\delta y} \to \frac{U_\infty\frac{ \delta}{ L }U_\infty}{\delta} = \frac{U^{2}}{L} & \nu  \\
 \end{align*}$$
+Hence 
 
 
