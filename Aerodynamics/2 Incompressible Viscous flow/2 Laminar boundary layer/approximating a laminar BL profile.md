@@ -29,4 +29,8 @@ $$\begin{align*}
  &= \sqrt \frac{1}{3 Re_{x}}  \\
  &\approx \frac{0.577}{\sqrt{Re_{x}}}
 \end{align*}$$
-
+Then using the identity $3\theta = \delta *$ and the definition of [[viscous drag coefficient|local viscous drag coefficient]] we can also get the following identities from the above quite easily:
+$$\begin{align*}
+\frac{\delta*}{x} &= \frac{3\theta}{x} & C_{f} &=\\
+&\approx \frac{1.732}{\sqrt{Re_{x}}}
+\end{align*}$$
