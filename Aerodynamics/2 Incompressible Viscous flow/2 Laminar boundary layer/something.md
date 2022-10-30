@@ -34,7 +34,9 @@ u &\frac{\delta u}{\delta x} \to \frac{U^{2}}{L} & v &\frac{\delta u}{\delta y} 
 Since $\delta$ is small relative to $L$ we know that $\frac{1}{L^{2}} << \frac{1}{\delta^{2}}$ hence in the momentum equation $\nu \left( \frac{\delta^{2} u }{ \delta x^{2} } + \frac{\delta^{2} u }{ \delta y^{2} } \right)$ the effect of $\frac{\delta^{2} u }{ \delta x^{2} }$ can be ignored. Using this knowledge to simplify the momentum equation we get:
 $$\begin{align*}
  \frac{U^{2}}{L} &\approx    \nu  \frac{ U }{ \delta ^{2} }  \\
- \frac{\delta  }{L} &\approx     \frac{ \nu  }{ \delta U }  \\
-&
+ \frac{ \delta ^{2} }{L^{2}} &\approx    \nu  \frac{ U }{U^{2} L }  \\
+ \frac{ \delta   }{L } &\approx   \sqrt { \frac{ \nu }{U  L }}  \\
+&\approx \frac{1}{\sqrt{Re_{L}}}
 \end{align*}$$
+
 
