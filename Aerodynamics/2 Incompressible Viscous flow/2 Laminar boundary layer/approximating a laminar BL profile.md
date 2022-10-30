@@ -11,6 +11,8 @@ $$ u(y) = \begin{dcases} U_{\infty} \frac{y}{\delta} & for\:\: y<\delta \\ U_{\i
 Plugging this into the equations of [[boundary layer momentum thickness|momentum thickness]] and [[boundary layer displacement thickness|displacement thickness]] results in the following:
 $$\begin{align*}
 \theta & = \int^{\infty}_{0} \frac{U(y)}{U_{\infty}}\left( 1 - \frac{U(y)}{U_{\infty}} \right) dy& \delta * &= \int^{\infty}_{0} \left( 1 - \frac{U(y)}{U_{\infty}} \right) dy\\
-  & = \int^{\delta}_{0} \frac{ U_{\infty} \frac{y}{\delta} }{U_{\infty}}\left( 1 - \frac{U_{\infty} \frac{y}{\delta}}{U_{\infty}} \right) &    &= \int^{\delta}_{0} \left( 1 - \frac{U_{\infty} \frac{y}{\delta}}{U_{\infty}} \right) dy
+  & = \int^{\delta}_{0} \frac{ U_{\infty} \frac{y}{\delta} }{U_{\infty}}\left( 1 - \frac{U_{\infty} \frac{y}{\delta}}{U_{\infty}} \right)dy &    &= \int^{\delta}_{0} \left( 1 - \frac{U_{\infty} \frac{y}{\delta}}{U_{\infty}} \right) dy\\
+&... & &...\\
+\theta & =\delta \frac{1}{6} & \delta * & =\delta \frac{1}{2}
 \end{align*}$$
-
+The [[boundary layer shape factor|shape factor]] can then easily be calculated, which gives us $H=3$. 
