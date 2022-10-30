@@ -35,3 +35,4 @@ $$\begin{align*}
 &\approx \frac{1.732}{\sqrt{Re_{x}}} & &...\\
 &&C_{f}&= \sqrt{\frac{1}{3 Re_{x}}} \approx \frac{0.577}{\sqrt{Re_{x}}}
 \end{align*}$$
+The process for deriving these for a more accurate and complex profile is basically the same as above but more a pain in the ass, hence the results [[parabolic laminar BL profile]].
