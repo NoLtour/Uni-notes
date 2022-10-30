@@ -10,5 +10,11 @@ tags: []
 From [[viscous drag coefficient]]:
 $$\begin{align*}
 C_{F} = \frac{\left. D' \right|_{x=L}}{\frac{1}{2}\rho  U_{\infty}^{2} L} &= \frac{ 2}{L}(\left. \theta \right|_{x=L}  )\\
-\frac{\left. D' \right|_{x=L}}{\frac{1}{2}\rho  U_{\infty}^{2} } &= 2(\left. \theta \right|_{x=L}  )
+\left. D' \right|_{x=L} &=\rho  U_{\infty}^{2} (\left. \theta \right|_{x=L}  )\\
+D'(x) &=\rho  U_{\infty}^{2}  \theta(x)  \\
+\end{align*}$$
+Combining this with the equation defining [[local wall shear stress]]:
+$$\begin{align*}
+\tau_{w} &= \frac{dD'}{dx} & D' &=\rho  U_{\infty}^{2}  \theta\\
+\tau_{w} &= \rho  U_{\infty}^{2} \frac{d\theta}{dx}
 \end{align*}$$
