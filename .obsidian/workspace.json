@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,6 +137,7 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/defining half range series.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
     "Aerodynamics/Aerodynamics overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/Viscous Flow for a laminar boundary layer Overview.md",
@@ -145,7 +146,6 @@
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/viscous drag coefficient.md",
     "Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/similarity in boundary layer velocity profiles.md",
-    "Thermofluids/32 Introduction to viscous flow/kinematic viscosity.md"
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/similarity in boundary layer velocity profiles.md"
   ]
 }
