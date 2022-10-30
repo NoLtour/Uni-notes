@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/something.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -148,15 +148,15 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
-    "Aerodynamics/1 Mathematical and Numerical concepts/navier stokes equations.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/mass continuity using divergence.md",
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/something.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/navier stokes equations.md",
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/Viscous Flow for a laminar boundary layer Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/parabolic laminar BL profile.md",
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/approximating a laminar BL profile.md",
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/true fact.md",
     "Thermofluids/32 Introduction to viscous flow/Reynolds number.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum integral equation for a flat plate.md",
-    "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md",
-    "Thermofluids/35 Boundary layer seperation/boundary layer momentum thickness.md"
+    "Thermofluids/35 Boundary layer seperation/boundary layer displacement thickness.md"
   ]
 }

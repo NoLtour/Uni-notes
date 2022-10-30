@@ -18,4 +18,10 @@ To non dimensionalise these we need scales that make sense for each variable ($x
 - $u$ is often described as a fraction of the free stream velocity hence: $u \to U_\infty$
 - $v$ is generally assumed to be negligible relative to the effect of $u$, but this needs to be verified
 
-So to get an order of magnitude esitmate of $v$ we can use the equation for [[mass continuity using divergence]]
+So to get an order of magnitude estimate of $v$ we can use the equation for [[mass continuity using divergence#^31084a|mass continuity]] and plug in the non dimensionalising parameters discussed above:
+$$\begin{align*}
+\frac{\delta u}{ \delta x } + \frac{\delta v}{ \delta y } &= 0\\
+\frac{\delta u}{ \delta x } &= - \frac{\delta v}{ \delta y } \\
+U_\infty\frac{ \delta}{ L } & \approx - v 
+\end{align*}$$
+
