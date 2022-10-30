@@ -13,4 +13,9 @@ Starting with the [[navier stokes equations]]:
  $$ u \frac{\delta v}{\delta x} + v \frac{\delta v}{\delta y}  = - \frac{1}{\rho} \frac{\delta p}{\delta y} + \nu \left( \frac{\delta^{2} v }{ \delta x^{2} } + \frac{\delta^{2} v }{ \delta y^{2} } \right)  $$  
 
 To non dimensionalise these we need scales that make sense for each variable ($x,y,u,v$):
-- $x$ can be expressed as a fraction of length of the plate $L$ hence $x\to $
+- $x$ can be expressed as a fraction of length of the plate $L$ hence $x\to L$
+- $y$ can be expressed as a fraction of the [[boundary layer thickness]] $\delta$ hence $y\to \delta$
+- $u$ is often described as a fraction of the free stream velocity hence: $u \to U_\infty$
+- $v$ is generally assumed to be negligible relative to the effect of $u$, but this needs to be verified
+
+So to get an order of magnitude esitmate of $v$ we can use the equation for [[mass continuity using divergence]]
