@@ -1,5 +1,5 @@
 ---
-aliases: ["skin drag coefficient","local viscous drag coefficient"]
+aliases: ["skin drag coefficient","local viscous drag coefficient","Integrated viscous drag coefficient"]
 tags: []
 ---
 
@@ -22,7 +22,7 @@ This is the viscous drag coefficient at a specific point:
 ^3df2aa
 
 
-### Shape viscous drag coefficient ($C_{F}$)
+### Integrated viscous drag coefficient ($C_{F}$)
 
 This is the viscous drag coefficient over an area, since it's just [[momentum thickness and viscous drag|skin drag]] divided by free stream $KE$ time length we can substitute in the relationship between [[momentum thickness and viscous drag]] to get a more convenient form of [[viscous drag coefficient]] in terms of just [[boundary layer momentum thickness|momentum thickness]] and length:
 
