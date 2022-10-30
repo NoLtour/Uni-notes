@@ -8,5 +8,9 @@ We know from [[similarity in boundary layer velocity profiles]] that for flow ov
 ![[Pasted image 20221030151008.png]]
 Or expressed mathamatically:
 $$ u(y) = \begin{dcases} U_{\infty} \frac{y}{\delta} & for\:\: y<\delta \\ U_{\infty}  & for\:\:y\geq\delta \end{dcases} $$
-Plugging this into the equations of [[boundary layer momentum thickness|momentum thickness]] and [[boundary layer displacement thickness|displacement thickness]]
+Plugging this into the equations of [[boundary layer momentum thickness|momentum thickness]] and [[boundary layer displacement thickness|displacement thickness]] results in the following:
+$$\begin{align*}
+\theta & = \int^{\infty}_{0} \frac{U(y)}{U_{\infty}}\left( 1 - \frac{U(y)}{U_{\infty}} \right) dy& \delta * &= \int^{\infty}_{0} \left( 1 - \frac{U(y)}{U_{\infty}} \right) dy\\
+  & = \int^{\delta}_{0} \frac{ U_{\infty} \frac{y}{\delta} }{U_{\infty}}\left( 1 - \frac{U_{\infty} \frac{y}{\delta}}{U_{\infty}} \right) &    &= \int^{\delta}_{0} \left( 1 - \frac{U_{\infty} \frac{y}{\delta}}{U_{\infty}} \right) dy
+\end{align*}$$
 
