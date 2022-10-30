@@ -18,5 +18,7 @@ It can be integrated to get [[skin drag]]:
 >> $D'(x)=$ total [[skin drag|viscous drag]] caused up to that point as a function of $x$ 
 >> $x=$ position on object 
 >> $\tau_{w}=$ [[local wall shear stress]]
->> $\mu=$ [[]]
->> This is i
+>> $\mu=$ [[viscosity]]
+>> $y=$ normal distance from surface
+>> $u=$ tangential velocity of fluid to surface
+>> This is in 2D
