@@ -3,10 +3,10 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Viscous Flow for a laminar boundary layer Overview
 
 #### Intro and contents
-- 
+- [[approximating a laminar BL profile]]
 
 
 ## Expanded articles
