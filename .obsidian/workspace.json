@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/Aerodynamics overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "circular",
+                "query": "four",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/Aerodynamics overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/Fourier Series Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,6 +137,7 @@
   },
   "active": "c5a787f1b3435fbb",
   "lastOpenFiles": [
+    "Aerodynamics/Aerodynamics overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/Viscous Flow for a laminar boundary layer Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/local wall shear stress.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum integral equation for a flat plate.md",
@@ -144,7 +146,6 @@
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
     "Aerodynamics/2 Incompressible Viscous flow/1 Into/similarity in boundary layer velocity profiles.md",
     "Thermofluids/32 Introduction to viscous flow/kinematic viscosity.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md",
-    "Aerodynamics/2 Incompressible Viscous flow/1 Into/appreciate I even give you the equation smh.md"
+    "Aerodynamics/2 Incompressible Viscous flow/1 Into/momentum thickness and viscous drag.md"
   ]
 }
