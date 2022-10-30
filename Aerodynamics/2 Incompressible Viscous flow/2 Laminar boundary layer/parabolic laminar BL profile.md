@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["equations for characteristics of laminar flow on a flat plate","characteristics of laminar flow on a flat plate","shape factor for laminar flow on a flat plate"]
 tags: []
 ---
 
@@ -19,4 +19,5 @@ We've seen how to derive the formulas for multiple important characteristics of 
 >> $Re_{x}=\left. Re \right|_{L=x}=$ [[Reynolds number]] using $x$ as characteristic length
 >> $H=$ [[boundary layer shape factor|shape factor]]
 >>
->> Laminar flow on a flat plate
+>> Laminar flow on a flat plate.
+
