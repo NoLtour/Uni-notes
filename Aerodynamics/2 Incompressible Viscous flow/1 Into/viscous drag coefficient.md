@@ -28,3 +28,4 @@ This is the viscous drag coefficient over an area, since it's just [[momentum th
 >> $L=$ length of object
 >> $\rho=$ fluid density
 >> $U_{\infty}=$ [[freestream]] velocity
+>> $\theta=$ [[boundary layer momentum thickness|momentum thickness]]
