@@ -27,7 +27,7 @@
               "state": {
                 "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/something.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
