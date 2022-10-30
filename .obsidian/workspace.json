@@ -23,8 +23,12 @@
             "id": "c5a787f1b3435fbb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/approximating a laminar BL profile.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           },
           {
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/approximating a laminar BL profile.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
