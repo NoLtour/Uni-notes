@@ -10,11 +10,14 @@ tags: []
 This is the viscous drag coefficient at a specific point:
 
 > ## $$ C_{f} = \frac{\tau_{w}}{\frac{1}{2}\rho U_{\infty}^{2} } $$ 
+> ## $$ \frac{d\theta}{dx} = \frac{C_{f}}{2} $$
 >> where:
 >> $C_{f}=$ [[viscous drag coefficient|local viscous drag coefficient]]
 >> $\tau_{w}=$ [[local wall shear stress]]
 >> $\rho=$ fluid density
 >> $U_{\infty}=$ [[freestream]] velocity
+>> $\theta=$ [[boundary layer momentum thickness|momentum thickness]]
+>> $x=$ position along object
 
 ^3df2aa
 

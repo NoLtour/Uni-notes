@@ -24,4 +24,4 @@ Then by simplifieing and subbing in the defenition for [[kinematic viscosity]] w
 $$\begin{align*}
 \frac{d\theta}{dx} &= \frac{\nu}{U_{\infty}^{2}} \left. \frac{du}{dy} \right|_{y=0}
 \end{align*}$$
-Which when substituting in [[viscous drag coefficient#^3df2aa|this defenition]] we finally get:
+This form is useful
