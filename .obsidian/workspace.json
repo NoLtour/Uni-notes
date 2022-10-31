@@ -23,12 +23,8 @@
             "id": "c5a787f1b3435fbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/something.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/something.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
