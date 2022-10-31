@@ -3,9 +3,9 @@ aliases: [""]
 tags: []
 ---
 
-## Something
+## Solving laminar boundary layer equations
 
-We 
+If we want to solve the motion equations to get the relevant coefficients for a flat plate it isn't really possible using the unsimplified [[navier stokes equations]] (without a super computer), it is however possible to solve them if we make (lots) of assumptions, with the results being useful for getting rough solutions
 
 Starting with the [[navier stokes equations]]:
  $$ \frac{\delta u}{ \delta x } + \frac{\delta v}{ \delta y } = 0$$
@@ -39,4 +39,13 @@ $$\begin{align*}
 &\approx \frac{1}{\sqrt{Re_{L}}}
 \end{align*}$$
 
+This heavily approximated result actually is quite accurate for laminar boundary layers:
+
+> ## $$  \frac{ \delta   }{L } \underset{\sim}{\propto} \frac{1}{\sqrt{Re_{L}}}  $$  
+>> where:
+>> $\delta=$ [[boundary layer displacement thickness|displacement thickness]] 
+>> $Re_{L}=$ [[reynolds number]] for length $L$
+>> $L=$ plate length
+
+The solution for [[boundary layer|turbulent boundary layers]] is actually quite similar: $\frac{ \delta   }{L } \underset{\sim}{\propto} \frac{1}{{Re_{L}^{0.2}}}$
 

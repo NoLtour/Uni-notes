@@ -8,7 +8,13 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[approximating a laminar BL profile]]
 - [[parabolic laminar BL profile]]
-- [[something]]
+- [[Solving laminar boundary layer equations]] 
+- [[turbulent vs laminar BL separation]]
 
 
 ## Expanded articles
+
+![[approximating a laminar BL profile]]
+![[parabolic laminar BL profile]]
+![[Solving laminar boundary layer equations]] 
+![[turbulent vs laminar BL separation]]

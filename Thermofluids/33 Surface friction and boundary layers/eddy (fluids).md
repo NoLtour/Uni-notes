@@ -1,5 +1,5 @@
 ---
-aliases: ["eddies"]
+aliases: ["eddies","eddy"]
 tags: ["Question","QFormat3"]
 ---
 
