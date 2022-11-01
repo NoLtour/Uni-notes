@@ -26,4 +26,10 @@ $$\begin{align*}
  && \frac{0.664x_{T}}{\sqrt{ \frac{U_{\infty} x_{T}}{ \nu } } } &= \frac{0.037(x_{T}-x_{0})}{\left(  \frac{U_{\infty} (x_{T}-x_{0})}{ \nu }  \right)^{\frac{1}{5}}}
 \end{align*}$$
 
-Something that can be quickly found is that this equation is really hard to solve [[numerical and analytical solutions|analytically]], so instead we use computers and [[Newton-Raphson]]
+Something that can be quickly found is that this equation is really hard to solve [[numerical and analytical solutions|analytically]], so instead we use computers and a root finding algorithm to figure it out. Alternatively under specific conditions the following approximation can be applied:
+
+> ## $$ x_{0} \approx x_{T} \left(1-\frac{38}{Re_{x^{T}}^{\frac{3}{8}}}\right) $$ 
+>> where:
+>> $x_{0}=$ virtual origin of boundary layer
+>> $Re_{x^{T}}=$ [[Reynolds number]] at $x_{T}$
+>> $x_{T}=$ 
