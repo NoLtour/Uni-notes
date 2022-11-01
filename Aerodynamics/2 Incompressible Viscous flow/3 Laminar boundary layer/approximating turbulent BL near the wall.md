@@ -42,5 +42,5 @@ Under the [[wall units (fluid dynamics near wall analysis)|near wall normalisati
 >> $k=0.4$ 
 >> $B=5.0$ 
 
-When referring to the different parts of this equation we refer to the first section as "viscous sub layer" and the second part as "log layer". It can clearly be seen that in between these layers is undefined, this is due to the simple fact "it's too fucking hard, we have no clue what causes the variation and it's usually not important anyway.".
+When referring to the different parts of this equation we refer to the first section as "viscous sub layer" and the second part as "log layer". It can clearly be seen that in between these layers is undefined, this is due to the simple fact "it's too fucking hard, we have no clue what causes the variation and it's usually not important anyway.", this is common in fluid dynamics [[I did say this is far too common|lmao]]. We call this region that is inbetween the layers and just an a
 
