@@ -1,6 +1,6 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "u",
+  "replaceText": "\\tilde{u}",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,
