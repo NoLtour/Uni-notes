@@ -9,7 +9,7 @@ tags: ["NotesPage"]
 - [[turbulence at scale]]
 - [[large eddy simulations]]
 - [[Reynolds averaged Navier Stokes equations]]
-- [[appro]]
+- [[approximating a turbulent BL profile]]
 
 
 ## Expanded articles
