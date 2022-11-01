@@ -21,7 +21,9 @@ We know that for $\theta_{lam}$ when $x=x_{T}$ it is equal to $\theta_{lam}$ at 
 
 
 $$\begin{align*}
-\frac{\theta_{lam}}{x_{T}} &= \frac{0.664}{\sqrt{Re_{x_{T}}}} & \frac{\theta_{turb}}{x_{T}-x_{0}} &= \frac{0.037}{({Re_{x_{T}-x_{0}}})^{\frac{1}{5}}}\\
- \theta_{lam}  &= \frac{0.664x_{T}}{\sqrt{ \frac{U_{\infty} x_{T}}{ \nu } } } &  \theta_{turb} &= \frac{0.037(x_{T}-x_{0})}{(    )^{\frac{1}{5}}}\\
+\frac{\theta_{lam}}{x_{T}} &= \frac{0.664}{\sqrt{Re_{x_{T}}}} &&& \frac{\theta_{turb}}{x_{T}-x_{0}} &= \frac{0.037}{({Re_{x_{T}-x_{0}}})^{\frac{1}{5}}}\\
+ \theta_{lam}  &= \frac{0.664x_{T}}{\sqrt{ \frac{U_{\infty} x_{T}}{ \nu } } } && &  \theta_{turb} &= \frac{0.037(x_{T}-x_{0})}{\left(  \frac{U_{\infty} (x_{T}-x_{0})}{ \nu }  \right)^{\frac{1}{5}}}\\
+ && \frac{0.664x_{T}}{\sqrt{ \frac{U_{\infty} x_{T}}{ \nu } } } &= \frac{0.037(x_{T}-x_{0})}{\left(  \frac{U_{\infty} (x_{T}-x_{0})}{ \nu }  \right)^{\frac{1}{5}}}
 \end{align*}$$
 
+Something that can be quickly found is that this equation is really hard to solve [[numerical and analytical solutions|analytically]], so instead we use computers and [[Newton-Raphson]]
