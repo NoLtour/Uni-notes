@@ -13,6 +13,13 @@ u(t) &= \bar{u}+u'(t)\\
 v(t) &= \bar{v}+v'(t)\\
 p(t) &= \bar{p}+p'(t)
 \end{align*}$$
-The [[Reynolds averaged Navier Stokes equations|RANS]] is where we take measures of the mean and the standard deviation of
+The [[Reynolds averaged Navier Stokes equations|RANS]] is where we take measures of the mean and the standard deviation of a property for use in numerical simulation.
+> ## $$ \bar{u} = \frac{1}{T}\int^{T}_{0} u \cdot dt $$
+> ## $$ \bar{u'} = 0 $$
+> ## $$ \bar{u'^{2}} = \frac{1}{T}\int^{T}_{0} (u-\bar{u})^{2} \cdot dt = (\sigma_{u'})^{2} $$ 
+>> where:
+>> $u=$ horizontal velocity (can also be vert)
+>> $=$
+>> $=$
 
 
