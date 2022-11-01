@@ -34,12 +34,13 @@ So it's educated guess work, which works [[this sort of thing is far too common 
 
 Under the [[wall units (fluid dynamics near wall analysis)|near wall normalisation]] discussed above the following relationship exists:
 
-> ## $$ U^{+} = \begin{dcases} y^{+} &,\: y^{+}<5 \\ \frac{1}{k} \ln(y^{+})+B &,\: y^{+}>5 \: \text{and} \: \frac{y}{\delta}<0.2 \end{dcases}  $$ 
+> ## $$ U^{+} = \begin{dcases} y^{+} &,\: y^{+}<5 \\ \frac{1}{k} \ln(y^{+})+B &,\: y^{+}>5 \: \underline{\text{and}} \: \frac{y}{\delta}<0.2 \end{dcases}  $$ 
 >> where:
+>> $\delta=$ [[boundary layer thickness]]
 >> $U^{+}=$ [[wall units (fluid dynamics near wall analysis)|near wall normalised]] form of tangential veloicty
 >> $y^{+}=$ [[wall units (fluid dynamics near wall analysis)|near wall normalised]] form of normal displacement
->> $k=$ empirical constant that may vary depending on source, usually taken as $k=0.4$
->> 
+>> $k=0.4$ 
+>> $B=5.0$ 
 
-When referring to the different parts of this equation we refer to the first section as "viscous sub layer" and the second part as "log layer"
+When referring to the different parts of this equation we refer to the first section as "viscous sub layer" and the second part as "log layer". It can clearly be seen that in between these layers is undefined, this is due to the simple fact "it's too fucking hard, we have no clue what causes the variation and it's usually not important anyway.".
 
