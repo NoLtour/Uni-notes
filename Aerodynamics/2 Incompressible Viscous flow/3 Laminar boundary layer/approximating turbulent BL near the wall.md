@@ -34,7 +34,7 @@ So it's educated guess work, which works [[this sort of thing is far too common 
 
 Under the [[wall units (fluid dynamics near wall analysis)|near wall normalisation]] discussed above the following relationship exists:
 
-> ## $$ U^{+} = \begin{dcases} y^{+} &,\: y^{+}<5 \\ 1/ y^{+} &,\: y^{+}>5 \: \text{and} \: \frac{y}{\delta}<0.2 \end{dcases}  $$ 
+> ## $$ U^{+} = \begin{dcases} y^{+} &,\: y^{+}<5 \\ \frac{1}{k} \ln(y^{+})+B &,\: y^{+}>5 \: \text{and} \: \frac{y}{\delta}<0.2 \end{dcases}  $$ 
 >> where:
 >> $=$ 
 >> $=$
