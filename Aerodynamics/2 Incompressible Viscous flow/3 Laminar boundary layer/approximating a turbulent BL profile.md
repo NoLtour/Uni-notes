@@ -39,4 +39,6 @@ Subbing the velocity function into the related equations and solving gives us:
 
 ### Issues with the approximation
 
-
+Well if we look at the vertical velocity gradient $\frac{du}{dy}$ at $y=0$ we can see that:
+$$ \left. \frac{du}{dy} \right|_{y=0} = \infty $$
+Which implies an infinite [[local wall shear stress#^803cc0]]
