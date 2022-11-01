@@ -1,5 +1,5 @@
 ---
-aliases: ["skin friction velocity"]
+aliases: ["skin friction velocity","viscous sub-layer","log-layer"]
 tags: []
 ---
 
@@ -36,8 +36,10 @@ Under the [[wall units (fluid dynamics near wall analysis)|near wall normalisati
 
 > ## $$ U^{+} = \begin{dcases} y^{+} &,\: y^{+}<5 \\ \frac{1}{k} \ln(y^{+})+B &,\: y^{+}>5 \: \text{and} \: \frac{y}{\delta}<0.2 \end{dcases}  $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $U^{+}=$ [[wall units (fluid dynamics near wall analysis)|near wall normalised]] form of tangential veloicty
+>> $y^{+}=$ [[wall units (fluid dynamics near wall analysis)|near wall normalised]] form of normal displacement
+>> $k=$ empirical constant that may vary depending on source, usually taken as $k=0.4$
+>> 
 
+When referring to the different parts of this equation we refer to the first section as "viscous sub layer" and the second part as "log layer"
 
