@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["skin friction velocity"]
 tags: []
 ---
 
@@ -7,4 +7,13 @@ tags: []
 
 We've already discussed the problems with the [[approximating a turbulent BL profile#Issues with the approximation|previous approximation near the wall]], it's scale was adjusted using freestream to scale velocity and [[boundary layer thickness]] to scale distance; in the case of being near the wall the effect of [[viscosity]] and shear is clearly greatly increased, so it makes sense to somehow use that as a part of the non dimensionalisation near the wall.
 
-By using [[buckingham pi]] to try to find something that makes sense as a velocity scale considering the focus on the effect of shear and looking at a length scale while focusing on the effect of viscosit
+By using [[buckingham pi]] to try to find something that makes sense as a velocity scale considering the focus on the effect of shear and looking at a length scale while focusing on the effect of viscosity, we end up with the following:
+
+> ### $$ U_{\tau} = \sqrt{\frac{\tau_{\omega}}{\rho}} $$ 
+> ### $$ \tau_{\omega} = \mu \frac{dU}{dy} $$ 
+>> where:
+>> $U_{\tau}=$ velocity scale (this is known as [[approximating turbulent BL near the wall|skin friction velocity]])
+>> $\tau_{\omega}=$ [[local wall shear stress]]
+>> $\rho=$ fluid density
+>> $U=$ fluid velocity
+>> $\mu=$ [[dyna]]
