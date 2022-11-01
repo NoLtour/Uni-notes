@@ -17,5 +17,11 @@ $$\begin{align*}
 \end{align*}$$
 (equations from [[approximating a laminar BL profile|here]] and [[approximating a turbulent BL profile|here]])
 
-We know that for $\theta_{lam}$ when $x=x_{T}$ it is equal to $\theta_{lam}$ with 
+We know that for $\theta_{lam}$ when $x=x_{T}$ it is equal to $\theta_{lam}$ at $x=x_{T}-x_{0}$ substituting in:
+
+
+$$\begin{align*}
+\frac{\theta_{lam}}{x_{T}} &= \frac{0.664}{\sqrt{Re_{x_{T}}}} & \frac{\theta_{turb}}{x_{T}-x_{0}} &= \frac{0.037}{({Re_{x_{T}-x_{0}}})^{\frac{1}{5}}}\\
+ \theta_{lam}  &= \frac{0.664x_{T}}{\sqrt{ \frac{U_{\infty} x_{T}}{ \nu } } } &  \theta_{turb} &= \frac{0.037(x_{T}-x_{0})}{(    )^{\frac{1}{5}}}\\
+\end{align*}$$
 
