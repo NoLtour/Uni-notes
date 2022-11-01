@@ -22,3 +22,6 @@ It can be integrated to get [[skin drag]]:
 >> $y=$ normal distance from surface
 >> $u=$ tangential velocity of fluid to surface
 >> This is in 2D
+
+^803cc0
+
