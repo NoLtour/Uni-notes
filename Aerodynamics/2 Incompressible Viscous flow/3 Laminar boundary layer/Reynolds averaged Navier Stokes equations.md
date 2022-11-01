@@ -18,8 +18,10 @@ The [[Reynolds averaged Navier Stokes equations|RANS]] is where we take measures
 > ## $$ \bar{u'} = 0 $$
 > ## $$ \bar{u'^{2}} = \frac{1}{T}\int^{T}_{0} (u-\bar{u})^{2} \cdot dt = (\sigma_{u'})^{2} $$ 
 >> where:
->> $u=$ horizontal velocity (can also be vert)
->> $=$
->> $=$
+>> $u=$ horizontal velocity (can also be vertical velocity or pressure, this is more a stand in for some property of the flow)
+>> $T=$ time interval to average over
+>> $\bar{u}=$ [[mean value by integration|mean]] $u$
+>> $u'(t)=$ instantanious variation of $u$ from $\bar{u}$
+>> $\sigma_{u'}=$ [[standard deviation for probabability functions|standard deviation]] of $u'$
 
 
