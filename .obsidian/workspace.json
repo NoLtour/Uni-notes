@@ -27,7 +27,7 @@
               "state": {
                 "file": "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/calculating drag across a plate with a transition region.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
