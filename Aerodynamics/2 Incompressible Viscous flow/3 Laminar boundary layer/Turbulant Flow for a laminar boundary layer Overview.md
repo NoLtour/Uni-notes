@@ -7,7 +7,6 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[turbulence at scale]]
-- [[modelling requirements for eddy simulations]] REMOVE?
 - [[large eddy simulations]]
 - [[Reynolds averaged Navier Stokes equations]]
 
