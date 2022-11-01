@@ -19,3 +19,10 @@ Basically the same similarity discussed in [[similarity in boundary layer veloci
 Due to the similarity between points in the turbulent flow, once $n$ is found we can find the profile at any other position given we know the [[boundary layer thickness]]:
 ![[Pasted image 20221101110119.png]]
 
+Doing all the same maths from [[approximating a laminar BL profile]] with this equation instead gives us:
+
+> ## $$ \frac{\delta *}{\delta} = 1- \frac{n}{n+1} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
