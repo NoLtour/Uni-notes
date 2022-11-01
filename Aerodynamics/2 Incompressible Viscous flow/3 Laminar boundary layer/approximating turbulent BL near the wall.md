@@ -30,6 +30,14 @@ So it's educated guess work, which works [[this sort of thing is far too common 
 
 ![[wall units (fluid dynamics near wall analysis)|wall units]]
 
-### More stuff
+### Near wall profile
+
+Under the [[wall units (fluid dynamics near wall analysis)|near wall normalisation]] discussed above the following relationship exists:
+
+> ## $$ U^{+} = \begin{dcases} y^{+} &,\: y^{+}<5 \\ 1/ y^{+} &,\: y^{+}>5 \: \text{and} \: \frac{y}{\delta}<0.2 \end{dcases}  $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 
