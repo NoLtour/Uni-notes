@@ -46,4 +46,6 @@ When referring to the different parts of this equation we refer to the first sec
 
 ![[Pasted image 20221101134659.png]]
 
-Another thing to note is that the log region being $y^{+}>5 \: \underline{\text{and}} \: \frac{y}{\delta}<0.2$ is also an approximation, as can be seen in the example above the log region there starts much sooner at about $y^{+}\approx25$, same thing with the viscous sub layer though to .
+Another thing to note is that the log region being $y^{+}>5 \: \underline{\text{and}} \: \frac{y}{\delta}<0.2$ is also an approximation, as can be seen in the example above the log region there starts much sooner at about $y^{+}\approx25$, same thing with the viscous sub layer though to a lesser extent (because fluid dynamics is 50% guess work 40% computer coping and 10% luck).
+
+This still hasn't actually given us a equation for 
