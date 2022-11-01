@@ -12,7 +12,10 @@ But the transition between the two cannot be as easily modelled, generally this 
 
 We know that [[momentum thickness and viscous drag|momentum thickness is directly proportional to viscous drag]], of course if we can find the momentum thickness at the end of the turbulent boundary layer we can easily find drag. That is where $x_{0}$ comes in, as can be seen above this "[[calculating drag across a plate with a transition region|virtual origin]]" of the turbulent region marks where the turbulent boundary layer would start from if you trace it's shape forward; hence if you can find length $x_{0}\to c$ then a turbulent layer of that length has viscous drag equal to the current plate.
 So if we can find $x_{0}$ we can find the [[boundary layer momentum thickness|momentum thickness]] and then drag. Since we know that at the transition location $x_{T}$ the laminar and turbulent momentum thicknesses are equal:
-$$ \frac{\theta_{lam}}{x} = \frac{0.664}{\sqrt{Re_{x}}} $$
+$$\begin{align*}
+\frac{\theta_{lam}}{x} &= \frac{0.664}{\sqrt{Re_{x}}} & \frac{\theta_{turb}}{x} &= \frac{0.037}{({Re_{x}})^{\frac{1}{5}}}
+\end{align*}$$
+(equations from [[approximating a laminar BL profile|here]] and [[approximating a turbulent BL profile|here]])
 
-
+We know that for $\theta_{lam}$ when $x=x_{T}$ it is equal to $\theta_{lam}$ with 
 
