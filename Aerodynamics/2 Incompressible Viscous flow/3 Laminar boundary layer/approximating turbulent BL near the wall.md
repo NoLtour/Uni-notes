@@ -1,5 +1,5 @@
 ---
-aliases: ["skin friction velocity","viscous sub-layer","log-layer","buffer-layer"]
+aliases: ["skin friction velocity","viscous sub-layer","log-layer","buffer-layer","finding near wall shear stress"]
 tags: []
 ---
 
@@ -48,4 +48,6 @@ When referring to the different parts of this equation we refer to the first sec
 
 Another thing to note is that the log region being $y^{+}>5 \: \underline{\text{and}} \: \frac{y}{\delta}<0.2$ is also an approximation, as can be seen in the example above the log region there starts much sooner at about $y^{+}\approx25$, same thing with the viscous sub layer though to a lesser extent (because fluid dynamics is 50% guess work 40% computer coping and 10% luck).
 
-This still hasn't actually given us a equation for 
+This still hasn't actually given us a equation for calculating $\tau_{\omega}$, or has it :think:? Yes it has, simply curve fitting:
+- Fit the viscous profile to the data to obtain skin friction velocity (the effect of log can make this difficult)
+- Fit the log region to get the skin friction velocity (easy since it's just a strait line)
