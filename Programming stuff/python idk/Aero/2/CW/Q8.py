@@ -24,7 +24,7 @@ def getShapeFactor( dists, vels ):
 
 # importing data
 
-laminarSet = pd.read_excel( directory_path+"\\LBLdata1.xlsx" ) 
+laminarSet = pd.read_excel( directory_path+"\\LBLdata2(1).xlsx" ) 
 
 laminarDists = laminarSet[ laminarSet.columns[0] ]/1000 
 laminarVels  = laminarSet[ laminarSet.columns[1] ]
