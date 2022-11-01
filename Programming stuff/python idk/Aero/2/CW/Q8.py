@@ -37,6 +37,11 @@ print( "L sFact: ", getShapeFactor( laminarDists, laminarVels ) );
 print( "laminar thickness:", getBLThickness( laminarDists, laminarVels ), "mm"  )
 #print( "turbulant thickness:", getBLThickness( turbulantDists, turbulantVels ), "mm"  )
 
+c = 50/1000;
+Ue = max(laminarVels)
+
+print( "Total drag:", 2 * (Ue**2)*1.225*getMomentumThickness( laminarDists, laminarVels ) )
+
 # plotting data
 
 plot.figure( 69 );
