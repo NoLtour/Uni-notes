@@ -26,7 +26,7 @@ The derivation of the above pretty much comes down to:
 
 So it's educated guess work, which works [[this sort of thing is far too common lmao|:trol:]].
 
-When scaling velocities and wall normal quatinites we usually use $+$ to denote that fact, 
+When scaling velocities and wall normal quatinites we usually use $+$ to denote that fact, referring to them as [[wall units (fluid dynamics near wall analysis)|wall units]].
 
 ### More stuff
 
