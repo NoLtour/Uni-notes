@@ -1,5 +1,5 @@
 ---
-aliases: ["wall units","inner units","plus units"]
+aliases: ["wall units","inner units","plus units","y^{+}","U^{+}"]
 tags: []
 ---
 
@@ -10,9 +10,8 @@ These are often used when [[approximating turbulent BL near the wall]]. When sca
 > ## $$ U^{+} = \frac{U}{U_{\tau}} $$ 
 > ## $$ y^{+} = \frac{y}{l} = \frac{y U_{\tau}}{\nu} $$ 
 >> where:
->> $U_{\tau}=$ velocity scale for near wall velocity profile non dimensionalisation (this specifically is known as [[approximating turbulent BL near the wall|skin friction velocity]])
->> $\tau_{\omega}=$ [[local wall shear stress]]
->> $\rho=$ fluid density
+>> $U_{\tau}=$ [[approximating turbulent BL near the wall#^41fd5a|skin friction velocity]]
+>> $\tau_{\omega}=$ [[local wall shear stress]] 
 >> $\nu=$ [[kinematic viscosity]]
->> $l=$ length scale for near wall velocity profile non dimensionalisation
+>> $l=$ [[approximating turbulent BL near the wall#^41fd5a|length scale for near wall velocity profile non dimensionalisation]] 
 
