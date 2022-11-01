@@ -10,10 +10,14 @@ We've already discussed the problems with the [[approximating a turbulent BL pro
 By using [[buckingham pi]] to try to find something that makes sense as a velocity scale considering the focus on the effect of shear and looking at a length scale while focusing on the effect of viscosity, we end up with the following:
 
 > ### $$ U_{\tau} = \sqrt{\frac{\tau_{\omega}}{\rho}} $$ 
-> ### $$ \tau_{\omega} = \mu \frac{dU}{dy} $$ 
+> ### $$ l = \frac{\nu}{U_{\tau}}$$ 
 >> where:
->> $U_{\tau}=$ velocity scale (this is known as [[approximating turbulent BL near the wall|skin friction velocity]])
+>> $U_{\tau}=$ velocity scale for near wall velocity profile non dimensionalisation (this specifically is known as [[approximating turbulent BL near the wall|skin friction velocity]])
 >> $\tau_{\omega}=$ [[local wall shear stress]]
 >> $\rho=$ fluid density
->> $U=$ fluid velocity
->> $\mu=$ [[dyna]]
+>> $\nu=$ [[kinematic viscosity]]
+>> $l=$ length scale for near wall velocity profile non dimensionalisation
+
+The derivation of the above pretty much comes down to:
+- Find relationships between relevant input variables of a problem using [[buckingham pi]]
+- Use experimentation/s
