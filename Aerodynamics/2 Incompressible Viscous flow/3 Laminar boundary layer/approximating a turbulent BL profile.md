@@ -5,7 +5,9 @@ tags: []
 
 ## Approximating a turbulent BL profile
 
-### Approximat
+(all this analysis is for working with a flat plate)
+
+### Approximating using an exponential function
 
 Basically the same similarity discussed in [[similarity in boundary layer velocity profiles]] which was used in [[approximating a laminar BL profile]] can be applied to turbulent boundary layers. The difference is that instead of the flow profile being equivalent to a parabolic equation it's an exponential relationship: 
 
@@ -34,3 +36,7 @@ Subbing the velocity function into the related equations and solving gives us:
 >> $n=$ [[approximating a turbulent BL profile|constant describing turbulant boundary layer profile on flat plate]]
 
 (I'm not doing the proof for this one, [[did it using online calculators|lazy]])
+
+### Issues with the approximation
+
+
