@@ -11,7 +11,7 @@ tags: ["NotesPage"]
 - [[Reynolds averaged Navier Stokes equations]]
 - [[approximating a turbulent BL profile]]
 - [[approximating turbulent BL near the wall]]
-- [[transition]]
+- [[approximating the drag of transition region]]
 
 
 ## Expanded articles

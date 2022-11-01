@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/transition.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/approximating the drag of transition region.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/transition.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/approximating the drag of transition region.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
