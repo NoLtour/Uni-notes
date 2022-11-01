@@ -20,4 +20,6 @@ By using [[buckingham pi]] to try to find something that makes sense as a veloci
 
 The derivation of the above pretty much comes down to:
 - Find relationships between relevant input variables of a problem using [[buckingham pi]]
-- Use experimentation/s
+- Use experimentation/substitution and see what can be useful for non dimensionalisation
+
+So it's educated guess work, which works [[this sort of thing is far too common lmao|:trol:]]
