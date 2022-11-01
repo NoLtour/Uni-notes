@@ -24,4 +24,10 @@ The [[Reynolds averaged Navier Stokes equations|RANS]] is where we take measures
 >> $u'(t)=$ instantaneous variation of $u$ from $\bar{u}$
 >> $\sigma_{u'}=$ [[standard deviation for probabability functions|standard deviation]] of $u'$
 
-By taking the statistical forms of these properties ($u,v,p$) and plugging them into the [[navier stokes equations]] we get terms called "Reynolds stresses" which are the consequences of the variation and hence the cause of mixing in the flow. Accuratly modelling the Reynolds stresses is where the need 
+By taking the statistical forms of these properties ($u,v,p$) and plugging them into the [[navier stokes equations]] we get terms called "Reynolds stresses" which are the consequences of the variation and hence the cause of mixing in the flow. Accurately modelling the Reynolds stresses is what we need to find a model for to get accurate flow characteristics.
+
+The way this manefests in the [[navier stokes equations]] is similar to what was seen in [[large eddy simulations]]:
+
+$$ \frac{\delta \bar{u}}{ \delta x } + \frac{\delta \bar{v}}{ \delta y } = 0$$
+ $$ \bar{u} \frac{\delta \bar{u}}{\delta x} + \bar{v} \frac{\delta \bar{u}}{\delta y}  = - \frac{1}{\rho} \frac{\delta \bar{p}}{\delta x} + \n\bar{u} \left( \frac{\delta^{2} \bar{u} }{ \delta x^{2} } + \frac{\delta^{2} \bar{u} }{ \delta y^{2} } \right)  $$  
+$$ \bar{u} \frac{\delta \bar{v}}{\delta x} + \bar{v} \frac{\delta \bar{v}}{\delta y}  = - \frac{1}{\rho} \frac{\delta \bar{p}}{\delta y} + \n\bar{u} \left( \frac{\delta^{2} \bar{v} }{ \delta x^{2} } + \frac{\delta^{2} \bar{v} }{ \delta y^{2} } \right)  $$

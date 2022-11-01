@@ -1,6 +1,6 @@
 {
-  "findText": "u",
-  "replaceText": "\\tilde{u}",
+  "findText": "p",
+  "replaceText": "\\bar{p}",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,
