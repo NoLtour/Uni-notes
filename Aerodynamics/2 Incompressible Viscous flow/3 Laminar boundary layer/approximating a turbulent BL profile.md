@@ -38,10 +38,10 @@ Subbing the velocity function into the related equations and solving gives us:
 (I'm not doing the proof for this one, [[did it using online calculators|lazy]])
 
 Turbulent boundary layers tend to have $n$ be around $7$, so if you do not have a value of $n$ the following equations which can be derived using the same methods from [[approximating a laminar BL profile]] and letting $n=7$ are the following:
-> ## $$ \frac{\delta*}{x} \approx \frac{0.048}{(Re_{x})^{\frac{1}{5}}} $$ 
-> ## $$ \frac{\theta}{x} \approx \frac{0.037}{(Re_{x})^{\frac{1}{5}}} $$ 
-> ## $$ C_{f,x} \approx \frac{0.059}{(Re_{x})^{\frac{1}{5}}} $$ 
-> ## $$ C_{F} \approx \frac{0.074}{(Re_{L})^{\frac{1}{5}}} $$ 
+> ### $$ \frac{\delta*}{x} \approx \frac{0.048}{(Re_{x})^{\frac{1}{5}}} $$ 
+> ### $$ \frac{\theta}{x} \approx \frac{0.037}{(Re_{x})^{\frac{1}{5}}} $$ 
+> ### $$ C_{f,x} \approx \frac{0.059}{(Re_{x})^{\frac{1}{5}}} $$ 
+> ### $$ C_{F} \approx \frac{0.074}{(Re_{L})^{\frac{1}{5}}} $$ 
 >> where:
 >> $\delta *=$ [[boundary layer displacement thickness|displacement thickness]]
 >> $\theta=$ [[boundary layer momentum thickness|momentum thickness]]
