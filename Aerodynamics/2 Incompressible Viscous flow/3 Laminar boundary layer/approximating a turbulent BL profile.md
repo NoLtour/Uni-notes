@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["constant describing turbulant boundary layer profile on flat plate"]
 tags: []
 ---
 
@@ -27,6 +27,8 @@ Doing all the same maths from [[approximating a laminar BL profile]] with this e
 >> where:
 >> $\delta *=$ [[boundary layer displacement thickness|displacement thickness]]
 >> $\theta=$ [[boundary layer momentum thickness|momentum thickness]]
->> $\delta=$ [[]]
+>> $\delta=$ [[boundary layer thickness]]
 >> $H=$ [[boundary layer shape factor|shape factor]]
->> $=$
+>> $n=$ [[approximating a turbulent BL profile|constant describing turbulant boundary layer profile on flat plate]]
+
+(I'm not doing the proof for this one, [[did it using online calculators|lazy]])
