@@ -22,7 +22,11 @@ Due to the similarity between points in the turbulent flow, once $n$ is found we
 Doing all the same maths from [[approximating a laminar BL profile]] with this equation instead gives us:
 
 > ## $$ \frac{\delta *}{\delta} = 1- \frac{n}{n+1} $$ 
+> ## $$ \frac{\theta}{\delta} = \frac{n}{n+1} - \frac{n}{n+2} $$ 
+> ## $$ H = \frac{n+2}{n} $$ 
 >> where:
->> $=$ 
->> $=$
+>> $\delta *=$ [[boundary layer displacement thickness|displacement thickness]]
+>> $\theta=$ [[boundary layer momentum thickness|momentum thickness]]
+>> $\delta=$ [[]]
+>> $H=$ [[boundary layer shape factor|shape factor]]
 >> $=$
