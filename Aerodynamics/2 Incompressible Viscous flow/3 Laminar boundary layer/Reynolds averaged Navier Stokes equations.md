@@ -5,7 +5,7 @@ tags: []
 
 ## Reynolds averaged Navier Stokes equations
 
-This is where we use a "statistical description of the flow". For turbulant flow we know of course they are [[unsteady flow]], the [[Reynolds averaged Navier Stokes equations|RANS]] approach is to convert velocity and pressures into their statistical representations, for example take the velocity of a point:
+This is where we use a "statistical description of the flow". For turbulent flow we know of course they are [[unsteady flow]], the [[Reynolds averaged Navier Stokes equations|RANS]] approach is to convert velocity and pressures into their statistical representations, for example take the velocity of a point:
 ![[Pasted image 20221101102100.png]]
 The velocity is all over the place, but we can define instantaneous velocity as a function of mean velocity of that point plus variation, the same can also be done for pressure and velocity in other directions:
 $$\begin{align*}
@@ -32,4 +32,4 @@ $$ \frac{\delta \bar{u}}{ \delta x } + \frac{\delta \bar{v}}{ \delta y } = 0$$
  $$ \bar{u} \frac{\delta \bar{u}}{\delta x} + \bar{v} \frac{\delta \bar{u}}{\delta y}  = - \frac{1}{\rho} \frac{\delta \bar{p}}{\delta x} + \nu \left( \frac{\delta^{2} \bar{u} }{ \delta x^{2} } + \frac{\delta^{2} \bar{u} }{ \delta y^{2} } \right) + F_{x} $$  
 $$ \bar{u} \frac{\delta \bar{v}}{\delta x} + \bar{v} \frac{\delta \bar{v}}{\delta y}  = - \frac{1}{\rho} \frac{\delta \bar{p}}{\delta y} + \nu \left( \frac{\delta^{2} \bar{v} }{ \delta x^{2} } + \frac{\delta^{2} \bar{v} }{ \delta y^{2} } \right) + F_{y} $$
 
-Here $F_{x},F_{y}$ are the models we need to find that represent the "Reynolds stresses" (effect of variation and cause of mixing). This is of course much more error 
+Here $F_{x},F_{y}$ are the models we need to find that represent the "Reynolds stresses" (effect of variation aka cause of mixing). This is of course much more error prone than [[large eddy simulations]], but it is MUCH MUCH less computationally demanding.
