@@ -37,6 +37,13 @@ Subbing the velocity function into the related equations and solving gives us:
 
 (I'm not doing the proof for this one, [[did it using online calculators|lazy]])
 
+Turbulent boundary layers tend to have $n$ be around $7$, so if you do not have a value of $n$ the following equations which can be derived using the same methods from [[approximating a laminar BL profile]] and letting $n=7$ are the following:
+> ## $$ \frac{\delta*}{x} \approx \frac{0.048}{} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
 ### Issues with the approximation
 
 Well if we look at the vertical velocity gradient $\frac{du}{dy}$ at $y=0$ we can see that:
