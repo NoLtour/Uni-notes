@@ -51,3 +51,5 @@ Another thing to note is that the log region being $y^{+}>5 \: \underline{\text{
 This still hasn't actually given us a equation for calculating $\tau_{\omega}$, or has it :think:? Yes it has, simply curve fitting:
 - Fit the viscous profile to the data to obtain skin friction velocity (the effect of log can make this difficult)
 - Fit the log region to get the skin friction velocity (easy since it's just a strait line)
+
+Once you have [[approximating turbulent BL near the wall|skin friction velocity]] finding $\tau_{\omega}$ is easy.
