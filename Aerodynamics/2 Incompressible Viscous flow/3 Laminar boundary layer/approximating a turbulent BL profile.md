@@ -59,3 +59,6 @@ Turbulent boundary layers tend to have $n$ be around $7$, so if you do not have 
 Well if we look at the vertical velocity gradient $\frac{du}{dy}$ at $y=0$ we can see that:
 $$ \left. \frac{du}{dy} \right|_{y=0} = \infty $$
 Which implies an infinite [[local wall shear stress#^803cc0|wall shear stress]], this of course is not possible. When dealing with simplified models such as this it isn't a major issue but if our model requires detailed information on conditions near the wall it is clearly necessary to find a more accurate model for near wall conditions.
+
+
+
