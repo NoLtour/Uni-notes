@@ -8,8 +8,13 @@ Basically the same similarity discussed in [[similarity in boundary layer veloci
 
 [[complex fourier series]]
 
-> ## $$ \frac{u}{U_{\infty}} = \begin{dcases} \frac{1}{2}(a_{n} - jb_{n}) & n>0\\\frac{1}{2}a_{0} & n=0\\\frac{1}{2}(a_{-n} + jb_{-n}) & n<0 \end{dcases} $$ 
+> ## $$ \frac{u}{U_{\infty}} = \begin{dcases} \frac{y}{\delta}^{\frac{1}{n}} &,\: y\leq \delta \\ 1 &,\: y>\delta \end{dcases} $$ 
+> ![[Pasted image 20221101105925.png]]
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $U_{\infty}=$ freestream velocity
+>> $u=$ velocity
+>> $y=$ position normal to flat plate
+>> $\delta=$ [[boundary layer thickness]]
+>> $n=$ a value specific to that turbulant boundary layer, which needs to be found through curve fitting
+
+The
