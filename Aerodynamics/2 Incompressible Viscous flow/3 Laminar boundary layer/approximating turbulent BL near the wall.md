@@ -1,5 +1,5 @@
 ---
-aliases: ["skin friction velocity","viscous sub-layer","log-layer"]
+aliases: ["skin friction velocity","viscous sub-layer","log-layer","buffer-layer"]
 tags: []
 ---
 
@@ -37,10 +37,13 @@ Under the [[wall units (fluid dynamics near wall analysis)|near wall normalisati
 > ## $$ U^{+} = \begin{dcases} y^{+} &,\: y^{+}<5 \\ \frac{1}{k} \ln(y^{+})+B &,\: y^{+}>5 \: \underline{\text{and}} \: \frac{y}{\delta}<0.2 \end{dcases}  $$ 
 >> where:
 >> $\delta=$ [[boundary layer thickness]]
->> $U^{+}=$ [[wall units (fluid dynamics near wall analysis)|near wall normalised]] form of tangential veloicty
+>> $U^{+}=$ [[wall units (fluid dynamics near wall analysis)|near wall normalised]] form of tangential velocity
 >> $y^{+}=$ [[wall units (fluid dynamics near wall analysis)|near wall normalised]] form of normal displacement
 >> $k=0.4$ 
 >> $B=5.0$ 
 
-When referring to the different parts of this equation we refer to the first section as "viscous sub layer" and the second part as "log layer". It can clearly be seen that in between these layers is undefined, this is due to the simple fact "it's too fucking hard, we have no clue what causes the variation and it's usually not important anyway.", this is common in fluid dynamics [[I did say this is far too common|lmao]]. We call this region that is inbetween the layers and just an a
+When referring to the different parts of this equation we refer to the first section as "viscous sub layer" and the second part as "log layer". It can clearly be seen that in between these layers is undefined, this is due to the simple fact "it's too fucking hard, we have no clue what causes the variation and it's usually not important anyway.", this is common in fluid dynamics [[I did say this is far too common|lmao]]. We call this region that is in-between the layers and just an ambiguous mess the "buffer-layer".
 
+![[Pasted image 20221101134659.png]]
+
+Another thing to note is that the log region being $y^{+}>5 \: \underline{\text{and}} \: \frac{y}{\delta}<0.2$ is also an approximation, as can be seen in the example above the log region there starts much sooner at about $y^{+}\approx25$, same thing with the viscous sub layer though to .
