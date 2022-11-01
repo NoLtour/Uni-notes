@@ -21,7 +21,7 @@ The [[Reynolds averaged Navier Stokes equations|RANS]] is where we take measures
 >> $u=$ horizontal velocity (can also be vertical velocity or pressure, this is more a stand in for some property of the flow)
 >> $T=$ time interval to average over
 >> $\bar{u}=$ [[mean value by integration|mean]] $u$
->> $u'(t)=$ instantanious variation of $u$ from $\bar{u}$
+>> $u'(t)=$ instantaneous variation of $u$ from $\bar{u}$
 >> $\sigma_{u'}=$ [[standard deviation for probabability functions|standard deviation]] of $u'$
 
-
+By taking the statistical forms of these properties ($u,v,p$) and plugging them into the [[navier stokes equations]] we get terms called "Reynolds stresses" which are the consequences of the variation and hence the cause of mixing in the flow. Accuratly modelling the Reynolds stresses is where the need 
