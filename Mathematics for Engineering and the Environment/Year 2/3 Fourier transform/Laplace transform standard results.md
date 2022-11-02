@@ -1,12 +1,12 @@
 ---
-aliases: [""]
-tags: ["NotesPage"]
+aliases: ["Laplace transform known results"]
+tags: [""]
 ---
 
-# Laplace transform standard results
+## Laplace transform standard results
 
-#### Contents
-- [[Laplace transform of sin]]
+### Sin
+![[Laplace transform of sin]]
 
 
-## Expanded articles
+### Known results
