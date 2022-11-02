@@ -7,6 +7,7 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[Laplace transform]]
+- [[indirectly integrating using integral transform]]
 
 
 ## Expanded articles
