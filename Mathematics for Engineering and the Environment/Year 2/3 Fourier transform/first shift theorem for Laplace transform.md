@@ -15,7 +15,11 @@ tags: []
 
 ### Proof
 
-![[Pasted image 20221102145825.png]]
+$$\begin{align*}
+\mathcal{L}[e^{-ax}f(x)] &= \int^{\infty}_{0} f(x) e^{-ax} e^{-sx} \cdot dx\\
+ &= \int^{\infty}_{0} f(x) e^{-(a+s)x} \cdot dx\\
+ &=  \tilde{f}(s+a)\\
+\end{align*}$$
 
 Pretty ez
 
