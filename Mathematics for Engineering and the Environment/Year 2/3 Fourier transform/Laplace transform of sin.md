@@ -22,5 +22,7 @@ tags: []
 $$\begin{align*}
 \mathcal{L}[\sin(ax)] &= \int^{\infty}_{0} \sin(ax) e^{-sx} \cdot dx\\
 &= \left[ \frac{1}{s} \sin(ax) e^{-sx} \right]^{\infty}_{0} + \int^{\infty}_{0} \frac{a}{s} \cos(ax) e^{-sx} \cdot dx\\
-&= 
+& & \lim_{s\to\infty} \frac{1}{s} \sin(ax) e^{-sx} & = 0 \:\:\text{when } s>0 \\
+&= \int^{\infty}_{0} \frac{a}{s} \cos(ax) e^{-sx} \cdot dx\\
+&= \left[- \frac{a}{s^{2}} \cos(ax) e^{-sx} \right]^{\infty}_{0} - \frac{a^{2}}{s^{2}} \int^{\infty}_{0} \sin(a)
 \end{align*}$$
