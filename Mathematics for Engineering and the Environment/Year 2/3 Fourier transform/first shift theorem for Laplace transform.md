@@ -21,6 +21,12 @@ Pretty ez
 
 ### Example
 
-> Find the [[Laplace transform]] of $f(x)=e^{-4x}\sin(7x)$
+> Find the [[Laplace transform]] of $f(x)=e^{-4x}\sin(3x)$
 
-We know 
+We know from [[Laplace transform of sin]]:
+ $$ \mathcal{L}[\sin(ax)] = \frac{a}{s^{2}+a^{2}} $$ 
+So if we apply [[first shift theorem for Laplace transform|first shift theorem]] we know that:
+ $$\begin{align*}
+\mathcal{L}[e^{-4x}\sin(ax)] &= \frac{a}{(s+4)^{2}+a^{2}}\\
+\mathcal{L}[e^{-4x}\sin(3x)] &= \frac{3}{(s+4)^{2}+9}
+\end{align*}$$
