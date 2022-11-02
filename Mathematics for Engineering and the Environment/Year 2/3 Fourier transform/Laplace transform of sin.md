@@ -26,6 +26,7 @@ $$\begin{align*}
 &= \int^{\infty}_{0} \frac{a}{s} \cos(ax) e^{-sx} \cdot dx\\
 &= \left[- \frac{a}{s^{2}} \cos(ax) e^{-sx} \right]^{\infty}_{0} - \frac{a^{2}}{s^{2}} \int^{\infty}_{0} \sin(ax)e^{-sx}\cdot dx\\
 &= \left[- \frac{a}{s^{2}} \cos(ax) e^{-sx} \right]^{\infty}_{0} - \frac{a^{2}}{s^{2}} \mathcal{L}[\sin(ax)]\\
+& & \lim_{s\to\infty} - \frac{a}{s^{2}} \cos(ax) e^{-sx}& = 0 \:\:\text{when } s>0 \\
 &= \frac{a}{s^{2}} - \frac{a^{2}}{s^{2}} \mathcal{L}[\sin(ax)]\\
 &...\\
 \mathcal{L}[\sin(ax)] &= \frac{s^{2}}{a^{2}+s^{2}} \frac{a}{s^{2}}\\
