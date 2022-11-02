@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/example of invalid transform.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/example of invalid transform.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,9 +123,9 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using integral transform.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/TODO NOTE.md",
     "Mathematics for Engineering and the Environment/Year 2/Lecture slides/week 5/Lecture14_Hyperbolic1(3).pdf",
     "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 1 Differential equations/Lecture3_ODE(1)(1).pdf",

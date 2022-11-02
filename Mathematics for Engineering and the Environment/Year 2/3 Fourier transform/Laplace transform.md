@@ -13,4 +13,6 @@ tags: []
 >> $f(x)=$ some function
 >> $x=$ independent variable of function being transformed
 
-Similar to the [[defining the fourier series|Fourier series]] the [[Laplace transform]] does not exist for all functions or values of $s$. 
+Similar to the [[defining the fourier series|Fourier series]] the [[Laplace transform]] does not exist for all functions or values of $s$.  Clearly when substituting into the transform above, if the function multiplied by $e^{-sx}$ tends to infinity at limit infinity there will not be a valid [[Laplace transform]]. ([[example of invalid transform|example seen here]])
+
+
