@@ -20,5 +20,7 @@ tags: []
 ### Proof
 
 $$\begin{align*}
- &= 
+\mathcal{L}[\sin(ax)] &= \int^{\infty}_{0} \sin(ax) e^{-sx} \cdot dx\\
+&= \left[ \frac{1}{s} \sin(ax) e^{-sx} \right]^{\infty}_{0} + \int^{\infty}_{0} \frac{a}{s} \cos(ax) e^{-sx} \cdot dx\\
+&= 
 \end{align*}$$
