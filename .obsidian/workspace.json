@@ -28,8 +28,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dd322e255b350324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-02.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf",
+                "file": "2022-11-02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,8 +144,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "cfd79ca0887ce227",
+  "active": "dd322e255b350324",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of a derivative.md",
@@ -140,7 +154,6 @@
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/super ez.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform standard results.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of sin.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/linearity principle for Laplace transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md"
   ]
