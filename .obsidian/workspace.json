@@ -8,23 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfd79ca0887ce227",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf"
-              }
-            }
-          },
-          {
             "id": "f487590d780b1e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
-                "mode": "preview",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/derivative of Laplace transform.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/derivative of Laplace transform.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +121,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "cfd79ca0887ce227",
+  "active": "f487590d780b1e7c",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf",

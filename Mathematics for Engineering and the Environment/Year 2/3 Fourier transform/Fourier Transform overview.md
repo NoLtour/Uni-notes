@@ -12,6 +12,7 @@ tags: ["NotesPage"]
 - [[Laplace transform of a derivative]]
 - [[linearity principle for Laplace transforms]]
 - [[indirectly integrating using Laplace transform]] 
+- [[derivative of Laplace transform]]
 
 
 ## Expanded articles
