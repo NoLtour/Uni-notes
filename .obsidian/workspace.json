@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of a derivative.md",
-                "mode": "preview",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/linearity principle for Laplace transforms.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of a derivative.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/linearity principle for Laplace transforms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/first shift theorem for Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of a derivative.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/first shift theorem for Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of sin.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform standard results.md",
