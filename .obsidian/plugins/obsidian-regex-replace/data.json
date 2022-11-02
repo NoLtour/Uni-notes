@@ -1,8 +1,8 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "\\mathcal",
+  "replaceText": "\\mathcal{L}",
   "useRegEx": false,
-  "selOnly": true,
+  "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": true,
   "processTab": false,
