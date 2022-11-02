@@ -35,3 +35,12 @@ Something that can be quickly found is that this equation is really hard to solv
 >> $Re_{x^{T}}=$ [[Reynolds number]] at $x_{T}$
 >> $x_{T}=$ transition point
 
+Of course the drag can be found using:
+
+> ## $$ D' = \rho U_{\infty}^{2} \times \left.\theta\right|_{x=c-x_{0}} $$ 
+>> where:
+>> $D'=$ total [[skin drag|viscous drag]] of plate
+>> $\left.\theta\right|_{x=c-x_{0}}=$ [[boundary layer momentum thickness|momentum thickness]] of plate using length $c-x_{0}$
+>> $x=$ position on object
+>> $\rho=$ density
+>> $U_{\infty}=$ [[freestream]] velocity 

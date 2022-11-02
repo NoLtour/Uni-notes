@@ -15,8 +15,7 @@ There is a direct relationship between [[skin drag|skin friction]] and [[boundar
 >> $\theta(x)=$ [[boundary layer momentum thickness|momentum thickness]] as a function of $x$
 >> $x=$ position on object
 >> $\rho=$ density
->> $U_{\infty}=$ [[freestream]] velocity
->> $\tau_{w}=$ [[local wall shear stress]]
+>> $U_{\infty}=$ [[freestream]] velocity 
 
 This means that it is possible to calculate the skin drag of any body given you know the [[boundary layer momentum thickness|momentum thickness]] at the end.
 
