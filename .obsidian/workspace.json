@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
-                "mode": "preview",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of sin.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of sin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/example of invalid transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of sin.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform standard results.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/example of invalid transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using integral transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/TODO NOTE.md",
     "Mathematics for Engineering and the Environment/Year 2/Lecture slides/week 5/Lecture14_Hyperbolic1(3).pdf",
     "Mathematics for Engineering and the Environment/Year 2/Lecture slides/Week 1 Differential equations/Lecture3_ODE(1)(1).pdf",
-    "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Turbulant Flow for a laminar boundary layer Overview.md",
-    "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/calculating drag across a plate with a transition region.md",
-    "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Reynolds averaged Navier Stokes equations.md"
+    "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Turbulant Flow for a laminar boundary layer Overview.md"
   ]
 }
