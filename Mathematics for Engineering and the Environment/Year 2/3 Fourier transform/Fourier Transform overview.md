@@ -11,7 +11,7 @@ tags: ["NotesPage"]
 - [[first shift theorem for Laplace transform]]
 - [[Laplace transform of a derivative]]
 - [[linearity principle for Laplace transforms]]
-- [[indirectly integrating using integral transform]] 
+- [[indirectly integrating using Laplace transform]] 
 
 
 ## Expanded articles

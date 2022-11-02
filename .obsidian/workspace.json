@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using integral transform.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using Laplace transform.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using integral transform.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using Laplace transform.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of sin.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform standard results.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/example of invalid transform.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using integral transform.md",
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/TODO NOTE.md"
   ]
 }
