@@ -17,4 +17,7 @@ tags: []
 
 ### Proof
 
-
+$$\begin{align*}
+\mathcal{L} \left[ \frac{df}{dx} \right] &=  \int^{\infty}_{0} \frac{df}{dx} e^{-sx} \cdot dx\\
+  &= uv + \int \dot{u} v & &= \\
+\end{align*}$$
