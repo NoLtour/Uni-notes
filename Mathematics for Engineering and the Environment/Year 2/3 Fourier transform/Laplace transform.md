@@ -17,4 +17,6 @@ Similar to the [[defining the fourier series|Fourier series]] the [[Laplace tran
 
 ### Condition of a Laplace transform
 
-If $f(x)$ is bounded by an exponential $e^{ax}$ 
+If $f(x)$ is bounded by an exponential $e^{ax}$ for large $x$, then the laplace transform exists when $s>a$ (kind of obvious ngl). Or put mathematically:
+$$ \lim_{x\to \infty} f(x) e^{-sx} = 0 $$
+Aka multiply by $e^{-sx}$ goes to zero at limits then transform exists.
