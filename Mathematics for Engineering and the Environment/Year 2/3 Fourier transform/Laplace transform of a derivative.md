@@ -8,12 +8,14 @@ tags: []
 ### Useful bit
 
 > ## $$ \mathcal{L} \left[ \frac{df}{dx} \right] = s \tilde{f}(s) - f(0) $$
-## $$ \mathcal{L} \left[ \frac{d^{n}f}{dx^{n}} \right] = s^{n} \tilde{f}(s) - \sum\limits^{n-1}_{k=0} s^{n-(k+1)} f^{k}(0) $$ 
+> ## $$ \mathcal{L} \left[ \frac{d^{2}f}{dx^{2}} \right] = s^{2} \tilde{f}(s) - s f(0) - f'(0) $$
+> ## $$ \mathcal{L} \left[ \frac{d^{n}f}{dx^{n}} \right] = s^{n} \tilde{f}(s) - \sum\limits^{n-1}_{k=0} s^{n-(k+1)} f^{k}(0) $$ 
 >> where:
 >> $\mathcal{L}[...]=$ [[Laplace transform]] function
 >> $\tilde{f}(s)=$ [[Laplace transform]] of $f(x)$
 >> $s=$ frequency, independent variable of [[Laplace transform]]
 >> $f(x)=$ some function
+>> $f^{k}(x)=$ kth derivative of some function
 >> $x=$ independent variable of function being transformed
 
 
