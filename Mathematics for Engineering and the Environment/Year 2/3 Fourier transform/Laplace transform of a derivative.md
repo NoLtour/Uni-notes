@@ -19,5 +19,7 @@ tags: []
 
 $$\begin{align*}
 \mathcal{L} \left[ \frac{df}{dx} \right] &=  \int^{\infty}_{0} \frac{df}{dx} e^{-sx} \cdot dx\\
-  &= uv + \int \dot{u} v & &= \\
+  &= uv - \int \dot{u} v & \dot{v} &= \frac{df}{dx} & u &= e^{-sx} \\
+& & v &= f(x) & \dot{u} &= -se^{-sx}\\
+&= [ e^{-sx}f(x) ]^{\infty}_{0} - \int^{\infty}_{0} -se^{-sx} f(x) \cdot dx
 \end{align*}$$
