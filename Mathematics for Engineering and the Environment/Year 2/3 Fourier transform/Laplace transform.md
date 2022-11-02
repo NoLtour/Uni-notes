@@ -9,7 +9,8 @@ tags: []
 >> where:
 >> $\mathcal{L}[...]=$ [[Laplace transform]] function
 >> $\tilde{f}(s)=$ [[Laplace transform]] of $f(x)$
->> $s=$ frequency
+>> $s=$ frequency, independent variable of [[Laplace transform]]
 >> $f(x)=$ some function
+>> $x=$ independent variable of function being transformed
 
 Similar to the [[defining the fourier series|Fourier series]] the [[Laplace transform]] does not exist for all functions of $s$. 
