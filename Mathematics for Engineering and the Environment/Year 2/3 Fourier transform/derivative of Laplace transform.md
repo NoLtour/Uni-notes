@@ -22,4 +22,9 @@ tags: []
 $$\begin{align*}
  \tilde{f}(s) &= \int^{\infty}_{0} f(x) e^{-sx} \cdot dx\\
  \frac{d\tilde{f}}{ds} &= \frac{d}{ds} \int^{\infty}_{0} f(x) e^{-sx} \cdot dx\\
+&&&\text{since s and x are independent you can do the following}\\
+\frac{d\tilde{f}}{ds} &= \int^{\infty}_{0} f(x) \left(e^{-sx} \frac{d}{ds}\right) \cdot dx\\
+ &= \int^{\infty}_{0} f(x) (-xe^{-sx}) \cdot dx\\
+ &= -\int^{\infty}_{0} (xf(x)) e^{-sx} \cdot dx\\
+ &= -\mathcal{L}[xf(x)]
 \end{align*}$$
