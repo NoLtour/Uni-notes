@@ -21,7 +21,7 @@ $$\begin{align*}
  &=  \tilde{f}(s+a)\\
 \end{align*}$$
 
-Pretty ez
+Pretty [[super ez|ez]]
 
 ### Example
 
