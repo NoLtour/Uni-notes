@@ -5,7 +5,7 @@ tags: []
 
 ## First shift theorem for [[Laplace transform]]
 
-### Theorum
+### Theorem
 
 > ## $$ \mathcal{L}[e^{-ax}f(x)] = \tilde{f}(s+a) $$ 
 >> where:
@@ -15,4 +15,12 @@ tags: []
 
 ### Proof
 
+![[Pasted image 20221102145825.png]]
 
+Pretty ez
+
+### Example
+
+> Find the [[Laplace transform]] of $f(x)=e^{-4x}\sin(7x)$
+
+We know 
