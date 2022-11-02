@@ -13,4 +13,4 @@ tags: []
 >> $f(x)=$ some function
 >> $x=$ independent variable of function being transformed
 
-Similar to the [[defining the fourier series|Fourier series]] the [[Laplace transform]] does not exist for all functions of $s$. 
+Similar to the [[defining the fourier series|Fourier series]] the [[Laplace transform]] does not exist for all functions or values of $s$. 
