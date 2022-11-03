@@ -15,7 +15,8 @@ tags: ["NotesPage"]
 - [[derivative of Laplace transform]]
 - [[noteable properties of Laplace transforms]]
 - [[heaviside function]]
-- [[dirac theta functions]]
+- [[dirac theta function]]
+- 
 
 
 ## Expanded articles
