@@ -25,7 +25,8 @@
     "Templates/Maths equation highlighted.md",
     "Templates/Specific Subject.md",
     "Templates/SESA Simple def.md",
-    "Templates/flashcard template.md"
+    "Templates/flashcard template.md",
+    "Templates/jupyter basic plot.md"
   ],
   "startup_templates": [
     ""
