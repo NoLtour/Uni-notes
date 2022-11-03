@@ -9,5 +9,8 @@ Hyperbolic PDEs are usually associated with wave propagation, and are central to
 
 $$ \frac{\delta^{2} u}{\delta t^{2} } = c^{2} \frac{\delta^{2} u}{ \delta x^{2} } $$
 
-This is an example of a hyperbolic PDE, in which its graph can be seen bloew, i what is noteable is that as time proffresses the wave moves and there is no movement of "information" faster than what is permitted that the variable that in this case is defining inform
+This is an example of a hyperbolic PDE, in which its graph can be seen below; what is notable is that as time progresses the wave moves and there is no movement of "information" faster than what is permitted, the variable that in this case is defining information propagation speed "c".
+![[Pasted image 20221103214940.png]]
+![[Pasted image 20221103214950.png]]
+Other wave propagation problems include acoustics, seismic waves, shallow water theory, general relativity, global atmospheric dynamics, Maxwell’s equations, and so on.
 
