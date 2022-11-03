@@ -24,4 +24,4 @@ By summing multiple together it becomes possible to define bounds:
 >> $H(x)=$ [[heaviside function]]
 >> $x=$ independent variable
 
-Of course it is then also possible to toggle functions on/off over a given range by multiplying by ther
+Of course it is then also possible to toggle functions on/off over a given range by multiplying by these [[heaviside function]]s.
