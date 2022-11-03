@@ -18,8 +18,10 @@ Here we can see such an impulsive function, this can be quite useful and is call
 
 By summing multiple together it becomes possible to define bounds:
 
-> ## $$ H(x-a)\times H(b-x) = $$ 
+> ## $$ H(x-a)\times H(b-x) = \begin{dcases}1, & a<x<b\\0,&else \end{dcases} $$ 
+> ## $$ H(x-a) - H(x-b) = \begin{dcases}1, & a<x<b\\0,&else \end{dcases} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $H(x)=$ [[heaviside function]]
+>> $x=$ independent variable
+
+Of course it is then also possible to toggle functions on/off over a given range by multiplying by ther
