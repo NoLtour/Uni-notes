@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# Fourier Transform overview
+# Laplace Transform overview
 
 #### Intro and contents
 - [[Laplace transform]]
@@ -32,4 +32,6 @@ tags: ["NotesPage"]
 ![[dirac delta function]]
 ![[transforms of impulse functions]]
  
- 
+
+
+
