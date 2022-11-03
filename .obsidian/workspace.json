@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/heaviside function.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/heaviside function.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/heaviside function.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/noteable properties of Laplace transforms.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/it is not that bad to be fair.md",
@@ -131,7 +132,6 @@
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace transform of a derivative.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/no you will do maths work.md",
     "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf",
-    "2022-11-02.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/indirectly integrating using Laplace transform.md"
+    "2022-11-02.md"
   ]
 }
