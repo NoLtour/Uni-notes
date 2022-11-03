@@ -9,7 +9,11 @@ These are similar to [[heaviside function]] except instead of going to zero unde
 
 > ## $$ \delta(x-a) = \begin{dcases}0, &x\neq a\\ \infty,&x=a \end{dcases} $$ 
 > ## $$ \int^{\infty}_{-\infty} \delta(x-a) K \cdot dx = K $$
-> ## $$ \int^{A}_{B} \delta(x-a) K \cdot dx = 0 \:\:\:\:\:{a>A} c \do $$
+> ## $$ \int^{\infty}_{-\infty} \delta(x-a) f(x) \cdot dx = f(a) $$
+> ## $$ \int^{A}_{B} \delta(x-a) K \cdot dx = 0 \:\:\:\:\:\text{if }{a>A\text{ or }a<B}   $$
 >> where:
 >> $H(x)=$ [[heaviside function]]
 >> $x=$ independent variable
+
+The above can clearly be used for defining impulses.
+
