@@ -5,9 +5,22 @@ tags: []
 
 ## Noteable properties of Laplace transforms
 
-These are just some noteable results that are somewhat useful and don't really fit anywhere:
+These are just some noteable results that are somewhat useful and don't really fit anywhere.
 
-> ## $$ \mathcal{L}[ \frac{\delta}{\delta A} f(x) ] = \delta/del $$ 
+The following is essentially just "if you have a derivative that is taken for a variable independent of $x$ and $s$ then it can be taken out" which is kinda obvious but should also not be forgotten.
+
+> ## $$ \mathcal{L}\left[ \frac{\delta}{\delta A} f(x) \right] = \frac{\delta}{\delta a} \tilde{f}(s) $$ 
+>> where:
+>> $\mathcal{L}[...]=$ [[Laplace transform]] function
+>> $\tilde{f}(s)=$ [[Laplace transform]] of $f(x)$
+>> $s=$ frequency, independent variable of [[Laplace transform]]
+>> $f(x)=$ some function of $x$
+>> $x=$ independent variable of function being transformed
+>> $A=$ some variable independent of $x$ and $s$
+
+Then there is this [[it is not that bad to be fair|eldritch horror]], apparently can be useful for some inversion problems?
+
+> ## $$ \mathcal{L} \int^{x}_{0} = $$ 
 >> where:
 >> $=$ 
 >> $=$
