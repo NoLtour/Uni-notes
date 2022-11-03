@@ -14,7 +14,7 @@ tags: ["NotesPage"]
 - [[indirectly integrating using Laplace transform]] 
 - [[derivative of Laplace transform]]
 - [[noteable properties of Laplace transforms]]
-- 
+- [[heaviside function]]
 
 
 ## Expanded articles
