@@ -14,4 +14,6 @@ Here $u=u(x,y)$ and $a,b,c,d,e,f$ are all functions independent of $x,y$. To be 
 - [[parabolic partial differential equations]]
 - [[elliptic partial differential equations]]
 
+Some don't fall into these categories, but for engineering it isn't common to deal with such equations so who cares.
+
 ### Embeds
