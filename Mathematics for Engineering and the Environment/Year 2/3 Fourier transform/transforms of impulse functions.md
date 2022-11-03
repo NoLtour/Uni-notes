@@ -29,9 +29,10 @@ This is derived from using the [[first shift theorem for Laplace transform|first
 
 ### Laplace transform of [[dirac delta function]]
 
-> ### $$ \mathcal{L}[\delta(x-a)] = \begin{dcases}0, &a\\ \infty,&x=a \end{dcases} $$ 
+> ### $$ \mathcal{L}[\delta(x-a)] = e^{-as} $$ 
+>> requires:
+>> $a>0$
 >
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\mathcal{L}[..]=$ [[Laplace transform]]
+>> $\delta(x-a)=$ [[dirac delta function]]
