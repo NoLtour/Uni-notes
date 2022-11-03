@@ -10,6 +10,7 @@ tags: []
 ### Equation
 
 > ## $$ \mathcal{L}[xf(x)] = - \frac{d\tilde{f}}{ds}  $$ 
+> ## $$ \mathcal{L}[xf(x)] = - \frac{d }{ds} \mathcal{L}[f(x)]  $$ 
 >> where:
 >> $\mathcal{L}[...]=$ [[Laplace transform]] function
 >> $\tilde{f}(s)=$ [[Laplace transform]] of $f(x)$
