@@ -16,7 +16,7 @@ tags: ["NotesPage"]
 - [[noteable properties of Laplace transforms]]
 - [[heaviside function]]
 - [[dirac theta function]]
-- 
+- [[transforms of impulse functions]]
 
 
 ## Expanded articles
