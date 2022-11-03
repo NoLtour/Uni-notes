@@ -1,5 +1,5 @@
 ---
-aliases: ["Laplace transform of heaviside function","heaviside function Laplace transform"]
+aliases: ["Laplace transform of heaviside function","heaviside function Laplace transform","second shift theorem"]
 tags: []
 ---
 
@@ -9,10 +9,18 @@ If we take the [[heaviside function]] and the [[dirac theta function]] we can do
 ### Laplace transform of [[heaviside function]]
 
 > ## $$ \mathcal{L}[ H(x-a) ] = \frac{e^{-as}}{s} $$ 
-> ## $$ \mathcal{L-1 }[ \frac{e^{-as}}{s} ] = H(x-a) $$ 
+> ## $$\therefore \mathcal{L }^{-1}\left[ \frac{e^{-as}}{s} \right] = H(x-a) $$ 
 >> requires:
 >> Re$(s)>0$
 >
 >> where:
 >> $\mathcal{L}[..]=$ [[Laplace transform]]
 >> $H(...)=$ [[heaviside function]]
+
+### Second shift theorem
+
+> ## $$ \mathcal{L}[] = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
