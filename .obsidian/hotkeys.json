@@ -104,5 +104,14 @@
       ],
       "key": "R"
     }
+  ],
+  "templater-obsidian:Templates/jupyter basic plot.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }

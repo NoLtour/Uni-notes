@@ -20,16 +20,19 @@
             }
           },
           {
-            "id": "6924163a6f7ac570",
+            "id": "0c210a464911d0bf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace Transform overview.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,17 +134,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f487590d780b1e7c",
+  "active": "0c210a464911d0bf",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Laplace Transform overview.md",
+    "conflict-files-obsidian-git.md",
+    "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/transforms of impulse functions.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/dirac delta function.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/insanity.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/heaviside function.md",
     "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/major coping.md",
     "Mathematics for Engineering and the Environment/Year 2/2 Fourier series/complex fourier series.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/noteable properties of Laplace transforms.md",
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/it is not that bad to be fair.md"
+    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/noteable properties of Laplace transforms.md"
   ]
 }
