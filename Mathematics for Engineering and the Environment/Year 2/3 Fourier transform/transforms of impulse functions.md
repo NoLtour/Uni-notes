@@ -4,7 +4,7 @@ tags: []
 ---
 
 ## Transforms of impulse functions
-If we take the [[heaviside function]] and the [[dirac theta function]] we can do some [[insanity|funky]] stuff using [[Laplace transform]] to get useful identities.
+If we take the [[heaviside function]] and the [[dirac delta function]] we can do some [[insanity|funky]] stuff using [[Laplace transform]] to get useful identities.
 
 ### Laplace transform of [[heaviside function]]
 
@@ -19,10 +19,19 @@ If we take the [[heaviside function]] and the [[dirac theta function]] we can do
 
 ### Second shift theorem
 
-This 
+This is derived from using the [[first shift theorem for Laplace transform|first shift theorem]].
 
 > ### $$ \mathcal{L}[ f(x)H(x-a) ] = e^{-as} \mathcal{L}[f(x+a)] $$ 
 > ### $$ \mathcal{L}[ f(x-a)H(x-a) ] = e^{-as} \mathcal{L}[f(x)] = e^{-as} \tilde{f}(s) $$ 
 >> where:
 >> $\mathcal{L}[..]=$ [[Laplace transform]]
 >> $H(...)=$ [[heaviside function]]
+
+### Laplace transform of [[dirac delta function]]
+
+> ### $$ \mathcal{L}[\delta(x-a)] = \begin{dcases}0, &a\\ \infty,&x=a \end{dcases} $$ 
+>
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
