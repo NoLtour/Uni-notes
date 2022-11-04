@@ -19,7 +19,7 @@ This guy figured out planets orbit in ellipses, then he made a telescope and put
 - [[orbital mean motion]]
 - [[orbital elements]]
 - [[perigee and apogee radius]]
-- [[orb]]
+- [[orbital energy]]
 
 
 ## Expanded articles
