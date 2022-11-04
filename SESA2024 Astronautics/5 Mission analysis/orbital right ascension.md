@@ -12,3 +12,5 @@ The orbital right of ascension of the ascending node is the angle between the [[
 Then the [[ascending node]] describes the satellites orbit which remains static relative to the [[first point of aries]], hence the angle between these can be used as a constant which describes the position of the [[ascending node]]:
 
 ![[Orb_elem-1685845700.gif]]
+
+![[Pasted image 20221104145936.png]]
