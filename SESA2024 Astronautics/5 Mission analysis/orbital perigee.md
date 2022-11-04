@@ -1,5 +1,5 @@
 ---
-aliases: ["perigee"]
+aliases: ["perigee","argument of perigee"]
 tags: []
 ---
 
