@@ -11,11 +11,9 @@
             "id": "cfd79ca0887ce227",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/dirac delta function.md",
-                "mode": "source",
-                "source": true
+                "file": "Aerodynamics/Lecture slides/3 Potential flow/Topic 3 Potential Flow(8).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/dirac delta function.md",
+                "file": "Aerodynamics/Lecture slides/3 Potential flow/Topic 3 Potential Flow(8).pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,15 +122,15 @@
   },
   "active": "cfd79ca0887ce227",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/3 Fourier transform/Fourier Transform overview.md",
-    "Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md",
-    "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Turbulant Flow for a laminar boundary layer Overview.md",
-    "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Reynolds averaged Navier Stokes equations.md",
-    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
-    "Aerodynamics/Lecture slides/1 Mathematical and Numerical Concepts/Topic 1 Mathematical and Numerical Concepts(4).pdf",
-    "Templates/jupyter basic plot.md",
-    "Aerodynamics/Lecture slides/3 Potential flow/Topic 3 Potential Flow(8).pdf",
-    "Aerodynamics/Lecture slides/Potential flow/Topic 3 Potential Flow(8).pdf",
-    "Aerodynamics/2 Incompressible Viscous flow/2 Laminar Boundary Layer/Viscous Flow for a laminar boundary layer Overview.md"
+    "Aerodynamics/Aerodynamics overview.md",
+    "Thermofluids/20 Hydrostatic pressure/pressure (hydrostatics).md",
+    "SESA2024 Astronautics/2 Attitude control/disturbance torques.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md",
+    "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
+    "SESA2024 Astronautics/2 Attitude control/internal torques and torquers.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
+    "SESA2024 Astronautics/2 Attitude control/controllable external torquers.md",
+    "SESA2024 Astronautics/3 Propulsion intro/thrust within an atmospheric environment.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md"
   ]
 }
