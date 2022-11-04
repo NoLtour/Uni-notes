@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/first point of aries.md",
-                "mode": "preview",
+                "file": "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/first point of aries.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/5 Mission analysis/first point of aries.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital elements.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital true anomaly.md",
@@ -131,7 +132,6 @@
     "SESA2024 Astronautics/5 Mission analysis/orbital perigee.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital inclination.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "SESA2024 Astronautics/5 Mission analysis/ellipse equation polar form.md",
-    "SESA2024 Astronautics/5 Mission analysis/why the flying fuck do they want to use lower case e for eccentrisity are they insane.md"
+    "SESA2024 Astronautics/5 Mission analysis/ellipse equation polar form.md"
   ]
 }
