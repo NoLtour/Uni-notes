@@ -14,3 +14,6 @@ This is an example of a hyperbolic PDE, in which its graph can be seen below; wh
 ![[Pasted image 20221103214950.png]]
 Other wave propagation problems include acoustics, seismic waves, shallow water theory, general relativity, global atmospheric dynamics, Maxwell’s equations, and so on.
 
+### Boundary conditions
+
+
