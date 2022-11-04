@@ -4,3 +4,6 @@ tags: []
 ---
 
 ## Orbital right ascension ($\Omega$)
+
+[[first point of aries]]
+
