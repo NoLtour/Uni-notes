@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/Aerodynamics overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/Aerodynamics overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "SESA2024 Astronautics/5 Mission analysis/ellipse equation polar form.md",
+    "SESA2024 Astronautics/5 Mission analysis/why the flying fuck do they want to use lower case e for eccentrisity are they insane.md",
     "Aerodynamics/Aerodynamics overview.md",
+    "conflict-files-obsidian-git.md",
     "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 1/8 Matrices 2/using elementary row operations to get the upper-triangular form.md",
     "Mathematics for Engineering and the Environment/Year 1/8 Matrices 2/yes I am using a meme from the stone age fucking cope.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/based and so redpilled I overdosed.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/classification of partial differential equations.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/elliptic partial differential equations.md"
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md"
   ]
 }
