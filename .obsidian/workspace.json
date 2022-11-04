@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/perigee.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/orbital eccentricity.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/perigee.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/orbital eccentricity.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/5 Mission analysis/argument of perigee.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital elements.md",
+    "SESA2024 Astronautics/5 Mission analysis/orbital semi-major axis.md",
+    "SESA2024 Astronautics/5 Mission analysis/argument of perigee.md",
+    "SESA2024 Astronautics/5 Mission analysis/perigee.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital inclination.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md",
     "SESA2024 Astronautics/5 Mission analysis/first point of aries.md",
     "SESA2024 Astronautics/5 Mission analysis/ascending node.md",
     "SESA2024 Astronautics/5 Mission analysis/I REALLY hate these measurement systems.md",
-    "SESA2024 Astronautics/5 Mission analysis/orbital true anomaly.md",
-    "SESA2024 Astronautics/5 Mission analysis/orbital eccentricity.md",
-    "SESA2024 Astronautics/5 Mission analysis/orbital semi-major axis.md"
+    "SESA2024 Astronautics/5 Mission analysis/orbital true anomaly.md"
   ]
 }
