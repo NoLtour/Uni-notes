@@ -25,7 +25,7 @@ Then it's shape using:
 - [[orbital semi-major axis]]
 - [[orbital eccentricity]]
 
-And 
+And finally the position of the satellite in it's orbit using [[orbital true anomaly|true anomaly]].
 
 ### Embeds
 
