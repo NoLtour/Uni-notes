@@ -7,3 +7,5 @@ Idk ping me on discord if you see this.
 Yes I have a meme for that. I have 800 (at the time of writing this), there are no situations I don't have a meme for.
 
 ![[video0_4 1.mp4]]
+
+Rookie numbers, the meme folder has passed 2000

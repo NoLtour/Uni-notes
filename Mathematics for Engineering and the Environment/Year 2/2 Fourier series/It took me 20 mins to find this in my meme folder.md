@@ -1,1 +1,0 @@
-![[redditsave.com_rule-cpdmzje981c91.mp4#play&t=10&loop]]
