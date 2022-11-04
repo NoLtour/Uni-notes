@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SESA2024 Astronautics/5 Mission analysis/orbital energy.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -123,6 +123,8 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
+    "SESA2024 Astronautics/5 Mission analysis/orbital energy.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "SESA2024 Astronautics/5 Mission analysis/perigee and apogee radius.md",
     "SESA2024 Astronautics/5 Mission analysis/perigee and apogee.md",
@@ -130,8 +132,6 @@
     "SESA2024 Astronautics/5 Mission analysis/argument of perigee.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital elements.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital eccentricity.md",
-    "SESA2024 Astronautics/5 Mission analysis/orbital semi-major axis.md",
-    "SESA2024 Astronautics/5 Mission analysis/orbital inclination.md",
-    "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md"
+    "SESA2024 Astronautics/5 Mission analysis/orbital semi-major axis.md"
   ]
 }

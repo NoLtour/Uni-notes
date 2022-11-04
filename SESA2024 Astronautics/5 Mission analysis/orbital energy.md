@@ -12,4 +12,5 @@ K &= \frac{1}{2}mV^{2} + \int^{r}_{0} \frac{GMm}{r^{2}} \cdot dr\\
 \frac{K}{m} &= \frac{V^{2}}{2} - \frac{\mu}{r} 
 \end{align*}$$
 
+Then we know that [[specific orbital moment of momentum|orbital angular momentum]] is conserved
 

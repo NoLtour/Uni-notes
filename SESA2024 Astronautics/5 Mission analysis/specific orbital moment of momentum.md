@@ -8,7 +8,7 @@ The specific relative angular momentum is defined as the [[cross product (vector
  
 > ## $$ \underline{h} = \underline{r} \times \underline{V} $$ 
 >> where:
->> $\underline{h}=$ [[orbital moment of momentum|specific orbital angular momentum]]
+>> $\underline{h}=$ [[specific orbital moment of momentum|specific orbital angular momentum]]
 >> $\underline{V}=$ velocity vector
 >> $\underline{r}=$ position vector of orbiting satellite.
 
@@ -16,7 +16,7 @@ Alternatively written using the same format from [[tangential and radial acceler
 
 > ## $$ |\underline{h}| = r \frac{d\theta}{dt} = r \omega = |\underline{r}\times \underline{V}| $$ 
 >> where:
->> $\underline{h}=$ [[orbital moment of momentum|specific orbital angular momentum]]
+>> $\underline{h}=$ [[specific orbital moment of momentum|specific orbital angular momentum]]
 >> $\omega=$ [[rigid body rotation around a fixed axis|angular velocity]]
 >> ![[Pasted image 20221028111435.png]]
 
