@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
+                "file": "Aerodynamics/Aerodynamics overview.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dfcf08bb57e56ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,8 +134,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9dba8c53e0736664",
+  "active": "dfcf08bb57e56ecb",
   "lastOpenFiles": [
+    "Aerodynamics/Aerodynamics overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 1/8 Matrices 2/using elementary row operations to get the upper-triangular form.md",
     "Mathematics for Engineering and the Environment/Year 1/8 Matrices 2/yes I am using a meme from the stone age fucking cope.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/based and so redpilled I overdosed.md",
@@ -130,8 +145,6 @@
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/classification of partial differential equations.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/elliptic partial differential equations.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/parabolic partial differential equations.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/hyperbolic partial differential equations.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/abdombidination.md"
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/parabolic partial differential equations.md"
   ]
 }
