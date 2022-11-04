@@ -15,4 +15,4 @@ The value of $b^{2}-ac$ determines what type it is.
 >> $b^{2}-ac=0$ then it's a [[hyperbolic partial differential equations|hyperbolic PDE]]
 >> $b^{2}-ac>0$ then it's a [[parabolic partial differential equations|parabolic PDE]]
 
-It is possible that the classification of the PDE can change as the coordinates $y,x$ vary so it is nessisary
+It is possible that the classification of the PDE can change as the coordinates $y,x$ vary so it is necessary to check the classification of the PDE across the entire range, if it does change classification across the range then you may need to find multiple solutions.
