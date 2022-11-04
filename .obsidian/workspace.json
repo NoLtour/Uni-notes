@@ -23,12 +23,8 @@
             "id": "d6ce1d1949ab1c3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
