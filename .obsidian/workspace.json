@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/classification of partial differential equations.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/classification of partial differential equations.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,15 @@
   },
   "active": "d6ce1d1949ab1c3f",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/elliptic partial differential equations.md",
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/classification of partial differential equations.md",
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md",
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/elliptic partial differential equations.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/parabolic partial differential equations.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/hyperbolic partial differential equations.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/abdombidination.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/it really does look bad.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
-    "conflict-files-obsidian-git.md",
-    "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/formula2048-2021.pdf"
+    "conflict-files-obsidian-git.md"
   ]
 }

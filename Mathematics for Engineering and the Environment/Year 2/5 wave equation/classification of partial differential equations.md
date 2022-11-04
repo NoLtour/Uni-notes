@@ -17,3 +17,7 @@ Here $u=u(x,y)$ and $a,b,c,d,e,f$ are all functions independent of $x,y$. To be 
 Some don't fall into these categories, but for engineering it isn't common to deal with such equations so who cares.
 
 ### Embeds
+
+![[hyperbolic partial differential equations]]
+![[parabolic partial differential equations]]
+![[elliptic partial differential equations]]
