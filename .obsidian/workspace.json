@@ -23,8 +23,12 @@
             "id": "d6ce1d1949ab1c3f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/based and so redpilled I overdosed.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "meme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/based and so redpilled I overdosed.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +135,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "d6ce1d1949ab1c3f",
+  "active": "075671ccff8c4b69",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/determining partial differential equation type.md",
