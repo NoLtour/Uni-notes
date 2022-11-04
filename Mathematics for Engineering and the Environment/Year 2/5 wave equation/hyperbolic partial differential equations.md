@@ -18,4 +18,6 @@ Other wave propagation problems include acoustics, seismic waves, shallow water 
 
 ![[Pasted image 20221104093233.png]]
 
-
+To fix these equations we require 4 boundary conditions:
+- 2 Boundary conditions at the ends of the domain $x=0 ,\:x=L$. These boundary values might be 
+- 
