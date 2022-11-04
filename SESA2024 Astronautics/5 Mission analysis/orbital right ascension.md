@@ -5,5 +5,5 @@ tags: []
 
 ## Orbital right ascension ($\Omega$)
 
-[[first point of aries]]
+The orbital right of as
 
