@@ -16,4 +16,6 @@ Other wave propagation problems include acoustics, seismic waves, shallow water 
 
 ### Boundary conditions
 
+![[Pasted image 20221104093233.png]]
+
 
