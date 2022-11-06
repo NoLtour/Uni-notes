@@ -1,5 +1,5 @@
 ---
-aliases: ["eular equations for potential flow syntax"]
+aliases: ["euler equations for potential flow syntax"]
 tags: []
 ---
 
@@ -20,6 +20,11 @@ Now all the equations we defined such as [[euler equations for inviscid and inco
 
 Note that $w$ is equivalent to $V_{z}$.
 
-#### Euler equations
+#### [[euler equations for inviscid and incompressible flow|Euler equations]]
 
-> ### $$ \frac{\delta}{} $$
+> ### $$ \frac{\delta u}{\delta x} + \frac{\delta w}{\delta z} = 0 $$
+> ### $$ u \frac{\delta u}{\delta x} + w \frac{\delta u}{\delta z} = \frac{1}{\rho} \frac{\delta p}{\delta x} $$
+> ### $$ u \frac{\delta w}{\delta x} + w \frac{\delta w}{\delta z} = \frac{1}{\rho} \frac{\delta p}{\delta z} $$
+
+#### [[curl of a vector|curl]] 
+
