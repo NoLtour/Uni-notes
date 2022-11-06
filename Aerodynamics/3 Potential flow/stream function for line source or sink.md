@@ -27,4 +27,66 @@ $$\begin{align*}
 Once again it is also possible to do a similar method to find the [[velocity potential]] (which would be $\phi = \frac{Q}{2\pi}\ln r$). To convert this into cartesian coordinates is trivial, just sub in $\theta=\arctan \frac{z}{x}$:
 $$ \frac{Q}{2\pi} \arctan \frac{z}{x}  = \psi( x, z ) $$
 This form still requires the source/sink to be at the origin, but if we let the source be at $(x_{0},z_{0})$ it's clear that the stream function can be written as:
-$$ \frac{Q}{2\pi} \arctan \frac{z}{x}  = \psi( x-x_{0}, z-z_{0} ) $$
+$$ \frac{Q}{2\pi} \arctan \frac{z-z_{0}}{x-x_{0}}  = \psi( x, z ) $$
+
+
+### Equation
+
+> ## $$ \psi(x,z) = \frac{Q}{2\pi} \arctan \left(\frac{z-z_{0}}{x-x_{0}}\right)  $$ 
+>> where:
+>> $z,x=$ position
+>> $x_{0},z_{0}=$ position of source/sink
+>> $Q=$ area flow rate from source (negative indicates sink)
+>> $\psi=$ [[stream function (2D)|stream function]] of source/sink
+
+### Application
+
+
+```jupyter
+import numpy as np
+import matplotlib.pyplot as plot
+
+domainWidth = 2;
+
+xMin = -domainWidth
+xMax = domainWidth
+zMin = -domainWidth
+zMax = domainWidth
+
+dx = dz = 0.25
+
+# Create axis' using domain at the defined resolution
+xAxis = np.arange( xMin, xMax, dx )
+zAxis = np.arange( zMin, zMax, dz )
+
+# We take our 2 axis and then create a grid
+x,z = np.meshgrid( xAxis, zAxis )
+ 
+
+def getVelocitys( streamFunction ):
+	dZpsi,dXpsi = np.gradient( streamFunction );
+	
+	u = dZpsi/dz
+	w = -dXpsi/dx
+	
+	return [u,w]
+
+def getPressureCFs( u,w,Uref ):
+	return 1-((u**2 + w**2) / (Uref**2))
+
+# Here is the linear stream function we defined above
+def sourceSF( x,z, alpha, speed ):
+    return speed*( (z*np.cos(alpha) ) - (x*np.sin(alpha) )  )
+
+# By changning alpha and speed you can change the resulting velocitys
+streamFunction = linearSF( x,z, np.pi/8, 5 );
+
+# We can then get the velocitys from the scalar values of the stream function
+u,w = getVelocitys( streamFunction )
+
+plot.figure(69)
+plot.title("flow field")
+plot.quiver( z, x, u, w )
+
+plot.show()
+```
