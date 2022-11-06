@@ -24,4 +24,7 @@ $$\begin{align*}
 \therefore \: \frac{Q}{2\pi} \theta  &= \psi( r, \theta )
 \end{align*}$$
 
-Once again it is also possible to do a similar method to find the [[velocity potential]] (which would be $\phi $)
+Once again it is also possible to do a similar method to find the [[velocity potential]] (which would be $\phi = \frac{Q}{2\pi}\ln r$). To convert this into cartesian coordinates is trivial, just sub in $\theta=\arctan \frac{z}{x}$:
+$$ \frac{Q}{2\pi} \arctan \frac{z}{x}  = \psi( x, z ) $$
+This form still requires the source/sink to be at the origin, but if we let the source be at $(x_{0},z_{0})$ it's clear that the stream function can be written as:
+$$ \frac{Q}{2\pi} \arctan \frac{z}{x}  = \psi( x-x_{0}, z-z_{0} ) $$
