@@ -43,7 +43,8 @@ def getVelocitys( streamFunction ):
 With velocity defined, it is then possible to get pressures using [[Bernouillis equation]] since [[solving the euler equations|we know that for irrotational flow bernoulli can be applied between any two points]]. Hence to get [[pressure coefficient]]:
 
 $$\begin{align*}
-C_{p} &= \frac{p-p_{\infty}}{\frac{1}{2}\rho_{\infty}V^{2}_{\infty}}\\
+&&  \frac{U^{2}}{2} + hg + \frac{p}{\rho} &= K \\
+C_{p} &= \frac{p-p_{\infty}}{\frac{1}{2}\rho_{\infty}V^{2}_{\infty} } & frac{U_{\infty}^{2}}{2}  + \frac{p_{\infty}}{\rho} &= frac{U^{2}}{2}  + \frac{p}{\rho} \\
 &= 
 \end{align*}$$
 
