@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/pressure coefficient when there is no freestream.md",
-                "mode": "preview",
+                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "203ec70268f2e6ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/pressure coefficient when there is no freestream.md",
+                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,11 +158,11 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f487590d780b1e7c",
+  "active": "203ec70268f2e6ba",
   "lastOpenFiles": [
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
-    "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
     "Aerodynamics/3 Potential flow/pressure coefficient when there is no freestream.md",
+    "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
     "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
     "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",

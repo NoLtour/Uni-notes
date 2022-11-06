@@ -12,6 +12,7 @@ Contents:
 - [[coordinate system being used in potential flow (stupid)]]
 - [[computational environment setup for potential flow]]
 - [[pressure coefficient when there is no freestream]]
+- [[stream function for uniform flow]]
 
 
 ## Expanded articles
