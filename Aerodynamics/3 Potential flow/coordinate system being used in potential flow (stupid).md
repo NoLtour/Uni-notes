@@ -26,5 +26,12 @@ Note that $w$ is equivalent to $V_{z}$.
 > ### $$ u \frac{\delta u}{\delta x} + w \frac{\delta u}{\delta z} = \frac{1}{\rho} \frac{\delta p}{\delta x} $$
 > ### $$ u \frac{\delta w}{\delta x} + w \frac{\delta w}{\delta z} = \frac{1}{\rho} \frac{\delta p}{\delta z} $$
 
-#### [[curl of a vector|curl]] 
+#### [[curl of a vector|Irrotational flow]] 
 
+Since we are working in 2D the only direction of curl that matters is in the $y$ direction hence:
+
+> ### $$ \left(\frac{\delta u}{\delta z} - \frac{\delta w}{\delta x }\right) \hat{e}_{y} $$
+
+Of course if this equals zero then we know the flow is irrotational, hence for irrotational flow:
+
+> ### $$ \left(\frac{\delta u}{\delta z} - \frac{\delta w}{\delta x }\right) \hat{e}_{y} $$
