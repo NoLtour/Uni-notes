@@ -8,7 +8,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.25
+dx = dz = 0.2
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -31,7 +31,8 @@ def getPressureCFs( u,w,Uref ):
 
 # Here is the linear stream function we defined above
 def sourceSF( x0,z0, x,z, flowRate ):
-    return (flowRate/(2*np.pi)) * np.arctan2( (z0-z), (x0-x) )
+    return x+z
+    #return (flowRate/(2*np.pi)) * np.arctan2( (z-z0), (x-x0) )
 
 # By changning alpha and speed you can change the resulting velocitys
 streamFunction = sourceSF( 0.6,0.6, x,z, 5 );
