@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,7 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Aerodynamics/3 Potential flow/stream function for a doublet.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/addition of stream functions.md",
     "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
@@ -155,7 +156,6 @@
     "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
     "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
-    "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md"
+    "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md"
   ]
 }
