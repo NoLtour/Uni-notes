@@ -15,4 +15,11 @@ $$\begin{align*}
 Q &=  2\pi r V\\
 \frac{Q}{2\pi r} &= V
 \end{align*}$$
-Since we know that $V$ is only acting in the radial direction, this can be written as $\frac{Q}{2\pi r} &= V_{r}$ now we just sub the identities of radial and angular veloicty into the stream function defenition in polar coordiantes and integrate:
+Since we know that $V$ is only acting in the radial direction, this can be written as $\frac{Q}{2\pi r}  = V_{r}$ now we just sub the identities of radial and angular velocity into the [[stream function (2D)|stream function]] definition in polar coordiantes and integrate:
+$$\begin{align*}
+ V_{r} &= \frac{1}{r} \frac{\delta \psi}{ \delta \theta } & V_{\theta} &= - \frac{\delta \psi}{ \delta r } \\
+\frac{Q}{2\pi r} &= \frac{1}{r} \frac{\delta \psi}{ \delta \theta } & 0 &= - \frac{\delta \psi}{ \delta r }\\
+\int \frac{Q}{2\pi  } \delta \theta &=  \int \delta \psi  &\int 0 \delta r &= \int \delta \psi  \\
+ \frac{Q}{2\pi} \theta &= 
+
+\end{align*}$$
