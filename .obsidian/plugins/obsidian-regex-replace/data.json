@@ -1,6 +1,6 @@
 {
-  "findText": "U",
-  "replaceText": "V",
+  "findText": "\\infty",
+  "replaceText": "ref",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,
