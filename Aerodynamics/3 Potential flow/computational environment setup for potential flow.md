@@ -40,17 +40,19 @@ def getVelocitys( streamFunction ):
 	return [u,w]
 ```
 
-With velocity defined, it is then possible to get pressures using [[Bernouillis equation]] since [[solving the euler equations|we know that for irrotational flow bernoulli can be applied between any two points]]. Hence to get [[pressure coefficient]]:
+With velocity defined, it is then possible to get [[pressure coefficient]]s using [[Bernouillis equation]] since [[solving the euler equations|we know that for irrotational flow bernoulli can be applied between any two points]]:
 
 $$\begin{align*}
-&&  \frac{U^{2}}{2} + hg + \frac{p}{\rho} &= K \\
-& & \frac{U_{\infty}^{2}}{2}  + \frac{p_{\infty}}{\rho} &= \frac{U^{2}}{2}  + \frac{p}{\rho} \\
-C_{p} &= \frac{p-p_{\infty}}{\frac{1}{2}\rho_{\infty}V^{2}_{\infty} } &  \rho \left(\frac{U_{\infty}^{2}}{2} - \frac{U^{2}}{2}\right) &=     p  -  p_{\infty} \\
- &= \frac{  U_{\infty}^{2} -  U^{2}  }{ V^{2}_{\infty} }
+&&  \frac{V^{2}}{2} + hg + \frac{p}{\rho} &= K \\
+& & \frac{V_{\infty}^{2}}{2}  + \frac{p_{\infty}}{\rho} &= \frac{V^{2}}{2}  + \frac{p}{\rho} \\
+C_{p} &= \frac{p-p_{\infty}}{\frac{1}{2}\rho_{\infty}V^{2}_{\infty} } &  \rho \left(\frac{V_{\infty}^{2}}{2} - \frac{V^{2}}{2}\right) &=     p  -  p_{\infty} \\
+ &= \frac{  V_{\infty}^{2} -  V^{2}  }{ V^{2}_{\infty} } &&& V^{2} &= u^{2} + w^{2}\\
+  &= 1-\frac{  u^{2} + w^{2}  }{ V^{2}_{\infty} }
 \end{align*}$$
-
+Implemented into code this becomes:
 
 ```jupyter
 def getPressureCFs( u,w,Uref ):
 	return 1-((u**2 + w**2) / (Uref**2))
 ```
+

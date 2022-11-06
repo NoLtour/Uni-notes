@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           },
