@@ -33,13 +33,13 @@ Since we will be given a stream function and we need velocity, we know we can ge
 ```jupyter
 
 def getVelocitys( streamFunction ):
-	u,w = np.gradient( streamFunction );
+	dZpsi,dXpsi = np.gradient( streamFunction );
 	
-	# Since 
-	u = u/dz
-	w = -w/dx
+	u = dZpsi/dz
+	w = -dXpsi/dx
 	
 	return [u,w]
 
-
 ```
+
+With velocity defined, it is then possible to get pressures using [[Bernouillis equation]] since [[solving the euler equations|we kn]]
