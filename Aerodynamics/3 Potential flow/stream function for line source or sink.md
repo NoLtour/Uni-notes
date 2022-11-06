@@ -53,7 +53,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.1
+dx = dz = 0.25
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -79,7 +79,7 @@ def sourceSF( x0,z0, x,z, flowRate ):
     return (flowRate/(2*np.pi)) * np.arctan( (z0-z)/(x0-x) )
 
 # By changning alpha and speed you can change the resulting velocitys
-streamFunction = sourceSF( 1,1, x,z, 5 );
+streamFunction = sourceSF( 0.6,0.6, x,z, 5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
