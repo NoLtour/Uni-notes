@@ -44,8 +44,9 @@ With velocity defined, it is then possible to get pressures using [[Bernouillis 
 
 $$\begin{align*}
 &&  \frac{U^{2}}{2} + hg + \frac{p}{\rho} &= K \\
-C_{p} &= \frac{p-p_{\infty}}{\frac{1}{2}\rho_{\infty}V^{2}_{\infty} } & frac{U_{\infty}^{2}}{2}  + \frac{p_{\infty}}{\rho} &= frac{U^{2}}{2}  + \frac{p}{\rho} \\
-&= 
+& & \frac{U_{\infty}^{2}}{2}  + \frac{p_{\infty}}{\rho} &= \frac{U^{2}}{2}  + \frac{p}{\rho} \\
+C_{p} &= \frac{p-p_{\infty}}{\frac{1}{2}\rho_{\infty}V^{2}_{\infty} } &  \rho \left(\frac{U_{\infty}^{2}}{2} - \frac{U^{2}}{2}\right) &=     p  -  p_{\infty} \\
+ &= \frac{  U_{\infty}^{2} -  U^{2}  }{ V^{2}_{\infty} }
 \end{align*}$$
 
 
