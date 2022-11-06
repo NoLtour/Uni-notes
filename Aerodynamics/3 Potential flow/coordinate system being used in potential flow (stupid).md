@@ -56,7 +56,14 @@ The [[stream function (2D)|stream function]] in polar:
 > ### $$ V_{r} = \frac{1}{r} \frac{\delta \psi}{\delta \theta} $$
 > ### $$ V_{\theta} = -\frac{\delta \psi}{\delta r} $$
 
-#### Incompressible irrotational from velocity potential and streamfunction
+#### Incompressible irrotational from velocity potential and stream function
 
-> ### $$  \frac{\delta \psi}{\delta r} $$
+For incompressible flow:
 
+> ### $$  \frac{\delta^{2} \phi}{\delta x^{2} } + \frac{\delta^{2} \phi}{\delta z^{2} } = 0$$
+
+For irrotational flow:
+
+> ### $$  \frac{\delta^{2} \psi}{\delta x^{2} } + \frac{\delta^{2} \psi}{\delta z^{2} } = 0$$
+
+[[laplace equation for flow]]
