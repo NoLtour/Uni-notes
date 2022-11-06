@@ -4,4 +4,4 @@ tags: []
 ---
 
 ## Stream function for uniform flow
-Honestly the whole idea of [[stream function (2D)|stream function]] is kinda abstract, 
+Honestly the whole idea of [[stream function (2D)|stream function]] is kinda abstract, but it is essentially a function that describes 
