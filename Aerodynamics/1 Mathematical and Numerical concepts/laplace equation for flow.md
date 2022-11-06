@@ -1,5 +1,5 @@
 ---
-aliases: ["laplacian"]
+aliases: ["laplacian","Laplace equation"]
 tags: []
 ---
 

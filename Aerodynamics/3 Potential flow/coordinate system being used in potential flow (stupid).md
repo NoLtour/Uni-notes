@@ -58,11 +58,11 @@ The [[stream function (2D)|stream function]] in polar:
 
 #### [[laplace equation for flow|Laplace equations]]
 
-For incompressible flow:
+For [[mass conservation and velocity potential|incompressible flow]]:
 
 > ### $$  \frac{\delta^{2} \phi}{\delta x^{2} } + \frac{\delta^{2} \phi}{\delta z^{2} } = 0$$
 
-For [[laplace]]:
+For [[laplace equation for flow|irrotational flow]]:
 
 > ### $$  \frac{\delta^{2} \psi}{\delta x^{2} } + \frac{\delta^{2} \psi}{\delta z^{2} } = 0$$
  
