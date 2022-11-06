@@ -59,10 +59,10 @@ x,z = np.meshgrid( xAxis, zAxis )
  
 
 def getVelocitys( streamFunction ):
-	dZpsi,dXpsi = np.gradient( streamFunction );
+	dXpsi,dZpsi = np.gradient( streamFunction );
 	
-	u = dZpsi/dz
-	w = -dXpsi/dx
+	u = dXpsi/dz
+	w = -dZpsi/dx
 	
 	return [u,w]
 

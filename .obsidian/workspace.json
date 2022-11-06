@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -147,6 +147,8 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
+    "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
@@ -154,8 +156,6 @@
     "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
     "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "README.md",
-    "Aerodynamics/Aerodynamics overview.md",
-    "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
-    "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md"
+    "Aerodynamics/Aerodynamics overview.md"
   ]
 }

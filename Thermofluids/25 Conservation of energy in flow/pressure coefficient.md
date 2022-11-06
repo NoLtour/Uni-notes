@@ -14,4 +14,4 @@ The pressure coefficient is a dimensionless number which describes the relative 
 >> $p_{\infty}=$ [[static pressure]] in the [[freestream]]
 >> $p_{0}=$ [[stagnation pressure]] in the free stream
 >> $\rho_{\infty}=$ [[freestream]] density
->> $V_{\infty}=$ [[freestream]] veolcity
+>> $V_{\infty}=$ [[freestream]] velocity

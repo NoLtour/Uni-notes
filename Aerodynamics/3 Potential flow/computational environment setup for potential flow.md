@@ -32,10 +32,10 @@ Since we will be given a stream function and we need velocity, we know we can ge
 
 ```jupyter
 def getVelocitys( streamFunction ):
-	dZpsi,dXpsi = np.gradient( streamFunction );
+	dXpsi,dZpsi = np.gradient( streamFunction );
 	
-	u = dZpsi/dz
-	w = -dXpsi/dx
+	u = dXpsi/dz
+	w = -dZpsi/dx
 	
 	return [u,w]
 ```
