@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
-                "mode": "preview",
+                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
+                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,7 @@
   },
   "active": "203ec70268f2e6ba",
   "lastOpenFiles": [
+    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
@@ -168,7 +169,6 @@
     "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
     "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md"
   ]
 }
