@@ -11,19 +11,16 @@ First we need to setup the grid that will form the space in which the flow occur
 import numpy as np
 import matplotlib.pyplot as plot
 
-dx = 0.1
+domainWidth = 4;
 
-xPoints = np.arange( -5, 5, dx )
+xMin = -domainWidth
+xMax = domainWidth
+zMin = -domainWidth
+zMax = domainWidth
 
-yPoints = xPoints ** 2
+dx = dz = 0
 
-plot.figure( 69 );
+xAxis = np.arrange( xMin, xMax )
 
-plot.plot( xPoints, yPoints, "kx" );
-
-plot.ylabel("outputs (trol units)")
-plot.xlabel("inputs (trol units)")  
-
-plot.show();
 ```
 
