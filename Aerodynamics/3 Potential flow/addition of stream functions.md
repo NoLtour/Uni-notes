@@ -17,12 +17,12 @@ This means that by adding multiple stream functions to each other it is possible
 ![[Pasted image 20221106190721.png]]
 
 ### Example (doublet)
-Simply taking the [[stream function for line source or sink]] and then placing a source at $(1.05,0.05)$ and a sink at $(-1.05,0.05)$ results in:
+Simply taking the [[stream function for line source or sink]] and then placing a source at $(0.45,0.05)$ and a sink at $(-0.45,0.05)$ results in:
 ```jupyter
 import numpy as np
 import matplotlib.pyplot as plot
 
-domainWidth = 2;
+domainWidth = 1.4;
 
 xMin = -domainWidth
 xMax = domainWidth
@@ -53,7 +53,7 @@ def getPressureCFs( u,w,Uref ):
 def sourceSF( x0,z0, x,z, flowRate ): 
     return (flowRate/(2*np.pi)) * np.arctan( (z-z0)/(x-x0) )
  
-streamFunction = sourceSF( 0.45,0.05, x,z, 5 ) +  sourceSF( -1.05,0.05, x,z, -5 );
+streamFunction = sourceSF( 0.45,0.05, x,z, 12 ) +  sourceSF( -0.45,0.05, x,z, -12 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
@@ -65,3 +65,4 @@ plot.quiver( x, z, u, w )
 plot.show()
 
 ```
+
