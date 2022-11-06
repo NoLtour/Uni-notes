@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["incompressible flow equation"]
 tags: []
 ---
 
@@ -18,4 +18,4 @@ Which can also be written using [[del operator|grad]] as $\nabla^{2} \Phi=0$.
 >> where:
 >> $\Phi=$ [[velocity potential]]
 >> $\nabla=$ [[del operator]]
->> Mass is conserved
+>> Mass is conserved, is incompressible

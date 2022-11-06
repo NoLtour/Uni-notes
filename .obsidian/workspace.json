@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+                "file": "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+                "file": "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,14 +124,14 @@
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
     "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/mass conservation and velocity potential.md",
     "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
     "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/3 Potential flow/I really hate this sort of thing with an unreasonable passion.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital energy.md",
     "SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "SESA2024 Astronautics/5 Mission analysis/perigee and apogee radius.md",
-    "SESA2024 Astronautics/5 Mission analysis/perigee and apogee.md"
+    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md"
   ]
 }
