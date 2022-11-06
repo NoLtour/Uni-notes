@@ -35,3 +35,51 @@ It is possible to do the same sort of method for finding [[velocity potential]],
 >> ![[Pasted image 20221106142734.png]]
 
 ### Application
+If we take the [[computational environment setup for potential flow]] and then define our stream function we can easily get a representation of the flow:
+
+```jupyter
+import numpy as np
+import matplotlib.pyplot as plot
+
+domainWidth = 2;
+
+xMin = -domainWidth
+xMax = domainWidth
+zMin = -domainWidth
+zMax = domainWidth
+
+dx = dz = 0.25
+
+# Create axis' using domain at the defined resolution
+xAxis = np.arange( xMin, xMax, dx )
+zAxis = np.arange( zMin, zMax, dz )
+
+# We take our 2 axis and then create a grid
+x,z = np.meshgrid( xAxis, zAxis )
+ 
+
+def getVelocitys( streamFunction ):
+	dZpsi,dXpsi = np.gradient( streamFunction );
+	
+	u = dZpsi/dz
+	w = -dXpsi/dx
+	
+	return [u,w]
+
+def getPressureCFs( u,w,Uref ):
+	return 1-((u**2 + w**2) / (Uref**2))
+
+# Here is 
+def linearSF( x,z, alpha, speed ):
+    return speed*( (z*np.cos(alpha) ) - (x*np.sin(alpha) )  )
+
+streamFunction = linearSF( x,z, np.pi/8, 5 );
+
+u,w = getVelocitys( streamFunction )
+
+plot.figure(69)
+plot.title("flow field")
+plot.quiver( z, x, u, w )
+
+plot.show()
+```
