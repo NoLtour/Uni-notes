@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "203ec70268f2e6ba",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "f84bbf4609998f56",
             "type": "leaf",
             "state": {
@@ -51,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +145,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "203ec70268f2e6ba",
+  "active": "f487590d780b1e7c",
   "lastOpenFiles": [
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
