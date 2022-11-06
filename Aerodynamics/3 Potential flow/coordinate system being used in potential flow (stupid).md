@@ -19,6 +19,7 @@ Now all the equations we defined such as [[euler equations for inviscid and inco
 - $w \to v$
 
 Note that $w$ is equivalent to $V_{z}$.
+Since none of these equations are new just a change in the format used for the axis labels I'm not putting exhaustive defenitions of the variables below each equation. If you need to know the variable defs just look at the page they wh
 
 #### [[euler equations for inviscid and incompressible flow|Euler equations]]
 
@@ -36,5 +37,11 @@ Of course if this equals zero then we know the flow is irrotational, hence for i
 
 > ### $$ \frac{\delta u}{\delta z} = \frac{\delta w}{\delta x } $$
 
-#### Velocity potential and streamfunction
+#### Velocity potential and stream function
+The [[velocity potential]] in cartesian:
 
+> ### $$ u = \frac{\delta \phi}{\delta x} $$
+> ### $$ w = \frac{\delta \phi}{\delta z} $$
+
+The veloicty potential in polar coordiantes:
+> ### $$  $$
