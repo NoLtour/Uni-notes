@@ -11,6 +11,7 @@ Potential flow is [[inviscid flow|inviscid]] hence is not useful for calculating
 Contents:
 - [[coordinate system being used in potential flow (stupid)]]
 - [[computational environment setup for potential flow]]
+- [[pressure coefficient when there is no freestream]]
 
 
 ## Expanded articles
