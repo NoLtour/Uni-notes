@@ -74,11 +74,10 @@ def getVelocitys( streamFunction ):
 def getPressureCFs( u,w,Uref ):
 	return 1-((u**2 + w**2) / (Uref**2))
 
-# Here is the linear stream function we defined above
+# Here is the stream function we defined above
 def sourceSF( x0,z0, x,z, flowRate ): 
     return (flowRate/(2*np.pi)) * np.arctan( (z-z0)/(x-x0) )
-
-# By changning alpha and speed you can change the resulting velocitys
+ 
 streamFunction = sourceSF( -0.05,0.05, x,z, 5 );
 
 # We can then get the velocitys from the scalar values of the stream function
@@ -96,8 +95,7 @@ plot.show()
 Sink example:
 ```jupyter
 streamFunction = sourceSF( -1.05,0.05, x,z, -3 );
-
-# We can then get the velocitys from the scalar values of the stream function
+ 
 u,w = getVelocitys( streamFunction )
 
 plot.figure(29)
