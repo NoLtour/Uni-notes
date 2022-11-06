@@ -31,7 +31,6 @@ x,z = np.meshgrid( xAxis, zAxis )
 Since we will be given a stream function and we need velocity, we know we can get [[coordinate system being used in potential flow (stupid)#Velocity potential and stream function|velocity from the stream function]]:
 
 ```jupyter
-
 def getVelocitys( streamFunction ):
 	dZpsi,dXpsi = np.gradient( streamFunction );
 	
@@ -39,16 +38,17 @@ def getVelocitys( streamFunction ):
 	w = -dXpsi/dx
 	
 	return [u,w]
-
 ```
 
-With velocity defined, it is then possible to get pressures using [[Bernouillis equation]] since [[solving the euler equations|we know that for irrotational flow bernoulli can be applied between any two points]]:
+With velocity defined, it is then possible to get pressures using [[Bernouillis equation]] since [[solving the euler equations|we know that for irrotational flow bernoulli can be applied between any two points]]. Hence to get [[pressure coefficient]]:
 
-[[pressure coefficient]]
+$$\begin{align*}
+C_{p} &= \frac{p-p_{\infty}}{\frac{1}{2}\rho_{\infty}V^{2}_{\infty}}\\
+&= 
+\end{align*}$$
+
 
 ```jupyter
-
 def getPressureCFs( u,w,Uref ):
 	return 1-((u**2 + w**2) / (Uref**2))
-
 ```
