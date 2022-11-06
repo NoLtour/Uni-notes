@@ -19,7 +19,7 @@ Now all the equations we defined such as [[euler equations for inviscid and inco
 - $w \to v$
 
 Note that $w$ is equivalent to $V_{z}$.
-Since none of these equations are new just a change in the format used for the axis labels I'm not putting exhaustive defenitions of the variables below each equation. If you need to know the variable defs just look at the page they wh
+Since none of these equations are new just a change in the format used for the axis labels I'm not putting exhaustive definitions of the variables below each equation. If you need to know the variable defs just look at the page they where converted from.
 
 #### [[euler equations for inviscid and incompressible flow|Euler equations]]
 
@@ -43,5 +43,15 @@ The [[velocity potential]] in cartesian:
 > ### $$ u = \frac{\delta \phi}{\delta x} $$
 > ### $$ w = \frac{\delta \phi}{\delta z} $$
 
-The veloicty potential in polar coordiantes:
-> ### $$  $$
+The velocity potential in polar coordinates:
+> ### $$ V_{r} = \frac{\delta \phi}{\delta r} $$
+> ### $$ V_{\theta} = \frac{1}{r} \frac{\delta \phi}{\delta \theta} $$
+
+The [[stream function (2D)|stream function]] in cartesian:
+> ### $$ u = \frac{\delta \psi}{\delta z} $$
+> ### $$ w = -\frac{\delta \psi}{\delta x} $$
+
+
+The [[stream function (2D)|stream function]] in polar:
+> ### $$ V_{r} = \frac{1}{r} \frac{\delta \psi}{\delta \theta} $$
+> ### $$ V_{\theta} = -\frac{\delta \psi}{\delta r} $$
