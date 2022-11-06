@@ -69,12 +69,14 @@ def getVelocitys( streamFunction ):
 def getPressureCFs( u,w,Uref ):
 	return 1-((u**2 + w**2) / (Uref**2))
 
-# Here is 
+# Here is the linear stream function we defined above
 def linearSF( x,z, alpha, speed ):
     return speed*( (z*np.cos(alpha) ) - (x*np.sin(alpha) )  )
 
+# By changning alpha and speed you can change the resulting velocitys
 streamFunction = linearSF( x,z, np.pi/8, 5 );
 
+# We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
 
 plot.figure(69)
