@@ -11,3 +11,4 @@ tags: ["NotesPage"]
 
 1) [[Mathamatical and numerical concepts overview]]
 2) [[Incompressible Viscous Flow Overview]]
+3) [[Potential flow Overview]]
