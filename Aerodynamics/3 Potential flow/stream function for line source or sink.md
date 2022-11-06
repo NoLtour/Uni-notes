@@ -20,6 +20,8 @@ $$\begin{align*}
  V_{r} &= \frac{1}{r} \frac{\delta \psi}{ \delta \theta } & V_{\theta} &= - \frac{\delta \psi}{ \delta r } \\
 \frac{Q}{2\pi r} &= \frac{1}{r} \frac{\delta \psi}{ \delta \theta } & 0 &= - \frac{\delta \psi}{ \delta r }\\
 \int \frac{Q}{2\pi  } \delta \theta &=  \int \delta \psi  &\int 0 \delta r &= \int \delta \psi  \\
- \frac{Q}{2\pi} \theta &= 
-
+ \frac{Q}{2\pi} \theta + f(r) &= \psi( r, \theta ) & 0 + f(\theta) &= \psi( r, \theta )\\\\
+\therefore \: \frac{Q}{2\pi} \theta  &= \psi( r, \theta )
 \end{align*}$$
+
+Once again it is also possible to do a similar method to find the [[velocity potential]] (which would be $\phi $)
