@@ -31,7 +31,7 @@ def getPressureCFs( u,w,Uref ):
 
 # Here is the linear stream function we defined above
 def sourceSF( x0,z0, x,z, flowRate ):
-    return x+z
+    return x*z
     #return (flowRate/(2*np.pi)) * np.arctan2( (z-z0), (x-x0) )
 
 # By changning alpha and speed you can change the resulting velocitys
