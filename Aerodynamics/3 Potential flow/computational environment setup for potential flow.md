@@ -18,9 +18,16 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0
+dx = dz = 0.1
 
-xAxis = np.arrange( xMin, xMax )
+# Create axis' using domain at the defined resolution
+xAxis = np.arrange( xMin, xMax, dx )
+zAxis = np.arrange( zMin, zMax, dz )
+
+# We take our 2 axis and then create a grid
+x,z = np.meshgrid( xAxis, zAxis )
+
+print( x )
 
 ```
 
