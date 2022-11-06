@@ -1,5 +1,5 @@
 ---
-aliases: ["euler equations for potential flow syntax","irrotational flow for potential flow syntax"]
+aliases: ["euler equations for potential flow syntax","irrotational flow for potential flow syntax","velocity potenial for potential flow syntax","stream function for potential flow syntax"]
 tags: []
 ---
 
@@ -55,3 +55,8 @@ The [[stream function (2D)|stream function]] in cartesian:
 The [[stream function (2D)|stream function]] in polar:
 > ### $$ V_{r} = \frac{1}{r} \frac{\delta \psi}{\delta \theta} $$
 > ### $$ V_{\theta} = -\frac{\delta \psi}{\delta r} $$
+
+#### Incompressible irrotational from velocity potential and streamfunction
+
+> ### $$  \frac{\delta \psi}{\delta r} $$
+
