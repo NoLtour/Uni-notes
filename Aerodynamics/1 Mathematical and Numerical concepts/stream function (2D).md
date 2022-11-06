@@ -16,11 +16,13 @@ The volume flow rate in between two streamlines can be found using the differenc
 > ### $$ V_{x} = \frac{\delta \psi}{ \delta y } $$
 > ### $$ V_{y} = - \frac{\delta \psi}{ \delta x } $$
 > Polar:
->
+> ### $$ V_{r} = \frac{1}{r} \frac{\delta \psi}{ \delta \theta } $$
+> ### $$ V_{\theta} = - \frac{\delta \psi}{ \delta r } $$
 >> where:
 >> $Q=$ volume flow rate
 >> $\psi=$ a stream function
 >> $\Delta n=$ length of line between streamlines
 >> $V_{x},V_{y}=$ velocity in x and y directions
+>> $V_{r},V_{\theta}=$ velocity in radial and angular directions
 >> 
 >> ![[Pasted image 20221017165004.png]]

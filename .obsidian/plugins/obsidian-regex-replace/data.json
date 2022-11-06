@@ -1,6 +1,6 @@
 {
-  "findText": "\\infty",
-  "replaceText": "ref",
+  "findText": "\\Phi",
+  "replaceText": "\\phi",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,

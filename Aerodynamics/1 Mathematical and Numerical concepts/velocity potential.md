@@ -3,16 +3,20 @@ aliases: [""]
 tags: []
 ---
 
-## Velocity potential ($\Phi$)
+## Velocity potential ($\phi$)
 
 A velocity potential is a [[scalar potential]] for velocity:
 
-> ### $$ \vec{V} = \nabla \Phi = \begin{pmatrix} \frac{\delta \Phi}{\delta x}  \\ \frac{\delta \Phi}{\delta y}  \\ \frac{\delta \Phi}{\delta z} \end{pmatrix} $$ 
-> ### $$ V_{x} = \frac{\delta }{\delta x}\Phi $$ 
-> ### $$ V_{y} = \frac{\delta }{\delta y} \Phi$$ 
-> ### $$ V_{z} = \frac{\delta}{\delta z} \Phi $$ 
+> Cartesian:
+> ### $$ \vec{V} = \nabla \phi = \begin{pmatrix} \frac{\delta \phi}{\delta x}  \\ \frac{\delta \phi}{\delta y}  \\ \frac{\delta \phi}{\delta z} \end{pmatrix} $$ 
+> ### $$ V_{x} = \frac{\delta }{\delta x}\phi $$ 
+> ### $$ V_{y} = \frac{\delta }{\delta y} \phi$$ 
+> ### $$ V_{z} = \frac{\delta}{\delta z} \phi $$ 
+> Polar:
+> ### $$ V_{r} = \frac{\delta \phi}{\delta r} $$
+> ### $$ V_{r} = \frac{\delta \phi}{\delta r} $$
 >> where:
->> $\Phi=\Phi(x,y,z)=$ [[velocity potential]], can be described as a function of position
+>> $\phi=\phi(x,y,z)=$ [[velocity potential]], can be described as a function of position
 >> $\nabla=$ [[del operator|grad]]
 >> $\vec{V}=$ velocity
 
