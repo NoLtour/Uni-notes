@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
-                "mode": "source",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
+                "file": "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,8 +160,8 @@
   },
   "active": "203ec70268f2e6ba",
   "lastOpenFiles": [
-    "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/pressure coefficient when there is no freestream.md",
     "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
