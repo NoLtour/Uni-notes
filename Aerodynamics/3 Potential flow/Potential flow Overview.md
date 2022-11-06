@@ -14,6 +14,7 @@ Contents:
 - [[pressure coefficient when there is no freestream]]
 - [[stream function for uniform flow]]
 - [[stream function for line source or sink]]
+- [[addition of stream functions]]
 
 
 ## Expanded articles
