@@ -68,4 +68,4 @@ plot.show()
 
 ```
 
-The resulting 
+The resulting graph clearly shows the interaction between the source and the sink, errors caused by extreme values are also visible.  

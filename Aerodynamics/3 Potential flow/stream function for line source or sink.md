@@ -31,7 +31,7 @@ $$ \frac{Q}{2\pi} \arctan \frac{z-z_{0}}{x-x_{0}}  = \psi( x, z ) $$
 
 
 ### Equation
-NOTE: at the point of the source/s
+NOTE: at the point of the source/sink mass conservation does not hold.
 
 > ## $$ \psi(x,z) = \frac{Q}{2\pi} \arctan \left(\frac{z-z_{0}}{x-x_{0}}\right)  $$ 
 >> where:

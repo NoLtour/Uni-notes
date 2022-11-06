@@ -15,6 +15,7 @@ Contents:
 - [[stream function for uniform flow]]
 - [[stream function for line source or sink]]
 - [[addition of stream functions]]
+- [[stream function for a doublet]]
 
 
 ## Expanded articles
