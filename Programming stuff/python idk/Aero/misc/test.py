@@ -21,8 +21,8 @@ x,z = np.meshgrid( xAxis, zAxis )
 def getVelocitys( streamFunction ):
 	dZpsi,dXpsi = np.gradient( streamFunction );
 	
-	u = dZpsi/dz
-	w = -dXpsi/dx
+	u = dZpsi/dx
+	w = -dXpsi/dz
 	
 	return [u,w]
 
@@ -30,9 +30,8 @@ def getPressureCFs( u,w,Uref ):
 	return 1-((u**2 + w**2) / (Uref**2))
 
 # Here is the linear stream function we defined above
-def sourceSF( x0,z0, x,z, flowRate ):
-    return x*z
-    #return (flowRate/(2*np.pi)) * np.arctan2( (z-z0), (x-x0) )
+def sourceSF( x0,z0, x,z, flowRate ): 
+    return (flowRate/(2*np.pi)) * np.arctan2( (z-z0), (x-x0) )
 
 # By changning alpha and speed you can change the resulting velocitys
 streamFunction = sourceSF( 0.6,0.6, x,z, 5 );
