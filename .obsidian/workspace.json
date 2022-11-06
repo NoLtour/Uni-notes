@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "file": "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "file": "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,15 +147,15 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "Aerodynamics/Aerodynamics overview.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+    "README.md",
+    "Aerodynamics/Aerodynamics overview.md",
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
     "Aerodynamics/3 Potential flow/pressure coefficient when there is no freestream.md",
-    "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md"
+    "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md"
   ]
 }
