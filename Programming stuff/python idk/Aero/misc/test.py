@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plot
 
+import sys; 
+print(sys.executable)
+
 domainWidth = 4;
 
 xMin = -domainWidth
