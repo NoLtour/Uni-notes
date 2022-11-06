@@ -28,4 +28,18 @@ zAxis = np.arange( zMin, zMax, dz )
 x,z = np.meshgrid( xAxis, zAxis ) 
 ```
 
-From here we can use [[coordinate system being used in potential flow (stupid)#Velocity potential and stream function|velocity potential for potential flow syntax]]
+Since we will be given a stream function and we need velocity, we know we can get [[coordinate system being used in potential flow (stupid)#Velocity potential and stream function|velocity from the stream function]]:
+
+```jupyter
+
+def getVelocitys( streamFunction ):
+	u,w = np.gradient( streamFunction );
+	
+	# Since 
+	u = u/dz
+	w = -w/dx
+	
+	return [u,w]
+
+
+```
