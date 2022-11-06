@@ -9,7 +9,7 @@ tags: ["NotesPage"]
 Potential flow is [[inviscid flow|inviscid]] hence is not useful for calculating drag, however it is quite accurate at predicting lift and giving a reasonably accurate estimation of the flow around an object. It is very useful for early stages of development since it's quick and not computationally intensive.
 
 Contents:
-- [[coordinate system being used in potential flow]]
+- [[coordinate system being used in potential flow (stupid)]]
 
 
 ## Expanded articles
