@@ -1,5 +1,5 @@
 ---
-aliases: ["euler equations for potential flow syntax"]
+aliases: ["euler equations for potential flow syntax","irrotational flow for potential flow syntax"]
 tags: []
 ---
 
@@ -34,4 +34,7 @@ Since we are working in 2D the only direction of curl that matters is in the $y$
 
 Of course if this equals zero then we know the flow is irrotational, hence for irrotational flow:
 
-> ### $$ \left(\frac{\delta u}{\delta z} - \frac{\delta w}{\delta x }\right) \hat{e}_{y} $$
+> ### $$ \frac{\delta u}{\delta z} = \frac{\delta w}{\delta x } $$
+
+#### Velocity potential and streamfunction
+
