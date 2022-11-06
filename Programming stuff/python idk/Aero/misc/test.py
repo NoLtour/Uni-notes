@@ -19,10 +19,10 @@ x,z = np.meshgrid( xAxis, zAxis )
  
 
 def getVelocitys( streamFunction ):
-	dZpsi,dXpsi = np.gradient( streamFunction );
+	dXpsi,dZpsi = np.gradient( streamFunction );
 	
-	u = dZpsi/dx
-	w = -dXpsi/dz
+	u = dXpsi/dz
+	w = -dZpsi/dx
 	
 	return [u,w]
 
@@ -41,6 +41,6 @@ u,w = getVelocitys( streamFunction )
 
 plot.figure(69)
 plot.title("flow field")
-plot.quiver( z, x, u, w )
+plot.quiver( x, z, u, w )
 
 plot.show()
