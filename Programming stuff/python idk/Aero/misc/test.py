@@ -1,17 +1,14 @@
 import numpy as np
 import matplotlib.pyplot as plot
 
-import sys; 
-print(sys.executable)
-
-domainWidth = 4;
+domainWidth = 2;
 
 xMin = -domainWidth
 xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.5
+dx = dz = 0.25
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -32,11 +29,14 @@ def getVelocitys( streamFunction ):
 def getPressureCFs( u,w,Uref ):
 	return 1-((u**2 + w**2) / (Uref**2))
 
-def linearSF( x,z, alpha, speed ):
-    return speed*( (z*np.cos(alpha) ) - (x*np.sin(alpha) )  )
+# Here is the linear stream function we defined above
+def sourceSF( x0,z0, x,z, flowRate ):
+    return (flowRate/(2*np.pi)) * np.arctan2( (z0-z), (x0-x) )
 
-streamFunction = linearSF( x,z, np.pi/8, 5 );
+# By changning alpha and speed you can change the resulting velocitys
+streamFunction = sourceSF( 0.6,0.6, x,z, 5 );
 
+# We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
 
 plot.figure(69)
