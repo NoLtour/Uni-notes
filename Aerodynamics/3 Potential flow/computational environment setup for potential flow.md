@@ -42,4 +42,13 @@ def getVelocitys( streamFunction ):
 
 ```
 
-With velocity defined, it is then possible to get pressures using [[Bernouillis equation]] since [[solving the euler equations|we kn]]
+With velocity defined, it is then possible to get pressures using [[Bernouillis equation]] since [[solving the euler equations|we know that for irrotational flow bernoulli can be applied between any two points]]:
+
+[[pressure coefficient]]
+
+```jupyter
+
+def getPressureCFs( u,w,Uref ):
+	return 1-((u**2 + w**2) / (Uref**2))
+
+```
