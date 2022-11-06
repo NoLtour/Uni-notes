@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "71de90ab18b9c601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -123,15 +135,15 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
+    "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
+    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/mass conservation and velocity potential.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/3 Potential flow/I really hate this sort of thing with an unreasonable passion.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital energy.md",
-    "SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md"
+    "SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md"
   ]
 }

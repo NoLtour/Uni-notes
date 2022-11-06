@@ -1,13 +1,3 @@
----
-aliases: [""]
-tags: []
----
-
-## Computational environment setup for potential flow
-
-First we need to setup the grid that will form the space in which the flow occurs, hence we define the domain size as well as the step interval (resolution of our grid):
-
-```jupyter
 import numpy as np
 import matplotlib.pyplot as plot
 
@@ -25,7 +15,6 @@ xAxis = np.arange( xMin, xMax, dx )
 zAxis = np.arange( zMin, zMax, dz )
 
 # We take our 2 axis and then create a grid
-x,z = np.meshgrid( xAxis, zAxis ) 
-```
+x,z = np.meshgrid( xAxis, zAxis )
 
-
+print( x )
