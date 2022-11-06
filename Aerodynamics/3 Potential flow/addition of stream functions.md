@@ -52,7 +52,8 @@ def getPressureCFs( u,w,Uref ):
  
 def sourceSF( x0,z0, x,z, flowRate ): 
     return (flowRate/(2*np.pi)) * np.arctan( (z-z0)/(x-x0) )
- 
+
+# addition of the two source functions
 streamFunction = sourceSF( 0.45,0.05, x,z, 12 ) +  sourceSF( -0.45,0.05, x,z, -12 );
 
 # We can then get the velocitys from the scalar values of the stream function
@@ -61,8 +62,10 @@ u,w = getVelocitys( streamFunction )
 plot.figure(69)
 plot.title("flow field")
 plot.quiver( x, z, u, w )
+plot.contour( x, z, streamFunction, 50)   # streamlines
 
 plot.show()
 
 ```
 
+The resulting 
