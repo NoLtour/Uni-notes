@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
-                "mode": "preview",
+                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
+                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,9 +147,9 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
-    "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/derivative symbols.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/velocity potential.md",
