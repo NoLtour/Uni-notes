@@ -11,9 +11,12 @@ Since no mass crosses a [[streamlines|streamline]], we can associate each stream
 
 The volume flow rate in between two streamlines can be found using the difference between their [[stream function (2D)|stream function]]s:
 
+> Cartesian:
 > ### $$ \Delta \psi = Q\Delta n = V_{x} \Delta y - V_{y} \Delta x $$ 
 > ### $$ V_{x} = \frac{\delta \psi}{ \delta y } $$
 > ### $$ V_{y} = - \frac{\delta \psi}{ \delta x } $$
+> Polar:
+>
 >> where:
 >> $Q=$ volume flow rate
 >> $\psi=$ a stream function
