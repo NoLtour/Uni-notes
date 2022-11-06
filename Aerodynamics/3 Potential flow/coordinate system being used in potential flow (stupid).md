@@ -1,5 +1,5 @@
 ---
-aliases: ["euler equations for potential flow syntax","irrotational flow for potential flow syntax","velocity potenial for potential flow syntax","stream function for potential flow syntax"]
+aliases: ["euler equations for potential flow syntax","irrotational flow for potential flow syntax","velocity potential for potential flow syntax","stream function for potential flow syntax"]
 tags: []
 ---
 

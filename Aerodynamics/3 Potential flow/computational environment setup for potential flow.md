@@ -28,4 +28,4 @@ zAxis = np.arange( zMin, zMax, dz )
 x,z = np.meshgrid( xAxis, zAxis ) 
 ```
 
-
+From here we can use [[coordinate system being used in potential flow (stupid)#Velocity potential and stream function|velocity potential for potential flow syntax]]
