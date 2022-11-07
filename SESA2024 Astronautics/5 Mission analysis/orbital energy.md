@@ -29,7 +29,9 @@ $$\begin{align*}
  &= \frac{ r_{p} ^{2} }{ r_{a} ^{2} } \\
  \frac{K}{m} + \frac{\mu}{r_{a} } &= \frac{K  r_{p} ^{2}}{m r_{a} ^{2}} + \frac{\mu r_{p}  }{r_{a}^2 }  \\
  \frac{K}{m}\left(1 - \frac{   r_{p} ^{2}}{  r_{a} ^{2}}\right) &=  \frac{\mu}{r_{a} }\left(  \frac{r_{p}}{r_{a}} - 1 \right)\\
- \frac{K}{m} &= \frac{ \mu (  \frac{r_{p}}{r_{a}} - 1 )}{\left(r_{a} - \frac{   r_{p} ^{2}}{  r_{a}  }\right)}\\
+ \frac{K}{m} &= \frac{ \mu (   r_{p} - r_{a} )}{\left(r_{a}^{2} -  r_{p} ^{2} \right)}\\
+ &=  \frac{ \mu (   r_{p} - r_{a} )}{ (r_{a}  -  r_{p} )(r_{a}  +  r_{p} )}\\
+ &=  -\frac{ \mu  }{ r_{a}  +  r_{p}  }\\
 
 \end{align*}$$
 
