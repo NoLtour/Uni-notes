@@ -4,9 +4,9 @@ tags: []
 ---
 
 ## Impulsive orbital transfers
-It is common to make the assumption that a manovre is impulsive, which is often a resonable approximation given the relative time of an orbital period vs the engine burn time. This assumption doen't hold for low orbital periods relative to burn times such as:
+It is common to make the assumption that a manoeuvre is impulsive, which is often a reasonable approximation given the relative time of an orbital period vs the engine burn time. This assumption doesn't hold when:
 - Using a long burn propulsion method such as [[ion thruster]]s.
-- In a orbit with a short orbital period
+- In a orbit with a short orbital period, such as a low earth orbit (chemical burns will often be mins but the period is only like ~90 mins).
 
 ### Outcomes of impulses
 When changing an orbit using an impulse it is impossible to achieve something such as the following:
@@ -19,4 +19,4 @@ If the impulse acts in the direction of motion of the satellite then the orbit w
 
 There is also the possibility of the impulse being sufficient to get the object on an escape trajectory but that's a future issue.
 
-###
+### 
