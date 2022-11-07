@@ -23,7 +23,7 @@ tags: []
 >> $K=KE+PE=$ sum of energy's in the orbit, which is of course constant of a set orbit
 
 #### Circular case
-The equation 
+The equation greatly simplifies in the case that the radius is constant (aka a circular orbit):
 > ### $$ r = a $$ 
 > ### $$ V = \sqrt{\frac{\mu}{r}} = \sqrt{\frac{\mu}{a}} $$ 
 >> where: 
