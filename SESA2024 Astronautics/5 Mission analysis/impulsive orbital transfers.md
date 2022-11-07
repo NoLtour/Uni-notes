@@ -24,3 +24,4 @@ As discussed previously a single impulse (without the use of external objects fo
 ![[Pasted image 20221107113844.png]]
 Hence if you want to achieve such a transfer it will require at least 2 burns. Hence the [[impulsive orbital transfers|Hohmann transfer]]:
 - This is a transfer that uses two impulses, one at the 
+
