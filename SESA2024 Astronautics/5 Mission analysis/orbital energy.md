@@ -24,5 +24,6 @@ h  &= rV\\
 \end{align*}$$
 Hence combining these:
 $$\begin{align*}
-\frac{V_{p}^{2}}{2} - \frac{\mu}{r_{p}}  &= \frac{V_{a}^{2}}{2} - \frac{\mu}{r_{a}} 
+\frac{K}{m} + \frac{\mu}{r } &= \frac{V ^{2}}{2}   \\
+\frac{K}{m} + \frac{\mu}{r } &= \frac{V ^{2}}{2}
 \end{align*}$$
