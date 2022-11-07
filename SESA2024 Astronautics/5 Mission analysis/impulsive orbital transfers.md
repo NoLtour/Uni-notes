@@ -27,5 +27,10 @@ Hence if you want to achieve such a transfer it will require at least 2 burns.
 #### [[impulsive orbital transfers|Hohmann transfer]]:
 This is a transfer that uses two impulses, to get between two circular orbits. The first burn can occur anywhere on the first orbit but the second burn to circularise must occur on the apogee:
 ![[Pasted image 20221107121606.png]]
-The maths is simply using the equations from [[specific orbital energy|orbital energy]]
+The maths is simply using the equations from [[specific orbital energy]], first of all lets express equations to describe the velocity's $V_{1},V_{2},V_{Tp},V_{Ta}$: 
+$$\begin{align*}
+ V_{1} &= \sqrt{\frac{\mu}{r_{1}}} & V_{2} &= \sqrt{\frac{\mu}{r_{2}}} & -\frac{\mu}{r_{1}+r_{2}} &= \frac{V_{Tp}^{2}}{2} - \frac{\mu}{r_{1}} & -\frac{\mu}{r_{1}+r_{2}} &= \frac{V_{Ta}^{2}}{2} - \frac{\mu}{r_{2}}
+\end{align*}$$
+
+
 
