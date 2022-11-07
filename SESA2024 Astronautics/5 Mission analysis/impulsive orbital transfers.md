@@ -46,5 +46,5 @@ The total $\Delta V$ is also easy to work out:
 $$\begin{align*}
 \Delta V &= \Delta V_{Tp} + \Delta V_{Ta}\\
 &= \sqrt{ \mu\left(\frac{1}{r_{1}}-\frac{2}{r_{1}+r_{2}}  \right)}  + \sqrt{  \mu\left(   \frac{2}{r_{1}+r_{2}}-\frac{1}{r_{2}}\right)}\\
-&= \sqrt{ \mu\left(\frac{1}{r_{1}}-\frac{2}{r_{1}+r_{2}}  +   \frac{2}{r_{1}+r_{2}}-\frac{1}{r_{2}}\right)}\\
+&= \sqrt{ \mu\left(\frac{1}{r_{1}} -\frac{1}{r_{2}}\right)}\\
 \end{align*}$$
