@@ -39,5 +39,6 @@ $$\begin{align*}
 Then to find the $\Delta V$ required for each impulse is also trivial:
 $$\begin{align*}
 \Delta V_{Tp} &= V_{Tp} - V_{1} & \Delta V_{Ta} &= V_{2} - V_{Ta} \\
-&&=  
+&= \sqrt{2\mu\left(\frac{1}{r_{1}}-\frac{1}{r_{1}+r_{2}}\right)} -  \sqrt{\frac{\mu}{r_{1}}} & &= \sqrt{\frac{\mu}{r_{2}}} - \sqrt{2\mu\left(\frac{1}{r_{2}}-\frac{1}{r_{1}+r_{2}}\right)} \\
+&= \sqrt{ \mu\left(\frac{1}{r_{1}}-\frac{2}{r_{1}+r_{2}}  \right)}   & &= \sqrt{\frac{\mu}{r_{2}}-  \mu\left(\frac{2}{r_{2}}-\frac{1}{r_{1}+r_{2}}\right)}  \\
 \end{align*}$$
