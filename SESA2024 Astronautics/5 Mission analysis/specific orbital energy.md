@@ -7,12 +7,17 @@ tags: []
 ### Equation
 
 > ### $$ \varepsilon = \frac{KE+PE}{m} $$ 
-> ### $$ \varepsilon = -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a} $$
-> ### $$ \varepsilon = -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a} $$
+> ### $$ \varepsilon =  -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a} $$
+> ### $$ \varepsilon = \frac{V^{2}}{2} - \frac{\mu}{r}  $$
 >> where:
 >> $\varepsilon= \frac{K}{m} =$ [[specific orbital energy]]
->> $=$
->> $=$
+>> $\mu=GM=$ [[universal constant of gravitation|gravitational constant]] times mass of orbited body
+>> $r_{a}=$ radius of [[perigee and apogee|apogee]]
+>> $r_{p}=$ radius of [[perigee and apogee|perigee]]
+>> $r=$ the radius at some point in the orbit
+>> $V=$ the velocity at some point in the orbit
+>> $m=$ mass of satellite
+>> $a=$ [[orbital semi-major axis|semi-major axis]]
 
 ### Derivation
 We can easily derive a relationship for satellite height and velocity using the fact that energy is conserved:
