@@ -1,13 +1,20 @@
 ---
-aliases: [""]
+aliases: ["orbital energy"]
 tags: []
 ---
 
-## Orbital energy
+## Specific orbital energy
 ### Equation
 
+> ### $$ \varepsilon = \frac{KE+PE}{m} $$ 
+> ### $$ \varepsilon = -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a} $$
+> ### $$ \varepsilon = -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a} $$
+>> where:
+>> $\varepsilon= \frac{K}{m} =$ [[specific orbital energy]]
+>> $=$
+>> $=$
 
-###
+### Derivation
 We can easily derive a relationship for satellite height and velocity using the fact that energy is conserved:
 $$\begin{align*}
 K &= \frac{1}{2}mV^{2} + \int^{r}_{0} \frac{GMm}{r^{2}} \cdot dr\\
