@@ -27,9 +27,9 @@ $$\begin{align*}
 \frac{K}{m} + \frac{\mu}{r } &= \frac{V ^{2}}{2}   \\
  \frac{\frac{K}{m} + \frac{\mu}{r_{a} }}{\frac{K}{m} + \frac{\mu}{r_{p} }} &= \frac{\frac{V_{a} ^{2}}{2}}{\frac{V_{b} ^{2}}{2}} & \frac{V_{a}}{V_{p}} &= \frac{r_{p}}{r_{a}} \\
  &= \frac{ r_{p} ^{2} }{ r_{a} ^{2} } \\
- \frac{K}{m} + \frac{\mu}{r_{a} } &= \frac{K  r_{p} ^{2}}{m r_{a} ^{2}} + \frac{\mu r_{p}  }{r_{a} }  \\
- \frac{K}{m}\left(1 - \frac{   r_{p} ^{2}}{  r_{a} ^{2}}\right) &=  \frac{\mu}{r_{a} }(  r_{p} - 1 )\\
- \frac{K}{m} &= \frac{ \mu (  r_{p} - 1 )}{\left(r_{a} - \frac{   r_{p} ^{2}}{  r_{a}  }\right)}\\
+ \frac{K}{m} + \frac{\mu}{r_{a} } &= \frac{K  r_{p} ^{2}}{m r_{a} ^{2}} + \frac{\mu r_{p}  }{r_{a}^2 }  \\
+ \frac{K}{m}\left(1 - \frac{   r_{p} ^{2}}{  r_{a} ^{2}}\right) &=  \frac{\mu}{r_{a} }\left(  \frac{r_{p}}{r_{a}} - 1 \right)\\
+ \frac{K}{m} &= \frac{ \mu (  \frac{r_{p}}{r_{a}} - 1 )}{\left(r_{a} - \frac{   r_{p} ^{2}}{  r_{a}  }\right)}\\
 
 \end{align*}$$
 
