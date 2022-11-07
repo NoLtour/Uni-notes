@@ -4,7 +4,10 @@ tags: []
 ---
 
 ## Orbital energy
+### Equation
 
+
+###
 We can easily derive a relationship for satellite height and velocity using the fact that energy is conserved:
 $$\begin{align*}
 K &= \frac{1}{2}mV^{2} + \int^{r}_{0} \frac{GMm}{r^{2}} \cdot dr\\
@@ -12,16 +15,14 @@ K &= \frac{1}{2}mV^{2} + \int^{r}_{0} \frac{GMm}{r^{2}} \cdot dr\\
 \frac{K}{m} &= \frac{V^{2}}{2} - \frac{\mu}{r} \\ 
 \end{align*}$$
 
-Here $r_{a}$ is radius at [[perigee and apogee|apogee]] and $r_{p}$ is radius at [[perigee and apogee|perigee]]:
-![[Pasted image 20221107101931.png]]
 Then we know that [[specific orbital moment of momentum|orbital angular momentum]] is conserved : 
 $$\begin{align*}
-\underline{h}  &= \underline{r}\underline{V}\\
+\underline{h}  &= \underline{r} \times \underline{V}\\
 && &h\text{ is a constant}\\
  \frac{V_{a}}{V_{p}} &= \frac{r_{p}}{r_{a}} 
 \end{align*}$$
-Since $\underline{r}$ and $\underline{V}$ is a vector, by picking opposite points on the ellipse 
-
+Here $r_{a}$ is radius at [[perigee and apogee|apogee]] and $r_{p}$ is radius at [[perigee and apogee|perigee]]. Since $\underline{r}$ and $\underline{V}$ is a vector, by picking opposite points on the ellipse it becomes possible to simplify the relationship as seen above.
+![[Pasted image 20221107101931.png]]
 Hence combining these:
 $$\begin{align*}
 \frac{K}{m} + \frac{\mu}{r } &= \frac{V ^{2}}{2}   \\
@@ -34,5 +35,4 @@ $$\begin{align*}
  &=  -\frac{ \mu  }{ r_{a}  +  r_{p}  }\\
 
 \end{align*}$$
-
-[[orbital path in ellipse form]]
+This final form can clearly be converted into $\frac{K}{m}=- \frac{\mu}{2a}$ using the clear fact that $2a=r_{a}+r_{p}$.
