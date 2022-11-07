@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
-                "mode": "source",
+                "file": "SESA2024 Astronautics/5 Mission analysis/orbital energy.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/orbital energy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,15 +147,15 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+    "SESA2024 Astronautics/5 Mission analysis/orbital elements.md",
+    "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md",
+    "SESA2024 Astronautics/5 Mission analysis/I REALLY hate these measurement systems.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+    "Aerodynamics/3 Potential flow/stream function for a doublet.md",
     "Aerodynamics/3 Potential flow/addition of stream functions.md",
     "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md",
-    "Aerodynamics/3 Potential flow/computational environment setup for potential flow.md",
-    "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
-    "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md"
+    "Aerodynamics/1 Mathematical and Numerical concepts/laplace equation for flow.md"
   ]
 }
