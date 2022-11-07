@@ -42,7 +42,7 @@ $$\begin{align*}
 &= \sqrt{2\mu\left(\frac{1}{r_{1}}-\frac{1}{r_{1}+r_{2}}\right)} -  \sqrt{\frac{\mu}{r_{1}}} & &= \sqrt{\frac{\mu}{r_{2}}} - \sqrt{2\mu\left(\frac{1}{r_{2}}-\frac{1}{r_{1}+r_{2}}\right)} \\
 &= \sqrt{ \mu\left(\frac{1}{r_{1}}-\frac{2}{r_{1}+r_{2}}  \right)}   & &= \sqrt{  \mu\left(   \frac{2}{r_{1}+r_{2}}-\frac{1}{r_{2}}\right)}  \\
 \end{align*}$$
-The total $\Delta V$ is also easy to work out:
+The total $\Delta V$ is also easy to work out: [[UNFINISHED STUFF]] SOMETHING IS WRONG IN THE MATHS!
 $$\begin{align*}
 \Delta V &= \Delta V_{Tp} + \Delta V_{Ta}\\
 &= \sqrt{ \mu\left(\frac{1}{r_{1}}-\frac{2}{r_{1}+r_{2}}  \right)}  + \sqrt{  \mu\left(   \frac{2}{r_{1}+r_{2}}-\frac{1}{r_{2}}\right)}\\
