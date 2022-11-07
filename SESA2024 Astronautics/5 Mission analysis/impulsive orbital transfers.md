@@ -19,9 +19,13 @@ If the impulse acts in the direction of motion of the satellite then the orbit w
 
 There is also the possibility of the impulse being sufficient to get the object on an escape trajectory but that's a future issue.
 
-### Transfer between non intersecting orbits (Hohmann transfer)
+### Transfer between non intersecting orbits  
 As discussed previously a single impulse (without the use of external objects for things like gravity assists) cannot result in:
 ![[Pasted image 20221107113844.png]]
-Hence if you want to achieve such a transfer it will require at least 2 burns. Hence the [[impulsive orbital transfers|Hohmann transfer]]:
-- This is a transfer that uses two impulses, one at the 
+Hence if you want to achieve such a transfer it will require at least 2 burns. 
+
+#### [[impulsive orbital transfers|Hohmann transfer]]:
+This is a transfer that uses two impulses, to get between two circular orbits. The first burn can occur anywhere on the first orbit but the second burn to circularise must occur on the apogee:
+![[Pasted image 20221107121606.png]]
+The maths is simply using the equations from [[specific orbital energy|orbital energy]]
 
