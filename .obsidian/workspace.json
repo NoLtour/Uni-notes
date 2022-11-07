@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,8 +147,8 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+    "SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital elements.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md",
     "SESA2024 Astronautics/5 Mission analysis/I REALLY hate these measurement systems.md",
