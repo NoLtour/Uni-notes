@@ -32,3 +32,5 @@ $$\begin{align*}
  \frac{K}{m} &= \frac{ \mu (  r_{p} - 1 )}{\left(r_{a} - \frac{   r_{p} ^{2}}{  r_{a}  }\right)}\\
 
 \end{align*}$$
+
+[[orbital path in ellipse form]]
