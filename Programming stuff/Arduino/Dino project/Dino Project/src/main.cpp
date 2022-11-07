@@ -57,14 +57,11 @@ void updateRoar(){
 }
 
 const int STEPS_PER_R = 2048;
-
 int ST_INP1_PIN = 8 ; // . -> STEPPER_INP1
 int ST_INP2_PIN = 9 ; // . -> STEPPER_INP2
 int ST_INP3_PIN = 10; // . -> STEPPER_INP3
 int ST_INP4_PIN = 11; // . -> STEPPER_INP4
-
 int MOTOR_RPM = 1;
-
 Stepper stepperMotor = Stepper( STEPS_PER_R, ST_INP1_PIN, ST_INP2_PIN, ST_INP3_PIN, ST_INP4_PIN );
 
 void rotateStepper( int direction ){
