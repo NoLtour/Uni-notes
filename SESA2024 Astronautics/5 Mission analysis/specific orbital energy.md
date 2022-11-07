@@ -6,6 +6,8 @@ tags: []
 ## Specific orbital energy
 ### Equation
 
+#### General equation
+
 > ### $$ \varepsilon = \frac{KE+PE}{m} $$ 
 > ### $$ \varepsilon =  -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a} $$
 > ### $$ \varepsilon = \frac{V^{2}}{2} - \frac{\mu}{r}  $$
@@ -18,6 +20,16 @@ tags: []
 >> $V=$ the velocity at some point in the orbit
 >> $m=$ mass of satellite
 >> $a=$ [[orbital semi-major axis|semi-major axis]]
+>> $K=KE+PE=$ sum of energy's in the orbit, which is of course constant of a set orbit
+
+#### Circular case
+The equation 
+> ### $$ r = a $$ 
+> ### $$ V = \sqrt{\frac{\mu}{r}} = \sqrt{\frac{\mu}{a}} $$ 
+>> where: 
+>> $r=$ the radius at some point in the orbit
+>> $V=$ the velocity at some point in the orbit 
+>> $a=$ [[orbital semi-major axis|semi-major axis]] 
 
 ### Derivation
 We can easily derive a relationship for satellite height and velocity using the fact that energy is conserved:
