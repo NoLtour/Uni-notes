@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
-                "mode": "source",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/shortcuts for the fourier series.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/shortcuts for the fourier series.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,8 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
+    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "Law n management/Coursework notes.md",
     "Law n management/1 Introduction to costing/cost unit.md",
@@ -130,8 +132,6 @@
     "Law n management/1 Introduction to costing/Introduction to costing Overview.md",
     "Law n management/1 Introduction to costing/elements of total cost.md",
     "Law n management/1 Introduction to costing/balance sheet.md",
-    "Law n management/1 Introduction to costing/income statement.md",
-    "Law n management/Resources and Management Overview.md",
-    "SESA2024 Astronautics/5 Mission analysis/obit selection.md"
+    "Law n management/1 Introduction to costing/income statement.md"
   ]
 }
