@@ -10,6 +10,9 @@ tags: ["NotesPage"]
 This guy figured out planets orbit in ellipses, then he made a telescope and put it in space which is how nasa started and the Kepler space telescope was created. ([[this is a completely true fact(s)|the end]])
 
 #### Contents
+KSP is unironically good introductory material.
+![[1091_a8b32aa338d474d0.webm]]
+
 - [[ellipse]]
 - [[ellipse equation polar form]]
 - [[tangential and radial acceleration in orbital motion]]

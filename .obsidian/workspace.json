@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/obit selection.md",
-                "mode": "source",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/obit selection.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,7 @@
   },
   "active": "b918ec95226b7b04",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/5 Mission analysis/obit selection.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
     "SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
@@ -168,7 +169,6 @@
     "SESA2024 Astronautics/5 Mission analysis/I REALLY hate these measurement systems.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/stream function for a doublet.md",
-    "Aerodynamics/3 Potential flow/addition of stream functions.md",
-    "Aerodynamics/3 Potential flow/stream function for line source or sink.md"
+    "Aerodynamics/3 Potential flow/addition of stream functions.md"
   ]
 }
