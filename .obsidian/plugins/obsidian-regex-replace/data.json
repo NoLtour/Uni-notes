@@ -1,6 +1,6 @@
 {
-  "findText": "\\Phi",
-  "replaceText": "\\phi",
+  "findText": "- ",
+  "replaceText": "!",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,

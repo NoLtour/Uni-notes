@@ -28,3 +28,15 @@ KSP is unironically good introductory material.
 
 
 ## Expanded articles
+![[ellipse]]
+![[ellipse equation polar form]]
+![[tangential and radial acceleration in orbital motion]]
+![[specific orbital moment of momentum]]
+![[orbital path in ellipse form]]
+![[keplers laws of orbital motion]]
+![[orbital mean motion]]
+![[orbital elements]]
+![[perigee and apogee radius]]
+![[specific orbital energy]]
+![[impulsive orbital transfers]]
+![[obit selection]]
