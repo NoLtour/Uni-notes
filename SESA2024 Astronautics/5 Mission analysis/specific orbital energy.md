@@ -11,6 +11,7 @@ tags: []
 > ### $$ \varepsilon = \frac{KE+PE}{m} $$ 
 > ### $$ \varepsilon =  -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a} $$
 > ### $$ \varepsilon = \frac{V^{2}}{2} - \frac{\mu}{r}  $$
+> ### $$ V = \sqrt{2\mu\left( \frac{1}{r} - \frac{1}{r_{a} + r_{p}} \right)} = \sqrt{ \mu\left( \frac{2}{r} - \frac{1}{a} \right)} $$
 >> where:
 >> $\varepsilon= \frac{K}{m} =$ [[specific orbital energy]]
 >> $\mu=GM=$ [[universal constant of gravitation|gravitational constant]] times mass of orbited body
