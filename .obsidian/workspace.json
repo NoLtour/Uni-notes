@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b918ec95226b7b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA2024 Astronautics/5 Mission analysis/obit selection.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f84bbf4609998f56",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/obit selection.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,10 +158,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f487590d780b1e7c",
+  "active": "b918ec95226b7b04",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+    "SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
     "SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital elements.md",
     "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md",
