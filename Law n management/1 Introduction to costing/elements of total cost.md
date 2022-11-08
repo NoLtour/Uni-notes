@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["direct costs","indirect costs", "fixed costs", "variable costs"]
 tags: []
 ---
 
@@ -20,4 +20,11 @@ Indirect costs can almost be described as costs which are not worth keeping trac
 ### Fixed costs
 Costs which are pretty much unaffected by fluctuations in output and tend to be related to a fixed set of time instead of a fixed output.
 
-We describe them as fixed relat
+We describe them as fixed relative to the time scale we are observing, since in reality all costs vary given enough time.
+
+### Variable costs
+Vary in the short term, often with the level of activity in the organisation.
+
+### Limitations of costing definition
+Pretty much all costs have variable and fixed aspects which often means the category a cost is placed into is somewhat arbitrary.
+
