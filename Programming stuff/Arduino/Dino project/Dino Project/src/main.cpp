@@ -6,10 +6,10 @@ int RED_LED_PIN = 5;
 //int GRN_LED_PIN = 10;
 int BLU_LED_PIN = 6;
 
-int LDR = A0;
+int TH_NOSE_PIN = A0;
 int LDRval1;
 
-int THR_PIN = A2; 
+int TH_MOTH_PIN = A2; 
 
 Servo jawServo; //Jaw Servo
 int pos = 0;
@@ -24,33 +24,48 @@ void set_RGB_color(int Rval, int Gval, int Bval){ //Eyes
   analogWrite(BLU_LED_PIN, Bval);
 }
  
-#define TOTAL_LIGHT_PREVS (10)
+double prevLightV = 0;
+#define TOTAL_LIGHT_PREVS (80)
 double prevLight [TOTAL_LIGHT_PREVS];
 int lightIndex = 0;
+// 26 -> Touching, 127 -> NOT
 double getLight(){
-  prevLight[lightIndex] = analogRead(LDR);
+  prevLight[lightIndex] = analogRead(TH_NOSE_PIN);
   double avLight = 0;
   for ( int i=0; i<TOTAL_LIGHT_PREVS; i++ ){ avLight += prevLight[i]; }
   lightIndex = (lightIndex+1)%TOTAL_LIGHT_PREVS;
+  prevLightV = ((prevLightV*100)+prevLight[lightIndex])/101;
+  
+  Serial.print(prevLightV);
+  Serial.print("     ");
+  Serial.println(avLight/TOTAL_LIGHT_PREVS);
   return (avLight/TOTAL_LIGHT_PREVS) ;
 } 
 
  
-#define TOTAL_TEMP_PREVS (10)
+#define TOTAL_TEMP_PREVS (80)
 double prevTemps [TOTAL_TEMP_PREVS];
 int tempIndex = 0;
+double prevTempV = 0;
+
+// 100 -> Touching, 200 -> NOT
 double getTemp(){
-  prevTemps[tempIndex] = analogRead(THR_PIN);
+  prevTemps[tempIndex] = analogRead(TH_MOTH_PIN);
   double avTemp = 0;
   for ( int i=0; i<TOTAL_TEMP_PREVS; i++ ){ avTemp += prevTemps[i]; }
   tempIndex = (tempIndex+1)%TOTAL_TEMP_PREVS;
-  return avTemp/TOTAL_TEMP_PREVS ;
+
+  prevTempV = ((prevTempV*200)+prevTemps[tempIndex])/201;
+  //Serial.print(prevTempV);
+  //Serial.print("     ");
+  //Serial.println(avTemp/TOTAL_TEMP_PREVS);
+  return avTemp/TOTAL_TEMP_PREVS;
 } 
 
 
 int US_OUP_PIN = 3 ; // ~ -> TRIG OUTPUT
 int US_INP_PIN = 2 ; // . -> ECHO INPUT
-int DEFULT_MAX_DISTANCE = 50;
+int DEFULT_MAX_DISTANCE = 40;
 
 double getDistanceRAW( int maxMicros=(DEFULT_MAX_DISTANCE/0.008) ){
   digitalWrite( US_OUP_PIN, LOW );
@@ -64,7 +79,7 @@ double getDistanceRAW( int maxMicros=(DEFULT_MAX_DISTANCE/0.008) ){
 
   return (travelTime==0?DEFULT_MAX_DISTANCE:(travelTime*0.016));
 }
-#define TOTAL_DIST_PREVS (20)
+#define TOTAL_DIST_PREVS (40)
 double prevDistances [TOTAL_DIST_PREVS];
 int distIndex = 0;
 double getDistance(){
@@ -73,13 +88,13 @@ double getDistance(){
   for ( int i=0; i<TOTAL_DIST_PREVS; i++ ){ avDistance += prevDistances[i]; }
   distIndex = (distIndex+1)%TOTAL_DIST_PREVS;
 
-  Serial.println( (avDistance/TOTAL_DIST_PREVS) );
+  //Serial.println( (avDistance/TOTAL_DIST_PREVS) );
 
   return round( (avDistance/TOTAL_DIST_PREVS)*10.0 )/10.0;
 } 
 
 
-int ROAR_PIN = 12; // ~ -> Buzzer OUTPUT
+int ROAR_PIN = 9; // ~ -> Buzzer OUTPUT
 unsigned long sRoarTime = 0;
 int roarState = -1; 
 
@@ -104,10 +119,10 @@ void updateRoar(){
 }
 
 const int STEPS_PER_R = 300;
-int ST_INP1_PIN = 8 ; // . -> STEPPER_INP1
-int ST_INP2_PIN = 9 ; // . -> STEPPER_INP2
-int ST_INP3_PIN = 10; // . -> STEPPER_INP3
-int ST_INP4_PIN = 11; // . -> STEPPER_INP4
+int ST_INP1_PIN = 10 ; // . -> STEPPER_INP1
+int ST_INP2_PIN = 11 ; // . -> STEPPER_INP2
+int ST_INP3_PIN = 12; // . -> STEPPER_INP3
+int ST_INP4_PIN = 13; // . -> STEPPER_INP4
 int MOTOR_RPM = 20;
 Stepper stepperMotor = Stepper( STEPS_PER_R, ST_INP1_PIN, ST_INP2_PIN, ST_INP3_PIN, ST_INP4_PIN );
 
@@ -115,7 +130,7 @@ void rotateStepper( int direction ){
   if ( direction == 0 ){
     return;
   }else{ 
-    stepperMotor.step( (direction<0)?-20:20 );
+    stepperMotor.step( (direction<0)?-6:6 );
     //stepperMotor.step( 20 );
   }
 }
@@ -196,7 +211,7 @@ class ResponseManager{
       if ( tickedInterval( 500000 ) ){
         switch ( currentState ){
           case FEAR:
-            set_RGB_color( 255, 255, 0 );
+            set_RGB_color( 10, 0, 0 );
             break;
 
           case CURIOSITY:
@@ -204,11 +219,11 @@ class ResponseManager{
             break;
           
           case CALM:
-            set_RGB_color( 0, 255, 0 );
+            set_RGB_color( 50, 0, 50 );
             break;
           
           case IDLE:
-            set_RGB_color( 200, 100, 100 );
+            set_RGB_color( 200, 0, 100 );
             break;
           
           case BITING:
@@ -221,13 +236,13 @@ class ResponseManager{
     }
 
     void updateState(){
-      if ( getTemp() < 100 && false ){
+      if ( getTemp() < 80 ){
         setState( CALM );
-      }else if ( getLight() < 100 && false ){
+      }else if ( getLight() < 150 && false ){
         setState( BITING );
-      }else if ( getDistance() < 10 ){
+      }else if ( getDistance() < 13.3 ){
         setState( FEAR );
-      }else if ( getDistance() > 13 ){
+      }else if ( getDistance() > 15.3 && getDistance() != DEFULT_MAX_DISTANCE ){
         setState( CURIOSITY );
       }else{
         setState( IDLE );
@@ -260,6 +275,7 @@ void setup() {
 ResponseManager rManager;
 
 void loop() {  
+  digitalWrite(13, millis()%1000<500?HIGH:LOW );
 
   rManager.executeResponses();
   rManager.updateState();
