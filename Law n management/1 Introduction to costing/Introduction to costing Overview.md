@@ -8,6 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[income statement]]
 - [[balance sheet]]
+- 
 
 
 ## Expanded articles
