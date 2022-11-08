@@ -4,18 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "0599c9465ae6d9d0",
+        "id": "de6c4b1a2b0db0a4",
         "type": "tabs",
         "children": [
           {
-            "id": "71be52ae26f28514",
+            "id": "f487590d780b1e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f84bbf4609998f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "71de90ab18b9c601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/3 Potential flow/coordinate system being used in potential flow (stupid).md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -69,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,20 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "71be52ae26f28514",
+  "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
     "SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "Aerodynamics/Lecture slides/3 Potential flow/Topic 3 Potential Flow(8).pdf",
-    "Aerodynamics/Aerodynamics overview.md",
-    "Thermofluids/20 Hydrostatic pressure/pressure (hydrostatics).md",
-    "SESA2024 Astronautics/2 Attitude control/disturbance torques.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md",
-    "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
-    "SESA2024 Astronautics/2 Attitude control/internal torques and torquers.md"
+    "SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
+    "SESA2024 Astronautics/5 Mission analysis/orbital elements.md",
+    "SESA2024 Astronautics/5 Mission analysis/orbital right ascension.md",
+    "SESA2024 Astronautics/5 Mission analysis/I REALLY hate these measurement systems.md",
+    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+    "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+    "Aerodynamics/3 Potential flow/addition of stream functions.md",
+    "Aerodynamics/3 Potential flow/stream function for line source or sink.md"
   ]
 }
