@@ -36,13 +36,15 @@ $$\begin{align*}
 \end{align*}$$
 ### Equation
 
+The conversion to the cartesian form is complex and not needed here, so just take my word for it. [[prove it yourself|:trol:]]
+
 > ## $$ \psi(x,z) = - \frac{k}{2\pi} \frac{z-z_{0}}{(x-x_{0})^{2} + (z-z_{0})^{2}}  $$ 
 > ## $$ \psi( r, \theta ) =  -\frac{k}{2\pi} \frac{\sin\theta}{r} $$ 
 >> where:
 >> $z,x=$ position
 >> $x_{0},z_{0}=$ position of doublet
 >> $k=$ strength of doublet
->> $\psi=$ [[stream function (2D)|stream function]] of source/sink
+>> $\psi=$ [[stream function (2D)|stream function]] of  doublet
 
 ### Application
 
