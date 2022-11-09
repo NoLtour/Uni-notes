@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fourier",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f487590d780b1e7c",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
     "Electrical and electronic systems/1 Electric circuits/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
