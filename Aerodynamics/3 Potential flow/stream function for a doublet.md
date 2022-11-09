@@ -5,7 +5,7 @@ tags: []
 
 ## Stream function for a doublet
 
-
+### Derivation
 We can get the stream function of a doublet by placing a [[stream function for line source or sink|source and sink]] next to each other with an infinitesimally small separation. Recall the equation for a source/sink is:
 $$ \psi(x,z) = \frac{Q}{2\pi} \arctan \left(\frac{z-z_{0}}{x-x_{0}}\right)  $$ So take this and get a source of strength $Q$ at $0,-B$ and then place a sink of strength $Q$ at $0 , B$:
 
@@ -34,3 +34,13 @@ Hence subbing back into the previous equation, as $B$ approaches zero:
 $$\begin{align*}
 \psi_{doublet}(\theta,r)  &=  -\frac{k}{2\pi} \frac{\sin\theta}{r}\\
 \end{align*}$$
+### Equation
+
+> ## $$ \psi(x,z) = - \frac{k}{2\pi} \frac{z-z_{0}}{(x-x_{0})^{2} + (z-z_{0})^{2}}  $$ 
+> ## $$ \psi( r, \theta ) =  -\frac{k}{2\pi} \frac{\sin\theta}{r} $$ 
+>> where:
+>> $z,x=$ position
+>> $x_{0},z_{0}=$ position of source/sink
+>> $Q=$ area flow rate from source (negative indicates sink)
+>> $\psi=$ [[stream function (2D)|stream function]] of source/sink
+
