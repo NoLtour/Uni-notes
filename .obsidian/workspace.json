@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
-                "mode": "preview",
+                "file": "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
     "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/shortcuts for the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
@@ -131,7 +132,6 @@
     "Law n management/Coursework notes.md",
     "Law n management/1 Introduction to costing/cost unit.md",
     "Law n management/1 Introduction to costing/mmmm yes buisness studies.md",
-    "Law n management/1 Introduction to costing/Introduction to costing Overview.md",
-    "Law n management/1 Introduction to costing/elements of total cost.md"
+    "Law n management/1 Introduction to costing/Introduction to costing Overview.md"
   ]
 }
