@@ -23,5 +23,10 @@ $$\begin{align*}
 If we kept $Q$ constant then as $\Delta \theta$ tends to zero the whole function would tent to zero which is not useful, so instead we are going to scale $Q$ according to the distance $B$ using the relationship: $Q2B=k$ where $k$ is some constant hence $Q=\frac{k}{2B}$:
 $$\begin{align*}
 \psi_{doublet}(\theta,r) &=  \frac{Q}{2\pi} (\theta_{1}-\theta_{2})\\
-  &=  \frac{2BQ}{2\pi} (\theta_{1}-\theta_{2})\\
+  &=  \frac{2BQ}{2\pi} \left( \frac{\theta_{1}-\theta_{2}}{2B} \right)\\
+  &=  \frac{k}{2\pi} \left( \frac{\theta_{1}-\theta_{2}}{2B} \right)\\
+\end{align*}$$
+Then it can be shown (with maths that's too complex to be suitable here) that:
+$$\begin{align*}
+\lim_{B\to 0} \frac{\theta_{1}-\theta_{2}}{2B} &= \lim_{B\to 0} \frac{  \arctan \left(\frac{z }{x+B}\right) -  \arctan \left(\frac{z }{x- B}\right)  }{2B}
 \end{align*}$$
