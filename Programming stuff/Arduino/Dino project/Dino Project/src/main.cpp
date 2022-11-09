@@ -237,9 +237,9 @@ class ResponseManager{
     }
 
     void updateState(){
-      if ( getTemp() < 80 ){
+      if ( getTemp() < 2000 ){
         setState( CALM );
-      }else if ( getLight() < 150 && false ){
+      }else if ( getLight() < 2000 ){
         setState( BITING );
       }else if ( getDistance() < 13.3 ){
         setState( FEAR );
@@ -278,11 +278,11 @@ ResponseManager rManager;
 void loop() {  
   digitalWrite(13, millis()%1000<500?HIGH:LOW );
 
-  //rManager.executeResponses();
-  //rManager.updateState();
+  rManager.executeResponses();
+  rManager.updateState();
 
-  Serial.print( getLight() );
-  Serial.print("  -  ");
-  Serial.println( getTemp() );
+  //Serial.print( getLight() );
+ // Serial.print("  -  ");
+  //Serial.println( getTemp() );
 }
 
