@@ -10,6 +10,7 @@ int TH_NOSE_PIN = A0;
 int LDRval1;
 
 int TH_MOTH_PIN = A2; 
+int VINP_PIN    = A3; 
 
 Servo jawServo; //Jaw Servo
 int pos = 0;
@@ -30,15 +31,15 @@ double prevLight [TOTAL_LIGHT_PREVS];
 int lightIndex = 0;
 // 26 -> Touching, 127 -> NOT
 double getLight(){
-  prevLight[lightIndex] = analogRead(TH_NOSE_PIN);
+  prevLight[lightIndex] = ((analogRead(VINP_PIN)/analogRead(TH_NOSE_PIN)) - 1) * 100;
   double avLight = 0;
   for ( int i=0; i<TOTAL_LIGHT_PREVS; i++ ){ avLight += prevLight[i]; }
   lightIndex = (lightIndex+1)%TOTAL_LIGHT_PREVS;
   prevLightV = ((prevLightV*100)+prevLight[lightIndex])/101;
   
-  Serial.print(prevLightV);
-  Serial.print("     ");
-  Serial.println(avLight/TOTAL_LIGHT_PREVS);
+  //Serial.print(prevLightV);
+  //Serial.print("     ");
+  //Serial.println(avLight/TOTAL_LIGHT_PREVS);
   return (avLight/TOTAL_LIGHT_PREVS) ;
 } 
 
@@ -50,7 +51,7 @@ double prevTempV = 0;
 
 // 100 -> Touching, 200 -> NOT
 double getTemp(){
-  prevTemps[tempIndex] = analogRead(TH_MOTH_PIN);
+  prevTemps[tempIndex] = ((analogRead(VINP_PIN)/analogRead(TH_MOTH_PIN)) - 1) * 100;
   double avTemp = 0;
   for ( int i=0; i<TOTAL_TEMP_PREVS; i++ ){ avTemp += prevTemps[i]; }
   tempIndex = (tempIndex+1)%TOTAL_TEMP_PREVS;
@@ -277,7 +278,11 @@ ResponseManager rManager;
 void loop() {  
   digitalWrite(13, millis()%1000<500?HIGH:LOW );
 
-  rManager.executeResponses();
-  rManager.updateState();
+  //rManager.executeResponses();
+  //rManager.updateState();
+
+  Serial.print( getLight() );
+  Serial.print("  -  ");
+  Serial.println( getTemp() );
 }
 
