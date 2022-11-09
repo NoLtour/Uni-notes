@@ -26,6 +26,8 @@ Then you just do that, deriving till you get zero or an obvious pattern and same
 
 ![[Pasted image 20221109140218.png]]
 
+Something that is useful to note is that if y
+
 Now to get each term we just multiply the sign by the derivative by the integral in the column below, on the table it looks like:
 
 ![[Pasted image 20221109140203.png]]
