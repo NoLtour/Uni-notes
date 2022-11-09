@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
-                "mode": "preview",
-                "source": true
+                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
+                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
     "Aerodynamics/3 Potential flow/stream function for a doublet.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/fourier transforms.md",
@@ -131,7 +132,6 @@
     "Mathematics for Engineering and the Environment/Year 2/Integration by parts DI method.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
     "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
-    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/shortcuts for the fourier series.md"
+    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md"
   ]
 }
