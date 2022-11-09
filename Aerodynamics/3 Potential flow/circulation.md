@@ -3,5 +3,5 @@ aliases: [""]
 tags: []
 ---
 
-## Circulation
-This is a 
+## Circulation ($\Gamma$)
+This is the [[line integral]] of a [[vector fields|vector field]] 
