@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "file": "Aerodynamics/3 Potential flow/circulation.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "file": "Aerodynamics/3 Potential flow/circulation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,9 +123,9 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/stream function for a doublet.md",
     "Aerodynamics/3 Potential flow/prove it yourself.md",
-    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/addition of stream functions.md",
     "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
     "Aerodynamics/3 Potential flow/aka I did not look it up and its not in the notes since we do not need to know it.md",

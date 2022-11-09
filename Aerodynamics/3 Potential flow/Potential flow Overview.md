@@ -16,7 +16,7 @@ Contents:
 - [[stream function for line source or sink]]
 - [[addition of stream functions]]
 - [[stream function for a doublet]]
-- 
+- [[circulation]]
 
 
 ## Expanded articles
