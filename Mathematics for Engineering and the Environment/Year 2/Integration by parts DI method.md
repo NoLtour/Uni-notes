@@ -37,5 +37,9 @@ Which gets us the solution quite quickly:
 
 $$ \int x^{5} \sin\left(\frac{x}{2}\right) \cdot dx = -2x^{5} \cos \frac{x}{2} + 20x^{4}\sin \frac{x}{2} +120x^{3}\cos \frac{x}{2} - 480 x^{2} \sin \frac{x}{2} - 960 x \cos \frac{x}{2} + 1920 \sin \frac{x}{2} $$
 
-If we wanted to get the integration up to the 4th term it's also simple:
+If we wanted to get the integration up to the 4th term it's also simple, just sum up normally across columns then at the 4th row multiply across the entire row and put it inside an integration:
 $$ \int x^{5} \sin\left(\frac{x}{2}\right) \cdot dx = -2x^{5} \cos \frac{x}{2} + 20x^{4}\sin \frac{x}{2} +120x^{3}\cos \frac{x}{2} - \int 240x^{2} \cos \frac{x}{2} \cdot dx $$
+
+If we wanted the integration up to the 1st term it is just multiplying the contents of the first row then putting it inside an integration:
+$$ \int x^{5} \sin\left(\frac{x}{2}\right) \cdot dx = \int x^{5} \sin\left(\frac{x}{2}\right) \cdot dx $$
+Which is exactly what you'd expect.
