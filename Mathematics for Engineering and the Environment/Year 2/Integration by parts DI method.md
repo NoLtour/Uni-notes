@@ -32,4 +32,4 @@ Now to get each term we just multiply the sign by the derivative by the integral
 
 Which gets us the solution quite quickly:
 
-$$ \int x^{5} \sin\left(\frac{x}{2}\right) \cdot dx = -2x^{5} \cos \frac{x}{2} + 20x^{4}\sin \frac{x}{2} $$
+$$ \int x^{5} \sin\left(\frac{x}{2}\right) \cdot dx = -2x^{5} \cos \frac{x}{2} + 20x^{4}\sin \frac{x}{2} +120x^{3}\cos \frac{x}{2} - 480 x^{2} \sin \frac{x}{2} - 960 x \cos \frac{x}{2} + 1920 \sin \frac{x}{2} $$
