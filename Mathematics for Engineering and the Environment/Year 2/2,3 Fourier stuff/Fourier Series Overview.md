@@ -8,6 +8,8 @@ tags: ["NotesPage"]
 #### Intro 
 ![youtube](https://www.youtube.com/watch?v=spUNpyF58BY)
 
+This will be useful [[Integration by parts DI method]].
+
 #### Contents
 - [[trig identities for Fourier series]]
 - [[defining the fourier series]]
@@ -26,6 +28,7 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[Integration by parts DI method]]
 ![[trig identities for Fourier series]]
 ![[defining the fourier series]]
 ![[odd function]]
