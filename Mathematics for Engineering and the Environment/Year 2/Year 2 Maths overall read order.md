@@ -11,7 +11,7 @@ Plus the slides.
 
 ### Misc
 
-This is VERY useful, I strongly recommend learning it: 
+This is VERY useful, I strongly recommend learning it: [[Integration by parts DI method]]
 
 ### The stuff
 
