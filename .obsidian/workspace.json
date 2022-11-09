@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/fourier transforms.md",
+                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/fourier transforms.md",
+                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,8 +121,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9dba8c53e0736664",
+  "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/fourier transforms.md",
     "Electrical and electronic systems/1 Electric circuits/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Integration by parts DI method.md",
@@ -131,7 +132,6 @@
     "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/shortcuts for the fourier series.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "Law n management/Coursework notes.md"
+    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md"
   ]
 }
