@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical and electronic systems/1 Electric circuits/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/fourier transforms.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potential divider",
+                "query": "fourier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1 Electric circuits/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/fourier transforms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Electrical and electronic systems/1 Electric circuits/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Integration by parts DI method.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
@@ -132,7 +133,6 @@
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/shortcuts for the fourier series.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "Law n management/Coursework notes.md",
-    "Law n management/1 Introduction to costing/cost unit.md"
+    "Law n management/Coursework notes.md"
   ]
 }
