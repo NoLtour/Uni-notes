@@ -9,6 +9,7 @@ tags: []
 
 Essentially it is just this equation:
 
+> ## $$ \int uv \cdot dx = u I_{1}[v] - \int \dot{u} I_{1}[v] \cdot dx  $$ 
 > ## $$ \int uv \cdot dx = u I_{1}[v] - \dot{u}I_{2}[v] + \ddot{u}I_{3}[v] - \dddot{u}I_{4}[v] + ... + (-1)^{n} \left( \frac{d^{n-1}}{dx^{n-1}} u \right) I_{n}[v] $$ 
 >> where:
 >> $v,u=$ functions of $x$
@@ -26,7 +27,7 @@ Then you just do that, deriving till you get zero or an obvious pattern and same
 
 ![[Pasted image 20221109140218.png]]
 
-Something that is useful to note is that if y
+Something that is useful to note is that if you read across the column you get the current integral unto that point, for example the 2nd to last integration will be $+(60x)\left(16\sin \frac{x}{2}\right)$ and the last integration will be $-(60)\left(-32\cos \frac{x}{2}\right)$ which of course doesn't need integration by parts to solve.
 
 Now to get each term we just multiply the sign by the derivative by the integral in the column below, on the table it looks like:
 
