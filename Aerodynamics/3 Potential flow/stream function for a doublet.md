@@ -26,7 +26,11 @@ $$\begin{align*}
   &=  \frac{2BQ}{2\pi} \left( \frac{\theta_{1}-\theta_{2}}{2B} \right)\\
   &=  \frac{k}{2\pi} \left( \frac{\theta_{1}-\theta_{2}}{2B} \right)\\
 \end{align*}$$
-Then it can be shown (with maths that's too complex to be suitable here) that:
+Then it can be shown (with maths that's [[aka I did not look it up and its not in the notes since we do not need to know it|too complex to be suitable here]]) that:
 $$\begin{align*}
-\lim_{B\to 0} \frac{\theta_{1}-\theta_{2}}{2B} &= \lim_{B\to 0} \frac{  \arctan \left(\frac{z }{x+B}\right) -  \arctan \left(\frac{z }{x- B}\right)  }{2B}
+\lim_{B\to 0} \frac{\theta_{1}-\theta_{2}}{2B} &= \lim_{B\to 0} \frac{  \arctan \left(\frac{z }{x+B}\right) -  \arctan \left(\frac{z }{x- B}\right)  }{2B} = - \frac{\sin\theta}{r}
+\end{align*}$$
+Hence subbing back into the previous equation, as $B$ approaches zero:
+$$\begin{align*}
+\psi_{doublet}(\theta,r)  &=  -\frac{k}{2\pi} \frac{\sin\theta}{r}\\
 \end{align*}$$

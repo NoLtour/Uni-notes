@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7135f9302a8434c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/3 Potential flow/aka I did not look it up and its not in the notes since we do not need to know it.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+                "file": "Aerodynamics/3 Potential flow/aka I did not look it up and its not in the notes since we do not need to know it.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,10 +134,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f487590d780b1e7c",
+  "active": "c7135f9302a8434c",
   "lastOpenFiles": [
-    "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
     "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+    "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/fourier transforms.md",
     "Electrical and electronic systems/1 Electric circuits/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
