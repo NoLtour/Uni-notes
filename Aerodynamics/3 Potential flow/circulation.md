@@ -11,6 +11,6 @@ $$ d\Gamma = \vec{V} \cdot d\vec{s} $$
 Then of course if we do this around the entire curve we get the integral:
 $$ \Gamma = \int_{C} \vec{V} \cdot d\vec{s} $$
 
-You know how I said it's "kinda" like [[curl of a vector|vorticity]] but over an area, well I lied. It can litterally be defined as [[curl of a vector|vorticity]] but over an area:
-$$ \Gamma $$
+You know how I said it's "kinda" like [[curl of a vector|vorticity]] but over an area, well I lied. It can litterally be defined as [[curl of a vector|vorticity]] but over an area (apparently this can be proven using [[Stokes theorem]]):
+$$ \Gamma = \int \int_{S} \nabla \times \vec{V} $$
 
