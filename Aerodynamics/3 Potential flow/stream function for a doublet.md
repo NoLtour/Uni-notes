@@ -16,3 +16,8 @@ Then we know that [[addition of stream functions]] is possible hence:
 $$\begin{align*}
 \psi_{doublet}(x,z) &=  \frac{Q}{2\pi} \arctan \left(\frac{z }{x+B}\right) -\frac{Q}{2\pi} \arctan \left(\frac{z }{x- B}\right) 
 \end{align*}$$
+If we convert to polar coordinates:
+$$\begin{align*}
+\psi_{doublet}(\theta,r) &=  \frac{Q}{2\pi} (\theta_{1}-\theta_{2})
+\end{align*}$$
+If we kept $Q$ constant then as $\Delta \theta$ tends to zero the whole function would tent to zero which is not useful, so instead we ar
