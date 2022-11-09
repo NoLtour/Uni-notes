@@ -20,4 +20,8 @@ If we convert to polar coordinates:
 $$\begin{align*}
 \psi_{doublet}(\theta,r) &=  \frac{Q}{2\pi} (\theta_{1}-\theta_{2})
 \end{align*}$$
-If we kept $Q$ constant then as $\Delta \theta$ tends to zero the whole function would tent to zero which is not useful, so instead we ar
+If we kept $Q$ constant then as $\Delta \theta$ tends to zero the whole function would tent to zero which is not useful, so instead we are going to scale $Q$ according to the distance $B$ using the relationship: $Q2B=k$ where $k$ is some constant hence $Q=\frac{k}{2B}$:
+$$\begin{align*}
+\psi_{doublet}(\theta,r) &=  \frac{Q}{2\pi} (\theta_{1}-\theta_{2})\\
+  &=  \frac{2BQ}{2\pi} (\theta_{1}-\theta_{2})\\
+\end{align*}$$
