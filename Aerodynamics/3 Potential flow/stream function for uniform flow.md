@@ -27,6 +27,7 @@ It is possible to do the same sort of method for finding [[velocity potential]],
 ### Equation
 
 > ## $$ \psi(x,z) = U_{\infty}( z \cos \alpha - x \sin \alpha ) $$ 
+> ## $$ \psi(r,\theta) = U_{\infty}( r \sin\theta ) $$ 
 >> where:
 >> $z,x=$ position
 >> $U_{\infty}=$ flow speed
