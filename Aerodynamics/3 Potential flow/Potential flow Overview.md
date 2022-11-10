@@ -17,6 +17,7 @@ Contents:
 - [[addition of stream functions]]
 - [[stream function for a doublet]]
 - [[circulation]]
+- [[stream function for a vortex]]
 
 
 ## Expanded articles
