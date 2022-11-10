@@ -25,5 +25,12 @@ $$\begin{align*}
  V_{r}=0 &= \frac{1}{r} \frac{\delta \psi}{ \delta \theta } &  V_{\theta} = 0 &= - \frac{\delta \psi}{ \delta r }\\
 &=  U_{\infty}   \cos\theta + \frac{Q}{2r\pi} & &= - U_{\infty}   \sin\theta \\
 && \arcsin(0) &= \theta = \pi\\
-&=  U_{\infty}  + \frac{Q}{2r\pi}
+U_{\infty} &= \frac{Q}{2r\pi}\\
+r &= \frac{Q}{2U_{\infty}\pi}
 \end{align*}$$
+Hence subbing back into streamfunction:
+$$\begin{align*}
+\psi &= U_{\infty}  \frac{Q}{2U_{\infty}\pi} \sin\pi + \frac{Q}{2\pi} \pi \\
+&=   \frac{Q}{2 } 
+\end{align*}$$
+
