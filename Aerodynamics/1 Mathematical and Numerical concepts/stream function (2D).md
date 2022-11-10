@@ -26,3 +26,5 @@ The volume flow rate in between two streamlines can be found using the differenc
 >> $V_{r},V_{\theta}=$ velocity in radial and angular directions
 >> 
 >> ![[Pasted image 20221017165004.png]]
+
+^a8f4e7
