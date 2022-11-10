@@ -70,10 +70,10 @@ def getPressureCFs( u,w,Uref ):
 	return 1-((u**2 + w**2) / (Uref**2))
 
 # Here is the stream function we defined above
-def sourceDB( x0,z0, x,z, strength ): 
-    return (-strength/(2*np.pi)) * ( ( z-z0 )/( (x-x0)**2 + (z-z0)**2 ) )
+def vortexSF( x0,z0, x,z, Gamma ): 
+    return (Gamma/(2*np.pi)) * np.log( np.sqrt( (x-x0)**2 + (z-z0)**2 ) )
  
-streamFunction = sourceDB( -0.05,0.05, x,z, 5 );
+streamFunction = vortexSF( -0.05,0.05, x,z, 5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
@@ -81,7 +81,7 @@ u,w = getVelocitys( streamFunction )
 plot.figure(69)
 plot.title("flow field")
 plot.quiver( x, z, u, w )
-plot.contour( x, z, streamFunction,100)
+plot.contour( x, z, streamFunction,10)
 
 plot.show()
 
