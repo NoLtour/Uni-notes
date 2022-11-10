@@ -18,7 +18,7 @@ Contents:
 - [[stream function for a doublet]]
 - [[circulation]]
 - [[stream function for a vortex]]
-- [[determining the geometry of a ]]
+- [[defining the geometry of an object in a flow]]
 
 
 ## Expanded articles
