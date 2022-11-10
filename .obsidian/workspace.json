@@ -123,15 +123,15 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "Aerodynamics/3 Potential flow/circulation.md",
-    "Aerodynamics/3 Potential flow/stream function for a vortex.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+    "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+    "Aerodynamics/3 Potential flow/stream function for a vortex.md",
+    "Aerodynamics/3 Potential flow/sometimes I cba to do extra detail on the proofs leave me alone.md",
+    "Aerodynamics/3 Potential flow/circulation.md",
     "Aerodynamics/3 Potential flow/Stokes theorem.md",
     "Thermofluids/23 Flow characterisation and visualisation/vector fields.md",
-    "Aerodynamics/3 Potential flow/stream function for a doublet.md",
     "Aerodynamics/3 Potential flow/prove it yourself.md",
     "Aerodynamics/3 Potential flow/addition of stream functions.md",
-    "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
-    "Aerodynamics/3 Potential flow/aka I did not look it up and its not in the notes since we do not need to know it.md"
+    "Aerodynamics/3 Potential flow/stream function for line source or sink.md"
   ]
 }
