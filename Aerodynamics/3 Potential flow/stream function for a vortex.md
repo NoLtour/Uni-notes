@@ -13,4 +13,5 @@ The radial and angular velocities can be described as:
 $$\begin{align*}
 V_{\theta} &= \frac{c}{r} & V_{r} &=0
 \end{align*}$$
-Then we can use the identity of [[circulation]], but first we need to know the area of interest; here we know that the total [[circulation]] within any sized circle around the origin is $a$
+Then we can use the identity of [[circulation]], but first we need to know the area of interest; here we know that the total [[circulation]] within any sized circle around the origin is $\Gamma$, a infentesimaly small line segment of the perimeter of a circle of radius $r$ can be defined as $d\vec{s}=rd\theta$ which is what we need for the equation of circulation:
+$$ \Gamma &= \int_{C} \vec{V} \cdot d\vec{s} && \to $$
