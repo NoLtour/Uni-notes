@@ -14,4 +14,4 @@ $$ \Gamma = \int_{C} \vec{V} \cdot d\vec{s} $$
 You know how I said it's "kinda" like [[curl of a vector|vorticity]] but over an area, well I lied. It can litterally be defined as [[curl of a vector|vorticity]] but over an area (apparently this can be proven using [[Stokes theorem]]):
 $$ \Gamma = \int \int_{S} \nabla \times \vec{V} $$
 
-Of course this means that if the flow is irrotational then the [[circulation]] in the area will be zero.
+Of course this means that if the flow is irrotational then the [[circulation]] in the area will be zero. Something to note is just like [[curl of a vector|vorticity]], [[circulation]] is positive in the clockwise direction.
