@@ -11,3 +11,7 @@ We know from previous discussions that a streamline is effectively equivalent to
 
 ![[Pasted image 20221110120409.png]]
 
+By adding the streamfunctions of a [[stream function for uniform flow|uniform flow]] and a [[stream function for line source or sink|source]] we can get the following:
+![[Pasted image 20221110120539.png]]
+We still need to somehow find the value of the [[stream function (2D)|stream function]] which actually defines the green line, since we are taking it to be equivilient to a stationary body we know that 
+
