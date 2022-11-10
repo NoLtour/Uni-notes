@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/defining the geometry of an object in a flow.md",
-                "mode": "source",
+                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/defining the geometry of an object in a flow.md",
+                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,11 +123,11 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
-    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
+    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/defining the geometry of an object in a flow.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/3 Potential flow/stagnation point.md",
     "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
-    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/circulation.md",
     "Aerodynamics/3 Potential flow/stream function for a vortex.md",

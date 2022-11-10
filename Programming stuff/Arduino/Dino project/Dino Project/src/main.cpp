@@ -2,9 +2,20 @@
 #include <Stepper.h>
 #include <Servo.h>
 
-int RED_LED_PIN = 5;
+int RED_LED_PIN = 10;
 //int GRN_LED_PIN = 10;
-int BLU_LED_PIN = 6;
+int BLU_LED_PIN = 11;
+
+int ST_INP1_PIN = 3 ; // . -> STEPPER_INP1
+int ST_INP2_PIN = 4 ; // . -> STEPPER_INP2
+int ST_INP3_PIN = 5; // . -> STEPPER_INP3
+int ST_INP4_PIN = 6; // . -> STEPPER_INP4
+
+
+int US_OUP_PIN = 9 ; // ~ -> TRIG OUTPUT
+int US_INP_PIN = 8 ; // . -> ECHO INPUT
+
+int ROAR_PIN = 12; // ~ -> Buzzer OUTPUT
 
 int TH_NOSE_PIN = A0;
 int LDRval1;
@@ -31,11 +42,11 @@ double prevLight [TOTAL_LIGHT_PREVS];
 int lightIndex = 0;
 // 26 -> Touching, 127 -> NOT
 double getLight(){
-  prevLight[lightIndex] = ((analogRead(VINP_PIN)/analogRead(TH_NOSE_PIN)) - 1) * 100;
+  prevLight[lightIndex] = ((analogRead(VINP_PIN)/analogRead(TH_NOSE_PIN)) - 1) * 1000;
   double avLight = 0;
   for ( int i=0; i<TOTAL_LIGHT_PREVS; i++ ){ avLight += prevLight[i]; }
   lightIndex = (lightIndex+1)%TOTAL_LIGHT_PREVS;
-  prevLightV = ((prevLightV*100)+prevLight[lightIndex])/101;
+  prevLightV = ((prevLightV*300)+prevLight[lightIndex])/301;
   
   //Serial.print(prevLightV);
   //Serial.print("     ");
@@ -51,12 +62,12 @@ double prevTempV = 0;
 
 // 100 -> Touching, 200 -> NOT
 double getTemp(){
-  prevTemps[tempIndex] = ((analogRead(VINP_PIN)/analogRead(TH_MOTH_PIN)) - 1) * 100;
+  prevTemps[tempIndex] = ((analogRead(VINP_PIN)/analogRead(TH_MOTH_PIN)) - 1) * 1000;
   double avTemp = 0;
   for ( int i=0; i<TOTAL_TEMP_PREVS; i++ ){ avTemp += prevTemps[i]; }
   tempIndex = (tempIndex+1)%TOTAL_TEMP_PREVS;
 
-  prevTempV = ((prevTempV*200)+prevTemps[tempIndex])/201;
+  prevTempV = ((prevTempV*300)+prevTemps[tempIndex])/301;
   //Serial.print(prevTempV);
   //Serial.print("     ");
   //Serial.println(avTemp/TOTAL_TEMP_PREVS);
@@ -64,8 +75,6 @@ double getTemp(){
 } 
 
 
-int US_OUP_PIN = 3 ; // ~ -> TRIG OUTPUT
-int US_INP_PIN = 2 ; // . -> ECHO INPUT
 int DEFULT_MAX_DISTANCE = 40;
 
 double getDistanceRAW( int maxMicros=(DEFULT_MAX_DISTANCE/0.008) ){
@@ -95,7 +104,6 @@ double getDistance(){
 } 
 
 
-int ROAR_PIN = 9; // ~ -> Buzzer OUTPUT
 unsigned long sRoarTime = 0;
 int roarState = -1; 
 
@@ -119,29 +127,30 @@ void updateRoar(){
   }
 }
 
-const int STEPS_PER_R = 300;
-int ST_INP1_PIN = 10 ; // . -> STEPPER_INP1
-int ST_INP2_PIN = 11 ; // . -> STEPPER_INP2
-int ST_INP3_PIN = 12; // . -> STEPPER_INP3
-int ST_INP4_PIN = 13; // . -> STEPPER_INP4
-int MOTOR_RPM = 20;
+const int STEPS_PER_R = 32;
+int MOTOR_RPM = 200;
 Stepper stepperMotor = Stepper( STEPS_PER_R, ST_INP1_PIN, ST_INP2_PIN, ST_INP3_PIN, ST_INP4_PIN );
 
 void rotateStepper( int direction ){ 
   if ( direction == 0 ){
     return;
   }else{ 
-    stepperMotor.step( (direction<0)?-6:6 );
+    stepperMotor.step( (direction<0)?-20:20 );
     //stepperMotor.step( 20 );
   }
 }
 
 void setJawState( bool open ){
-  jawServo.write( open?0:60 );
+  if ( !open ){
+    jawServo.write( millis()%2000<1000?0:60 );
+  }else{
+    jawServo.write( 60 );
+  }
+  
 }
 
 void randomiseTailState( ){
-  jawServo.write( rand()%60 );
+  tailServo.write( rand()%60 );
 }
 
 enum ResponseState{ FEAR, CURIOSITY, CALM, BITING, IDLE };
@@ -194,17 +203,17 @@ class ResponseManager{
       if ( tickedInterval( 100000 ) ){
         switch ( currentState ){
           case BITING:
-            setJawState( true );
+            setJawState( false );
             break; 
 
           default:
-            setJawState( false );
+            setJawState( true );
             break;
         }
       }
 
       // Tail response
-      if ( tickedInterval( 2000000 ) && currentState==CALM ){
+      if ( tickedInterval( 2000000 ) && currentState!=CALM ){
         randomiseTailState();
       }
 
@@ -237,13 +246,24 @@ class ResponseManager{
     }
 
     void updateState(){
-      if ( getTemp() < 2000 ){
+      double noseV = getTemp();
+      double mouthV = getLight();
+      double distV = getDistance();
+
+      Serial.print("T: ");
+      Serial.print(noseV);
+      Serial.print("\tM: ");
+      Serial.print(mouthV);
+      Serial.print("\tD: ");
+      Serial.println(distV);
+
+      if ( noseV > 2100 ){
         setState( CALM );
-      }else if ( getLight() < 2000 ){
+      }else if ( mouthV > 2100 ){
         setState( BITING );
-      }else if ( getDistance() < 13.3 ){
+      }else if ( distV < 13.3 ){
         setState( FEAR );
-      }else if ( getDistance() > 15.3 && getDistance() != DEFULT_MAX_DISTANCE ){
+      }else if ( distV > 15.3 && distV < DEFULT_MAX_DISTANCE ){
         setState( CURIOSITY );
       }else{
         setState( IDLE );
@@ -268,19 +288,29 @@ void setup() {
   pinMode( US_INP_PIN, INPUT );
   pinMode( US_OUP_PIN, OUTPUT );
 
-  jawServo.attach(A1);
-  tailServo.attach(A3);
+  jawServo.attach(A4);
+  tailServo.attach(A5); 
 }
 
 
 ResponseManager rManager;
 
 void loop() {  
-  digitalWrite(13, millis()%1000<500?HIGH:LOW );
 
-  rManager.executeResponses();
-  rManager.updateState();
+  if ( millis()%20000<10000 ){
+    digitalWrite(13, HIGH );
+    //stepperMotor.setSpeed(5);
+  stepperMotor.step(30 );
+  }else{
+    
+    digitalWrite(13, LOW ); 
+  stepperMotor.step( -30 );
+  }
 
+  //digitalWrite(13, millis()%20000<10000?HIGH:LOW );
+
+  //rManager.executeResponses();
+  //rManager.updateState();
   //Serial.print( getLight() );
  // Serial.print("  -  ");
   //Serial.println( getTemp() );
