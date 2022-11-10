@@ -23,5 +23,7 @@ $$\begin{align*}
 Then using the equations of veloicty from [[stream function (2D)#^a8f4e7|stream function]]:
 $$\begin{align*}
  V_{r}=0 &= \frac{1}{r} \frac{\delta \psi}{ \delta \theta } &  V_{\theta} = 0 &= - \frac{\delta \psi}{ \delta r }\\
-&=  U_{\infty}   \cos\theta + \frac{Q}{2r\pi} & &&= 
+&=  U_{\infty}   \cos\theta + \frac{Q}{2r\pi} & &= - U_{\infty}   \sin\theta \\
+&& \arcsin(0) &= \theta = \pi\\
+&=  U_{\infty}  + \frac{Q}{2r\pi}
 \end{align*}$$
