@@ -19,7 +19,8 @@ Contents:
 - [[circulation]]
 - [[stream function for a vortex]]
 - [[defining the geometry of an object in a flow]]
-- [[pressure coefficients for a stream function in a potential flow]]
+- [[pressure coefficients for a stream function in a potential flow]] (UNSURE IF NEEDED)
+- [[Rankine oval]]
 
 
 ## Expanded articles

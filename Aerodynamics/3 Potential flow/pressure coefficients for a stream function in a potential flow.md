@@ -11,14 +11,4 @@ It's quite easy just take the equation for [[pressure coefficient when there is 
 
 ![[pressure coefficient when there is no freestream#^6ace8a]]
 
-### Example
-
-If we use the basic example from before from [[defining the geometry of an object in a flow#Describing the geometry]], then we define $r$ interms of $\theta$ using the equation of the followed stream function:
-
-$$\begin{align*}
-1 &= \frac{2U_{\infty}}{Q}  r \theta + \frac{\theta}{\pi} \\
-\frac{1-\frac{\theta}{\pi}}{\frac{2U_{\infty}\theta}{Q}} &= r\\
-Q\frac{1-\frac{\theta}{\pi}}{ 2U_{\infty}\theta } &= r
-\end{align*}$$
-
-This can then be subbed into an equation of 
+ 
