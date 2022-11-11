@@ -54,6 +54,11 @@ def getStagnationPoint( x,z, u,w ):
 	zPos = z[ xIndx, zIndx ]; 
 
 	return xPos, zPos
+	
+def getStagnationPoints( x,z, u,w ): 
+	wh = np.where(  ( np.abs( u ) + np.abs( w ) )<1 )
+
+	return wh;
 
 def getStagnationSFVal( x,z, u,w, streamFunction ):
 	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape ) 
@@ -94,7 +99,7 @@ plot.figure(69)
 plot.title("flow field")
 #plot.quiver( x, z, u, w )
 
-stX,stZ = getStagnationPoint( x,z,u,w )
+stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
 niceContorPlot( x,z, streamFunction, 40 )
