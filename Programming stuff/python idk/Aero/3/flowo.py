@@ -85,8 +85,8 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 	cX = xMin
 	cZ = zMin
 	while ( cX <= xMax ):
-		niceVals.append( scalarField[ int(xMin + xRange*np.random.random() ) ][ int(zMin + zRange*np.random.random()) ] )
-		# niceVals.append( scalarField[ int(cX/dx - xMin) ][ int(cZ/dz - zMin) ] )
+		niceVals.append( scalarField[ int((xMin + xRange*np.random.random())/dx ) ][ int((zMin + zRange*np.random.random())/dz) ] )
+		#niceVals.append( scalarField[ int((cX-xMin)/dx) ][ int((cZ-zMin)/dz) ] )
 
 		cX = cX + xStep
 		cZ = cZ + zStep
@@ -111,7 +111,7 @@ stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
 
-niceContorPlot( x,z, streamFunction, 40 )
+niceContorPlot( x,z, streamFunction, 240 )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
 
