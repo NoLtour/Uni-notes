@@ -48,8 +48,12 @@ def vortexSF( x0,z0, x,z, Gamma ):
 
 # returns [X,Z]
 def getStagnationPoint( x,z, u,w ):
-	zMI = np.argmin( np.abs( u ) + np.abs( w ), keepdims=True )
- 
+	stgP = np.argmin( np.abs( u ) + np.abs( w ) )
+	
+	xPos = x[ stgP%int(len(xAxis)) ];
+	zPos = z[ stgP/int(len(zAxis)) ];
+
+	fV = [u[xPos][zPos], w[xPos][zPos]]
 
 	print("")
  
