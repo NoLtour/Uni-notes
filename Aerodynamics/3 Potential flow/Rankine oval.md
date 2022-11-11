@@ -24,4 +24,7 @@ Following the same procedure previously used to find the shape of interest (used
 $$\begin{align*}
  V_{x} &=  \frac{\delta \psi}{ \delta y } & V_{y} &=  - \frac{\delta \psi}{ \delta x } 
 \end{align*}$$
-Thing is doing this for the streamfunction we have would be 
+Thing is doing this for the streamfunction we have would be a major pain in the ass, so (let's just use [[the hero we need but dont deserve|wolfram alpha]]) which will get:
+$$\begin{align*}
+ &= 
+\end{align*}$$
