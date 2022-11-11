@@ -39,4 +39,10 @@ $$\begin{align*}
 
 #### Finding thickness
 
+If we then want to find some property of the shape such as thickness we can use the streamfunction we found, lets try to find $2h$ which describes the maximum thickness of our shape of intrest:
 
+![[Pasted image 20221111110435.png]]
+$$\begin{align*}
+ \psi &= U_{\infty} r \sin\theta + \frac{Q}{2\pi} \theta  & \psi_{SP} &= \frac{Q}{2}\\
+\frac{Q}{2} &= U_{\infty} r \sin\theta + \frac{Q}{2\pi} \theta
+\end{align*}$$
