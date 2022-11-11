@@ -9,7 +9,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.004
+dx = dz = 0.001
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -47,7 +47,7 @@ def vortexSF( x0,z0, x,z, Gamma ):
     return (Gamma/(2*np.pi)) * np.log( np.sqrt( (x-x0)**2 + (z-z0)**2 ) )
 
 # returns [X,Z]
-def getStagnationPoint( x,z, u,w ):
+def getLowestVelPoint( x,z, u,w ):
 	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape )
 
 	xPos = x[ xIndx, zIndx ];
@@ -56,7 +56,13 @@ def getStagnationPoint( x,z, u,w ):
 	return xPos, zPos
 	
 def getStagnationPoints( x,z, u,w ): 
-	pointIndecies = np.where(  ( np.abs( u ) + np.abs( w ) )<0.25 ) 
+	stagnationValue = np.min( np.abs( u ) + np.abs( w ) )*1.5
+	if ( stagnationValue > 0.1 ):
+		return [[],[]]
+
+	print("using sv:", stagnationValue)
+
+	pointIndecies = np.where(  ( np.abs( u ) + np.abs( w ) )< stagnationValue) 
 
 	return [ x[pointIndecies], z[pointIndecies] ];
 
