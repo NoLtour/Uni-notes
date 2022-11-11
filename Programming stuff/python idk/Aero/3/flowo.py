@@ -51,11 +51,9 @@ def getStagnationPoint( x,z, u,w ):
 	stgP = np.argmin( np.abs( u ) + np.abs( w ) )
 	
 	xPos = x.take( int( stgP%xAxis.size ) );
-	zPos = z.take( int( stgP/zAxis.size ) );
+	zPos = z.take( int( stgP/zAxis.size ) ); 
 
-	fV = [u[xPos][zPos], w[xPos][zPos]]
-
-	print("")
+	return xPos, zPos
  
 
 def niceContorPlot( x,z, scalarField, lineCount ):
@@ -91,8 +89,9 @@ plot.figure(69)
 plot.title("flow field")
 #plot.quiver( x, z, u, w )
 
-getStagnationPoint( x,z,u,w )
+stX,stZ = getStagnationPoint( x,z,u,w )
 
+plot.plot( stX, stZ, "kx" )
 niceContorPlot( x,z, streamFunction, 40 )
 
 #plot.contour( x, z, streamFunction,[0], linewidths=2, colors="black" )
