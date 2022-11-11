@@ -46,6 +46,12 @@ def doubletSF( x0,z0, x,z, strength ):
 def vortexSF( x0,z0, x,z, Gamma ): 
     return (Gamma/(2*np.pi)) * np.log( np.sqrt( (x-x0)**2 + (z-z0)**2 ) )
 
+# returns [X,Z]
+def getStagnationPoint( x,z, u,w ):
+	zMI = np.argmin( np.abs( u ) + np.abs( w ), keepdims=True )
+ 
+
+	print("")
  
 
 def niceContorPlot( x,z, scalarField, lineCount ):
@@ -81,7 +87,9 @@ plot.figure(69)
 plot.title("flow field")
 #plot.quiver( x, z, u, w )
 
-niceContorPlot( x,z, streamFunction, 80 )
+getStagnationPoint( x,z,u,w )
+
+niceContorPlot( x,z, streamFunction, 40 )
 
 #plot.contour( x, z, streamFunction,[0], linewidths=2, colors="black" )
 
