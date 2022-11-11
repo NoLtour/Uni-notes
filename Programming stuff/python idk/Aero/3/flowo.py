@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plot
+from scipy import interpolate
 
 domainWidth = 2;
 
@@ -8,7 +9,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.04
+dx = dz = 0.001
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -44,18 +45,43 @@ def doubletSF( x0,z0, x,z, strength ):
 # Stream function vortex
 def vortexSF( x0,z0, x,z, Gamma ): 
     return (Gamma/(2*np.pi)) * np.log( np.sqrt( (x-x0)**2 + (z-z0)**2 ) )
+
  
+
+def niceContorPlot( x,z, scalarField, lineCount ):
+	niceVals = []
+
+	xRange = xMax-xMin
+	xStep  = xRange/lineCount
+
+	zRange = zMax-zMin
+	zStep  = zRange/lineCount
+
+	cX = xMin
+	cZ = zMin
+	while ( cX <= xMax ):
+		niceVals.append( scalarField[ int(cX/dx - xMin) ][ int(cZ/dz - zMin) ] )
+
+		cX = cX + xStep
+		cZ = cZ + zStep
+
+	niceVals = np.unique( sorted(niceVals) )
+
+	plot.contour( x, z, scalarField, niceVals )
+
 Uinf = 10;
 
-streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( dx/2,dz/2, x,z, 5 );
+streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
 
 plot.figure(69)
 plot.title("flow field")
-plot.quiver( x, z, u, w )
-#plot.contour( x, z, streamFunction,40)
-plot.contour( x, z, streamFunction,1, value=0 )
+#plot.quiver( x, z, u, w )
+
+niceContorPlot( x,z, streamFunction, 40 )
+
+plot.contour( x, z, streamFunction,[0], linewidths=2, colors="black" )
 
 plot.show()
