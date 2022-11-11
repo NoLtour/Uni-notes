@@ -72,7 +72,7 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 Uinf = 10;
 
 #streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 );
-streamFunction = linearSF( x,z, 0, 10 ) + sourceSF( 0, 0.25, x,z, 5 ) + sourceSF( 0, -0.25, x,z, -5 );
+streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0, -0.25, x,z, 5 ) + sourceSF( 0, 0.25, x,z, -5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
@@ -81,7 +81,7 @@ plot.figure(69)
 plot.title("flow field")
 #plot.quiver( x, z, u, w )
 
-niceContorPlot( x,z, streamFunction, 40 )
+niceContorPlot( x,z, streamFunction, 80 )
 
 plot.contour( x, z, streamFunction,[0], linewidths=2, colors="black" )
 
