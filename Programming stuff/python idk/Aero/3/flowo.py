@@ -48,20 +48,17 @@ def vortexSF( x0,z0, x,z, Gamma ):
 
 # returns [X,Z]
 def getStagnationPoint( x,z, u,w ):
-	stgP = np.argmin( np.abs( u ) + np.abs( w ) )
-	
-	xPos = x.take( int( stgP%xAxis.size ) );
-	zPos = z.take( int( stgP/xAxis.size ) ); 
+	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape )
+
+	xPos = x.take( xIndx );
+	zPos = z.take( zIndx ); 
 
 	return xPos, zPos
 
 def getStagnationSFVal( x,z, u,w, streamFunction ):
-	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape )
+	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape ) 
 
-	xPos = x.take( int( stgP%xAxis.size ) );
-	zPos = z.take( int( stgP/xAxis.size ) ); 
-
-	return streamFunction.take( int( stgP%xAxis.size ), int( stgP/xAxis.size ) )
+	return streamFunction[ xIndx, zIndx ]
 
 
 def niceContorPlot( x,z, scalarField, lineCount ):
