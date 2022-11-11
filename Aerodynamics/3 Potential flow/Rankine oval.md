@@ -32,7 +32,10 @@ Finding where both equal zero is a bit of a pain analytically, so to simplify we
 $$\begin{align*}
 V_{x} = 0 &=  U_{\infty}+ \frac{Q}{2\pi}\left( \frac{x+b}{(x+b)^{2} } - \frac{x-b}{(x-b)^{2} } \right) & V_{z} = 0 &=    \frac{Q0}{2\pi} \left( \frac{1}{(x+b)^{2} } - \frac{1}{(x-b)^{2} } \right)\\
  - \frac{2\pi U_{\infty}}{Q}  &= \frac{x+b}{(x+b)^{2} } - \frac{x-b}{(x-b)^{2} } & &= 0 \\
-&...\:\:\text{(math's magic)}\\
-x=\pm \sqrt{    b^{2}  + \frac{bQ}{\pi U_{\infty}} }
+&...\:\:\text{(wolfram)}\\
+x&= \pm \sqrt{    b^{2}  + \frac{bQ}{\pi U_{\infty}} }
 \end{align*}$$
-
+Hence the value of the streamfunction will be:
+$$\begin{align*}
+\psi(x,z) &=  \frac{Q}{2\pi} \left(  \theta_{1} - \theta_{2} \right) + U_{\infty} z
+\end{align*}$$
