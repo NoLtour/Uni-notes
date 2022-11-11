@@ -44,5 +44,10 @@ If we then want to find some property of the shape such as thickness we can use 
 ![[Pasted image 20221111110435.png]]
 $$\begin{align*}
  \psi &= U_{\infty} r \sin\theta + \frac{Q}{2\pi} \theta  & \psi_{SP} &= \frac{Q}{2}\\
-\frac{Q}{2} &= U_{\infty} r \sin\theta + \frac{Q}{2\pi} \theta
+1 &= \frac{2U_{\infty}}{Q}  r \sin\theta + \frac{1}{\pi} \theta
+\end{align*}$$
+We can see on the graph that $2h$ is found as $x\to \infty$ hence it will be where $r \to \infty$ and $|\theta| \to 0$ so we can apply the $\sin$ small angle approximation:
+$$\begin{align*}
+1 &= \frac{2U_{\infty}}{Q}  r \theta + \frac{1}{\pi} \theta\\
+\frac{1}{\theta} &= \frac{2U_{\infty}}{Q}  r \theta + \frac{1}{\pi} 
 \end{align*}$$
