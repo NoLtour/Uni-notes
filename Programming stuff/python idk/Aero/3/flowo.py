@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plot
+import matplotlib.ticker as tickers
 from scipy import interpolate
 
 domainWidth = 2;
@@ -109,7 +110,7 @@ stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
 
-plot.contour( x, z, streamFunction, 140, locator="AsinhLocator" )
+plot.contour( x, z, streamFunction, 140, locator=tickers.AsinhLocator )
 niceContorPlot( x,z, streamFunction, 140 )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
