@@ -56,9 +56,9 @@ def getStagnationPoint( x,z, u,w ):
 	return xPos, zPos
 	
 def getStagnationPoints( x,z, u,w ): 
-	wh = [np.where(  ( np.abs( u ) + np.abs( w ) )<1, x ), np.where(( np.abs( u ) + np.abs( w ) )<1, z ) ]
+	pointIndecies = np.where(  ( np.abs( u ) + np.abs( w ) )<0.25 ) 
 
-	return wh;
+	return [ x[pointIndecies], z[pointIndecies] ];
 
 def getStagnationSFVal( x,z, u,w, streamFunction ):
 	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape ) 
