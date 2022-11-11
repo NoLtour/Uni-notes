@@ -50,8 +50,8 @@ def vortexSF( x0,z0, x,z, Gamma ):
 def getStagnationPoint( x,z, u,w ):
 	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape )
 
-	xPos = x.take( xIndx );
-	zPos = z.take( zIndx ); 
+	xPos = x[ xIndx, zIndx ];
+	zPos = z[ xIndx, zIndx ]; 
 
 	return xPos, zPos
 
@@ -84,8 +84,8 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 
 Uinf = 10;
 
-streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 );
-#streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
+#streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 );
+streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
