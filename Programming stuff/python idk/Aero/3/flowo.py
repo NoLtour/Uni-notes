@@ -54,7 +54,11 @@ def getStagnationPoint( x,z, u,w ):
 	zPos = z.take( int( stgP - (stgP/zAxis.size) ) ); 
 
 	return xPos, zPos
- 
+
+def getStagnationSFVal( x,z, u,w, streamFunction ):
+	stgP = np.argmin( np.abs( u ) + np.abs( w ) )
+	return streamFunction.take( int( stgP%xAxis.size ), int( stgP - (stgP/zAxis.size) ) )
+
 
 def niceContorPlot( x,z, scalarField, lineCount ):
 	niceVals = []
@@ -94,6 +98,6 @@ stX,stZ = getStagnationPoint( x,z,u,w )
 plot.plot( stX, stZ, "rx" )
 niceContorPlot( x,z, streamFunction, 40 )
 
-plot.contour( x, z, streamFunction,[0], linewidths=2, colors="black" )
+plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
 
 plot.show()
