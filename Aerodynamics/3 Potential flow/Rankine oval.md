@@ -35,7 +35,10 @@ V_{x} = 0 &=  U_{\infty}+ \frac{Q}{2\pi}\left( \frac{x+b}{(x+b)^{2} } - \frac{x-
 &...\:\:\text{(wolfram)}\\
 x&= \pm \sqrt{    b^{2}  + \frac{bQ}{\pi U_{\infty}} }
 \end{align*}$$
-It was at this point that I realised that although ^ is correct, if we just sub $z=0$ into the streamfunction we don't even need to know $x$:
+It was at this point that I realised that although ^ is correct, if we just sub $z=0$ into the streamfunction we don't even need to know $x$ ([[cinge|I am retard]]):
 $$\begin{align*}
-\psi(x,z) &=  \frac{Q}{2\pi} \left(  \theta_{1} - \theta_{2} \right) + U_{\infty} z
+\psi(x,z) &=  \frac{Q}{2\pi} \left(\arctan \left(\frac{z }{x+B}\right) - \arctan \left(\frac{z }{x- B}\right)\right) + U_{\infty} z & z&= 0 \\
+\psi&= 0
 \end{align*}$$
+
+

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81ac0dc0839baaff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/3 Potential flow/cinge.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Rankine oval.md",
+                "file": "Aerodynamics/3 Potential flow/cinge.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,10 +158,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "fef749f2f7fb56b4",
+  "active": "81ac0dc0839baaff",
   "lastOpenFiles": [
-    "Aerodynamics/3 Potential flow/the hero we need but dont deserve.md",
     "Aerodynamics/3 Potential flow/Rankine oval.md",
+    "Aerodynamics/3 Potential flow/the hero we need but dont deserve.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/3 Potential flow/defining the geometry of an object in a flow.md",
     "Aerodynamics/3 Potential flow/stream function for a doublet.md",
