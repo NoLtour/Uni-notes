@@ -56,7 +56,7 @@ def getStagnationPoint( x,z, u,w ):
 	return xPos, zPos
 	
 def getStagnationPoints( x,z, u,w ): 
-	wh = np.where(  ( np.abs( u ) + np.abs( w ) )<1 )
+	wh = [np.where(  ( np.abs( u ) + np.abs( w ) )<1, x ), np.where(( np.abs( u ) + np.abs( w ) )<1, z ) ]
 
 	return wh;
 
