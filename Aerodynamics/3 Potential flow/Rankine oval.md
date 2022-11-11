@@ -31,6 +31,8 @@ $$\begin{align*}
 Finding where both equal zero is a bit of a pain analytically, so to simplify we can guess the stagnation point lies on $z=0$ by observation:
 $$\begin{align*}
 V_{x} = 0 &=  U_{\infty}+ \frac{Q}{2\pi}\left( \frac{x+b}{(x+b)^{2} } - \frac{x-b}{(x-b)^{2} } \right) & V_{z} = 0 &=    \frac{Q0}{2\pi} \left( \frac{1}{(x+b)^{2} } - \frac{1}{(x-b)^{2} } \right)\\
- -U_{\infty} &= & &= 0
+ - \frac{2\pi U_{\infty}}{Q}  &= \frac{x+b}{(x+b)^{2} } - \frac{x-b}{(x-b)^{2} } & &= 0 \\
+&...\:\:\text{(math's magic)}\\
+x=\pm \sqrt{ 2\pi b^{2}/ }
 \end{align*}$$
 
