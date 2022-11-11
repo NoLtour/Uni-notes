@@ -41,10 +41,5 @@ $$\begin{align*}
 \psi&= 0
 \end{align*}$$
 
-### Finding [[pressure coefficient when there is no freestream|pressure coefficient]] on the oval
-
-$$\begin{align*}
-\frac{Q}{2\pi} \left(\arctan \left(\frac{z }{x+B}\right) - \arctan \left(\frac{z }{x- B}\right)\right) + U_{\infty} z &= 0 & C_{p} &=     1-\frac{  u^{2} + w^{2}  }{ V^{2}_{ref} }\\
  
-\end{align*}$$
 

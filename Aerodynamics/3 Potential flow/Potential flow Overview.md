@@ -21,6 +21,7 @@ Contents:
 - [[defining the geometry of an object in a flow]]
 - [[pressure coefficients for a stream function in a potential flow]] (UNSURE IF NEEDED)
 - [[Rankine oval]]
+- [[Flow past a circular cylinder]]
 
 
 ## Expanded articles
