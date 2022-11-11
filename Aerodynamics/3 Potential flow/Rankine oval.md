@@ -22,9 +22,9 @@ $$\begin{align*}
 
 Following the same procedure previously used to find the shape of interest (used in [[defining the geometry of an object in a flow#Finding the streamfunction of interest]]), we need to find functions of $u,w$ so that we can get the [[stagnation point]]:
 $$\begin{align*}
- V_{x} &=  \frac{\delta \psi}{ \delta y } & V_{y} &=  - \frac{\delta \psi}{ \delta x } 
+ V_{x} &=  \frac{\delta \psi}{ \delta z } & V_{z} &=  - \frac{\delta \psi}{ \delta x } 
 \end{align*}$$
 Thing is doing this for the streamfunction we have would be a major pain in the ass, so (let's just use [[the hero we need but dont deserve|wolfram alpha]]) which will get:
 $$\begin{align*}
- &= 
+ V_{x} &=  \frac{\delta \psi}{ \delta z } = U_{\infty}+ \frac{Q}{2\pi}( \frac{x+b}{(x+b)^{2}+z^{2}} - \frac{x+b}{(x-b)^{2}+z^{2}} ) & V_{z} &=  - \frac{\delta \psi}{ \delta x } = \frac{Qz}{2\pi} \left( \frac{1}{(x+b)^{2}+z^{2}} - \frac{1}{(x-b)^{2}+z^{2}} \right) & 
 \end{align*}$$
