@@ -72,7 +72,7 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 Uinf = 10;
 
 #streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 );
-streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0, -0.25, x,z, 5 ) + sourceSF( 0, 0.25, x,z, -5 );
+streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0, -0.5, x,z, 5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
