@@ -14,10 +14,12 @@ So we can just replace $U_{\infty}$ with $U_{ref}$:
 >> where:
 >> $C_{p} =$ [[pressure coefficient]]
 >> $p=$ [[static pressure]]
->> $p_{ref}=$ [[static pressure]] in the [[freestream]] 
+>> $p_{ref}=$ [[static pressure]] in at the reference
 >> $\rho=$ density
->> $V_{ref}=$ [[freestream]] velocity
->> $u,w=$ horizontal and verticle velocity
+>> $V_{ref}=$ reference velocity
+>> $u,w=$ horizontal and vertical velocity
 >> Incompressible flow.
+
+^6ace8a
 
 It is obvious that $V_{ref}$ must be non zero for this to work.

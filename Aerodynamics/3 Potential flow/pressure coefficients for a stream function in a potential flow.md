@@ -5,5 +5,12 @@ tags: []
 
 ## Pressure coefficients for a stream function in a potential flow
 
-It's quite easy just take the equation for [[pressure coefficient when there is no freestream|pressure coefficient]]
+### Theory
 
+It's quite easy just take the equation for [[pressure coefficient when there is no freestream|pressure coefficient]] and then use the same sort of method we did for finding [[defining the geometry of an object in a flow#Finding thickness|thickness of a object in freestream]] from it's streamfunction, but for the pressure coefficient:
+
+![[pressure coefficient when there is no freestream#^6ace8a]]
+
+### Example
+
+If we use the basic example from before
