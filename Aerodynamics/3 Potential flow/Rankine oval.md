@@ -20,4 +20,8 @@ $$\begin{align*}
 \psi(x,z) &=  \frac{Q}{2\pi} \left(  \theta_{1} - \theta_{2} \right) + U_{\infty} z
 \end{align*}$$
 
-
+Following the same procedure previously used to find the shape of interest (used in [[defining the geometry of an object in a flow#Finding the streamfunction of interest]]), we need to find functions of $u,w$ so that we can get the [[stagnation point]]:
+$$\begin{align*}
+ V_{x} &=  \frac{\delta \psi}{ \delta y } & V_{y} &=  - \frac{\delta \psi}{ \delta x } 
+\end{align*}$$
+Thing is doing this for the streamfunction we have would be 
