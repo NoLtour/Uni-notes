@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b862328b01d26790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
+                "file": "Aerodynamics/3 Potential flow/defining the geometry of an object in a flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
+                "file": "Aerodynamics/3 Potential flow/defining the geometry of an object in a flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,17 +145,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "b862328b01d26790",
+  "active": "f487590d780b1e7c",
   "lastOpenFiles": [
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+    "Aerodynamics/3 Potential flow/Rankine oval.md",
+    "Aerodynamics/3 Potential flow/Flow past a circular cylinder.md",
+    "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/stream function for line source or sink.md",
     "Aerodynamics/3 Potential flow/stream function for a doublet.md",
     "Aerodynamics/3 Potential flow/stream function for a vortex.md",
-    "Aerodynamics/3 Potential flow/Flow past a circular cylinder.md",
-    "Aerodynamics/3 Potential flow/Rankine oval.md",
     "Aerodynamics/3 Potential flow/cinge.md",
     "Aerodynamics/3 Potential flow/pressure coefficient when there is no freestream.md",
-    "Aerodynamics/3 Potential flow/the hero we need but dont deserve.md",
-    "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md"
+    "Aerodynamics/3 Potential flow/the hero we need but dont deserve.md"
   ]
 }
