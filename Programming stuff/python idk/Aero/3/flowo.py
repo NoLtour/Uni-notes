@@ -92,11 +92,11 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 
 	niceVals = np.unique( sorted(niceVals) )
 
-	#plot.contour( x, z, scalarField, niceVals )
+	plot.contour( x, z, scalarField, niceVals )
 
 Uinf = 10;
 
-streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 ) + vortexSF( 0, 0, x,z, 12 );
+streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 ) + vortexSF( 0, 0, x,z, 92 );
 #streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
 
 # We can then get the velocitys from the scalar values of the stream function
@@ -110,8 +110,7 @@ stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
 
-plot.contour( x, z, streamFunction, 140  )
-niceContorPlot( x,z, streamFunction, 140 )
+niceContorPlot( x,z, streamFunction, 40 )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
 
