@@ -55,6 +55,7 @@ u,w = getVelocitys( streamFunction )
 plot.figure(69)
 plot.title("flow field")
 plot.quiver( x, z, u, w )
-plot.contour( x, z, streamFunction,40)
+#plot.contour( x, z, streamFunction,40)
+plot.contour( x, z, streamFunction,1, value=0 )
 
 plot.show()
