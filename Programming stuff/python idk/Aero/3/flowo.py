@@ -29,11 +29,25 @@ def getVelocitys( streamFunction ):
 def getPressureCFs( u,w,Uref ):
 	return 1-((u**2 + w**2) / (Uref**2))
 
-# Here is the stream function we defined above
+# Stream function for linear flow
+def linearSF( x,z, alpha, speed ):
+    return speed*( (z*np.cos(alpha) ) - (x*np.sin(alpha) )  )
+
+# Stream function source/sink
+def sourceSF( x0,z0, x,z, flowRate ): 
+    return (flowRate/(2*np.pi)) * np.arctan( (z-z0)/(x-x0) )
+
+# Stream function doublet
+def doubletSF( x0,z0, x,z, strength ): 
+    return (-strength/(2*np.pi)) * ( ( z-z0 )/( (x-x0)**2 + (z-z0)**2 ) )
+
+# Stream function vortex
 def vortexSF( x0,z0, x,z, Gamma ): 
     return (Gamma/(2*np.pi)) * np.log( np.sqrt( (x-x0)**2 + (z-z0)**2 ) )
  
-streamFunction = vortexSF( -0.05,0.05, x,z, 5 );
+Uinf = 10;
+
+streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( dx/2,dz/2, x,z, 5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
