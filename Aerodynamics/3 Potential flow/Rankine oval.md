@@ -4,7 +4,7 @@ tags: []
 ---
 
 ## Rankine oval
-
+### Describing the geometry
 We can get a shape called a [[Rankine oval]] by placing a source and a sink in a uniform flow:
 ![[Pasted image 20221111113621.png]]
 To simplify things it's best to place the source and sink on the x axis with equal distance $b$ from the origin.
@@ -40,5 +40,8 @@ $$\begin{align*}
 \psi(x,z) &=  \frac{Q}{2\pi} \left(\arctan \left(\frac{z }{x+B}\right) - \arctan \left(\frac{z }{x- B}\right)\right) + U_{\infty} z & z&= 0 \\
 \psi&= 0
 \end{align*}$$
+
+### Finding [[coefficient of pr]]
+
 
 
