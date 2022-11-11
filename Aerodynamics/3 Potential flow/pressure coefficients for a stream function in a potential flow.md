@@ -13,4 +13,8 @@ It's quite easy just take the equation for [[pressure coefficient when there is 
 
 ### Example
 
-If we use the basic example from before
+If we use the basic example from before from [[defining the geometry of an object in a flow#Describing the geometry]], then we simply:
+
+$$\begin{align*}
+1 &= \frac{2U_{\infty}}{Q}  r \theta + \frac{1}{\pi} \theta
+\end{align*}$$
