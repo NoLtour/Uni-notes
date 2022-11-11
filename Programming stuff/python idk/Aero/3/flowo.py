@@ -9,7 +9,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.001
+dx = dz = 0.004
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -51,13 +51,17 @@ def getStagnationPoint( x,z, u,w ):
 	stgP = np.argmin( np.abs( u ) + np.abs( w ) )
 	
 	xPos = x.take( int( stgP%xAxis.size ) );
-	zPos = z.take( int( stgP - (stgP/zAxis.size) ) ); 
+	zPos = z.take( int( stgP/xAxis.size ) ); 
 
 	return xPos, zPos
 
 def getStagnationSFVal( x,z, u,w, streamFunction ):
-	stgP = np.argmin( np.abs( u ) + np.abs( w ) )
-	return streamFunction.take( int( stgP%xAxis.size ), int( stgP - (stgP/zAxis.size) ) )
+	stgP = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape() )
+
+	xPos = x.take( int( stgP%xAxis.size ) );
+	zPos = z.take( int( stgP/xAxis.size ) ); 
+
+	return streamFunction.take( int( stgP%xAxis.size ), int( stgP/xAxis.size ) )
 
 
 def niceContorPlot( x,z, scalarField, lineCount ):
