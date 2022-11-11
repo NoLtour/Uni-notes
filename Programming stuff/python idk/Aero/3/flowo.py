@@ -9,7 +9,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.004
+dx = dz = 0.001
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -94,6 +94,6 @@ stX,stZ = getStagnationPoint( x,z,u,w )
 plot.plot( stX, stZ, "rx" )
 niceContorPlot( x,z, streamFunction, 40 )
 
-#plot.contour( x, z, streamFunction,[0], linewidths=2, colors="black" )
+plot.contour( x, z, streamFunction,[0], linewidths=2, colors="black" )
 
 plot.show()
