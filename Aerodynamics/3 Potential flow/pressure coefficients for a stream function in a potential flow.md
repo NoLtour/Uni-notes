@@ -16,5 +16,6 @@ It's quite easy just take the equation for [[pressure coefficient when there is 
 If we use the basic example from before from [[defining the geometry of an object in a flow#Describing the geometry]], then we simply:
 
 $$\begin{align*}
-1 &= \frac{2U_{\infty}}{Q}  r \theta + \frac{1}{\pi} \theta
+1 &= \frac{2U_{\infty}}{Q}  r \theta + \frac{\theta}{\pi} \\
+\frac{1-\frac{\theta}{\pi}}{}
 \end{align*}$$
