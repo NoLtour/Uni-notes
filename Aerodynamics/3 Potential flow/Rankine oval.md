@@ -26,5 +26,11 @@ $$\begin{align*}
 \end{align*}$$
 Thing is doing this for the streamfunction we have would be a major pain in the ass, so (let's just use [[the hero we need but dont deserve|wolfram alpha]]) which will get:
 $$\begin{align*}
- V_{x} &=  \frac{\delta \psi}{ \delta z } = U_{\infty}+ \frac{Q}{2\pi}( \frac{x+b}{(x+b)^{2}+z^{2}} - \frac{x+b}{(x-b)^{2}+z^{2}} ) & V_{z} &=  - \frac{\delta \psi}{ \delta x } = \frac{Qz}{2\pi} \left( \frac{1}{(x+b)^{2}+z^{2}} - \frac{1}{(x-b)^{2}+z^{2}} \right) & 
+ V_{x} &=  \frac{\delta \psi}{ \delta z } = U_{\infty}+ \frac{Q}{2\pi}\left( \frac{x+b}{(x+b)^{2}+z^{2}} - \frac{x-b}{(x-b)^{2}+z^{2}} \right) & V_{z} &=  - \frac{\delta \psi}{ \delta x } = \frac{Qz}{2\pi} \left( \frac{1}{(x+b)^{2}+z^{2}} - \frac{1}{(x-b)^{2}+z^{2}} \right) & 
 \end{align*}$$
+Finding where both equal zero is a bit of a pain analytically, so to simplify we can guess the stagnation point lies on $z=0$ by observation:
+$$\begin{align*}
+V_{x} = 0 &=  U_{\infty}+ \frac{Q}{2\pi}\left( \frac{x+b}{(x+b)^{2} } - \frac{x-b}{(x-b)^{2} } \right) & V_{z} = 0 &=    \frac{Q0}{2\pi} \left( \frac{1}{(x+b)^{2} } - \frac{1}{(x-b)^{2} } \right)\\
+ -U_{\infty} &= & &= 0
+\end{align*}$$
+
