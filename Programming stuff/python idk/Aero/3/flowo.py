@@ -110,7 +110,7 @@ stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
 
-plot.contour( x, z, streamFunction, 140, locator=tickers.AsinhLocator )
+plot.contour( x, z, streamFunction, 140  )
 niceContorPlot( x,z, streamFunction, 140 )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
