@@ -91,7 +91,7 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 
 	niceVals = np.unique( sorted(niceVals) )
 
-	plot.contour( x, z, scalarField, niceVals )
+	#plot.contour( x, z, scalarField, niceVals )
 
 Uinf = 10;
 
@@ -108,6 +108,8 @@ plot.title("flow field")
 stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
+
+plot.contour( x, z, streamFunction, 140, locator="AsinhLocator" )
 niceContorPlot( x,z, streamFunction, 140 )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
