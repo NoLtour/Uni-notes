@@ -15,4 +15,9 @@ $$\begin{align*}
 \psi_{doublet}(x,z) &=  \frac{Q}{2\pi} \left(  \theta_{1} - \theta_{2} \right)
 \end{align*}$$
 
-Then adding the streamfunc
+Then adding the streamfunction of [[stream function for uniform flow|uniform flow]] in the positive x direction:
+$$\begin{align*}
+\psi(x,z) &=  \frac{Q}{2\pi} \left(  \theta_{1} - \theta_{2} \right) + U_{\infty} z
+\end{align*}$$
+
+
