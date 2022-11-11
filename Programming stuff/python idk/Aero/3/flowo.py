@@ -8,7 +8,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.1
+dx = dz = 0.04
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -55,6 +55,6 @@ u,w = getVelocitys( streamFunction )
 plot.figure(69)
 plot.title("flow field")
 plot.quiver( x, z, u, w )
-plot.contour( x, z, streamFunction,10)
+plot.contour( x, z, streamFunction,40)
 
 plot.show()
