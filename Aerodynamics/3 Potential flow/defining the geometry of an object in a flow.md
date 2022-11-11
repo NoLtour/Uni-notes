@@ -48,7 +48,10 @@ $$\begin{align*}
 \end{align*}$$
 We can see on the graph that $2h$ is found as $x\to \infty$ hence it will be where $r \to \infty$ and $|\theta| \to 0$ so we can apply the $\sin$ small angle approximation:
 $$\begin{align*}
-1 &= \frac{2U_{\infty}}{Q}  r \theta + \frac{1}{\pi} \theta & h&=\\
-\frac{1}{\theta} &= \frac{2U_{\infty}}{Q}  r  + \frac{1}{\pi} \\
- \theta &= \frac{ Q\pi }{ 2U_{\infty} r \pi + Q}
+1 &= \frac{2U_{\infty}}{Q}  r \theta + \frac{1}{\pi} \theta & h&=r\sin\theta=r\theta\\
+1 &= \frac{2U_{\infty}}{Q}  h + \frac{\theta}{\pi}\\
+\frac{1-\frac{\theta}{\pi}}{\frac{2U_{\infty}}{Q}} &=  h\\
+\frac{Q-\frac{Q\theta}{\pi}}{ 2U_{\infty}} &=  h\\
+\text{as }\theta \to 0:\\
+\frac{Q }{ 2U_{\infty}} &=  h\\
 \end{align*}$$
