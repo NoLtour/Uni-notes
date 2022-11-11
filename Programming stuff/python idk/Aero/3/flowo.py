@@ -9,7 +9,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.001
+dx = dz = 0.004
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -71,7 +71,8 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 
 Uinf = 10;
 
-streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 );
+#streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 );
+streamFunction = linearSF( x,z, 0, 10 ) + sourceSF( 0, 0.25, x,z, 5 ) + sourceSF( 0, -0.25, x,z, -5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
