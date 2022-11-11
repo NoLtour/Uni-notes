@@ -51,7 +51,7 @@ def getStagnationPoint( x,z, u,w ):
 	stgP = np.argmin( np.abs( u ) + np.abs( w ) )
 	
 	xPos = x.take( int( stgP%xAxis.size ) );
-	zPos = z.take( int( stgP/zAxis.size ) ); 
+	zPos = z.take( int( stgP - (stgP/zAxis.size) ) ); 
 
 	return xPos, zPos
  
@@ -91,7 +91,7 @@ plot.title("flow field")
 
 stX,stZ = getStagnationPoint( x,z,u,w )
 
-plot.plot( stX, stZ, "kx" )
+plot.plot( stX, stZ, "rx" )
 niceContorPlot( x,z, streamFunction, 40 )
 
 #plot.contour( x, z, streamFunction,[0], linewidths=2, colors="black" )
