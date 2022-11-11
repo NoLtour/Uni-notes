@@ -35,7 +35,7 @@ V_{x} = 0 &=  U_{\infty}+ \frac{Q}{2\pi}\left( \frac{x+b}{(x+b)^{2} } - \frac{x-
 &...\:\:\text{(wolfram)}\\
 x&= \pm \sqrt{    b^{2}  + \frac{bQ}{\pi U_{\infty}} }
 \end{align*}$$
-Hence the value of the streamfunction will be:
+It was at this point that I realised that although ^ is correct, if we just sub $z=0$ into the streamfunction we don't even need to know $x$:
 $$\begin{align*}
 \psi(x,z) &=  \frac{Q}{2\pi} \left(  \theta_{1} - \theta_{2} \right) + U_{\infty} z
 \end{align*}$$
