@@ -19,9 +19,9 @@ Contents:
 - [[circulation]]
 - [[stream function for a vortex]]
 - [[defining the geometry of an object in a flow]]
-- [[pressure coefficients for a stream function in a potential flow]] (UNSURE IF NEEDED)
 - [[Rankine oval]]
 - [[Flow past a circular cylinder]]
 - [[determining stagnation point computationally]]
+- [[pressure coefficients for a stream function in a potential flow]]  
 
 ## Expanded articles

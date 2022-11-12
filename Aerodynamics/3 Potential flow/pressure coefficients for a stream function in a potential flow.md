@@ -11,4 +11,7 @@ It's quite easy just take the equation for [[pressure coefficient when there is 
 
 ![[pressure coefficient when there is no freestream#^6ace8a]]
 
- 
+### Example
+
+[[Flow past a circular cylinder]], 
+
