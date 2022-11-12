@@ -41,4 +41,13 @@ r &= R
 \end{align*}$$
 We can see that there are values of $\Gamma$ such that there are no stagnation points on the circumference of the circle, this case coincides with when the flow starts to get [[loss of sanity|trippy]]:
 ![[Pasted image 20221112151419.png]]
-From looking at the diagram it can be determined that when $|\Gamma|>4\pi R V_{\infty}$ the stagnation point will lie somewhere on this centre line, aka $\theta= \frac{\pi}{2}$ or $\theta= -\frac{\pi}{2}$ the value $\theta$ will take turns out to depend on whether $\Gamma$ is greater or less than zero (since this determines the direction of rotation) such that for $\Gamma<0,\theta_{st}= -\frac{\pi}{2}$ and $\Gamma>0,\theta_{st}= \frac{\pi}{2}$. Now we can once again solve the veloicty equations to find where the$
+From looking at the diagram it can be determined that when $|\Gamma|>4\pi R V_{\infty}$ the stagnation point will lie somewhere on this centre line, aka $\theta= \frac{\pi}{2}$ or $\theta= -\frac{\pi}{2}$ the value $\theta$ will take turns out to depend on whether $\Gamma$ is greater or less than zero (since this determines the direction of rotation) such that for $\Gamma>0,\theta_{st}= -\frac{\pi}{2}$ and $\Gamma<0,\theta_{st}= \frac{\pi}{2}$. Now we can once again solve the veloicty equations to find where the stagnation point is:
+
+$$\begin{align*}
+ 0 &=  V_{\infty} \cos\theta \left( 1 - \frac{R^{2}}{r^{2}} \right) & 0 &= - V_{\infty} \sin \theta \left(1 + \frac{R^{2}}{r^{2}}\right) - \frac{\Gamma}{2\pi r}\\
+&... \text{(some algebraic magic where: }\Gamma=\pm k, \:\:\:\theta= \mp \frac{\pi}{2} )
+\end{align*}$$
+$$\begin{align*}
+\theta &= \pm \frac{\pi}{2} & \text{where: }& |\Gamma| \leq 4\pi R V_{\infty}\\
+r &= \mp \frac{\Gamma}{4\pi V_{\infty}}
+\end{align*}$$
