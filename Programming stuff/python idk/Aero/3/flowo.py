@@ -55,10 +55,13 @@ def getLowestVelPoint( x,z, u,w ):
 	zPos = z[ xIndx, zIndx ]; 
 
 	return xPos, zPos
-	
+
+
+
 def getStagnationPoints( x,z, u,w ): 
 	stagnationValue = np.min( np.abs( u ) + np.abs( w ) )*1.5
 	if ( stagnationValue > 0.15 ):
+		print("unable to find stagnation point, lowest vel was: ",stagnationValue/1.5)
 		return [[],[]]
 
 	print("using sv:", stagnationValue)

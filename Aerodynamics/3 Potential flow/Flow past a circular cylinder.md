@@ -16,4 +16,3 @@ Which results in the stream function:
 >> $k=$ [[stream function for a doublet|doublet]] strength
 >> $U_{\infty}=$ free stream velocity
 >> $r,\theta=$ radial and angular position
-
