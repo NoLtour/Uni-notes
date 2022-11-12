@@ -124,4 +124,20 @@ plot.show()
 
 ```
 
-To get the stagnation point, we simply need to find where
+To get the stagnation point, we simply need to find where in our domain the velocity is zero, of course since the $dx,dz$ is not at zero some errors will occur so instead of looking for where it equals exactly zero we need to look at where it's near zero:
+
+```jupyter
+def getStagnationPoints( x,z, u,w ): 
+	stagnationValue = np.min( np.abs( u ) + np.abs( w ) )*1.5
+	if ( stagnationValue > 0.15 ):
+		print("unable to find stagnation point, lowest vel was: ",stagnationValue/1.5)
+		return [[],[]]
+
+	print("using sv:", stagnationValue)
+
+	pointIndecies = np.where(  ( np.abs( u ) + np.abs( w ) )< stagnationValue) 
+
+	return [ x[pointIndecies], z[pointIndecies] ];
+```
+
+Instead of using $|V|=\sqrt{ u^{2} + w^{2} }$ we are using $|V|\approx |u| + |w|$ since it is less computation
