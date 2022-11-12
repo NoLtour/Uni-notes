@@ -10,6 +10,13 @@ For convenience we add in the term $\epsilon$ such that the stream function for 
 
 Since we know from [[pressure coefficients for a stream function in a potential flow|previous working]] that at $r=R$ the streamfunction passes through the stagnation point and follows this circle, we can write:
 $$\begin{align*}
-\psi &= V_{\infty} r \sin\theta \frac{1- R^{2}}{r^{2}} + \frac{\Gamma}{2\pi} + \varepsilon\\
-\text{at }
+\psi &= V_{\infty} r \sin\theta \frac{1- R^{2}}{r^{2}} + \frac{\Gamma}{2\pi}\ln r + \varepsilon\\
+\text{at:}&r=R,\psi=0\\
+0 &= V_{\infty} R \sin\theta \frac{1- R^{2}}{R^{2}} + \frac{\Gamma}{2\pi}\ln R + \varepsilon\\
+\varepsilon &= - \frac{\Gamma}{2\pi}\ln R\\\\
+\therefore \psi &= V_{\infty} r \sin\theta \frac{1- R^{2}}{r^{2}} + \frac{\Gamma}{2\pi}\ln \frac{r}{R}
 \end{align*}$$
+This is simply a form of the stream function such that at $R=r$, $\psi=0$ for convenience.
+
+
+
