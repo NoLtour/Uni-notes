@@ -15,5 +15,5 @@ Which results in the stream function:
 >> $R=$ radius of cylinder
 >> $k=$ [[stream function for a doublet|doublet]] strength
 >> $U_{\infty}=$ free stream velocity
->> $r$
+>> $r,\theta=$ radial and angular position
 
