@@ -52,9 +52,19 @@ $$\begin{align*}
 r &= \mp \frac{\Gamma}{4\pi V_{\infty}} + \sqrt{ \left( \frac{\Gamma}{4\pi V_{\infty}} \right)^{2} - R^{2} } \:\:\: and \:\:\: r = \mp \frac{\Gamma}{4\pi V_{\infty}} - \sqrt{ \left( \frac{\Gamma}{4\pi V_{\infty}} \right)^{2} - R^{2} }
 \end{align*}$$
 
-### Pressure coefficient on the surface
+### Lift and drag
+#### Pressure coefficient on the surface
 If we take the stream function where $\psi=0$, hence $r=R$ then we know that:
 $$\begin{align*}
 V_{r} &=  V_{\infty} \cos\theta \left( 1 - \frac{R^{2}}{R^{2}} \right) & V_{\theta} &= - V_{\infty} \sin \theta \left(1 + \frac{R^{2}}{R^{2}}\right) - \frac{\Gamma}{2\pi R}\\
   &= 0 & &= - 2 V_{\infty} \sin \theta   - \frac{\Gamma}{2\pi R}
 \end{align*}$$
+Subbing into the pressure coefficient equation we get:
+$$\begin{align*}
+ C_{p}  &=  1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ V^{2}_{\infty} }\\
+ C_{p}  &=  1-\frac{  \left(2 V_{\infty} \sin \theta  + \frac{\Gamma}{2\pi R} \right)^{2}  }{ V^{2}_{\infty} }
+\end{align*}$$
+
+#### Drag
+This is quite easy, it simply  
+
