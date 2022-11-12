@@ -112,6 +112,8 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 	#plot.colorbar( plot.contour( x, z, scalarField, niceVals ) )
 	plot.colorbar( plot.contour( x, z, scalarField, lineCount ) )
  
+def filterExtreme( inp, maxMag ):
+	return np.where( abs(inp)<maxMag, inp, maxMag*inp/abs(inp) )
 
 Uinf = 10;
 
@@ -119,7 +121,7 @@ streamFunction = linearSF( x,z, 0, Uinf ) + doubletSF( 0, 0, x,z, 5 ) ;
 #streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
 
 # filtering for less extreme values:
-streamFunction = np.where( abs(streamFunction)<200, streamFunction, np.ones(streamFunction.shape)*200 )
+#streamFunction = np.where( abs(streamFunction)<200, streamFunction, np.ones(streamFunction.shape)*200 )
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
@@ -136,9 +138,9 @@ plot.title("flow field")
 stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
-plot.colorbar( plot.contourf( x, z, cp, 120 ) )
+plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 8 ), 50 ) )
 
-niceContorPlot( x,z, streamFunction, 200 )
+plot.colorbar( plot.contour( x, z, filterExtreme( streamFunction, 200 ), 200 ) )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
 
