@@ -35,10 +35,11 @@ $$ C_{p} = 1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ V^{2}_{ref} }  $$ $$\begin{a
  &=  1-U_{\infty}^{2} \frac{  \sin^{2}\theta \left(1 + \frac{R^{2}}{r^{2}}\right)^{2} + \frac{\cos^{2}\theta \left(1- \frac{R^{2}}{r^{2}}\right)^{2}}{r^{2}}    }{ U_{\infty}^{2} }\\
  &=  1- \sin^{2}\theta \left(1 + \frac{R^{2}}{r^{2}}\right)^{2} - \frac{\cos^{2}\theta \left(1- \frac{R^{2}}{r^{2}}\right)^{2}}{r^{2}}    \\
 \end{align*}$$
-When $r=R$:
+When $r=R$ it simplifies to:
 $$\begin{align*}
 C_{p} &= 1-4\sin^{2}\theta 
 \end{align*}$$
 Which results in:
 
 ![[Pasted image 20221112134337.png]]
+What can be seen is that there is no net lift and no net drag. (due to the symmetry)
