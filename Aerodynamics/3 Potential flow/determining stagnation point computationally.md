@@ -150,3 +150,5 @@ plot.contour( x, z, streamFunction,[ stagnationStreamValue ], linewidths=2, colo
 
 plot.show()
 ```
+
+It is clear from this that for [[Flow past a circular cylinder]] the stagnation points occur on the leading and trailing edge, and the stream function that intercepts this occurs along the radius.
