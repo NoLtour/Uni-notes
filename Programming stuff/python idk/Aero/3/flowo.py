@@ -119,7 +119,7 @@ streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 ) ;
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
 
-plot.figure(69)
+plot.figure(69, dpi=10)
 plot.title("flow field")
 #plot.quiver( x, z, u, w )
 
