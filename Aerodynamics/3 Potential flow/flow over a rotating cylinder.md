@@ -16,7 +16,9 @@ $$\begin{align*}
 \varepsilon &= - \frac{\Gamma}{2\pi}\ln R\\\\
 \therefore \psi &= V_{\infty} r \sin\theta \frac{1- R^{2}}{r^{2}} + \frac{\Gamma}{2\pi}\ln \frac{r}{R}
 \end{align*}$$
-This is simply a form of the stream function such that at $R=r$, $\psi=0$ for convenience.
+This is simply a form of the stream function such that at $R=r$, $\psi=0$ for convenience. Depending on how we vary $\Gamma$ ([[circulation]]) we get different results:
+![[Pasted image 20221112150117.png]]
+
 
 
 
