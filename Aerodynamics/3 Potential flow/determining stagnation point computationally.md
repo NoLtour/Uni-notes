@@ -108,20 +108,6 @@ streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 ) ;
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
 
-plot.figure(69)
-plot.title("flow field")
-#plot.quiver( x, z, u, w )
-
-stX,stZ = getStagnationPoints( x,z,u,w )
-
-plot.plot( stX, stZ, "rx" )
-
-niceContorPlot( x,z, streamFunction, 40 )
-
-plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
-
-plot.show()
-
 ```
 
 To get the stagnation point, we simply need to find where in our domain the velocity is zero, of course since the $dx,dz$ is not at zero some errors will occur so instead of looking for where it equals exactly zero we need to look at where it's near zero:
@@ -140,4 +126,42 @@ def getStagnationPoints( x,z, u,w ):
 	return [ x[pointIndecies], z[pointIndecies] ];
 ```
 
-Instead of using $|V|=\sqrt{ u^{2} + w^{2} }$ we are using $|V|\approx |u| + |w|$ since it is less computation
+Instead of using $|V|=\sqrt{ u^{2} + w^{2} }$ we are using $|V|\approx |u| + |w|$ since it is less computationally demanding and reasonably suitable for this application. This can get us the stagnation points:
+```jupyter
+plot.figure(69)
+
+niceContorPlot( x,z, streamFunction, 40 )
+
+stX,stZ = getStagnationPoints( x,z,u,w )
+
+plot.plot( stX, stZ, "rx" )
+```
+
+Then we can find the streamfunction that correlates to the stagnation point using:
+```jupyter
+def getStagnationSFVal( x,z, u,w, streamFunction ):
+	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape ) 
+
+	return streamFunction[ xIndx, zIndx ]
+```
+
+Plotted we get:
+```jupyter
+import numpy as np
+import matplotlib.pyplot as plot
+
+dx = 0.1
+
+xPoints = np.arange( -5, 5, dx )
+
+yPoints = xPoints ** 2
+
+plot.figure( 69 );
+
+plot.plot( xPoints, yPoints, "kx" );
+
+plot.ylabel("outputs (trol units)")
+plot.xlabel("inputs (trol units)")  
+
+plot.show();
+```
