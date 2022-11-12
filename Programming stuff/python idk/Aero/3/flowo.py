@@ -29,7 +29,7 @@ def getVelocitys( streamFunction ):
 	return [u,w]
 
 def getPressureCFs( u,w,Uref ):
-	return 1-((u**2 + w**2) / (Uref**2))
+	return 1-(((u**2) + (w**2)) / (Uref**2))
 
 # Stream function for linear flow
 def linearSF( x,z, alpha, speed ):
@@ -109,7 +109,8 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 
 	niceVals = np.unique( sorted(niceVals) )
 
-	plot.contour( x, z, scalarField, niceVals )
+	#plot.colorbar( plot.contour( x, z, scalarField, niceVals ) )
+	plot.colorbar( plot.contour( x, z, scalarField, lineCount ) )
  
 
 Uinf = 10;
@@ -121,8 +122,8 @@ streamFunction = linearSF( x,z, 0, Uinf ) + doubletSF( 0, 0, x,z, 5 ) ;
 u,w = getVelocitys( streamFunction )
 
 # filtering for less extreme values:
-u = np.where( abs(u)<10000, u, 10000*np.ones( u.shape ) )
-w = np.where( abs(w)<10000, w, 10000*np.ones( w.shape ) )
+u = np.where( abs(u)<1000, u, 1000*np.ones( u.shape ) )
+w = np.where( abs(w)<1000, w, 1000*np.ones( w.shape ) )
 
 cp = getPressureCFs( u,w, Uinf )
 
@@ -138,7 +139,7 @@ plot.plot( stX, stZ, "rx" )
 
 niceContorPlot( x,z, streamFunction, 70 )
 
-plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
+plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
 
 plot.show()
 
