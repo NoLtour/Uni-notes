@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.0004
+dx = dz = 0.002
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -60,7 +60,7 @@ def getLowestVelPoint( x,z, u,w ):
 
 def getStagnationPoints( x,z, u,w ): 
 	stagnationValue = np.min( np.abs( u ) + np.abs( w ) )*1.5
-	if ( stagnationValue > 0.15 ):
+	if ( stagnationValue > 0.2 ):
 		print("unable to find stagnation point, lowest vel was: ",stagnationValue/1.5)
 		return [[],[]]
 
@@ -111,6 +111,9 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 
 	plot.contour( x, z, scalarField, niceVals )
 
+def getPressures( u, w, Uref ):
+	return 1 - ((u**2 + w**2)/(Uref**2))
+
 Uinf = 10;
 
 streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 ) ;
@@ -119,7 +122,7 @@ streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 ) ;
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
 
-plot.figure(69, dpi=10)
+plot.figure(69)
 plot.title("flow field")
 #plot.quiver( x, z, u, w )
 
