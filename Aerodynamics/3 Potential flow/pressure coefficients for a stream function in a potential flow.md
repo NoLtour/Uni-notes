@@ -27,4 +27,5 @@ V_{r} &= 0& V_{\theta} &= -2U_{\infty} \sin\theta
 \end{align*}$$
 We can tell just by looking that a stagnation point will exist at $\theta=0,\pi,2\pi,3\pi...$ which for us is just $\theta=0,\pi$ and that the maximum vel will occur at $\theta= \frac{\pi}{2},-\frac{\pi}{2}$ such that $|V|=2U_{\infty}$ which looks like:
 ![[Pasted image 20221112123716.png]]
-This result also lines up with the computational analysis in [[determining stagnation point computationally]] (sin)
+This result also lines up with the computational analysis in [[determining stagnation point computationally]] (since [[Flow past a circular cylinder]] was used there as the example too):
+
