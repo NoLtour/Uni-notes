@@ -70,4 +70,4 @@ This is quite easy, it simply  requires us to integrate over $\theta=0\to 2\pi$ 
 $$\begin{align*}
 D' &= \int_{C} P\times(-\hat{n}\cdot \hat{i})ds & &\to & c_{d}&=   \frac{1}{2R} \int_{C} C_{p}\times(-\hat{n}\cdot \hat{i})ds
 \end{align*}$$
-
+Here $\hat{n}$ is the unit vector normal to the surface and $\hat{i}$ is the unit vector in the direction of flow, hence the [[dot product (vectors)|dot product]] of these gets the magnit
