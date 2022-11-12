@@ -119,7 +119,7 @@ streamFunction = linearSF( x,z, 0, Uinf ) + doubletSF( 0, 0, x,z, 5 ) ;
 #streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
 
 # filtering for less extreme values:
-streamFunction = np.where( abs(streamFunction)<2000, streamFunction, np.ones(streamFunction.shape)*2000 )
+streamFunction = np.where( abs(streamFunction)<200, streamFunction, np.ones(streamFunction.shape)*200 )
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
@@ -136,14 +136,11 @@ plot.title("flow field")
 stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
+plot.colorbar( plot.contourf( x, z, cp, 120 ) )
 
-niceContorPlot( x,z, streamFunction, 70 )
+niceContorPlot( x,z, streamFunction, 200 )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
 
 plot.show()
 
-
-plot.figure(169)
-plot.colorbar( plot.contourf( x, w, cp, 40 ) )
-plot.show()
