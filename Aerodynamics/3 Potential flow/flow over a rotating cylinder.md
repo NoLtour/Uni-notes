@@ -66,5 +66,8 @@ $$\begin{align*}
 \end{align*}$$
 
 #### Drag
-This is quite easy, it simply  
+This is quite easy, it simply  requires us to integrate over $\theta=0\to 2\pi$ to get drag coefficient:
+$$\begin{align*}
+D' &= \int_{C} P\times(-\hat{n}\cdot \hat{i})ds & &\to & c_{d}&=   \frac{1}{2R} \int_{C} C_{p}\times(-\hat{n}\cdot \hat{i})ds
+\end{align*}$$
 
