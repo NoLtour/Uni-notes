@@ -74,7 +74,7 @@ def getStagnationSFVal( x,z, u,w, streamFunction ):
 	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape ) 
 
 	return streamFunction[ xIndx, zIndx ]
-
+ 
 
 def niceContorPlot( x,z, scalarField, lineCount ):
 	niceVals = []
@@ -140,7 +140,7 @@ stX,stZ = getStagnationPoints( x,z,u,w )
 plot.plot( stX, stZ, "rx" )
 plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
 
-plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
+#plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
 plot.contour( x, z, filterExtreme( streamFunction, 100 ), 200, colors="red" ) 
 
