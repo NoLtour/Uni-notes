@@ -25,5 +25,6 @@ Contents:
 - [[pressure coefficients for a stream function in a potential flow]]  
 - [[comparison between potential flow and real flows]]
 - [[flow over a rotating cylinder]]
+- [[Kutta-Joukowski Theorem]]
 
 ## Expanded articles
