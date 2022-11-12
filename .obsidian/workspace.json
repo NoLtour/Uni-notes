@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Kutta-Joukowski Theorem.md",
+                "file": "Aerodynamics/3 Potential flow/method of images.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Kutta-Joukowski Theorem.md",
+                "file": "Aerodynamics/3 Potential flow/method of images.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,9 +160,9 @@
   },
   "active": "c8a764cc1f110a00",
   "lastOpenFiles": [
-    "Aerodynamics/3 Potential flow/this is infact a rather funny name.md",
-    "Aerodynamics/3 Potential flow/Kutta-Joukowski Theorem.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+    "Aerodynamics/3 Potential flow/Kutta-Joukowski Theorem.md",
+    "Aerodynamics/3 Potential flow/this is infact a rather funny name.md",
     "Aerodynamics/3 Potential flow/method of images.md",
     "Aerodynamics/3 Potential flow/flow over a rotating cylinder.md",
     "Aerodynamics/3 Potential flow/magnus effect.md",
