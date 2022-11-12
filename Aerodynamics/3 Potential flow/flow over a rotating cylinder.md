@@ -87,4 +87,5 @@ C_{l} &= \frac{\Gamma}{RV_{\infty}}\\
 \therefore\:L' &= \frac{1}{2}\rho V^{2}_{\infty}S \frac{\Gamma}{RV_{\infty}} & S &= 2R \\
 &= \rho V_{\infty} \Gamma
 \end{align*}$$
-This equation pretty much implies that in a potential flow lift is a direct product of the interaction between [[circulation]] and the freestream.
+This equation pretty much implies that in a potential flow lift is a direct product of the interaction between [[circulation]] and the freestream. This is basically the [[magnus effect]] when we are working with real flows:
+![[Pasted image 20221112160741.png]]
