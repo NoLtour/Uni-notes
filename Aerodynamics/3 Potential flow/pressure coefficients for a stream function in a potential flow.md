@@ -32,5 +32,5 @@ This result also lines up with the computational analysis in [[determining stagn
 Next to find pressure coefficient:
 $$ C_{p} = 1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ V^{2}_{ref} }  $$ $$\begin{align*}
  C_{p} &=  1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ V^{2}_{ref} }  & V_{r}&= \frac{1}{r} U_{\infty}\cos\theta \left(1- \frac{R^{2}}{r^{2}}\right) & V_{\theta} &= -U_{\infty} \sin\theta \left(1 + \frac{R^{2}}{r^{2}}\right)\\
- &=  1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ V^{2}_{ref} }
+ &=  1-U_{\infty}^{2} \frac{  \sin^{2}\theta \left(1 + \frac{R^{2}}{r^{2}}\right)^{2} + \frac{\cos^{2}\theta \left(1- \frac{R^{2}}{r^{2}}\right)^{2}}{r^{2}}    }{ V^{2}_{ref} }
 \end{align*}$$
