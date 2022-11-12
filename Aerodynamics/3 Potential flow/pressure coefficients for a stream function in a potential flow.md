@@ -13,7 +13,7 @@ It's quite easy just take the equation for [[pressure coefficient when there is 
 
 ### Example
 
-> [[Flow past a circular cylinder]], find the pressure coefficients at the maximum and minimum points of velocity on the surface of cylinder with radius $R=\sqrt{\frac{k}{2\pi U_{\infty}}}$
+> [[Flow past a circular cylinder]], find the pressure coefficients at the maximum and minimum points of velocity on the surface of cylinder with radius $R=\sqrt{\frac{k}{2\pi U_{\infty}}}$, then find the coefficients of pressure at these points and where $C_{p}=0$
 
 $$ \psi(r,\theta) = U_{\infty}r\sin(\theta)\left(1- \frac{R^{2}}{r^{2}}\right) $$
 $$\begin{align*}
@@ -29,4 +29,4 @@ We can tell just by looking that a stagnation point will exist at $\theta=0,\pi,
 ![[Pasted image 20221112123716.png]]
 This result also lines up with the computational analysis in [[determining stagnation point computationally]] (since [[Flow past a circular cylinder]] was used there as the example too) stagnation points are marked red:
 ![[Pasted image 20221112124242.png]]
-
+Next 
