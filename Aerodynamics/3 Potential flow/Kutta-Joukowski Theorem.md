@@ -22,4 +22,4 @@ Put in a nice format:
 >> - Irrespective of shape as long as it is closed
 >> - In a potential flow
 
-You think I'd post a meme commenting about how the name is funny? Huh you think I'm that immature? Really? (that assumption is correct]])
+You think I'd post a meme commenting about how the name is funny? Huh you think I'm that immature? Really? ([[this is infact a rather funny name|that assumption is correct]])
