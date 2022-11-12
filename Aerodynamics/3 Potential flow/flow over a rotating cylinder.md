@@ -84,5 +84,6 @@ L' &= \int_{C} P\times(-\hat{n}\cdot \hat{j})ds & &\to & c_{l}&=   \frac{1}{2R} 
 Once again the specifics of solving don't matter, but subbing in the equation for $C_{p}$ results in:
 $$\begin{align*}
 C_{l} &= \frac{\Gamma}{RV_{\infty}}\\
-\therefor\:L' &= \frac{1}{2}\rho V^{2}_{\infty} c_{l}
+\therefore\:L' &= \frac{1}{2}\rho V^{2}_{\infty}S \frac{\Gamma}{RV_{\infty}} 
 \end{align*}$$
+This equation pretty much implies that in a potential flow lift is a direct product of [[circulation]].
