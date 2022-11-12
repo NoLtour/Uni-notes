@@ -87,12 +87,24 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 
 	cX = xMin
 	cZ = zMin
+	
+	alt = 0
 	while ( cX <= xMax ):
 		#niceVals.append( scalarField[ int((xMin + xRange*np.random.random())/dx ) ][ int((zMin + zRange*np.random.random())/dz) ] )
-		niceVals.append( scalarField[ int((cX-xMin)/dx) ][ int((cZ-zMin)/dz) ] )
+
+		if ( alt == 0 ):
+			niceVals.append( scalarField[ int((cX-xMin)/dx) ][ int((cZ-zMin)/dz) ] )
+		elif ( alt == 1 ):
+			niceVals.append( scalarField[ int((xMax-cX)/dx) ][ int((cZ-zMin)/dz) ] )
+		elif ( alt == 2 ):
+			niceVals.append( scalarField[ int((xMax-cX)/dx) ][ int((zMax-cZ)/dz) ] )
+		elif ( alt == 3 ):
+			niceVals.append( scalarField[ int((cX-xMin)/dx) ][ int((zMax-cZ)/dz) ] )
+
 
 		cX = cX + xStep
 		cZ = cZ + zStep
+		alt = (alt+1)%4
 
 	niceVals = np.unique( sorted(niceVals) )
 
