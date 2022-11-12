@@ -77,4 +77,12 @@ c_{d} &= 0
 This is interesting :think: there is no drag at all for this body.
 
 #### Lift
-The working here is the same as what was done for drag only now we use the unit vector $\hat{j}$ which represents the vector perpendicular to $i$ hence it
+The working here is the same as what was done for drag only now we use the unit vector $\hat{j}$ which represents the vector perpendicular to $i$ hence it's perpendicular to the free stream velocity:
+$$\begin{align*}
+L' &= \int_{C} P\times(-\hat{n}\cdot \hat{j})ds & &\to & c_{l}&=   \frac{1}{2R} \int_{C} C_{p}\times(-\hat{n}\cdot \hat{j})ds
+\end{align*}$$
+Once again the specifics of solving don't matter, but subbing in the equation for $C_{p}$ results in:
+$$\begin{align*}
+C_{l} &= \frac{\Gamma}{RV_{\infty}}\\
+\therefor\:L' &= \frac{1}{2}\rho V^{2}_{\infty} c_{l}
+\end{align*}$$
