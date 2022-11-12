@@ -70,4 +70,11 @@ This is quite easy, it simply  requires us to integrate over $\theta=0\to 2\pi$ 
 $$\begin{align*}
 D' &= \int_{C} P\times(-\hat{n}\cdot \hat{i})ds & &\to & c_{d}&=   \frac{1}{2R} \int_{C} C_{p}\times(-\hat{n}\cdot \hat{i})ds
 \end{align*}$$
-Here $\hat{n}$ is the unit vector normal to the surface and $\hat{i}$ is the unit vector in the direction of flow, hence the [[dot product (vectors)|dot product]] of these gets the magnit
+Here $\hat{n}$ is the unit vector normal to the surface and $\hat{i}$ is the unit vector in the direction of flow, hence the [[dot product (vectors)|dot product]] of these gets the magnitude of the pressure acting in the direction of the free stream, multiplying by -1 gets against the free stream (drag) and integrating gets this drag over the whole object (net drag), hence the equation seen here. The specifics don't matter much but this becomes:
+$$\begin{align*}
+c_{d} &= 0
+\end{align*}$$
+This is interesting :think: there is no drag at all for this body.
+
+#### Lift
+The working here is the same as what was done for drag only now we use the unit vector $\hat{j}$ which represents the vector perpendicular to $i$ hence it
