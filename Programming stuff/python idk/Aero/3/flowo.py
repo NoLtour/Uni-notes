@@ -110,17 +110,19 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 	niceVals = np.unique( sorted(niceVals) )
 
 	plot.contour( x, z, scalarField, niceVals )
-
-def getPressures( u, w, Uref ):
-	return 1 - ((u**2 + w**2)/(Uref**2))
+ 
 
 Uinf = 10;
 
-streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 ) ;
+streamFunction = linearSF( x,z, 0, Uinf ) + doubletSF( 0, 0, x,z, 5 ) ;
 #streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
+
+cp = getPressureCFs( u,w, Uinf )
+
+
 
 plot.figure(69)
 plot.title("flow field")
@@ -134,4 +136,9 @@ niceContorPlot( x,z, streamFunction, 70 )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" )
 
+plot.show()
+
+
+plot.figure(169)
+plot.colorbar( plot.contourf( x, w, cp, 40 ) )
 plot.show()
