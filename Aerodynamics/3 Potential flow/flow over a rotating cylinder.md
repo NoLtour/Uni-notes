@@ -30,3 +30,12 @@ V_{r} &= \frac{1}{r} \frac{\delta\psi}{\delta\theta} & V_{\theta} &= - \frac{\de
 V_{r} &=  V_{\infty} \cos\theta \left( 1 - \frac{R^{2}}{r^{2}} \right) & V_{\theta} &= - V_{\infty} \sin \theta \left(1 + \frac{R^{2}}{r^{2}}\right) - \frac{\Gamma}{2\pi r}
 \end{align*}$$
 
+Stagnation points can be found by finding where $|V|=0$ hence:
+$$\begin{align*}
+ 0 &=  V_{\infty} \cos\theta \left( 1 - \frac{R^{2}}{r^{2}} \right) & 0 &= - V_{\infty} \sin \theta \left(1 + \frac{R^{2}}{r^{2}}\right) - \frac{\Gamma}{2\pi r}\\
+&... \text{some alge}
+\end{align*}$$
+$$\begin{align*}
+\theta &= \arcsin\left( - \frac{\Gamma}{4\pi RV_{\infty}} \right) & \text{where: }& |\Gamma| \leq 4\pi R V_{\infty}\\
+r &= R
+\end{align*}$$
