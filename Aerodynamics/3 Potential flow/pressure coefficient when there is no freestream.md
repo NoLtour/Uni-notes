@@ -9,7 +9,7 @@ In the event where for some reason there is no uniform flow, usually caused by a
  
 
 So we can just replace $U_{\infty}$ with $U_{ref}$:
-> ### $$ C_{p} =  \frac{p-p_{ref}}{\frac{1}{2}\rho V^{2}_{ref}}= 1-\frac{  u^{2} + w^{2}  }{ V^{2}_{ref} }  $$ 
+> ### $$ C_{p} =  \frac{p-p_{ref}}{\frac{1}{2}\rho V^{2}_{ref}}= 1-\frac{  u^{2} + w^{2}  }{ V^{2}_{ref} } =   1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ V^{2}_{ref} } $$ 
 > ### $$  \frac{1}{2}\rho V^{2}_{ref}-  \frac{1}{2}\rho (u^{2} + w^{2})  =   p-p_{ref} $$ 
 >> where:
 >> $C_{p} =$ [[pressure coefficient]]
