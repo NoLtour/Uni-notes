@@ -118,13 +118,13 @@ Uinf = 10;
 streamFunction = linearSF( x,z, 0, Uinf ) + doubletSF( 0, 0, x,z, 5 ) ;
 #streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
 
+# filtering for less extreme values:
+streamFunction = np.where( abs(streamFunction)<2000, streamFunction, np.ones(streamFunction.shape)*2000 )
+
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
 
-# filtering for less extreme values:
-u = np.where( abs(u)<1000, u, 1000*np.ones( u.shape ) )
-w = np.where( abs(w)<1000, w, 1000*np.ones( w.shape ) )
-
+ 
 cp = getPressureCFs( u,w, Uinf )
 
 
