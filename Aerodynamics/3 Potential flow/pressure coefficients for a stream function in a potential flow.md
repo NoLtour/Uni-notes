@@ -31,6 +31,14 @@ This result also lines up with the computational analysis in [[determining stagn
 ![[Pasted image 20221112124242.png]]
 Next to find pressure coefficient:
 $$ C_{p} = 1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ V^{2}_{ref} }  $$ $$\begin{align*}
- C_{p} &=  1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ V^{2}_{ref} }  & V_{r}&= \frac{1}{r} U_{\infty}\cos\theta \left(1- \frac{R^{2}}{r^{2}}\right) & V_{\theta} &= -U_{\infty} \sin\theta \left(1 + \frac{R^{2}}{r^{2}}\right)\\
- &=  1-U_{\infty}^{2} \frac{  \sin^{2}\theta \left(1 + \frac{R^{2}}{r^{2}}\right)^{2} + \frac{\cos^{2}\theta \left(1- \frac{R^{2}}{r^{2}}\right)^{2}}{r^{2}}    }{ V^{2}_{ref} }
+ C_{p} &=  1-\frac{  V_{\theta}^{2} + V_{r}^{2}  }{ U^{2}_{\infty} }  & V_{r}&= \frac{1}{r} U_{\infty}\cos\theta \left(1- \frac{R^{2}}{r^{2}}\right) & V_{\theta} &= -U_{\infty} \sin\theta \left(1 + \frac{R^{2}}{r^{2}}\right)\\
+ &=  1-U_{\infty}^{2} \frac{  \sin^{2}\theta \left(1 + \frac{R^{2}}{r^{2}}\right)^{2} + \frac{\cos^{2}\theta \left(1- \frac{R^{2}}{r^{2}}\right)^{2}}{r^{2}}    }{ U_{\infty}^{2} }\\
+ &=  1- \sin^{2}\theta \left(1 + \frac{R^{2}}{r^{2}}\right)^{2} - \frac{\cos^{2}\theta \left(1- \frac{R^{2}}{r^{2}}\right)^{2}}{r^{2}}    \\
 \end{align*}$$
+When $r=R$:
+$$\begin{align*}
+C_{p} &= 1-4\sin^{2}\theta 
+\end{align*}$$
+Which results in:
+
+![[Pasted image 20221112134337.png]]
