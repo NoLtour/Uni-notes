@@ -41,4 +41,4 @@ r &= R
 \end{align*}$$
 We can see that there are values of $\Gamma$ such that there are no stagnation points on the circumference of the circle, this case coincides with when the flow starts to get [[loss of sanity|trippy]]:
 ![[Pasted image 20221112151419.png]]
-
+From looking at the diagram it can b
