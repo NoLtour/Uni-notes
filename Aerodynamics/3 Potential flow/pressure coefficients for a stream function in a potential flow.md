@@ -29,4 +29,5 @@ We can tell just by looking that a stagnation point will exist at $\theta=0,\pi,
 ![[Pasted image 20221112123716.png]]
 This result also lines up with the computational analysis in [[determining stagnation point computationally]] (since [[Flow past a circular cylinder]] was used there as the example too) stagnation points are marked red:
 ![[Pasted image 20221112124242.png]]
-Next 
+Next to find pressure coefficient:
+$$ C_{p} = 1-\frac{  u^{2} + w^{2}  }{ V^{2}_{ref} }  $$ 
