@@ -59,25 +59,7 @@ def doubletSF( x0,z0, x,z, strength ):
 # Stream function vortex
 def vortexSF( x0,z0, x,z, Gamma ): 
     return (Gamma/(2*np.pi)) * np.log( np.sqrt( (x-x0)**2 + (z-z0)**2 ) )
-
-def getStagnationPoints( x,z, u,w ): 
-	stagnationValue = np.min( np.abs( u ) + np.abs( w ) )*1.5
-	if ( stagnationValue > 0.15 ):
-		print("unable to find stagnation point, lowest vel was: ",stagnationValue/1.5)
-		return [[],[]]
-
-	print("using sv:", stagnationValue)
-
-	pointIndecies = np.where(  ( np.abs( u ) + np.abs( w ) )< stagnationValue) 
-
-	return [ x[pointIndecies], z[pointIndecies] ];
-
-def getStagnationSFVal( x,z, u,w, streamFunction ):
-	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape ) 
-
-	return streamFunction[ xIndx, zIndx ]
-
-
+ 
 def niceContorPlot( x,z, scalarField, lineCount ):
 	niceVals = []
 
@@ -90,7 +72,6 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 	cX = xMin
 	cZ = zMin
 	while ( cX <= xMax ):
-		#niceVals.append( scalarField[ int((xMin + xRange*np.random.random())/dx ) ][ int((zMin + zRange*np.random.random())/dz) ] )
 		niceVals.append( scalarField[ int((cX-xMin)/dx) ][ int((cZ-zMin)/dz) ] )
 
 		cX = cX + xStep
@@ -103,11 +84,11 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 Uinf = 10;
 
 streamFunction = linearSF( x,z, 0, 10 ) + doubletSF( 0, 0, x,z, 5 ) ;
-#streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
 
 # We can then get the velocitys from the scalar values of the stream function
 u,w = getVelocitys( streamFunction )
 
+print("done running")
 ```
 
 To get the stagnation point, we simply need to find where in our domain the velocity is zero, of course since the $dx,dz$ is not at zero some errors will occur so instead of looking for where it equals exactly zero we need to look at where it's near zero:
@@ -124,6 +105,8 @@ def getStagnationPoints( x,z, u,w ):
 	pointIndecies = np.where(  ( np.abs( u ) + np.abs( w ) )< stagnationValue) 
 
 	return [ x[pointIndecies], z[pointIndecies] ];
+
+print("done running")
 ```
 
 Instead of using $|V|=\sqrt{ u^{2} + w^{2} }$ we are using $|V|\approx |u| + |w|$ since it is less computationally demanding and reasonably suitable for this application. This can get us the stagnation points:
@@ -143,25 +126,27 @@ def getStagnationSFVal( x,z, u,w, streamFunction ):
 	xIndx,zIndx = np.unravel_index( np.argmin( np.abs( u ) + np.abs( w ) ), u.shape ) 
 
 	return streamFunction[ xIndx, zIndx ]
+
+print("done running")
 ```
 
 Plotted we get:
 ```jupyter
-import numpy as np
-import matplotlib.pyplot as plot
+plot.figure(21)
+plot.title("flow field")
+#plot.quiver( x, z, u, w )
 
-dx = 0.1
+stX,stZ = getStagnationPoints( x,z,u,w )
 
-xPoints = np.arange( -5, 5, dx )
+plot.plot( stX, stZ, "rx" )
 
-yPoints = xPoints ** 2
+niceContorPlot( x,z, streamFunction, 40 )
 
-plot.figure( 69 );
+stagnationStreamValue = getStagnationSFVal( x,z,u,w,streamFunction );
 
-plot.plot( xPoints, yPoints, "kx" );
+print("the stream function at stagnation point: ",stagnationStreamValue)
 
-plot.ylabel("outputs (trol units)")
-plot.xlabel("inputs (trol units)")  
+plot.contour( x, z, streamFunction,[ stagnationStreamValue ], linewidths=2, colors="black" )
 
-plot.show();
+plot.show()
 ```
