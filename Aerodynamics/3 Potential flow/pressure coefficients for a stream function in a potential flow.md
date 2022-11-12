@@ -13,5 +13,7 @@ It's quite easy just take the equation for [[pressure coefficient when there is 
 
 ### Example
 
-[[Flow past a circular cylinder]], 
+> [[Flow past a circular cylinder]], find the pressure coefficients at the maximum and minimum points of velocity.
+
+$$ \psi(r,\theta) = U_{\infty}r\sin(\theta)\left(1- \frac{R^{2}}{r^{2}}\right) $$
 

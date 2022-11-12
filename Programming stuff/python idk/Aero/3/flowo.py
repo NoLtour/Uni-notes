@@ -104,7 +104,7 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 
 		cX = cX + xStep
 		cZ = cZ + zStep
-		alt = int(4*np.random.random()) #(alt+1)%4
+		alt = (alt+1)%4
 
 	niceVals = np.unique( sorted(niceVals) )
 
