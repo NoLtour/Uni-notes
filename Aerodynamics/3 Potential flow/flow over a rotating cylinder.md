@@ -20,8 +20,7 @@ $$\begin{align*}
 This is simply a form of the stream function such that at $R=r$, $\psi=0$ for convenience. Depending on how we vary $\Gamma$ ([[circulation]]) we get different results:
 ![[Pasted image 20221112150117.png]]
 
-### Pressure coefficient
-#### Veloicty
+### Veloicty
 The method to get velocity components is of course the same as done previously making use of the identity of [[stream function (2D)|stream function]]:
 
 $$\begin{align*}
@@ -30,7 +29,7 @@ V_{r} &= \frac{1}{r} \frac{\delta\psi}{\delta\theta} & V_{\theta} &= - \frac{\de
 V_{r} &=  V_{\infty} \cos\theta \left( 1 - \frac{R^{2}}{r^{2}} \right) & V_{\theta} &= - V_{\infty} \sin \theta \left(1 + \frac{R^{2}}{r^{2}}\right) - \frac{\Gamma}{2\pi r}
 \end{align*}$$
 
-#### Stagnation points
+### Stagnation points
 Stagnation points can be found by finding where $|V|=0$ hence if we assume $r=R$:
 $$\begin{align*}
  0 &=  V_{\infty} \cos\theta \left( 1 - \frac{R^{2}}{r^{2}} \right) & 0 &= - V_{\infty} \sin \theta \left(1 + \frac{R^{2}}{r^{2}}\right) - \frac{\Gamma}{2\pi r}\\
@@ -53,4 +52,9 @@ $$\begin{align*}
 r &= \mp \frac{\Gamma}{4\pi V_{\infty}} + \sqrt{ \left( \frac{\Gamma}{4\pi V_{\infty}} \right)^{2} - R^{2} } \:\:\: and \:\:\: r = \mp \frac{\Gamma}{4\pi V_{\infty}} - \sqrt{ \left( \frac{\Gamma}{4\pi V_{\infty}} \right)^{2} - R^{2} }
 \end{align*}$$
 
-#### 
+### Pressure coefficient on the surface
+If we take the stream function where $\psi=0$, hence $r=R$ then we know that:
+$$\begin{align*}
+V_{r} &=  V_{\infty} \cos\theta \left( 1 - \frac{R^{2}}{R^{2}} \right) & V_{\theta} &= - V_{\infty} \sin \theta \left(1 + \frac{R^{2}}{R^{2}}\right) - \frac{\Gamma}{2\pi R}\\
+  &= 0 & &= - 2 V_{\infty} \sin \theta   - \frac{\Gamma}{2\pi R}
+\end{align*}$$
