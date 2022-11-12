@@ -17,6 +17,6 @@ It's quite easy just take the equation for [[pressure coefficient when there is 
 
 $$ \psi(r,\theta) = U_{\infty}r\sin(\theta)\left(1- \frac{R^{2}}{r^{2}}\right) $$
 $$\begin{align*}
-V_{r}&=  \frac{1}{r} \frac{\delta\psi}{\delta\theta} & V\theta &= \\
-&= \frac{1}{r} V_{\infty}\cos\theta \left(1- \frac{R^{2}}{r^{2}}\right)
+V_{r}&=  \frac{1}{r} \frac{\delta\psi}{\delta\theta} & V_{\theta} &= -\frac{\delta\psi}{\delta r} \\
+&= \frac{1}{r} V_{\infty}\cos\theta \left(1- \frac{R^{2}}{r^{2}}\right) & &=0\:\: (\text{online cal})
 \end{align*}$$
