@@ -8,4 +8,8 @@ We've already done lots of analysis on [[Flow past a circular cylinder]], but th
 ![[Pasted image 20221112144936.png]]
 For convenience we add in the term $\epsilon$ such that the stream function for the stagnation point is zero, since when dealing with stream functions we only really work with the derivative adding any constant to the stream function won't change any outputs, hence we can do this without negative consequence.
 
-
+Since we know from [[pressure coefficients for a stream function in a potential flow|previous working]] that at $r=R$ the streamfunction passes through the stagnation point and follows this circle, we can write:
+$$\begin{align*}
+\psi &= V_{\infty} r \sin\theta \frac{1- R^{2}}{r^{2}} + \frac{\Gamma}{2\pi} + \varepsilon\\
+\text{at }
+\end{align*}$$
