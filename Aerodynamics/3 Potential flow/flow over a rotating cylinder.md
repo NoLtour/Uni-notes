@@ -25,7 +25,8 @@ This is simply a form of the stream function such that at $R=r$, $\psi=0$ for co
 The method to get velocity components is of course the same as done previously making use of the identity of [[stream function (2D)|stream function]]:
 
 $$\begin{align*}
-V_{r} &= \frac{1}{r} \frac{\delta\psi}{\delta\theta} & V_{\theta} &= - \frac{\delta\osu}{\delta r}\\
-...&\text{}
+V_{r} &= \frac{1}{r} \frac{\delta\psi}{\delta\theta} & V_{\theta} &= - \frac{\delta\psi}{\delta r}\\
+...&\text{wolfram alpha}\\
+V_{r} &=  V_{\infty} \cos\theta \left( 1 - \frac{R^{2}}{r^{2}} \right) & V_{\theta} &= - V_{\infty} \sin \theta \left(1 + \frac{R^{2}}{r^{2}}\right) - \frac{\Gamma}{2\pi r}
 \end{align*}$$
 
