@@ -81,9 +81,10 @@ The working here is the same as what was done for drag only now we use the unit 
 $$\begin{align*}
 L' &= \int_{C} P\times(-\hat{n}\cdot \hat{j})ds & &\to & c_{l}&=   \frac{1}{2R} \int_{C} C_{p}\times(-\hat{n}\cdot \hat{j})ds
 \end{align*}$$
-Once again the specifics of solving don't matter, but subbing in the equation for $C_{p}$ results in:
+Once again the specifics of solving [[this is doable using current knowledge but loooooooooooong and not needed|don't matter]], but subbing in the equation for $C_{p}$ results in:
 $$\begin{align*}
 C_{l} &= \frac{\Gamma}{RV_{\infty}}\\
-\therefore\:L' &= \frac{1}{2}\rho V^{2}_{\infty}S \frac{\Gamma}{RV_{\infty}} 
+\therefore\:L' &= \frac{1}{2}\rho V^{2}_{\infty}S \frac{\Gamma}{RV_{\infty}} & S &= 2R \\
+&= \rho V_{\infty} \Gamma
 \end{align*}$$
-This equation pretty much implies that in a potential flow lift is a direct product of [[circulation]].
+This equation pretty much implies that in a potential flow lift is a direct product of the interaction between [[circulation]] and the freestream.
