@@ -26,5 +26,6 @@ Contents:
 - [[comparison between potential flow and real flows]]
 - [[flow over a rotating cylinder]]
 - [[Kutta-Joukowski Theorem]]
+- [[method of images]]
 
 ## Expanded articles
