@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.01
+dx = dz = 0.001
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -137,7 +137,7 @@ plot.title("flow field")
 
 stX,stZ = getStagnationPoints( x,z,u,w )
 
-print( u[ int( (zMin+zMax)/dz ), int( (1-xMin)/dx ) ] )
+print( "uAt thing:", u[ int( (zMax-zMin)*0.5/dz ), int( (1-xMin)/dx ) ] )
 
 plot.plot( stX, stZ, "rx" )
 #plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 160 ) )
