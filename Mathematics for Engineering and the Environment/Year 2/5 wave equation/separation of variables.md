@@ -17,6 +17,7 @@ Now you see we've [[see what I did there so funny|separated the variables]] into
 > $$ \frac{\delta^{2}y}{\delta t^{2}} = c^{2} \frac{\delta^{2}y}{\delta x^{2}} $$
 > Such that $y(0,t)=0$ and $y(L,t)=0$ find the solution.
 
+#### Separation
 Use the substitution $y(x,t) = X(x) \times T(t)$:
 $$\begin{align*}
 \frac{\delta^{2}y}{\delta t^{2}} &=  c^{2} \frac{\delta^{2}y}{\delta x^{2}} & y(x,t) &=  X(x) \times T(t)\\
@@ -39,13 +40,16 @@ $$\begin{align*}
  \frac{1}{c^{2}} \frac{\ddot{T}}{T}=\frac{1}{c^{2}} \hat{f}_{1}(t) &= \lambda & \frac{X''}{X}=\hat{f}_{2}(x) &= \lambda\\
 \ddot{T}  - c^{2} \lambda T &= 0 &  X''  - \lambda X &= 0\\
 \end{align*}$$
+#### Boundary conditions
 In this form it becomes obvious that this is just a [[solving eigenvalue ODEs|eigenvalue ODE]] so we can just apply that method to both of them. If we look at the set of boundary conditions given at the start:
 $$\begin{align*}
 y(0,t)&=0 & y(L,t)&=0\\
 X(0)T(t)&= 0 & X(L)T(t)&= 0
 \end{align*}$$
-In this case we know that for $X(0)T(t)$ either $X(0)=0$ or $T(t)=0$, to get any useful solutions we assume that $T(t)=?$ and $X(0)=0$ this is also done with $X(L)T(t)=0$ hence we get:
+In this case we know that for $X(0)T(t)$ either $X(0)=0$ or $T(t)=0$, to get any useful solutions we assume that $T(t)=?$ and $X(0)=0$ (if we took $T(t)=0$ then $y=0$ and no useful information can be gathered) this is also done with $X(L)T(t)=0$ hence we get:
 $$\begin{align*}
 X(0) &= 0 & T(t) &= ? &&\text{and} & X(L) &= 0 & T(t) &= ? & 
 \end{align*}$$
+It quickly becomes apparent that we only have boundary conditions for $x$, this is a future problem though so let's start by solving $X$'s [[solving eigenvalue ODEs|eigenvalue ODE]].
 
+#### Solving ODE 
