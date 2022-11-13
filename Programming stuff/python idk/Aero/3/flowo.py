@@ -79,7 +79,7 @@ def readValue( X, Z, dataGrid, showOnGraph=False ):
 	if ( showOnGraph ):
 		plot.plot( X, Z, "bx" )
 
-	return dataGrid[ int((X-xMin)/dx), int((Z-zMin)/dz) ]
+	return dataGrid[ int((Z-zMin)/dz), int((X-xMin)/dx) ]
  
  
 def filterExtreme( inp, maxMag ):
@@ -106,7 +106,7 @@ plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
 
 #plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
-print("cp at (2,3):", readValue( 0,1, cp, True ) )
+print("cp at (2,3):", readValue( 0,0.3, cp, True ) )
 print("mStag: ", getLowestVelPoint( x,z,u,w ) )
 print("stags: ",stX,stZ )
 
