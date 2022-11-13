@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.25
+dx = dz = 0.0025
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
