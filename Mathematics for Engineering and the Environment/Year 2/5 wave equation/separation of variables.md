@@ -44,5 +44,8 @@ $$\begin{align*}
 y(0,t)&=0 & y(L,t)&=0\\
 X(0)T(t)&= 0 & X(L)T(t)&= 0
 \end{align*}$$
-
+In this case we know that for $X(0)T(t)$ either $X(0)=0$ or $T(t)=0$, to get any useful solutions we assume that $T(t)=?$ and $X(0)=0$ this is also done with $X(L)T(t)=0$ hence we get:
+$$\begin{align*}
+X(0) &= 0 & T(t) &= ? &&\text{and} & X(L) &= 0 & T(t) &= ? & 
+\end{align*}$$
 
