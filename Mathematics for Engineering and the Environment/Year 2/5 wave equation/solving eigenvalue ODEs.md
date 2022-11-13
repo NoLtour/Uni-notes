@@ -37,5 +37,9 @@ $$\begin{align*}
 y &=  Ae^{k x} + Be^{-kx} 
 \end{align*}$$
 $$\begin{align*}
-y(0) &= 0 & y(\pi) &= 0
+y(0) &= 0 & y(\pi) &= 0\\
+0&=  Ae^{k 0} + Be^{-k0}  & 0 &=  Ae^{k \pi} + Be^{-k\pi}\\
+0&=  A + B & e^{k \pi} &= - \frac{B}{A} e^{-k\pi} \\
+A &= -B\\
+&& e^{k \pi} &= e^{-k\pi} \\
 \end{align*}$$
