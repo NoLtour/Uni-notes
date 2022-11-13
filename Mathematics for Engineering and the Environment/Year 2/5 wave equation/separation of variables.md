@@ -80,7 +80,7 @@ $$\begin{align*}
 \end{align*}$$
 This is a trivial solution and useless.
 
-##### Case $(\lambda=k^{2})\:\:>0$
+##### Case $(\lambda=-k^{2})\:\:<0$
 
 $$\begin{align*}
 X &=   A\cos(kx) + B\sin(kx)
@@ -95,3 +95,5 @@ $$\begin{align*}
 $$\begin{align*}
 \therefore \:\: y &= B_{n} \sin\left(\frac{n\pi}{L}x\right)
 \end{align*}$$
+[[these take fuckin ages|Finally]] a non trivial solution.
+
