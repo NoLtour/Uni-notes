@@ -39,4 +39,4 @@ $$\begin{align*}
  \frac{1}{c^{2}} \frac{\ddot{T}}{T}=\frac{1}{c^{2}} \hat{f}_{1}(t) &= \lambda & \frac{X''}{X}=\hat{f}_{2}(x) &= \lambda\\
  \frac{1}{c^{2}} \frac{\ddot{T}}{T} - \lambda &= 0 & \frac{X''}{X} - \lambda &= 0\\
 \end{align*}$$ 
-In this form it becomes obvious that this is just a [[eigenvalue ]]
+In this form it becomes obvious that this is just a [[solving eigenvalue ODEs|eigenvalue ODE]]
