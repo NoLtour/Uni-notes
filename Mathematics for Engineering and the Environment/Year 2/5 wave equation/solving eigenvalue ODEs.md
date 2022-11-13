@@ -27,7 +27,15 @@ m&=  \frac{0\pm\sqrt{0^{2}-4\times1\times\lambda}}{2\times1} &&\to& m&= \pm\sqrt
 This becomes 3 separate problems, depending on the value of $\lambda$ hence our 3 cases are:
 1) $(\lambda=-k^{2})\:\:<0$ so there is 2 real roots, so we use $y = Ae^{m_1 x} + Be^{m_2 x}\:\to\: y = Ae^{k x} + Be^{-kx}$
 2) $(\lambda=k^{2})\:\:=0$ so there is 1 real roots, so we use $y = (Ax+B)e^{m_1 x}\:\to\:y = Ax+B$
-3) $(\lambda=k^{2})\:\:>0$ so there is 2 complex roots, so we use $y = e^{ax} ( A\cos(bx) + B\sin(bx) ) \:\to\: y =  A\cos(kx) + B\sin(kx)  $
+3) $(\lambda=k^{2})\:\:>0$ so there is 2 complex roots, so we use $y = e^{ax} ( A\cos(bx) + B\sin(bx) ) \:\to\: y =  A\cos(kx) + B\sin(kx)$
 
-For all of these $k$ is just some real constant which makes working cleaner since we don't need to write $\sqrt{\lambda}$ everywhere since $\sqrt{\lambda}=k$.
+For all of these $k$ is just some real constant which makes working cleaner since we don't need to write $\sqrt{\lambda}$ everywhere. The next step is to just solve it for each case, since $\lambda$ is unknown we need to treat this as a general case situation.
 
+#### Case $(\lambda=-k^{2})\:\:<0$
+
+$$\begin{align*}
+y &=  Ae^{k x} + Be^{-kx} 
+\end{align*}$$
+$$\begin{align*}
+y(0) &= 0 & y(\pi) &= 0
+\end{align*}$$
