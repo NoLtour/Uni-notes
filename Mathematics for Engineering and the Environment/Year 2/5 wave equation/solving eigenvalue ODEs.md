@@ -24,4 +24,5 @@ We solve this using the same method [[solving linear homogeneous constant-coeffi
 $$\begin{align*}
 m&=  \frac{0\pm\sqrt{0^{2}-4\times1\times\lambda}}{2\times1} &&\to& m&= \pm\sqrt{-\lambda}
 \end{align*}$$
-This becomes 3 separate problems, depending on the value of $\lambda$, to make thing's clearer we are going to state that $\lambda=k^{2}$ where $k$ is 
+This becomes 3 separate problems, depending on the value of $\lambda$ hence our 3 cases are:
+1) $(\lambda=-k^{2})\:\:<0$
