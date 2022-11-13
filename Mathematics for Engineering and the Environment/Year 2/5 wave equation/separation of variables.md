@@ -34,5 +34,9 @@ X \ddot{T} &=  c^{2} T X''\\
 \frac{1}{c^{2}} \frac{\ddot{T}}{T} &=  \frac{X''}{X}\\
 \frac{1}{c^{2}} \hat{f}_{1}(t) &= \hat{f}_{2}(x)
 \end{align*}$$
-The final line is simply me showing that both sides are entirely dependent on a single independent variable, but at the same time also always equal; hence 
-
+The final line is simply me showing that both sides are entirely dependent on a single independent variable, but at the same time also always equal; hence they muse be equal to the same constant! Hence this can be expressed as:
+$$\begin{align*}
+ \frac{1}{c^{2}} \frac{\ddot{T}}{T}=\frac{1}{c^{2}} \hat{f}_{1}(t) &= \lambda & \frac{X''}{X}=\hat{f}_{2}(x) &= \lambda\\
+ \frac{1}{c^{2}} \frac{\ddot{T}}{T} - \lambda &= 0 & \frac{X''}{X} - \lambda &= 0\\
+\end{align*}$$ 
+In this form it becomes obvious that this is just a [[eigenvalue ]]
