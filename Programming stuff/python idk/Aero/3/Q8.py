@@ -138,6 +138,7 @@ plot.title("flow field")
 stX,stZ = getStagnationPoints( x,z,u,w )
 
 print( u.take( zAxis.size/2, axis=0 ).take( xAxis.size-1 ) )
+print( u[ int(zAxis.size/2), xAxis.size-1 ] )
 
 plot.plot( stX, stZ, "rx" )
 #plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 160 ) )
