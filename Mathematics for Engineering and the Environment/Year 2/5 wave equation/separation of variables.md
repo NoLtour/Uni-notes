@@ -32,4 +32,7 @@ $$\begin{align*}
 X \frac{\delta^{2} T }{\delta t^{2}} &=  c^{2} T \frac{\delta^{2} X }{\delta x^{2}}\\
 X \ddot{T} &=  c^{2} T X''\\
 \frac{1}{c^{2}} \frac{\ddot{T}}{T} &=  \frac{X''}{X}\\
+\frac{1}{c^{2}} \hat{f}_{1}(t) &= \hat{f}_{2}(x)
 \end{align*}$$
+The final line is simply me showing that both sides are entirely dependent on a single independent variable, but at the same time also always equal; hence 
+
