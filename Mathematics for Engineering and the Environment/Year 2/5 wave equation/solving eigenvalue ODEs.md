@@ -13,4 +13,11 @@ $$ \frac{d^{2}y}{dx^{2}} + \lambda y = 0 $$
 
 We call them eigenvalue problems since they can be rearranged into:
 $$ \frac{d^{2}y}{dx^{2}}  = -\lambda y $$
-Which indicates it is possible to find derivatives/integrals simply by multiplying by
+Which indicates it is possible to find derivatives/integrals simply by multiplying by $\lambda$.
+
+### Example
+> Solve:
+> $$ \frac{d^{2}y}{dx^{2}} + \lambda y = 0 $$
+> Where $y(0)=0$ and $y(\pi)=0$
+
+This becomes 3 separate problems, depending on the value of $\lambda$ 
