@@ -14,21 +14,22 @@ Now you see we've [[see what I did there so funny|separated the variables]] into
 
 ### Example
 > Given the PDE:
-> $$ \frac{\delta^{2}y}{\delta t^{2}} = c \frac{\delta^{2}y}{\delta x^{2}} $$
+> $$ \frac{\delta^{2}y}{\delta t^{2}} = c^{2} \frac{\delta^{2}y}{\delta x^{2}} $$
 > Such that $y(0,t)=0$ and $y(L,t)=0$ find the solution.
 
 Use the substitution $y(x,t) = X(x) \times T(t)$:
 $$\begin{align*}
-\frac{\delta^{2}y}{\delta t^{2}} &=  c \frac{\delta^{2}y}{\delta x^{2}} & y(x,t) &=  X(x) \times T(t)\\
-\frac{\delta^{2} (XT) }{\delta t^{2}} &=  c \frac{\delta^{2}(XT)}{\delta x^{2}}
+\frac{\delta^{2}y}{\delta t^{2}} &=  c^{2} \frac{\delta^{2}y}{\delta x^{2}} & y(x,t) &=  X(x) \times T(t)\\
+\frac{\delta^{2} (XT) }{\delta t^{2}} &=  c^{2} \frac{\delta^{2}(XT)}{\delta x^{2}}
 \end{align*}$$
-Since $X$ and $T$ are purely dependent on $x$ and $t$ respectively it is clear that:
+Since $X$ and $T$ are purely dependent on $x$ and $t$ respectively, when being differentiated in terms of another independent variable it is clear they are effectively just constants:
 $$\begin{align*}
 \frac{\delta^{2}X(x)}{\delta t^{2}} &= 0 & \frac{\delta^{2}T(t)}{\delta x^{2}} &= 0\\
 \therefore\:\: \frac{\delta^{2} (XT) }{\delta t^{2}} & =  X \frac{\delta^{2} T }{\delta t^{2}} & \frac{\delta^{2} (XT) }{\delta x^{2}} & =  T \frac{\delta^{2} X }{\delta x^{2}}
 \end{align*}$$
 Hence the previous complicated derivative can be simplified to:
 $$\begin{align*}
-X \frac{\delta^{2} T }{\delta t^{2}} &=  c T \frac{\delta^{2} X }{\delta x^{2}}
-
+X \frac{\delta^{2} T }{\delta t^{2}} &=  c^{2} T \frac{\delta^{2} X }{\delta x^{2}}\\
+X \ddot{T} &=  c^{2} T X''\\
+\frac{1}{c^{2}} \frac{\ddot{T}}{T} &=  \frac{X''}{X}\\
 \end{align*}$$
