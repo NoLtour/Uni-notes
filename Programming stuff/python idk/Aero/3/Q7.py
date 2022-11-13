@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.004
+dx = dz = 0.01
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -113,7 +113,7 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 	plot.colorbar( plot.contour( x, z, scalarField, lineCount ) )
  
 def filterExtreme( inp, maxMag ):
-	return np.where( abs(inp)<maxMag, inp, maxMag*inp/abs(inp) )
+	return np.where( abs(inp)<maxMag, inp, maxMag*np.sign(inp) )
 
 Uinf = 1;
 
@@ -137,14 +137,16 @@ plot.title("flow field")
 
 stX,stZ = getStagnationPoints( x,z,u,w )
 
-plot.plot( stX, stZ, "rx" )
-plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
+#plot.plot( stX, stZ, "rx" )
+#plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
+
+plot.plot( xAxis, cp.slice( zAxis.size/2 ) )
 
 #plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
-plot.contour( x, z, filterExtreme( streamFunction, 100 ), 200, colors="red" ) 
+#plot.contour( x, z, filterExtreme( streamFunction, 100 ), 200, colors="red" ) 
 
-plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
+#plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
 
 plot.show()
 
