@@ -113,7 +113,7 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 	plot.colorbar( plot.contour( x, z, scalarField, lineCount ) )
  
 def filterExtreme( inp, maxMag ):
-	return np.where( abs(inp)<maxMag, inp, maxMag*inp/abs(inp) )
+	return np.where( abs(inp)<maxMag, inp, maxMag*np.sign(inp) )
 
 Uinf = 10;
 

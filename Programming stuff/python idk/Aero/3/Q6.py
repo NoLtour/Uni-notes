@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.004
+dx = dz = 0.001
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -113,7 +113,7 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 	plot.colorbar( plot.contour( x, z, scalarField, lineCount ) )
  
 def filterExtreme( inp, maxMag ):
-	return np.where( abs(inp)<maxMag, inp, maxMag*inp/abs(inp) )
+	return np.where( abs(inp)<maxMag, inp, maxMag*np.sign(inp) )
 
 Uinf = 1;
 
