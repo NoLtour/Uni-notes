@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables.md",
                 "mode": "source",
                 "source": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,14 +173,14 @@
   "active": "c8a764cc1f110a00",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/classification of partial differential equations.md",
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables.md",
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/elliptic partial differential equations.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/parabolic partial differential equations.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/hyperbolic partial differential equations.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/abdombidination.md",
     "Mathematics for Engineering and the Environment/Year 2/Organisation n Resources/LectureNotesMATH2048.pdf",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
-    "Aerodynamics/3 Potential flow/stream function for a doublet.md",
-    "Aerodynamics/3 Potential flow/Potential flow Overview.md"
+    "Aerodynamics/3 Potential flow/stream function for a doublet.md"
   ]
 }
