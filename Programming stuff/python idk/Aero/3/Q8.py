@@ -3,7 +3,7 @@ import matplotlib.pyplot as plot
 import matplotlib.ticker as tickers
 from scipy import interpolate
 
-domainWidth = 2;
+domainWidth = 2.5;
 
 xMin = -domainWidth
 xMax = domainWidth
@@ -137,8 +137,8 @@ plot.title("flow field")
 
 stX,stZ = getStagnationPoints( x,z,u,w )
 
-print( u.take( zAxis.size/2, axis=0 ).take( xAxis.size-1 ) )
-print( u[ int(zAxis.size/2), xAxis.size-1 ] )
+print( u.take( zAxis.size/2, axis=0 ).take( int(xAxis.size*( 1+(2/3) )) ) )
+print( u[ int( (zMin+zMax)/dz ), int( (1-xMin)/dx ) ] )
 
 plot.plot( stX, stZ, "rx" )
 #plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 160 ) )
