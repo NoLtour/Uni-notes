@@ -38,5 +38,6 @@ The final line is simply me showing that both sides are entirely dependent on a 
 $$\begin{align*}
  \frac{1}{c^{2}} \frac{\ddot{T}}{T}=\frac{1}{c^{2}} \hat{f}_{1}(t) &= \lambda & \frac{X''}{X}=\hat{f}_{2}(x) &= \lambda\\
 \ddot{T}  - c^{2} \lambda T &= 0 &  X''  - \lambda X &= 0\\
-\end{align*}$$ 
-In this form it becomes obvious that this is just a [[solving eigenvalue ODEs|eigenvalue ODE]]
+\end{align*}$$
+In this form it becomes obvious that this is just a [[solving eigenvalue ODEs|eigenvalue ODE]] so we can just apply that method to both of them.
+
