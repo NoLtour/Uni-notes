@@ -77,7 +77,7 @@ def getStagnationSFVal( x,z, u,w, streamFunction ):
  
 def readValue( X, Z, dataGrid, showOnGraph=False ):
 	if ( showOnGraph ):
-		plot.plot( X, Z, "bx" )
+		plot.plot( X, Z, "wx" )
 
 	return dataGrid[ int((Z-zMin)/dz), int((X-xMin)/dx) ]
  
@@ -106,7 +106,7 @@ plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
 
 #plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
-print("cp at (2,3):", readValue( 0,0.3, cp, True ) )
+print("cp at (1,-1.5):", readValue( 1,-1.5, cp, True ) )
 print("mStag: ", getLowestVelPoint( x,z,u,w ) )
 print("stags: ",stX,stZ )
 
