@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.01
+dx = dz = 0.002
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -137,10 +137,9 @@ plot.title("flow field")
 
 stX,stZ = getStagnationPoints( x,z,u,w )
 
-#plot.plot( stX, stZ, "rx" )
-#plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
+plot.plot( stX, stZ, "rx" )
+plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 12 ), 60 ) )
 
-plot.plot( xAxis, cp.take( zAxis.size/2 ).squeeze() )
 
 #plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
@@ -150,3 +149,7 @@ plot.plot( xAxis, cp.take( zAxis.size/2 ).squeeze() )
 
 plot.show()
 
+
+plot.figure(619)
+plot.plot( xAxis, filterExtreme( np.take(cp, zAxis.size/2, axis=0  ), 2 ) );
+plot.show()
