@@ -24,11 +24,11 @@ $$\begin{align*}
 \end{align*}$$
 Since $X$ and $T$ are purely dependent on $x$ and $t$ respectively it is clear that:
 $$\begin{align*}
-\frac{\delta^{2}X(x)}{\delta t^{2}} &= \text{some constant} & \frac{\delta^{2}T(t)}{\delta x^{2}} &= \text{some constant}
+\frac{\delta^{2}X(x)}{\delta t^{2}} &= 0 & \frac{\delta^{2}T(t)}{\delta x^{2}} &= 0\\
+\therefore\:\: \frac{\delta^{2} (XT) }{\delta t^{2}} & =  X \frac{\delta^{2} T }{\delta t^{2}} & \frac{\delta^{2} (XT) }{\delta x^{2}} & =  T \frac{\delta^{2} X }{\delta x^{2}}
 \end{align*}$$
 Hence the previous complicated derivative can be simplified to:
 $$\begin{align*}
-\frac{\delta^{2}X(x)}{\delta t^{2}} \frac{\delta^{2} (T) }{\delta t^{2}} &=  c \frac{\delta^{2}T(t)}{\delta x^{2}} \frac{\delta^{2}(X )}{\delta x^{2}}\\
-A \frac{\delta^{2} (T) }{\delta t^{2}} &=  c B \frac{\delta^{2}(X )}{\delta x^{2}}\\
+X \frac{\delta^{2} T }{\delta t^{2}} &=  c T \frac{\delta^{2} X }{\delta x^{2}}
 
 \end{align*}$$
