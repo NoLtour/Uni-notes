@@ -52,4 +52,18 @@ X(0) &= 0 & T(t) &= ? &&\text{and} & X(L) &= 0 & T(t) &= ? &
 \end{align*}$$
 It quickly becomes apparent that we only have boundary conditions for $x$, this is a future problem though so let's start by solving $X$'s [[solving eigenvalue ODEs|eigenvalue ODE]].
 
-#### Solving ODE 
+#### Solving the x bit ($X'' - \lambda X=0$)
+
+##### Case $(\lambda=k^{2})\:\:>0$
+$$\begin{align*}
+y &=  Ae^{k x} + Be^{-kx} 
+\end{align*}$$
+$$\begin{align*}
+y(0) &= 0 & y(\pi) &= 0\\
+0&=  Ae^{k 0} + Be^{-k0}  & 0 &=  Ae^{k \pi} + Be^{-k\pi}\\
+0&=  A + B &  - A &=  B e^{-2k\pi} \\
+A &= -B\\
+&& B &= Be^{-2k\pi}\\
+&& &\therefore B=A=0
+\end{align*}$$
+This is a trivial solution and useless.
