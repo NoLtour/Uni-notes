@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for a vortex.md",
+                "file": "Aerodynamics/3 Potential flow/stream function for a doublet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,9 +170,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "240acb9e66e2ae1f",
+  "active": "c8a764cc1f110a00",
   "lastOpenFiles": [
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+    "Aerodynamics/3 Potential flow/stream function for a vortex.md",
     "Mathematics for Engineering and the Environment/Year 1/8 Matrices 2/matrices are useful but also the root of all pain and suffering.md",
     "Aerodynamics/3 Potential flow/pressure coefficient when there is no freestream.md",
     "Aerodynamics/Aerodynamics overview.md",
@@ -180,7 +181,6 @@
     "Aerodynamics/3 Potential flow/build a wall to keep those damn normal velocitys out.md",
     "Aerodynamics/3 Potential flow/Kutta-Joukowski Theorem.md",
     "Aerodynamics/3 Potential flow/this is infact a rather funny name.md",
-    "Aerodynamics/3 Potential flow/flow over a rotating cylinder.md",
-    "Aerodynamics/3 Potential flow/magnus effect.md"
+    "Aerodynamics/3 Potential flow/flow over a rotating cylinder.md"
   ]
 }
