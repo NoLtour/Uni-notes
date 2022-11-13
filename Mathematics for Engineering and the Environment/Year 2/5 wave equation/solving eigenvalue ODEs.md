@@ -7,7 +7,7 @@ tags: []
 
 ### Intro
 
-Now your asking "what the fuck are those they sound painful" and the answer is they are not that bad! A eigenvalue ODE is just where you only have 2 terms in the ODE eg:
+Now your asking "[[my response to pretty much everything in maths this year|what the fuck are those they sound painful]]" and the answer is they are not that bad! A eigenvalue ODE is just where you only have 2 terms in the ODE eg:
 
 $$ \frac{d^{2}y}{dx^{2}} + \lambda y = 0 $$
 
@@ -75,11 +75,11 @@ $$\begin{align*}
 \therefore \:\: y &= B_{n} \sin(nx)
 \end{align*}$$
 
-#### 
+#### Conclusion
 
 Hence in this case we have infinite solutions to the equation of the form:
 $$\begin{align*}
 y &= B_{n} \sin(nx)
 \end{align*}$$
-
+Depending on the boundary conditions you can get a wide range of possible solutions to these equations so stay alert.
 
