@@ -20,4 +20,8 @@ Which indicates it is possible to find derivatives/integrals simply by multiplyi
 > $$ \frac{d^{2}y}{dx^{2}} + \lambda y = 0 $$
 > Where $y(0)=0$ and $y(\pi)=0$
 
-We solve this using the same method [[solving linear homogeneous constant-coefficient equations#Method (for constant coefficients)|solving linear second order ODEs]] This becomes 3 separate problems, depending on the value of $\lambda$, $m= \frac{\pm\sqrt{-4\lambda}}{2}$
+We solve this using the same method [[solving linear homogeneous constant-coefficient equations#Method (for constant coefficients)|solving linear second order ODEs]] hence we will start with step 1:
+$$\begin{align*}
+m&=  \frac{0\pm\sqrt{0^{2}-4\times1\times\lambda}}{2\times1} &&\to& m&= \pm\sqrt{-\lambda}
+\end{align*}$$
+This becomes 3 separate problems, depending on the value of $\lambda$, to make thing's clearer we are going to state that $\lambda=k^{2}$ where $k$ is 
