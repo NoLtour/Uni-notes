@@ -14,6 +14,11 @@ Now you see we've [[see what I did there so funny|separated the variables]] into
 
 ### Example
 > Given the PDE:
-> $$  $$
-> Such that $y(0)$
+> $$ \frac{\delta^{2}y}{\delta t^{2}} = c \frac{\delta^{2}y}{\delta x^{2}} $$
+> Such that $y(0,t)=0$ and $y(L,t)=0$ find the solution.
 
+Use the substitution $y(x,t) = X(x) \times T(t)$:
+$$\begin{align*}
+\frac{\delta^{2}y}{\delta t^{2}} &=  c \frac{\delta^{2}y}{\delta x^{2}} & y(x,t) &=  X(x) \times T(t)\\
+\frac{\delta^{2}y}{\delta t^{2}} &=  c \frac{\delta^{2}y}{\delta x^{2}}
+\end{align*}$$
