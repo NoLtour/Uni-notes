@@ -140,9 +140,9 @@ stX,stZ = getStagnationPoints( x,z,u,w )
 print( u.take( zAxis.size/2, axis=0 ).take( xAxis.size-1 ) )
 
 plot.plot( stX, stZ, "rx" )
-plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 160 ) )
+#plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 160 ) )
 
-plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
+#plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
 plot.contour( x, z, filterExtreme( streamFunction, 100 ), 400 ) 
 
