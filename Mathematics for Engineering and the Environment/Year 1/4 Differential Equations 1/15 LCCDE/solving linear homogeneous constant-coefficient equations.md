@@ -15,7 +15,7 @@ In practice what this means is that you get 2 functions of $y(x)$ which can be s
 
 Once you have those two equations you can sub them into: $y(x) = c_{1} y_{1}(x) + c_{2} y_{2}(x)$ to get your solution for a general function of $y$. 
 
-#### Proofing [[solving linear homogeneous constant-coefficient equations#Method|the method]]
+#### Proofing [[solving linear homogeneous constant-coefficient equations#Method (for constant coefficients)|the method]]
 
 ##### Normal case
 
