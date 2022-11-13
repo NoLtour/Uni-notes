@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.0004
+dx = dz = 0.01
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -75,6 +75,11 @@ def getStagnationSFVal( x,z, u,w, streamFunction ):
 
 	return streamFunction[ xIndx, zIndx ]
  
+def readValue( x, z, dataGrid, showOnGraph ):
+	if ( showOnGraph ):
+		plot.plot( x, z, "bx" )
+
+	return dataGrid[ int((x-xMin)/dx), int((z-zMin)/dz) ]
 
 def niceContorPlot( x,z, scalarField, lineCount ):
 	niceVals = []
