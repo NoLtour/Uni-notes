@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.001
+dx = dz = 0.01
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -137,7 +137,6 @@ plot.title("flow field")
 
 stX,stZ = getStagnationPoints( x,z,u,w )
 
-print( u.take( zAxis.size/2, axis=0 ).take( int(xAxis.size*( 1+(2/3) )) ) )
 print( u[ int( (zMin+zMax)/dz ), int( (1-xMin)/dx ) ] )
 
 plot.plot( stX, stZ, "rx" )
@@ -149,7 +148,7 @@ plot.contour( x, z, filterExtreme( streamFunction, 100 ), 400 )
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
 
-plot.show()
+#plot.show()
 
 plot.figure(619)
 plot.plot( xAxis, filterExtreme( np.take(u, zAxis.size/2, axis=0  ), 2 ) );
