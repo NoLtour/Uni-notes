@@ -44,6 +44,33 @@ A &= -B\\
 && B &= Be^{-2k\pi}\\
 && &\therefore B=A=0
 \end{align*}$$
-This is a trivial solution and useless
+This is a trivial solution and useless.
+
+#### Case $(\lambda=k^{2})\:\:=0$
+
+$$\begin{align*}
+y &=  Ax+B
+\end{align*}$$
+$$\begin{align*}
+0 &=  A0+B & 0 &=  A\pi+B\\ 
+0 &= B\\
+& & 0 &=  A\pi\\ 
+\end{align*}$$
+This is a trivial solution and useless.
+
+
+#### Case $(\lambda=k^{2})\:\:<0$
+
+$$\begin{align*}
+y &=   A\cos(kx) + B\sin(kx)
+\end{align*}$$
+$$\begin{align*}
+0 &=   A\cos(k0) + B\sin(k0) & 0&=   A\cos(k\pi) + B\sin(k\pi)\\
+0 &=   A \\
+& & 0&= B\sin(k\pi)\\
+& 
+\end{align*}$$
+This is a trivial solution and useless.
+
 
 
