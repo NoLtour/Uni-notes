@@ -95,5 +95,8 @@ $$\begin{align*}
 $$\begin{align*}
 \therefore \:\: y &= B_{n} \sin\left(\frac{n\pi}{L}x\right)
 \end{align*}$$
-[[these take fuckin ages|Finally]] a non trivial solution.
-
+[[these take fuckin ages|Finally]] a non trivial solution. In this case $\lambda=-k^{2}$ hence:
+$$\begin{align*}
+\lambda_{n} &= - \left(\frac{n\pi}{L}\right)^{2}
+\end{align*}$$
+It is important to note that since there are infinite solutions depending on the value of $n$ there are infinite corresponding solutions of the equation $y$ and hence value's of $\lambda$ so you need to make sure to clearly show this wi
