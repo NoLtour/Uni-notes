@@ -75,9 +75,9 @@ def getStagnationSFVal( x,z, u,w, streamFunction ):
 
 	return streamFunction[ xIndx, zIndx ]
  
-def readValue( X, Z, dataGrid, showOnGraph ):
+def readValue( X, Z, dataGrid, showOnGraph=False ):
 	if ( showOnGraph ):
-		plot.plot( Z, X, "bx" )
+		plot.plot( X, Z, "bx" )
 
 	return dataGrid[ int((X-xMin)/dx), int((Z-zMin)/dz) ]
  
@@ -97,8 +97,7 @@ cp = getPressureCFs( u,w, Uinf )
 
 
 plot.figure(69)
-plot.title("flow field")
-#plot.quiver( x, z, u, w )
+plot.title("flow field") 
 
 stX,stZ = getStagnationPoints( x,z,u,w )
 
@@ -107,7 +106,7 @@ plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
 
 #plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
-print("cp at (2,3):", readValue( 2,3, cp ) )
+print("cp at (2,3):", readValue( 0,1, cp, True ) )
 print("mStag: ", getLowestVelPoint( x,z,u,w ) )
 print("stags: ",stX,stZ )
 
