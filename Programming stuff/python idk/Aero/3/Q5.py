@@ -140,10 +140,10 @@ stX,stZ = getStagnationPoints( x,z,u,w )
 print( "uAt thing:", u[ int( (zMax-zMin)*0.5/dz ), int( (12-xMin)/dx ) ] )
 print( "wAt thing:", w[ int( (zMax-zMin)*0.5/dz ), int( (12-xMin)/dx ) ] )
 
-plot.plot( stX, stZ, "rx" )
+plot.plot( x[w[ int( (zMax-zMin)*0.5/dz ), int( (12-xMin)/dx ) ]], z[w[ int( (zMax-zMin)*0.5/dz ), int( (12-xMin)/dx ) ]], "rx" )
 #plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 160 ) )
 
-#plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
+plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 100) )
 
 #plot.contour( x, z, filterExtreme( streamFunction, 100 ), 400 ) 
 
