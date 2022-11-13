@@ -140,7 +140,7 @@ stX,stZ = getStagnationPoints( x,z,u,w )
 #plot.plot( stX, stZ, "rx" )
 #plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
 
-plot.plot( xAxis, cp.slice( zAxis.size/2 ) )
+plot.plot( xAxis, cp.take( zAxis.size/2 ).squeeze() )
 
 #plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
