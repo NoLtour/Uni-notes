@@ -143,7 +143,7 @@ print( "wAt thing:", w[ int( (zMax-zMin)*0.5/dz ), int( (12-xMin)/dx ) ] )
 plot.plot( stX, stZ, "rx" )
 #plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 160 ) )
 
-plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
+#plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
 #plot.contour( x, z, filterExtreme( streamFunction, 100 ), 400 ) 
 
@@ -152,6 +152,6 @@ plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )
 #plot.show()
 
 plot.figure(619)
-plot.plot( xAxis, filterExtreme( np.take(w, zAxis.size/2, axis=0  ), 2 ) );
+plot.plot( xAxis, filterExtreme( np.take(w, zAxis.size/2, axis=0  ), 200 ) );
 plot.show()
 
