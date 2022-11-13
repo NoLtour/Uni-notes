@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.002
+dx = dz = 0.0004
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -145,9 +145,9 @@ plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
 print("mStag: ", getLowestVelPoint( x,z,u,w ) )
 print("stags: ",stX,stZ )
 
-plot.contour( x, z, filterExtreme( streamFunction, 100 ), 200, colors="red" ) 
+plot.contour( x, z, filterExtreme( streamFunction, 100 ), 200 ) 
 
-plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
+#plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
 
 plot.show()
 
