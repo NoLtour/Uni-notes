@@ -56,14 +56,42 @@ It quickly becomes apparent that we only have boundary conditions for $x$, this 
 
 ##### Case $(\lambda=k^{2})\:\:>0$
 $$\begin{align*}
-y &=  Ae^{k x} + Be^{-kx} 
+X &=  Ae^{k x} + Be^{-kx} 
 \end{align*}$$
 $$\begin{align*}
-y(0) &= 0 & y(\pi) &= 0\\
-0&=  Ae^{k 0} + Be^{-k0}  & 0 &=  Ae^{k \pi} + Be^{-k\pi}\\
-0&=  A + B &  - A &=  B e^{-2k\pi} \\
+X(0) &= 0 & X(L) &= 0\\
+0&=  Ae^{k 0} + Be^{-k0}  & 0 &=  Ae^{k L} + Be^{-kL}\\
+0&=  A + B &  - A &=  B e^{-2kL} \\
 A &= -B\\
-&& B &= Be^{-2k\pi}\\
+&& B &= Be^{-2kL}\\
 && &\therefore B=A=0
 \end{align*}$$
 This is a trivial solution and useless.
+
+##### Case $(\lambda=k^{2})\:\:=0$
+
+$$\begin{align*}
+X &=  Ax+B
+\end{align*}$$
+$$\begin{align*}
+0 &=  A0+B & 0 &=  AL+B\\ 
+0 &= B\\
+& & 0 &=  AL\\ 
+\end{align*}$$
+This is a trivial solution and useless.
+
+##### Case $(\lambda=k^{2})\:\:>0$
+
+$$\begin{align*}
+X &=   A\cos(kx) + B\sin(kx)
+\end{align*}$$
+$$\begin{align*}
+0 &=   A\cos(k0) + B\sin(k0) & 0&=   A\cos(kL) + B\sin(kL)\\
+0 &=   A \\
+& & 0&= B\sin(kL)\\
+& & \arcsin(0)=0,\pi,2\pi,3\pi,4\pi...=n\pi&= kL & \text{where }n\text{ is some integer}\\
+& & \frac{n\pi}{L} &= k\\
+\end{align*}$$
+$$\begin{align*}
+\therefore \:\: y &= B_{n} \sin\left(\frac{n\pi}{L}x\right)
+\end{align*}$$
