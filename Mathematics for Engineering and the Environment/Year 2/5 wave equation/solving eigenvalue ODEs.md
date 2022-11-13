@@ -25,4 +25,9 @@ $$\begin{align*}
 m&=  \frac{0\pm\sqrt{0^{2}-4\times1\times\lambda}}{2\times1} &&\to& m&= \pm\sqrt{-\lambda}
 \end{align*}$$
 This becomes 3 separate problems, depending on the value of $\lambda$ hence our 3 cases are:
-1) $(\lambda=-k^{2})\:\:<0$
+1) $(\lambda=-k^{2})\:\:<0$ so there is 2 real roots, so we use $x(t) = Ae^{m_1 t} + Be^{m_2 t}$
+2) $(\lambda=k^{2})\:\:=0$ so there is 1 real roots, so we use $x(t) = (At+B)e^{m_1 t}$
+3) $(\lambda=k^{2})\:\:>0$ so there is 2 complex roots, so we use $x(t) = e^{at} ( A\cos(bt) + B\sin(bt) )$
+
+For all of these $k$ is just some real constant which makes working cleaner since we don't need to write $\sqrt{\lambda}$ everywhere.
+
