@@ -7,7 +7,7 @@ tags: []
 
 ### Intro
 
-Hyperbolic PDEs are usually associated with wave propagation, and are central to hydro- and electro- dynamics. What is important to note about [[hyperbolic partial differential equations|hyperbolic PDEs]] is that information is propagated at a finite speed. For example:
+Hyperbolic PDEs are usually associated with wave propagation, and are central to hydro- and electro- dynamics. What is important to note about [[hyperbolic partial differential equations|hyperbolic PDEs]] is that information is propagated at a finite speed. This is the prototype example:
 
 $$ \frac{\delta^{2} u}{\delta t^{2} } = c^{2} \frac{\delta^{2} u}{ \delta x^{2} } $$
 

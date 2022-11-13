@@ -8,7 +8,7 @@ tags: []
 ### Intro
 
 Parabolic PDEs are usually associated with diffusion problems. Parabolic PDEs can be described as situations where information is propagated instantly (an infinite speed), this is often done for situations where such an approximation does not have significant effect on the output.
-An example would be the heat equation:
+The prototype example would be the heat equation:
 $$\begin{align*}
 \frac{\delta u}{\delta y }  &= k \frac{\delta^{2}u}{\delta x^{2}}
 \end{align*}$$
