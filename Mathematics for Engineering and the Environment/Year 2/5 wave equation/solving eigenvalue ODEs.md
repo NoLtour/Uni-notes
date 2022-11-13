@@ -59,7 +59,7 @@ $$\begin{align*}
 This is a trivial solution and useless.
 
 
-#### Case $(\lambda=k^{2})\:\:<0$
+#### Case $(\lambda=k^{2})\:\:>0$
 
 $$\begin{align*}
 y &=   A\cos(kx) + B\sin(kx)
@@ -68,7 +68,9 @@ $$\begin{align*}
 0 &=   A\cos(k0) + B\sin(k0) & 0&=   A\cos(k\pi) + B\sin(k\pi)\\
 0 &=   A \\
 & & 0&= B\sin(k\pi)\\
-& 
+& & \arcsin(0)=n\pi&= k\pi\\
+& & n &= k\\
+\therefore
 \end{align*}$$
 This is a trivial solution and useless.
 
