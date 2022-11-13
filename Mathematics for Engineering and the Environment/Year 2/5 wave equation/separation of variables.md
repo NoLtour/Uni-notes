@@ -20,5 +20,10 @@ Now you see we've [[see what I did there so funny|separated the variables]] into
 Use the substitution $y(x,t) = X(x) \times T(t)$:
 $$\begin{align*}
 \frac{\delta^{2}y}{\delta t^{2}} &=  c \frac{\delta^{2}y}{\delta x^{2}} & y(x,t) &=  X(x) \times T(t)\\
-\frac{\delta^{2}y}{\delta t^{2}} &=  c \frac{\delta^{2}y}{\delta x^{2}}
+\frac{\delta^{2} (XT) }{\delta t^{2}} &=  c \frac{\delta^{2}(XT)}{\delta x^{2}}
 \end{align*}$$
+Since $X$ and $T$ are purely dependent on $x$ and $t$ respecively it is clear that:
+$$\begin{align*}
+\frac{\delta^{2}X(x)}{\delta t^{2}} &= constant & \frac{\delta^{2}T(t)}{\delta x^{2}} &= \text{some constant}
+\end{align*}$$
+
