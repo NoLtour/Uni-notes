@@ -68,11 +68,18 @@ $$\begin{align*}
 0 &=   A\cos(k0) + B\sin(k0) & 0&=   A\cos(k\pi) + B\sin(k\pi)\\
 0 &=   A \\
 & & 0&= B\sin(k\pi)\\
-& & \arcsin(0)=n\pi&= k\pi\\
+& & \arcsin(0)=0,\pi,2\pi,3\pi,4\pi...=n\pi&= k\pi & \text{where }n\text{ is some integer}\\
 & & n &= k\\
-\therefore
 \end{align*}$$
-This is a trivial solution and useless.
+$$\begin{align*}
+\therefore \:\: y &= B_{n} \sin(nx)
+\end{align*}$$
 
+#### 
+
+Hence in this case we have infinite solutions to the equation of the form:
+$$\begin{align*}
+y &= B_{n} \sin(nx)
+\end{align*}$$
 
 
