@@ -23,8 +23,9 @@ $$\begin{align*}
 \frac{\delta y}{\delta t} &=  k^{2} \frac{\delta^{2} y}{\delta x^{2}}\\
 \frac{\delta TX}{\delta t} &=  k^{2} \frac{\delta^{2} TX}{\delta x^{2}}\\
 X \dot{T} &=  k^{2} T X''\\
-\frac{1}{k^{2}}\frac{X}{X''} &= \frac{T}{\dot{T}}=\lambda\\
+ \frac{X''}{X} &=k^{2} \frac{\dot{T}}{T}=\lambda 
 \end{align*}$$
 $$\begin{align*}
-\frac{1}{k^{2}}\frac{X}{X''} &= \frac{T}{\dot{T}}=\lambda
+ \dot{T} - \frac{\lambda}{k^{2}} T&= 0 & X''-\lambda X &=  0
 \end{align*}$$
+Then we can 
