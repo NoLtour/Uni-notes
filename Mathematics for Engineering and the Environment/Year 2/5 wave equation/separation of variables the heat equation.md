@@ -26,7 +26,7 @@ X \dot{T} &=  k^{2} T X''\\
  \frac{X''}{X} &= \frac{1}{k^{2}} \frac{\dot{T}}{T}=\lambda 
 \end{align*}$$
 $$\begin{align*}
- \dot{T} - \lambdak^{2} T&= 0 & X''-\lambda X &=  0
+ \dot{T} - \lambda k^{2} T&= 0 & X''-\lambda X &=  0
 \end{align*}$$
 Then we can easily define the boundary condition:
 $$\begin{align*}
@@ -87,7 +87,7 @@ m &= \pm\sqrt{k\lambda}
 
 #### Case ($( \lambda=- n^{2}\pi^{2})<0$)
 $$\begin{align*}
-T &= A_{n}\sin n\pi t + B_{n}\cos n\pi t\\
-\dot{T} &= n\pi (A_{n} \cos n\pi t - B_{n} \sin n\pi t )
-\end{align*}$$
+ \dot{T} - k^{2} \lambda T&= 0 \\
+ \dot{T} - k^{2} n^{2}\pi^{2}T&= 0 \\
 
+\end{align*}$$
