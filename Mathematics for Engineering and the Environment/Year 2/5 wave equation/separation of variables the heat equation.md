@@ -28,4 +28,10 @@ X \dot{T} &=  k^{2} T X''\\
 $$\begin{align*}
  \dot{T} - \frac{\lambda}{k^{2}} T&= 0 & X''-\lambda X &=  0
 \end{align*}$$
-Then we can 
+Then we can easily define the boundary condition:
+$$\begin{align*}
+\frac{\delta y}{\delta x}(0, t) &= 0  & \frac{\delta y}{\delta x}(1,t)=0 \\
+T(t) \frac{\delta X(0)}{\delta x} &= 0  & T(t) \frac{\delta X(1)}{\delta x}=0 \\
+ \frac{\delta X(0)}{\delta x} &= 0  & \frac{\delta X(1)}{\delta x}=0 \\
+\end{align*}$$
+Just like last time we are assuming that it is not $T(t)=0$ since that would lead to a [[insert self deprecating comment here|useless]] solution.

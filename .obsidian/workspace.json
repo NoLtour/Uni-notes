@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "57a1f4d59cc8f7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/insert self deprecating comment here.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "5ac8df3938bc5160",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables the heat equation.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/insert self deprecating comment here.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,11 +170,11 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f487590d780b1e7c",
+  "active": "57a1f4d59cc8f7a8",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables the heat equation.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables the heat equation.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/parabolic partial differential equations.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/defining the fourier series.md",
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
