@@ -2,18 +2,25 @@
 #include <Stepper.h>
 #include <Servo.h>
 
-int RED_LED_PIN = 10;
+int RED_LED_PIN = 5;
 //int GRN_LED_PIN = 10;
-int BLU_LED_PIN = 11;
+int BLU_LED_PIN = 6;
 
-int ST_INP1_PIN = 3 ; // . -> STEPPER_INP1
-int ST_INP2_PIN = 4 ; // . -> STEPPER_INP2
-int ST_INP3_PIN = 5; // . -> STEPPER_INP3
-int ST_INP4_PIN = 6; // . -> STEPPER_INP4
+int ST_INP1_PIN = 8 ; // . -> STEPPER_INP1
+int ST_INP2_PIN = 9 ; // . -> STEPPER_INP2
+int ST_INP3_PIN = 10; // . -> STEPPER_INP3
+int ST_INP4_PIN = 11; // . -> STEPPER_INP4
+
+// RPM 16, SPR, 320
+
+const int STEPS_PER_R = 320;
+int MOTOR_RPM = 16;
+
+Stepper stepperMotor = Stepper( STEPS_PER_R, ST_INP1_PIN, ST_INP2_PIN, ST_INP3_PIN, ST_INP4_PIN );
 
 
-int US_OUP_PIN = 9 ; // ~ -> TRIG OUTPUT
-int US_INP_PIN = 8 ; // . -> ECHO INPUT
+int US_OUP_PIN = 4 ; // ~ -> TRIG OUTPUT
+int US_INP_PIN = 3 ; // . -> ECHO INPUT
 
 int ROAR_PIN = 12; // ~ -> Buzzer OUTPUT
 
@@ -127,15 +134,11 @@ void updateRoar(){
   }
 }
 
-const int STEPS_PER_R = 32;
-int MOTOR_RPM = 200;
-Stepper stepperMotor = Stepper( STEPS_PER_R, ST_INP1_PIN, ST_INP2_PIN, ST_INP3_PIN, ST_INP4_PIN );
-
 void rotateStepper( int direction ){ 
   if ( direction == 0 ){
     return;
   }else{ 
-    stepperMotor.step( (direction<0)?-20:20 );
+    stepperMotor.step( (direction<0)?10:-10 );
     //stepperMotor.step( 20 );
   }
 }
@@ -150,7 +153,7 @@ void setJawState( bool open ){
 }
 
 void randomiseTailState( ){
-  tailServo.write( rand()%60 );
+  tailServo.write( rand()%40 );
 }
 
 enum ResponseState{ FEAR, CURIOSITY, CALM, BITING, IDLE };
@@ -229,7 +232,7 @@ class ResponseManager{
             break;
           
           case CALM:
-            set_RGB_color( 50, 0, 50 );
+            set_RGB_color( 0, 0, 20 );
             break;
           
           case IDLE:
@@ -259,17 +262,19 @@ class ResponseManager{
 
       if ( noseV > 2100 ){
         setState( CALM );
-      }else if ( mouthV > 2100 ){
+      }else if ( mouthV > 3000 ){
         setState( BITING );
-      }else if ( distV < 13.3 ){
+      }else if ( distV < 13.2 ){
         setState( FEAR );
-      }else if ( distV > 15.3 && distV < DEFULT_MAX_DISTANCE ){
+      }else if ( distV > 15.6 && distV < DEFULT_MAX_DISTANCE ){
         setState( CURIOSITY );
       }else{
         setState( IDLE );
       }
     }
 };
+
+ResponseManager rManager;
 
 
 
@@ -293,24 +298,27 @@ void setup() {
 }
 
 
-ResponseManager rManager;
 
-void loop() {  
+void loop() {   
 
-  if ( millis()%20000<10000 ){
+  /*if ( millis()%20000<10000 ){
     digitalWrite(13, HIGH );
     //stepperMotor.setSpeed(5);
-  stepperMotor.step(30 );
+    stepperMotor.step( -60 );
+    
+  }else if ( millis()%20000<11000 ){
+
   }else{
     
-    digitalWrite(13, LOW ); 
-  stepperMotor.step( -30 );
-  }
+    digitalWrite(13, LOW );  
+    stepperMotor.step( 60 );
+  }*/
+  
 
-  //digitalWrite(13, millis()%20000<10000?HIGH:LOW );
+  digitalWrite(13, millis()%20000<10000?HIGH:LOW );
 
-  //rManager.executeResponses();
-  //rManager.updateState();
+  rManager.executeResponses();
+  rManager.updateState();
   //Serial.print( getLight() );
  // Serial.print("  -  ");
   //Serial.println( getTemp() );
