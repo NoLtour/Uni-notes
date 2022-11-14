@@ -92,4 +92,4 @@ $$\begin{align*}
  - k^{2} n^{2}\pi^{2} &= \frac{\dot{T}_{n}}{T_{n}}
 
 \end{align*}$$
-Using [[integration]]
+
