@@ -85,8 +85,9 @@ $$\begin{align*}
 m &= \pm\sqrt{k\lambda}
 \end{align*}$$
 
-#### Case ($(\lambda=-n^{2}\pi^{2})<0$)
+#### Case ($( \lambda=- n^{2}\pi^{2})<0$)
 $$\begin{align*}
-T &= A_{n}\sin n\pi t + B_{n}\cos n\pi t
+T &= A_{n}\sin n\pi t + B_{n}\cos n\pi t\\
+\dot{T} &= n\pi (A_{n} \cos n\pi t - B_{n} \sin n\pi t )
 \end{align*}$$
 
