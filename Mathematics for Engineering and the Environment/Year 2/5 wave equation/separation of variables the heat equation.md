@@ -63,4 +63,14 @@ X' &= A
 $$\begin{align*}
 0 &= A & 0&= A
 \end{align*}$$
-Here there no solution for $B$ but
+Here there no solution for $B$ but $A=0$ hence we know a possible solution is:
+$$ X = B $$
+##### Case $(\lambda=-c^{2})<0$
+$$\begin{align*}
+X &= A\sin cx + B\cos cx\\
+X' &= c(A\cos cx - B\sin cx)
+\end{align*}$$
+$$\begin{align*}
+0 &= c(A) & 0 &= c(A\cos c - B\sin c)\\
+0 &= A & 0 &= c(  B\sin c)\\
+\end{align*}$$
