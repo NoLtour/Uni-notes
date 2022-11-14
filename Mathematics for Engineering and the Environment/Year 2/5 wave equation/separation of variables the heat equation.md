@@ -30,8 +30,16 @@ $$\begin{align*}
 \end{align*}$$
 Then we can easily define the boundary condition:
 $$\begin{align*}
-\frac{\delta y}{\delta x}(0, t) &= 0  & \frac{\delta y}{\delta x}(1,t)=0 \\
-T(t) \frac{\delta X(0)}{\delta x} &= 0  & T(t) \frac{\delta X(1)}{\delta x}=0 \\
- \frac{\delta X(0)}{\delta x} &= 0  & \frac{\delta X(1)}{\delta x}=0 \\
+\frac{\delta y}{\delta x}(0, t) &= 0  & \frac{\delta y}{\delta x}(1,t)&= 0 \\
+T(t) \frac{\delta X(0)}{\delta x} &= 0  & T(t) \frac{\delta X(1)}{\delta x}&= 0 \\
+ \frac{\delta X(0)}{\delta x} &= X'(0) = 0  & \frac{\delta X(1)}{\delta x}&= X'(1)=0 \\
 \end{align*}$$
 Just like last time we are assuming that it is not $T(t)=0$ since that would lead to a [[insert self deprecating comment here|useless]] solution.
+
+#### Solving the $X$ [[solving eigenvalue ODEs|eigenvalue]] problem
+Same as [[separation of variables#Solving the x bit ($X'' - lambda X=0$)|last time]]:
+$$\begin{align*}
+ X''-\lambda X &=  0
+\end{align*}$$
+$$$$
+
