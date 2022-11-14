@@ -89,7 +89,10 @@ m &= \pm\sqrt{k\lambda}
 $$\begin{align*}
  \dot{T} - k^{2} \lambda T&= 0 \\
  \dot{T}_{n} + k^{2} n^{2}\pi^{2}T_{n} &= 0 \\
- - k^{2} n^{2}\pi^{2} &= \frac{\dot{T}_{n}}{T_{n}} & \frac{f(z)}{f'(z)} &= 
+ - k^{2} n^{2}\pi^{2} &= \frac{\dot{T}_{n}}{T_{n}}\\
+\int - k^{2} n^{2}\pi^{2} &=\int \frac{\dot{T}_{n}}{T_{n}}\\
+A_{n} - t(nk\pi)^{2} &= T_n\\
+
 
 \end{align*}$$
-Made use of [[Integration as antiderivative]]
+
