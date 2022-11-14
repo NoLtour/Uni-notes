@@ -88,6 +88,8 @@ m &= \pm\sqrt{k\lambda}
 #### Case ($( \lambda=- n^{2}\pi^{2})<0$)
 $$\begin{align*}
  \dot{T} - k^{2} \lambda T&= 0 \\
- \dot{T} - k^{2} n^{2}\pi^{2}T&= 0 \\
+ \dot{T}_{n} + k^{2} n^{2}\pi^{2}T_{n} &= 0 \\
+ - k^{2} n^{2}\pi^{2} &= \frac{\dot{T}_{n}}{T_{n}}
 
 \end{align*}$$
+Using [[integration]]
