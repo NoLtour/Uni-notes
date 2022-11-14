@@ -10,7 +10,7 @@ tags: []
 Parabolic PDEs are usually associated with diffusion problems. Parabolic PDEs can be described as situations where information is propagated instantly (an infinite speed), this is often done for situations where such an approximation does not have significant effect on the output.
 The prototype example would be the heat equation:
 $$\begin{align*}
-\frac{\delta u}{\delta y }  &= k \frac{\delta^{2}u}{\delta x^{2}}
+\frac{\delta u}{\delta y }  &= k^{2}  \frac{\delta^{2}u}{\delta x^{2}}
 \end{align*}$$
 When plotted it can be seen that at the instant $t\neq 0$ all values on the domain are effected instantly, hence no time delay:
 ![[Pasted image 20221103215447.png]]
@@ -22,7 +22,7 @@ In situations that occur on a microscopic scale the rate of information transfer
 ![[Pasted image 20221104094309.png]]
 
 $$\begin{align*}
-\frac{\delta u}{\delta y }  &= k \frac{\delta^{2}u}{\delta x^{2}}
+\frac{\delta u}{\delta y }  &= k^{2} \frac{\delta^{2}u}{\delta x^{2}}
 \end{align*}$$
 
 If you look at the heat equation above you can see that is is defined using 1 double derivative and a normal derivative, hence to fix these equations we require 3 boundary conditions:

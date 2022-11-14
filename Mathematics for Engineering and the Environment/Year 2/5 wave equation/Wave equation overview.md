@@ -9,6 +9,7 @@ tags: ["NotesPage"]
 - [[classification of partial differential equations]]
 - [[determining partial differential equation type]]
 - [[separation of variables]]
+- [[separation of variables the heat equation]]
 
 ## Expanded articles
 

@@ -36,28 +36,23 @@ int pos = 0;
 Servo tailServo; // Tail Servo
 int pos1 = 90;
 
- 
+// this sets the colour of the eye LED
 void set_RGB_color(int Rval, int Gval, int Bval){ //Eyes
   analogWrite(RED_LED_PIN, Rval);
   //analogWrite(GRN_LED_PIN, Gval);
   analogWrite(BLU_LED_PIN, Bval);
 }
- 
-double prevLightV = 0;
+  
 #define TOTAL_LIGHT_PREVS (80)
 double prevLight [TOTAL_LIGHT_PREVS];
-int lightIndex = 0;
-// 26 -> Touching, 127 -> NOT
+int lightIndex = 0; 
+// This averages out the light input
 double getLight(){
   prevLight[lightIndex] = ((analogRead(VINP_PIN)/analogRead(TH_NOSE_PIN)) - 1) * 1000;
   double avLight = 0;
   for ( int i=0; i<TOTAL_LIGHT_PREVS; i++ ){ avLight += prevLight[i]; }
   lightIndex = (lightIndex+1)%TOTAL_LIGHT_PREVS;
-  prevLightV = ((prevLightV*300)+prevLight[lightIndex])/301;
   
-  //Serial.print(prevLightV);
-  //Serial.print("     ");
-  //Serial.println(avLight/TOTAL_LIGHT_PREVS);
   return (avLight/TOTAL_LIGHT_PREVS) ;
 } 
 
@@ -66,8 +61,8 @@ double getLight(){
 double prevTemps [TOTAL_TEMP_PREVS];
 int tempIndex = 0;
 double prevTempV = 0;
-
-// 100 -> Touching, 200 -> NOT
+ 
+// gets the nose resistor value and averages it
 double getTemp(){
   prevTemps[tempIndex] = ((analogRead(VINP_PIN)/analogRead(TH_MOTH_PIN)) - 1) * 1000;
   double avTemp = 0;
@@ -84,6 +79,7 @@ double getTemp(){
 
 int DEFULT_MAX_DISTANCE = 40;
 
+// raw read on distance
 double getDistanceRAW( int maxMicros=(DEFULT_MAX_DISTANCE/0.008) ){
   digitalWrite( US_OUP_PIN, LOW );
   delayMicroseconds(2);
@@ -96,16 +92,15 @@ double getDistanceRAW( int maxMicros=(DEFULT_MAX_DISTANCE/0.008) ){
 
   return (travelTime==0?DEFULT_MAX_DISTANCE:(travelTime*0.016));
 }
-#define TOTAL_DIST_PREVS (40)
+#define TOTAL_DIST_PREVS (25)
 double prevDistances [TOTAL_DIST_PREVS];
 int distIndex = 0;
+// averager of distance reading to clean up noise
 double getDistance(){
   prevDistances[distIndex] = getDistanceRAW();
   double avDistance = 0;
   for ( int i=0; i<TOTAL_DIST_PREVS; i++ ){ avDistance += prevDistances[i]; }
-  distIndex = (distIndex+1)%TOTAL_DIST_PREVS;
-
-  //Serial.println( (avDistance/TOTAL_DIST_PREVS) );
+  distIndex = (distIndex+1)%TOTAL_DIST_PREVS; 
 
   return round( (avDistance/TOTAL_DIST_PREVS)*10.0 )/10.0;
 } 
@@ -114,12 +109,14 @@ double getDistance(){
 unsigned long sRoarTime = 0;
 int roarState = -1; 
 
+// starts roar, if one is in progress it will do nothing
 void startRoar(){
   if ( roarState == -1 ){
     sRoarTime = millis(); 
     roarState = 0;
   }
 }
+// run as frequently as possible to control raw pitch
 void updateRoar(){
   if ( roarState != -1 ){
     int r = millis() - sRoarTime;
@@ -134,17 +131,18 @@ void updateRoar(){
   }
 }
 
+// sets stepper rotation
 void rotateStepper( int direction ){ 
   if ( direction == 0 ){
     return;
   }else{ 
-    stepperMotor.step( (direction<0)?10:-10 );
-    //stepperMotor.step( 20 );
+    stepperMotor.step( (direction<0)?10:-10 ); 
   }
 }
 
-void setJawState( bool open ){
-  if ( !open ){
+// updates the position of the jaw depending on if it's moving or held
+void setJawState( bool moving ){
+  if ( !moving ){
     jawServo.write( millis()%2000<1000?0:60 );
   }else{
     jawServo.write( 60 );
@@ -152,16 +150,50 @@ void setJawState( bool open ){
   
 }
 
+// moves tail randomly
 void randomiseTailState( ){
   tailServo.write( rand()%40 );
 }
 
 enum ResponseState{ FEAR, CURIOSITY, CALM, BITING, IDLE };
 
-class DeviceOutput{
 
+// calibration management system
+class Calibration{
+  public:
+  double minReading;
+  double maxReading;
+
+  unsigned long startCalTime;
+  unsigned long endCalTime;
+
+  Calibration( int nST, int edT ){
+    startCalTime = nST;
+    endCalTime = edT;
+  }
+
+  // takes an input, if in calibration period it will take that as a potential new max/min
+  void takeCalInput( double inp ){
+    if ( millis() < endCalTime && millis() > startCalTime ){
+      if ( inp > maxReading ){
+        maxReading = inp;
+
+      }else if( inp < minReading ){
+        minReading = inp;
+      }
+    }
+  }
+
+  // checks if the input is below or above the halfway mark between max and min
+  boolean lessThanHalf( double inp ){
+    return ( inp < (minReading+maxReading)/2 );
+  }
 };
 
+Calibration calibrationNose  = Calibration( 5000, 30000 );
+Calibration calibrationMouth = Calibration( 5000, 30000 );
+
+// Manages response
 class ResponseManager{
   private:
     unsigned long prevMicroExecute = 0;
@@ -177,6 +209,7 @@ class ResponseManager{
       return (prevMicroExecute/microsLoopPeriod) != (micros()/microsLoopPeriod);
     }
 
+    // activates the responses based on current emotional state
     void executeResponses(){
 
       // Buzzer response
@@ -248,10 +281,14 @@ class ResponseManager{
       prevMicroExecute = micros();
     }
 
+    // reads input to change state if appropriate
     void updateState(){
       double noseV = getTemp();
       double mouthV = getLight();
       double distV = getDistance();
+
+      calibrationMouth.takeCalInput( mouthV );
+      calibrationNose.takeCalInput( noseV );
 
       Serial.print("T: ");
       Serial.print(noseV);
@@ -260,13 +297,13 @@ class ResponseManager{
       Serial.print("\tD: ");
       Serial.println(distV);
 
-      if ( noseV > 2100 ){
+      if ( !calibrationNose.lessThanHalf( noseV ) ){
         setState( CALM );
-      }else if ( mouthV > 3000 ){
+      }else if ( !calibrationNose.lessThanHalf( mouthV ) ){
         setState( BITING );
-      }else if ( distV < 13.2 ){
+      }else if ( distV < 13 ){
         setState( FEAR );
-      }else if ( distV > 15.6 && distV < DEFULT_MAX_DISTANCE ){
+      }else if ( distV > 16 && distV < DEFULT_MAX_DISTANCE ){
         setState( CURIOSITY );
       }else{
         setState( IDLE );
@@ -299,28 +336,11 @@ void setup() {
 
 
 
-void loop() {   
-
-  /*if ( millis()%20000<10000 ){
-    digitalWrite(13, HIGH );
-    //stepperMotor.setSpeed(5);
-    stepperMotor.step( -60 );
-    
-  }else if ( millis()%20000<11000 ){
-
-  }else{
-    
-    digitalWrite(13, LOW );  
-    stepperMotor.step( 60 );
-  }*/
-  
+void loop() {    
 
   digitalWrite(13, millis()%20000<10000?HIGH:LOW );
 
   rManager.executeResponses();
-  rManager.updateState();
-  //Serial.print( getLight() );
- // Serial.print("  -  ");
-  //Serial.println( getTemp() );
+  rManager.updateState(); 
 }
 
