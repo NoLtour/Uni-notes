@@ -39,7 +39,15 @@ Just like last time we are assuming that it is not $T(t)=0$ since that would lea
 #### Solving the $X$ [[solving eigenvalue ODEs|eigenvalue]] problem
 Same as [[separation of variables#Solving the x bit ($X'' - lambda X=0$)|last time]]:
 $$\begin{align*}
- X''-\lambda X &=  0
+ X''-\lambda X =  0\\
+m=\pm\sqrt{\lambda}
 \end{align*}$$
-$$$$
+##### Case $(\lambda=c^{2})>0$ 
+$$\begin{align*}
+X &= Ae^{cx} + Be^{-cx}\\
+X' &= c(Ae^{cx} - Be^{-cx})
+\end{align*}$$
+$$\begin{align*}
+X' &= c(Ae^{cx} - Be^{-cx})
 
+\end{align*}$$
