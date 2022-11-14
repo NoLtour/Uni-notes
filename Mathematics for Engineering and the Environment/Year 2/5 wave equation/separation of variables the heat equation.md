@@ -48,6 +48,19 @@ X &= Ae^{cx} + Be^{-cx}\\
 X' &= c(Ae^{cx} - Be^{-cx})
 \end{align*}$$
 $$\begin{align*}
-X' &= c(Ae^{cx} - Be^{-cx})
-
+0 &= c(A - B) & 0 &= c(Ae^{c} - Be^{-c})\\
+A &= B & 0 &= Ae^{c} - Be^{-c}\\
+& & 0 &= A(e^{c} - e^{-c})\\
+& & 0 &= A = B
 \end{align*}$$
+Clearly this case has a useless trivial solution.
+
+##### Case $(\lambda=c^{2})=0$
+$$\begin{align*}
+X &= Ax+B\\
+X' &= A
+\end{align*}$$
+$$\begin{align*}
+0 &= A & 0&= A
+\end{align*}$$
+Here there no solution for $B$ but
