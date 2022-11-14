@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 1/3 Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables the heat equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 1/3 Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables the heat equation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,6 +159,7 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 1/3 Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables the heat equation.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/insert self deprecating comment here.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
@@ -167,7 +168,6 @@
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/defining the fourier series.md",
     "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
-    "Aerodynamics/3 Potential flow/stream function for a doublet.md",
-    "Aerodynamics/3 Potential flow/defining the geometry of an object in a flow.md"
+    "Aerodynamics/3 Potential flow/stream function for a doublet.md"
   ]
 }

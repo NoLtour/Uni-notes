@@ -6,6 +6,6 @@ tags: ["Question","QFormat3"]
 #### What's the
 ## Integration scalar-multiplication rule
 
-> $$ \int kf(x)fx = k \int f(x) fx $$ 
+> $$ \int kf(x)dx = k \int f(x) dx $$ 
 
 (Very ez ngl)
