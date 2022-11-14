@@ -10,6 +10,7 @@ tags: ["NotesPage"]
 - [[solving linear homogeneous constant-coefficient equations|solving linear second order ODEs]]
 - [[euler type linear homogeneous ODEs]]
 - [[Inhomogeneous linear second order ODEs]]
+- [[solving eigenvalue ODEs]]
 
 [[problem sheet I.pdf|examples of this stuff (aka the homework)]] 
 
@@ -19,3 +20,4 @@ tags: ["NotesPage"]
 ![[solving linear homogeneous constant-coefficient equations|solving linear second order ODEs]]
 ![[euler type linear homogeneous ODEs]]
 ![[Inhomogeneous linear second order ODEs]]
+![[solving eigenvalue ODEs]]
