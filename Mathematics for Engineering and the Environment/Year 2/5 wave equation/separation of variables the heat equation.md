@@ -14,3 +14,5 @@ $$\begin{align*}
 \end{align*}$$
 And initial data:
 $$ y(x,0) = x(1-x) $$
+
+
