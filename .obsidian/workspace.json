@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
-                "mode": "preview",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "f487590d780b1e7c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+    "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/3 Potential flow/stream function for a doublet.md",
     "Aerodynamics/3 Potential flow/defining the geometry of an object in a flow.md",
     "Aerodynamics/1 Mathematical and Numerical concepts/stream function (2D).md",
     "Aerodynamics/3 Potential flow/stagnation point.md",
     "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
-    "Aerodynamics/3 Potential flow/stream function for uniform flow.md",
     "Aerodynamics/3 Potential flow/circulation.md",
-    "Aerodynamics/3 Potential flow/stream function for a vortex.md",
-    "Aerodynamics/3 Potential flow/sometimes I cba to do extra detail on the proofs leave me alone.md"
+    "Aerodynamics/3 Potential flow/stream function for a vortex.md"
   ]
 }

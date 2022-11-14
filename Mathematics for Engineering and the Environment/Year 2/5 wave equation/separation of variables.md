@@ -101,3 +101,6 @@ $$\begin{align*}
 \end{align*}$$
 It is important to note that since there are infinite solutions depending on the value of $n$ there are infinite corresponding solutions of the equation $y$ and hence value's of $\lambda$ so you need to make sure to clearly show this with variables such as $\lambda_{n}$.
 
+#### Solving the t bit ($X'' - \lambda X=0$)
+Well it's the same constant $\lambda$ for both $T$ and $X$ equations, 
+
