@@ -91,8 +91,8 @@ $$\begin{align*}
  \dot{T}_{n} + k^{2} n^{2}\pi^{2}T_{n} &= 0 \\
  - k^{2} n^{2}\pi^{2} &= \frac{\dot{T}_{n}}{T_{n}}\\
 \int - k^{2} n^{2}\pi^{2} &=\int \frac{\dot{T}_{n}}{T_{n}} & \:\:\:\:\ln f(x) &= \frac{f'(x)}{f(x)} \:\:\to\:\: \ln f(x)+C = \int \frac{f'(x)}{f(x)} \\
-A_{n} - t(nk\pi)^{2} &= T_n\\
-
+A_{n} - t(nk\pi)^{2} &= \ln(T_n)\\
+T_{n} &= e^{A_{n} - t(nk\pi)^{2}}= e^{A_{n}}e^{ - t(nk\pi)^{2}} 
 
 \end{align*}$$
 
