@@ -23,10 +23,10 @@ $$\begin{align*}
 \frac{\delta y}{\delta t} &=  k^{2} \frac{\delta^{2} y}{\delta x^{2}}\\
 \frac{\delta TX}{\delta t} &=  k^{2} \frac{\delta^{2} TX}{\delta x^{2}}\\
 X \dot{T} &=  k^{2} T X''\\
- \frac{X''}{X} &=k^{2} \frac{\dot{T}}{T}=\lambda 
+ \frac{X''}{X} &= \frac{1}{k^{2}} \frac{\dot{T}}{T}=\lambda 
 \end{align*}$$
 $$\begin{align*}
- \dot{T} - \frac{\lambda}{k^{2}} T&= 0 & X''-\lambda X &=  0
+ \dot{T} - \lambdak^{2} T&= 0 & X''-\lambda X &=  0
 \end{align*}$$
 Then we can easily define the boundary condition:
 $$\begin{align*}
@@ -80,6 +80,10 @@ $$ X = B_{n} \cos(n\pi x) $$
 
 ### Solving the $T$ problem
 Well now we can see things are more complicated since there is more than 1 possible solution to $X$, so we have to consider all of them.
+
+$$\begin{align*}
+m &= \pm\sqrt{k\lambda}
+\end{align*}$$
 
 #### Case ($(\lambda=-n^{2}\pi^{2})<0$)
 $$\begin{align*}
