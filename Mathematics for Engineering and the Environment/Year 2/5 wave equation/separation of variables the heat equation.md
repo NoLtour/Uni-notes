@@ -72,14 +72,17 @@ X' &= c(A\cos cx - B\sin cx)
 \end{align*}$$
 $$\begin{align*}
 0 &= c(A) & 0 &= c(A\cos c - B\sin c)\\
-0 &= A & 0 &=  B\sin c\\
+0 &= A & 0 &=  -B\sin c\\
 && \arcsin(0) = n\pi &= c
 \end{align*}$$
 Hence a possible solution is:
 $$ X = B_{n} \cos(n\pi x) $$
 
 ### Solving the $T$ problem
-Well now we can see things are more complicated since there is more than 1 possible solution to $X$, so we have to consider all of them:
+Well now we can see things are more complicated since there is more than 1 possible solution to $X$, so we have to consider all of them.
 
-#### Case ($\lambda=-n^{2}\pi^{2}$<0)
+#### Case ($(\lambda=-n^{2}\pi^{2})<0$)
+$$\begin{align*}
+T &= A_{n}\sin n\pi t + B_{n}\cos n\pi t
+\end{align*}$$
 
