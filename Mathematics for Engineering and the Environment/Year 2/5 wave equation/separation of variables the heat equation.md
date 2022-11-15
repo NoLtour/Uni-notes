@@ -80,7 +80,6 @@ $$ X = B_{n} \cos(n\pi x) $$
 
 ### Solving the $T$ problem
 Well now we can see things are more complicated since there is more than 1 possible solution to $X$, so we have to consider all of them.
-
 $$\begin{align*}
 m &= \pm\sqrt{k\lambda}
 \end{align*}$$
@@ -99,3 +98,6 @@ T_{n} &= e^{A_{n} - t(nk\pi)^{2}}= e^{A_{n}}e^{ - t(nk\pi)^{2}}
 $$\begin{align*}
 T &= Ct+D
 \end{align*}$$
+### Combining
+Like last time we sum all possible solutions to get the most general case, hence that includes both the case of inifinite solutions from $\lambda=-n^{2}\pi^{2}$ and the simpler solution from $$
+
