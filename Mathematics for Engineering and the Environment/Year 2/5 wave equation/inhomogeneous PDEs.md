@@ -50,5 +50,8 @@ $$\begin{align*}
 \sum\limits^{\infty}_{n=1} \dot{T}_{n}(t) \sin(n\pi x) &=  \sum\limits^{\infty}_{n=1} [   F_{n}(t) - (n k \pi)^{2} T_{n}(t) ]\sin(n\pi x)\\
 \sum\limits^{\infty}_{n=1} [  \dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t) ]\sin(n\pi x) &=  0
 \end{align*}$$
-Now it can clearly be seen that either $\dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t)  =  0$ or $\sin(n\pi x) =  0$, for a answer that is useful we will take the case that $\dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t)  =  0$
+Now it can clearly be seen that either $\dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t)  =  0$ or $\sin(n\pi x) =  0$, for a answer that is useful we will take the case that $\dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t)  =  0$, this can then be solved to get information about the definition of $T_{n}$. The equation is clearly just a 1st order inhomogeneous ODE so can be solved as such:
+$$\begin{align*}
+ \dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t)  =  F_{n}(t)
+\end{align*}$$
 
