@@ -19,4 +19,4 @@ This is of course solvable using the content from [[separation of variables]], (
 $$\begin{align*}
 y & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x) 
 \end{align*}$$
-
+If we assume that the unknown function $F$ follows this 
