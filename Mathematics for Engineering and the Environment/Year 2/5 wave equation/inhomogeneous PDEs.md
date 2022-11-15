@@ -43,5 +43,7 @@ $$\begin{align*}
 \frac{\delta^{2} y}{\delta x^{2}} &\approx  (T(t))\left[\frac{\delta^{2}}{\delta x^{2}}\sin (knx)\right] & &\to & (...(t))\sin (knx)\\
 F& &&\to& (...(t))\sin(knx)
 \end{align*}$$
-The goal is to select [[ansatz]] for $y$ and $F$ such that when subbed in the behaviour makes sense, since to get $y$ using the traditional [[separation of variables]] method for it's homogenous case results in that convenient outcome it
+The goal is to select [[ansatz]] for $y$ and $F$ such that when subbed in the behaviour makes sense, since to get $y$ using the traditional [[separation of variables]] method for it's homogenous case results in that convenient outcome it's suited for producing a good [[ansatz]].
+
+S
 
