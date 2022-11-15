@@ -52,6 +52,8 @@ $$\begin{align*}
 \end{align*}$$
 Now it can clearly be seen that either $\dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t)  =  0$ or $\sin(n\pi x) =  0$, for a answer that is useful we will take the case that $\dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t)  =  0$, this can then be solved to get information about the definition of $T_{n}$. The equation is clearly just a 1st order inhomogeneous ODE so can be solved as such:
 $$\begin{align*}
- \dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t)  =  F_{n}(t)
+ \dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t)  &=   F_{n}(t)\\
+T_{n}(t) &= e^{-(kn\pi)^{2}} [ C_{n} + \int ]
 \end{align*}$$
 
+(Method used to solve that equation is [[solution of first order linear differential equations|solving first order inhomogeneous ODEs]])

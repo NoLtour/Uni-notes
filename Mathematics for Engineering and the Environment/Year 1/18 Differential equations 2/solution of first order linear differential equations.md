@@ -1,5 +1,5 @@
 ---
-aliases: ["integrating factor"]
+aliases: ["integrating factor","solving first order inhomogeneous ODEs"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -14,7 +14,7 @@ There is some proof for this in the book but I [[shut I cba|cba]] to go into (+I
 > ### $$ x = e^{-f(t)} \left[ \int e^{f(t)} \times r(t) \cdot dt + C \right]= \frac{1}{e^{f(t)}} \left[ \int e^{f(t)} \times r(t) \cdot dt + C \right] $$
 > ### $$ f(t) = \int p(t) \cdot dt $$
 >> where:
->> $f(t)=$ [[solution of linear differential equations|integrating factor]]
+>> $f(t)=$ [[solution of first order linear differential equations|integrating factor]]
 
 ### Example
 > Solve:
