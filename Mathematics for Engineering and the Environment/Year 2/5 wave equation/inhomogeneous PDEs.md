@@ -23,7 +23,7 @@ $$\begin{align*}
 y & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x) 
 \end{align*}$$
 If we assume that the unknown function $F$ follows this format such that:
-$$ F = \sum\limits^{\infty}_{n=1} U_{n}(t)\sin(n\pi x) $$
+$$ F(x,t) = \sum\limits^{\infty}_{n=1} F_{n}(t)\sin(n\pi x) $$
 If we then check the validity of this series of assumptions by subbing back into the original equation:
 $$\begin{align*}
 y & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x)
@@ -33,5 +33,5 @@ $$\begin{align*}
 \end{align*}$$
 $$\begin{align*}
  \frac{\delta y}{\delta t} &=  k^{2} \frac{\delta^{2} y}{\delta x^{2}} + F(x,t) & &\to &  \sum\limits^{\infty}_{n=1} \dot{T}_{n}(t) \sin(n\pi x) &=  -k^{2} \sum\limits^{\infty}_{n=1} n^{2}\pi^{2} T_{n}(t) \sin(n\pi x)  + \sum\limits^{\infty}_{n=1} U_{n}(t)\sin(n\pi x)\\
-&&&& 
+&&&& \sum\limits^{\infty}_{n=1} \dot{T}_{n}(t) \sin(n\pi x) &=  \sum\limits^{\infty}_{n=1} [   F_{n}(t) - (n k \pi)^{2} T_{n}(t) ]\sin(n\pi x)
 \end{align*}$$
