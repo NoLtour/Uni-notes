@@ -45,5 +45,10 @@ F& &&\to& (...(t))\sin(knx)
 \end{align*}$$
 The goal is to select [[ansatz]] for $y$ and $F$ such that when subbed in the behaviour makes sense, since to get $y$ using the traditional [[separation of variables]] method for it's homogenous case results in that convenient outcome it's suited for producing a good [[ansatz]].
 
-S
+Side tangent over, back to the main bit. So if we take our equation and rearrange it:
+$$\begin{align*}
+\sum\limits^{\infty}_{n=1} \dot{T}_{n}(t) \sin(n\pi x) &=  \sum\limits^{\infty}_{n=1} [   F_{n}(t) - (n k \pi)^{2} T_{n}(t) ]\sin(n\pi x)\\
+\sum\limits^{\infty}_{n=1} [  \dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t) ]\sin(n\pi x) &=  0
+\end{align*}$$
+Now it can clearly be seen that either $\dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t)  =  0$ or $\sin(n\pi x) =  0$, for a answer that is useful we will take the case that $\dot{T}_{n}(t) + (n k \pi)^{2} T_{n}(t) - F_{n}(t)  =  0$
 
