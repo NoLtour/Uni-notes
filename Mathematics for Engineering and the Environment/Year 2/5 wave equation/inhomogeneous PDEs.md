@@ -37,6 +37,6 @@ $$\begin{align*}
  \frac{\delta y}{\delta t} &=  k^{2} \frac{\delta^{2} y}{\delta x^{2}} + F(x,t) & &\to &  \sum\limits^{\infty}_{n=1} \dot{T}_{n}(t) \sin(n\pi x) &=  -k^{2} \sum\limits^{\infty}_{n=1} n^{2}\pi^{2} T_{n}(t) \sin(n\pi x)  + \sum\limits^{\infty}_{n=1} U_{n}(t)\sin(n\pi x)\\
 &&&& \sum\limits^{\infty}_{n=1} \dot{T}_{n}(t) \sin(n\pi x) &=  \sum\limits^{\infty}_{n=1} [   F_{n}(t) - (n k \pi)^{2} T_{n}(t) ]\sin(n\pi x)
 \end{align*}$$
-
+It can be seen that both sides of the equation follow the same behaviour in $x$, this means that the shape of the graph resulting from both sides is simular and so the guess of $F$ and $y$ work! The real reason this method worked 
 
 
