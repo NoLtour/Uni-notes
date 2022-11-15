@@ -96,7 +96,9 @@ T_{n} &= e^{A_{n} - t(nk\pi)^{2}}= e^{A_{n}}e^{ - t(nk\pi)^{2}} = A_{n}e^{ - t(n
 \end{align*}$$
 #### Case $\lambda=0$
 $$\begin{align*}
-T &= Ct+D
+ \dot{T} - k^{2} \lambda T&= 0 \\
+ \dot{T} - k^{2} 0 T&= 0 \\
+ \dot{T}  &= 0 \\
 \end{align*}$$
 ### Combining
 Like last time we sum all possible solutions to get the most general case, hence that includes both the case of inifinite solutions from $\lambda=-n^{2}\pi^{2}$ and the simpler solution from $\lambda=0$ to get:
