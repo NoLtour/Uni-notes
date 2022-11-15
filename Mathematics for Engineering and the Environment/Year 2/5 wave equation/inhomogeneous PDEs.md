@@ -11,18 +11,22 @@ $$ \frac{\delta y}{\delta t} = k^{2} \frac{\delta^{2} y}{\delta x^{2}} + F(x,t) 
 If we try the rearranging process from [[separation of variables#Separation]] we can't get the equation above into something useful, we just end up with:
 $$ \frac{\dot{T}}{T} = k^{2} \frac{X''}{X} + \frac{F}{XT} $$
 (useless)
-What we can do is guess that all the elements that make up the structure of the PDE are similar, if that's the case then the solution to the equation without the $F$ term should hold useful information... so for the sake of argument lets solve the equation:
+What we can do is guess that all the elements that make up the structure of the PDE are similar, if that's the case then the solution to the equation without the $F$ term should hold useful information... so for the sake of argument lets solve the homogeneous form of the equation:
 $$\begin{align*}
  \frac{\delta y}{\delta t} &=  k^{2} \frac{\delta^{2} y}{\delta x^{2}}   \\
  \dot{T} &=  k^{2} X''
 \end{align*}$$
+$$\begin{align*}
+\text{where:} & & y(0,t) &= 0 & y(1,t)&= 0
+\end{align*}$$
+(These boundary conditions are used since they are convenient)
 This is of course solvable using the content from [[separation of variables]], (not going to prove this because pointless) if this is solved using the boundary conditions from the original equation you get:
 $$\begin{align*}
-y & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x) 
+y(x,t) & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x) 
 \end{align*}$$
-If we assume that the unknown function $F$ follows this format such that:
+If we assume that the unknown function $F$ follows this format then it will look like:
 $$ F(x,t) = \sum\limits^{\infty}_{n=1} F_{n}(t)\sin(n\pi x) $$
-If we then check the validity of this series of assumptions by subbing back into the original equation:
+If we guess that these are in fact the solutions of $y$ and $F$ then we can test their validity by subbing back into the original equation and seeing the result:
 $$\begin{align*}
 y & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x)
 \end{align*}$$
