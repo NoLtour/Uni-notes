@@ -100,7 +100,7 @@ T&= Ct+D & \dot{T} - k^{2} \lambda T&= 0 \\
 \dot{T}&= C& \dot{T} - k^{2} 0 T&= 0 \\
  && \dot{T}  &= 0 \\
  C&= 0\\
-T&= D
+\therefore T&= D
 \end{align*}$$
 ### Combining
 Like last time we sum all possible solutions to get the most general case, hence that includes both the case of infinite solutions from $\lambda=-n^{2}\pi^{2}$ and the simpler solution from $\lambda=0$ to get:
