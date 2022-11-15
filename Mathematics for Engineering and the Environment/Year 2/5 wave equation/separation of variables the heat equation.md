@@ -91,7 +91,7 @@ $$\begin{align*}
  - k^{2} n^{2}\pi^{2} &= \frac{\dot{T}_{n}}{T_{n}}\\
 \int - k^{2} n^{2}\pi^{2} &=\int \frac{\dot{T}_{n}}{T_{n}} & \:\:\:\:\ln f(x) &= \frac{f'(x)}{f(x)} \:\:\to\:\: \ln f(x)+C = \int \frac{f'(x)}{f(x)} \\
 A_{n} - t(nk\pi)^{2} &= \ln(T_n)\\
-T_{n} &= e^{A_{n} - t(nk\pi)^{2}}= e^{A_{n}}e^{ - t(nk\pi)^{2}} 
+T_{n} &= e^{A_{n} - t(nk\pi)^{2}}= e^{A_{n}}e^{ - t(nk\pi)^{2}} = A_{n}e^{ - t(nk\pi)^{2}}
 
 \end{align*}$$
 #### Case $\lambda=0$
@@ -99,5 +99,8 @@ $$\begin{align*}
 T &= Ct+D
 \end{align*}$$
 ### Combining
-Like last time we sum all possible solutions to get the most general case, hence that includes both the case of inifinite solutions from $\lambda=-n^{2}\pi^{2}$ and the simpler solution from $$
+Like last time we sum all possible solutions to get the most general case, hence that includes both the case of inifinite solutions from $\lambda=-n^{2}\pi^{2}$ and the simpler solution from $\lambda=0$ to get:
+$$\begin{align*}
+y(x,t) &= (C_T t+D_{T})B_{T}+ \sum\limits^{\infty}_{n=1}  A_{n}e^{ - t(nk\pi)^{2}}
+\end{align*}$$
 
