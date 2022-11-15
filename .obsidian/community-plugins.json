@@ -10,5 +10,6 @@
   "oz-clear-unused-images",
   "better-word-count",
   "obsidian-regex-replace",
-  "obsidian-jupyter"
+  "obsidian-jupyter",
+  "obsidian-pandoc"
 ]

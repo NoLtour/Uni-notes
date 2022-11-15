@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plot
 import matplotlib.ticker as tickers
-from scipy import interpolate
+
 
 domainWidth = 2.5;
 
@@ -10,7 +10,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.001
+dx = dz = 0.01
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -115,10 +115,20 @@ def niceContorPlot( x,z, scalarField, lineCount ):
 def filterExtreme( inp, maxMag ):
 	return np.where( abs(inp)<maxMag, inp, maxMag*np.sign(inp) )
 
+def readValue( X, Z, dataGrid, showOnGraph=False ):
+	if ( showOnGraph ):
+		plot.plot( X, Z, "bx" )
+
+	return dataGrid[ int((Z-zMin)/dz), int((X-xMin)/dx) ]
+
+[ -2, -1, 0, 1, 2 ]
+
 Uinf = 10;
 
 streamFunction =  vortexSF( 1, 1, x,z, -1.8*np.pi ) + vortexSF( -1, -1, x,z, -1.8*np.pi ) + vortexSF( 1, -1, x,z, 1.8*np.pi )  + vortexSF( -1, 1, x,z, 1.8*np.pi ) ;
 #streamFunction = linearSF( x,z, np.pi/2, 10 ) + sourceSF( 0.1, -0.5, x,z, 2.5 ) + sourceSF( -0.1, -0.5, x,z, 2.5 ) + sourceSF( 0, 0.5, x,z, -5 ) + doubletSF( 0.1, 0.2, x,z, -0.6 ) + sourceSF( -0.1, 0.16, x,z, 0.5 );
+
+
 
 # filtering for less extreme values:
 #streamFunction = np.where( abs(streamFunction)<200, streamFunction, np.ones(streamFunction.shape)*200 )
@@ -137,7 +147,7 @@ plot.title("flow field")
 
 stX,stZ = getStagnationPoints( x,z,u,w )
 
-print( "uAt thing:", u[ int( (zMax-zMin)*0.5/dz ), int( (1-xMin)/dx ) ] )
+print( "uAt thing:", readValue( 1, 0, u, True ) )
 
 plot.plot( stX, stZ, "rx" )
 #plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 160 ) )

@@ -10,7 +10,13 @@ tags: ["NotesPage"]
 - [[determining partial differential equation type]]
 - [[separation of variables]]
 - [[separation of variables the heat equation]]
+- [[inhomogeneous PDEs]]
 
 ## Expanded articles
+![[classification of partial differential equations]]
+![[determining partial differential equation type]]
+![[separation of variables]]
+![[separation of variables the heat equation]]
+![[inhomogeneous PDEs]]
 
 

@@ -77,7 +77,7 @@ def getStagnationSFVal( x,z, u,w, streamFunction ):
  
 def readValue( X, Z, dataGrid, showOnGraph=False ):
 	if ( showOnGraph ):
-		plot.plot( X, Z, "wx" )
+		plot.plot( X, Z, "gx" )
 
 	return dataGrid[ int((Z-zMin)/dz), int((X-xMin)/dx) ]
  
