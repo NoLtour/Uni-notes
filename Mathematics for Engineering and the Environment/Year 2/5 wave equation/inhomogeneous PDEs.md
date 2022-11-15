@@ -39,7 +39,8 @@ $$\begin{align*}
 \end{align*}$$
 It can be seen that both sides of the equation follow the same behaviour in $x$, this means that the shape of the graph resulting from both sides is simular and so the guess of $F$ and $y$ work! The real reason this method worked is really to do with the result of $\frac{\delta y}{\delta t}$, $\frac{\delta^{2} y}{\delta^{2} x}$ and $F$ all having the same behaviour, written another way:
 $$\begin{align*}
-\frac{\delta}{\delta} &= 
+\frac{\delta y}{\delta t} &\approx \frac{\delta}{\delta t} (T(t))\sin (kx) & &\to & (\dot{T}(t))\sin (kx)\\
+\frac{\delta y}{\delta t} &\approx \frac{\delta}{\delta t} (T(t))\sin (kx) & &\to & (\dot{T}(t))\sin (kx)\\
 \end{align*}$$
 
 
