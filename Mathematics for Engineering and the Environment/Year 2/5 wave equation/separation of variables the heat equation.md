@@ -96,14 +96,16 @@ T_{n} &= e^{A_{n} - t(nk\pi)^{2}}= e^{A_{n}}e^{ - t(nk\pi)^{2}} = A_{n}e^{ - t(n
 \end{align*}$$
 #### Case $\lambda=0$
 $$\begin{align*}
- \dot{T} - k^{2} \lambda T&= 0 \\
- \dot{T} - k^{2} 0 T&= 0 \\
- \dot{T}  &= 0 \\
+T&= Ct+D & \dot{T} - k^{2} \lambda T&= 0 \\
+\dot{T}&= C& \dot{T} - k^{2} 0 T&= 0 \\
+ && \dot{T}  &= 0 \\
+ C&= 0\\
+T&= D
 \end{align*}$$
 ### Combining
-Like last time we sum all possible solutions to get the most general case, hence that includes both the case of inifinite solutions from $\lambda=-n^{2}\pi^{2}$ and the simpler solution from $\lambda=0$ to get:
+Like last time we sum all possible solutions to get the most general case, hence that includes both the case of infinite solutions from $\lambda=-n^{2}\pi^{2}$ and the simpler solution from $\lambda=0$ to get:
 $$\begin{align*}
-y(x,t) &= (C t+D )B_{1}+ \sum\limits^{\infty}_{n=1}  A_{n}e^{ - t(nk\pi)^{2}} B_{2,n} \cos(n\pi x)\\
-y(x,t) &= A t+B+ \sum\limits^{\infty}_{n=1}  C_{n}e^{ - t(nk\pi)^{2}} \cos(n\pi x)
+y(x,t) &= DB_{1}+ \sum\limits^{\infty}_{n=1}  A_{n}e^{ - t(nk\pi)^{2}} B_{2,n} \cos(n\pi x)\\
+y(x,t) &= A+ \sum\limits^{\infty}_{n=1}  B_{n}e^{ - t(nk\pi)^{2}} \cos(n\pi x)
 \end{align*}$$
 
