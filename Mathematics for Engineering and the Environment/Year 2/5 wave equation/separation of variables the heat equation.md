@@ -101,6 +101,7 @@ T &= Ct+D
 ### Combining
 Like last time we sum all possible solutions to get the most general case, hence that includes both the case of inifinite solutions from $\lambda=-n^{2}\pi^{2}$ and the simpler solution from $\lambda=0$ to get:
 $$\begin{align*}
-y(x,t) &= (C_T t+D_{T})B_{T}+ \sum\limits^{\infty}_{n=1}  A_{n}e^{ - t(nk\pi)^{2}}
+y(x,t) &= (C t+D )B_{1}+ \sum\limits^{\infty}_{n=1}  A_{n}e^{ - t(nk\pi)^{2}} B_{2,n} \cos(n\pi x)\\
+y(x,t) &= A t+B+ \sum\limits^{\infty}_{n=1}  C_{n}e^{ - t(nk\pi)^{2}} \cos(n\pi x)
 \end{align*}$$
 
