@@ -21,4 +21,4 @@ y & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x)
 \end{align*}$$
 If we assume that the unknown function $F$ follows this format such that:
 $$ F = \sum\limits^{\infty}_{n=1} U_{n}(t)\sin(n\pi x) $$
-
+If we then check the validity of this series of assumptions
