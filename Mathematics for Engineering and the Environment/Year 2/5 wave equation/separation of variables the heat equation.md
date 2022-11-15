@@ -117,7 +117,7 @@ So subbing it in:
 $$\begin{align*}
 x(1-x) &= A+ \sum\limits^{\infty}_{n=1}  B_{n} \cos(n\pi x)
 \end{align*}$$
-This is clearly a even [[defining the fourier series|Fourier series]], the $L=1$ (extracted from inside the cosine) and $f(x)=x(1-x)$. If you solve this you end up with:
+This is clearly a even [[defining the fourier series|Fourier series]], the $L=1$ (extracted from inside the cosine) and $f(x)=x(1-x)$. If you solve this you get values for $A$ and $B_{n}$ then sub that back into the original to end up with:
 $$\begin{align*}
-y(x,t) &= 
+y(x,t) &= \frac{1}{6} - 2 \sum\limits^{\infty}_{n=1} \frac{1+(-1)^{n}}{(n\pi)^{2}} e^{-(n\pi k)^{2}t}\cos(n\pi x)
 \end{align*}$$
