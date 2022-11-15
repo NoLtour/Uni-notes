@@ -85,7 +85,7 @@ $$\begin{align*}
 m &= \pm\sqrt{k\lambda}
 \end{align*}$$
 
-#### Case ($( \lambda=- n^{2}\pi^{2})<0$)
+#### Case $( \lambda=- n^{2}\pi^{2})<0$
 $$\begin{align*}
  \dot{T} - k^{2} \lambda T&= 0 \\
  \dot{T}_{n} + k^{2} n^{2}\pi^{2}T_{n} &= 0 \\
@@ -95,4 +95,7 @@ A_{n} - t(nk\pi)^{2} &= \ln(T_n)\\
 T_{n} &= e^{A_{n} - t(nk\pi)^{2}}= e^{A_{n}}e^{ - t(nk\pi)^{2}} 
 
 \end{align*}$$
-
+#### Case $\lambda=0$
+$$\begin{align*}
+T &= Ct+D
+\end{align*}$$
