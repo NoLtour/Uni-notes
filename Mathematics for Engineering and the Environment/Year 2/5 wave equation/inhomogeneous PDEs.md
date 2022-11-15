@@ -7,9 +7,7 @@ tags: []
 You thought normal [[separation of variables]] was a pain? Well it gets worse, introducing inhomogeneous PDEs. For example this abomination:
 
 $$ \frac{\delta y}{\delta t} = k^{2} \frac{\delta^{2} y}{\delta x^{2}} + F(x,t) $$
-$$\begin{align*}
-\text{where:} & & y(0,t) &= 0 & y(1,t)&= 0
-\end{align*}$$
+
 If we try the rearranging process from [[separation of variables#Separation]] we can't get the equation above into something useful, we just end up with:
 $$ \frac{\dot{T}}{T} = k^{2} \frac{X''}{X} + \frac{F}{XT} $$
 (useless)
