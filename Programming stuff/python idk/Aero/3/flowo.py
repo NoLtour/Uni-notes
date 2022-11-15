@@ -1,7 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plot
-import matplotlib.ticker as tickers
-from scipy import interpolate
+import matplotlib.pyplot as plot 
 
 domainWidth = 4;
 
@@ -85,9 +83,9 @@ def readValue( X, Z, dataGrid, showOnGraph=False ):
 def filterExtreme( inp, maxMag ):
 	return np.where( abs(inp)<maxMag, inp, maxMag*inp/abs(inp) )
 
-Uinf = 2.1;
+Uinf = 1.2;
 
-streamFunction = linearSF( x,z, 0, Uinf ) + vortexSF( 0, 0, x,z, -8.2 ) ;
+streamFunction = linearSF( x,z, 0, Uinf ) + vortexSF( 0, 0, x,z, 7.1 ) ;
  
 u,w = getVelocitys( streamFunction )
 
