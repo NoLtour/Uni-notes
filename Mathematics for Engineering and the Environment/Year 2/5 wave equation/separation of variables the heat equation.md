@@ -109,3 +109,11 @@ y(x,t) &= DB_{1}+ \sum\limits^{\infty}_{n=1}  A_{n}e^{ - t(nk\pi)^{2}} B_{2,n} \
 y(x,t) &= A+ \sum\limits^{\infty}_{n=1}  B_{n}e^{ - t(nk\pi)^{2}} \cos(n\pi x)
 \end{align*}$$
 
+### Initial data
+We can go further since we have been given the data:
+$$ y(x,0) = x(1-x) $$
+So subbing it in:
+
+$$\begin{align*}
+y(x,0) &= A+ \sum\limits^{\infty}_{n=1}  B_{n}e^{ - t(nk\pi)^{2}} \cos(n\pi x)
+\end{align*}$$
