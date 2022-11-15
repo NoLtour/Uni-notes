@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "first order",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "52c48f58a57b98a0",
+  "active": "075671ccff8c4b69",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables the heat equation.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
