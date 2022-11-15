@@ -115,5 +115,9 @@ $$ y(x,0) = x(1-x) $$
 So subbing it in:
 
 $$\begin{align*}
-y(x,0) &= A+ \sum\limits^{\infty}_{n=1}  B_{n}e^{ - t(nk\pi)^{2}} \cos(n\pi x)
+x(1-x) &= A+ \sum\limits^{\infty}_{n=1}  B_{n} \cos(n\pi x)
+\end{align*}$$
+This is clearly a even [[defining the fourier series|Fourier series]], the $L=1$ (extracted from inside the cosine) and $f(x)=x(1-x)$. If you solve this you end up with:
+$$\begin{align*}
+y(x,t) &= 
 \end{align*}$$
