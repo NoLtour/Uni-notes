@@ -8,7 +8,7 @@ xMax = domainWidth
 zMin = -domainWidth
 zMax = domainWidth
 
-dx = dz = 0.01
+dx = dz = 0.003
 
 # Create axis' using domain at the defined resolution
 xAxis = np.arange( xMin, xMax, dx )
@@ -85,7 +85,12 @@ def filterExtreme( inp, maxMag ):
 
 Uinf = 1.2;
 
-streamFunction = linearSF( x,z, 0, Uinf ) + vortexSF( 0, 0, x,z, 7.1 ) ;
+
+
+streamFunction = linearSF( x,z, 0, Uinf );
+for i in range(0, 60):
+	I = i/20
+	streamFunction += vortexSF( 1-I, 0, x, z, (3-I)/60 )
  
 u,w = getVelocitys( streamFunction )
 
@@ -100,7 +105,7 @@ plot.title("flow field")
 stX,stZ = getStagnationPoints( x,z,u,w )
 
 plot.plot( stX, stZ, "rx" )
-plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
+#plot.colorbar( plot.contourf( x, z, filterExtreme( cp, 2 ), 60 ) )
 
 #plot.quiver( x, z, filterExtreme( u, 200), filterExtreme( w, 200) )
 
@@ -108,7 +113,7 @@ print("cp at (1,-1.5):", readValue( 1,-1.5, cp, True ) )
 print("mStag: ", getLowestVelPoint( x,z,u,w ) )
 print("stags: ",stX,stZ )
 
-plot.contour( x, z, filterExtreme( streamFunction, 100 ), 200 ) 
+plot.contour( x, z, filterExtreme( streamFunction, 100 ), 50 ) 
 
 plot.contour( x, z, streamFunction,[getStagnationSFVal( x,z,u,w,streamFunction )], linewidths=2, colors="black" ) 
 
