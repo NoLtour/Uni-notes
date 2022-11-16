@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "0debef58a9cf83d6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
+    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+    "conflict-files-obsidian-git.md",
     "SESA2024 Astronautics/5 Mission analysis/ellipse equation polar form.md",
     "SESA2024 Astronautics/5 Mission analysis/ellipse.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
     "Mathematics for Engineering and the Environment/Year 1/Overall Read order.md",
     "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/Differential equations 2 overview.md",
-    "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md",
-    "Mathematics for Engineering and the Environment/Year 1/3 Intergration 1/MEE Intergration 1.md"
+    "Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md"
   ]
 }
