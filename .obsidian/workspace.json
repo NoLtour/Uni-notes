@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "d5f1adbb3881d0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA2024 Astronautics/Organisation and resources/CW/Question order.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "da045aca08b75313",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA2024 Astronautics/Organisation and resources/CW/Question order.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,8 +170,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "df77cf36e627e447",
+  "active": "d5f1adbb3881d0b6",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/solving eigenvalue ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/defining half range series.md",
@@ -168,7 +181,6 @@
     "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/shortcuts for the fourier series.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/odd function.md",
-    "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
-    "Mathematics for Engineering and the Environment/Year 2/Integration by parts DI method.md"
+    "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md"
   ]
 }
