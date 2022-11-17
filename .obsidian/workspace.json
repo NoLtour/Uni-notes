@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "da045aca08b75313",
+  "active": "8f56433186c1d209",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
     "Mathematics for Engineering and the Environment/Year 2/Integration by parts DI method.md",
@@ -156,7 +157,6 @@
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "conflict-files-obsidian-git.md",
     "SESA2024 Astronautics/5 Mission analysis/ellipse equation polar form.md",
-    "SESA2024 Astronautics/5 Mission analysis/ellipse.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md"
+    "SESA2024 Astronautics/5 Mission analysis/ellipse.md"
   ]
 }
