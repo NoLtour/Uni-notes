@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "da045aca08b75313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,13 +146,13 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "8f56433186c1d209",
+  "active": "da045aca08b75313",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
     "Mathematics for Engineering and the Environment/Year 2/Integration by parts DI method.md",
     "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "conflict-files-obsidian-git.md",
     "SESA2024 Astronautics/5 Mission analysis/ellipse equation polar form.md",
