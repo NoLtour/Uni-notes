@@ -32,5 +32,15 @@ $$\begin{align*}
 \frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}} &\to&& \frac{\delta}{\delta t}(v(x,t) + y_{p}(x)) &= \frac{\delta^{2}}{\delta x^{2}}(v(x,t) + y_{p}(x))\\
 && && \frac{\delta v}{\delta t} &= \frac{\delta^{2} v}{\delta x^{2}} + \frac{\delta^{2} y_{p}}{\delta x^{2}}
 \end{align*}$$
-This equation is clearly solvable using [[separation of variables]] if we can find a function $y_{p}$ where $\frac{\delta^{2}}{\delta x^{2}} y_{p}=0$ since then the equation above simplifies to a:
-
+This equation is clearly solvable using [[separation of variables]] if we can find a function $y_{p}$ where $\frac{\delta^{2}}{\delta x^{2}} y_{p}=0$ since then the equation above simplifies to a familiar problem:
+$$\begin{align*}
+\frac{\delta v}{\delta t} &= \frac{\delta^{2} v}{\delta x^{2}}  &&&&\text{where}:& v(0,t)&= 0, &v(1,t)&= 0, & \frac{\delta^{2}}{\delta x^{2}} y_{p}&= 0\\
+\end{align*}$$
+Finding such a function of $y_{p}$ is actually pretty easy:
+$$\begin{align*}
+\frac{\delta^{2}}{\delta x^{2}} y_{p}&= 0 &  y_{p}(0) &=C_{0} &  y_{p}(1) &= C_{1}
+\end{align*}$$
+$$\begin{align*}
+y_{p} &= T_{0} + (T_{1}-T_{0})x
+\end{align*}$$
+This clearly satisfies the conditions require
