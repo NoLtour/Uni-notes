@@ -16,5 +16,8 @@ $$\begin{align*}
 Then the methods discussed up to now don't work, so we need to figure out a way of solving them anyway.
 
 ### Case with constants
+Since it's simpler for explaining the method we'll start with the case where the boundary conditions are non zero constants:
+$$\begin{align*}
+\frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}} &&&&\text{where}:& y(0,t)&= C_{0}, &y(1,t)&= C_{1}
+\end{align*}$$
 
-If we could somehow 
