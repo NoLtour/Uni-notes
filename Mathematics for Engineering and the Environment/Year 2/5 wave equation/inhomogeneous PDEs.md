@@ -57,3 +57,8 @@ T_{n}(t) &= e^{-(kn\pi)^{2}} \left[ C_{n} + \int e^{(kn\pi)^{2}} F_{n}(t) \cdot 
 \end{align*}$$
 
 (Method used to solve that equation is [[solution of first order linear differential equations|solving first order inhomogeneous ODEs]])
+Then we can take this result and sub it back into:
+$$\begin{align*}
+y & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x)\\
+ & = \sum\limits^{\infty}_{n=1}  \sin(n\pi x) e^{-(kn\pi)^{2}} \left[ C_{n} + \int e^{(kn\pi)^{2}} F_{n}(t) \cdot dt \right]
+\end{align*}$$
