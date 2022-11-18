@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/they know how to make equations look evil huh.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/they know how to make equations look evil huh.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "0debef58a9cf83d6",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/they know how to make equations look evil huh.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
@@ -131,7 +132,6 @@
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/solving eigenvalue ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/defining half range series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md"
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md"
   ]
 }
