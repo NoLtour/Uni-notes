@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/integration and differentiation of fourier series.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/Integration by parts DI method.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/integration and differentiation of fourier series.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/defining the fourier series.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,17 +136,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "075671ccff8c4b69",
+  "active": "4a3167140d20d529",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/piecewise smooth.md",
+    "Mathematics for Engineering and the Environment/Year 2/Integration by parts DI method.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/integration and differentiation of fourier series.md",
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/piecewise smooth.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
     "Aerodynamics/3 Potential flow/Kutta-Joukowski Theorem.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables the heat equation.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/French.md",
-    "SESA2024 Astronautics/8 Power subsystem/battery and array sizing assessment order.md"
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/French.md"
   ]
 }
