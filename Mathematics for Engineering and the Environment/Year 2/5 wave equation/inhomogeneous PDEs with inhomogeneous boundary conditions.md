@@ -24,5 +24,10 @@ What we really want to do is find a way to simplify this situation such that it 
 
 $$\begin{align*}
 y(x,t) - y_{p}(x) &= v(x,t) &&&&\text{where}:& v(0,t)&= 0, &v(1,t)&= 0\\
-&&&&&& y(0,t) - y_{p}(0) &= 0 & &= y(1,t) - y_{p}(1) &= 0
+&&&&&& y(0,t) - y_{p}(0) &= 0 & y(1,t) - y_{p}(1) &= 0\\
+y(x,t) &= v(x,t) + y_{p}(x)&&&&&  y_{p}(0) &=C_{0} &  y_{p}(1) &= C_{1}\\
+\end{align*}$$
+If we substitute this $v$ function into our original [[partial differential equation|PDE]] equation:
+$$\begin{align*}
+\frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}} &\to&& \frac{\delta}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}}
 \end{align*}$$
