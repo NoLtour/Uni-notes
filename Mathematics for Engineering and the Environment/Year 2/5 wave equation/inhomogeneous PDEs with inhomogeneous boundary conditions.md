@@ -29,5 +29,8 @@ y(x,t) &= v(x,t) + y_{p}(x)&&&&&  y_{p}(0) &=C_{0} &  y_{p}(1) &= C_{1}\\
 \end{align*}$$
 If we substitute this $v$ function into our original [[partial differential equation|PDE]] equation:
 $$\begin{align*}
-\frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}} &\to&& \frac{\delta}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}}
+\frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}} &\to&& \frac{\delta}{\delta t}(v(x,t) + y_{p}(x)) &= \frac{\delta^{2}}{\delta x^{2}}(v(x,t) + y_{p}(x))\\
+&& && \frac{\delta v}{\delta t} &= \frac{\delta^{2} v}{\delta x^{2}} + \frac{\delta^{2} y_{p}}{\delta x^{2}}
 \end{align*}$$
+This equation is clearly solvable using [[separation of variables]] if we can find a function $y_{p}$ where $\frac{\delta^{2}}{\delta x^{2}} y_{p}=0$ since then the equation above simplifies to a:
+
