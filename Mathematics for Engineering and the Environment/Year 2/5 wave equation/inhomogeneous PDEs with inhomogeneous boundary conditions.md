@@ -20,4 +20,4 @@ Since it's simpler for explaining the method we'll start with the case where the
 $$\begin{align*}
 \frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}} &&&&\text{where}:& y(0,t)&= C_{0}, &y(1,t)&= C_{1}
 \end{align*}$$
-We 
+What we really want to do is find a way to simplify this situation such that it can be solved using known methods, so what if we solve for some function that 
