@@ -20,4 +20,4 @@ Since it's simpler for explaining the method we'll start with the case where the
 $$\begin{align*}
 \frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}} &&&&\text{where}:& y(0,t)&= C_{0}, &y(1,t)&= C_{1}
 \end{align*}$$
-
+We 
