@@ -20,7 +20,7 @@ $$\begin{align*}
 \text{where:} & & y(0,t) &= 0 & y(1,t)&= 0
 \end{align*}$$
 (These boundary conditions are used since they are convenient)
-This is of course solvable using the content from [[separation of variables]], (not going to prove this because pointless) if this is solved using the boundary conditions from the original equation you get:
+This is of course solvable using the content from [[separation of variables]], (not going to prove this because pointless) if this is solved you get:
 $$\begin{align*}
 y(x,t) & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x) 
 \end{align*}$$
