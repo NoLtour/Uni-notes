@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/I am dead inside.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs with inhomogeneous boundary conditions.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "abee340a12f26bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/a funny.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/I am dead inside.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/a funny.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,9 +146,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "64711e05976a8891",
+  "active": "abee340a12f26bb0",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs with inhomogeneous boundary conditions.md",
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/I am dead inside.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/they know how to make equations look evil huh.md",
@@ -144,7 +157,6 @@
     "SESA2024 Astronautics/5 Mission analysis/ellipse.md",
     "SESA2024 Astronautics/Organisation and resources/CW/Question order.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/solving eigenvalue ODEs.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
-    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/defining half range series.md"
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md"
   ]
 }
