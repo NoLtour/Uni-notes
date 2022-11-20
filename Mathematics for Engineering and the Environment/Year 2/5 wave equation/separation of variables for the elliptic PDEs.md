@@ -17,8 +17,15 @@ As discussed in [[elliptic partial differential equations|elliptic PDEs]], the p
 - Neumann BCs: $\frac{\delta u}{\delta i}(0,y) = 0$
 - Mixed BCs: $u(0,y)+\frac{\delta u}{\delta i}(0,y) = 0$
 
-
+![[Pasted image 20221120122001.png]]
 
 ### Example
-> Solve $\nabla u=0$ in 2 dimensions with boundary conditions
+> Solve $\nabla u=0$ in 2 dimensions with boundary conditions:
+> $$\begin{align*} u(0,y) &= 0 & u(1,y) &= 0 & u(x,0) &= 0 & u(x,1) &= 0 \end{align*}$$
+
+We can re write $\nabla u=0$ into a more familiar form $\frac{\delta^{2}u}{\delta x^{2}} = -\frac{\delta^{2}u}{\delta y^{2}}$ then using [[separation of variables]] get:
+$$ u(x,y) = XY $$
+$$\begin{align*}
+X'' - \lambda X &= 
+\end{align*}$$
 
