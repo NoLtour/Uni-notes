@@ -41,9 +41,12 @@ $$\begin{align*}
 \frac{\delta^{2}}{\delta x^{2}} y_{p}&= 0 &  y_{p}(0) &=C_{0} &  y_{p}(1) &= C_{1}
 \end{align*}$$
 $$\begin{align*}
-y_{p} &= T_{0} + (T_{1}-T_{0})x
+y_{p} &= C_{0} + (C_{1}-C_{0})x
 \end{align*}$$
 This clearly satisfies the conditions required, now we can just solve the simple problem of $v$ and then add $y_{p}$ onto the solution to get the solution of the original problem of $y$ since we've clearly stated that:
 $$y(x,t) = v(x,t) + y_{p}(x)$$
 ### General case
-Basically you know how we made a linear equation for the $y_p$, which worked for constant's? Well turns out that
+Basically you know how we made a linear equation for the $y_p$, which worked for constant's? Well turns out that works in the general case as well, just replace the $C_1,C_2$ with functions:
+$$ y_{p} =  $$
+
+
