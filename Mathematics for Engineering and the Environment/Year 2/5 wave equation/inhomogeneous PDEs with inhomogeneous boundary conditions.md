@@ -45,3 +45,5 @@ y_{p} &= T_{0} + (T_{1}-T_{0})x
 \end{align*}$$
 This clearly satisfies the conditions required, now we can just solve the simple problem of $v$ and then add $y_{p}$ onto the solution to get the solution of the original problem of $y$ since we've clearly stated that:
 $$y(x,t) = v(x,t) + y_{p}(x)$$
+### General case
+Basically you know how we made a linear equation for the $y_p$, which worked for constant's? Well turns out that
