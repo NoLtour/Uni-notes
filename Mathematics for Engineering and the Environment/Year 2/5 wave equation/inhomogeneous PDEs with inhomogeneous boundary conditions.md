@@ -49,13 +49,13 @@ $$y(x,t) = v(x,t) + y_{p}(x)$$
 Basically you know how we made a linear equation for the $y_p$, which worked for constant's? Well turns out that works in the general case as well, just replace the $C_1,C_2$ with functions:
 $$ y_{p} = f_{0} + ( f_{1} - f_{0} ) x$$
 $$\begin{align*}
-\text{for:} && y(0,t)&= f_{0}(t), & y(1,t)&= f_{1}(t), 
+\text{for:} && y(0,t)&= f_{0}(t), & y(1,t)&= f_{1}(t) 
 \end{align*}$$
 
 > 
-> ## $$\frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}}$$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+> ## $$\begin{align*} \frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}} & &\to &\frac{\delta v}{\delta t} &= \frac{\delta^{2} v}{\delta x^{2}} \end{align*}$$
+> ## $$\begin{align*} y(0,t)&= f_{0}(t), & y(1,t)&= f_{1}(t) & &\to &v(0,t)&= 0, & v(1,t)&= 0 \end{align*}$$
+> ## $$y(x,t) = v(x,t) + y_{p}(x)$$
+> ##  $$ y_{p}  = C_{0} + (C_{1}-C_{0})x $$
+
 
