@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs with inhomogeneous boundary conditions.md",
-                "mode": "preview",
-                "source": false
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs with inhomogeneous boundary conditions.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,8 +148,8 @@
   },
   "active": "64711e05976a8891",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/a funny.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs with inhomogeneous boundary conditions.md",
+    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/a funny.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/I am dead inside.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
