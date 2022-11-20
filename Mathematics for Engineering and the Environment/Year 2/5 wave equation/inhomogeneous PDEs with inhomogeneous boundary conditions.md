@@ -47,6 +47,9 @@ This clearly satisfies the conditions required, now we can just solve the simple
 $$y(x,t) = v(x,t) + y_{p}(x)$$
 ### General case
 Basically you know how we made a linear equation for the $y_p$, which worked for constant's? Well turns out that works in the general case as well, just replace the $C_1,C_2$ with functions:
-$$ y_{p} =  $$
+$$ y_{p} = f_{0} + ( f_{1} - f_{0} ) x$$
+$$\begin{align*}
+\text{for:} && y(0,t)&= f_{0}(t), & y(1,t)&= f_{1}(t), 
+\end{align*}$$
 
 
