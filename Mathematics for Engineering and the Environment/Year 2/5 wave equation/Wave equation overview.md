@@ -12,6 +12,7 @@ tags: ["NotesPage"]
 - [[separation of variables the heat equation]]
 - [[inhomogeneous PDEs]]
 - [[inhomogeneous PDEs with inhomogeneous boundary conditions]]
+- 
 
 ## Expanded articles
 ![[classification of partial differential equations]]
@@ -19,5 +20,5 @@ tags: ["NotesPage"]
 ![[separation of variables]]
 ![[separation of variables the heat equation]]
 ![[inhomogeneous PDEs]]
-
+![[inhomogeneous PDEs with inhomogeneous boundary conditions]]
 
