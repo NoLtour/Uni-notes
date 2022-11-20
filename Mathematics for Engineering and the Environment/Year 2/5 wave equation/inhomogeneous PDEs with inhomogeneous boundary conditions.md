@@ -52,4 +52,10 @@ $$\begin{align*}
 \text{for:} && y(0,t)&= f_{0}(t), & y(1,t)&= f_{1}(t), 
 \end{align*}$$
 
+> 
+> ## $$\frac{\delta y}{\delta t} &= \frac{\delta^{2} y}{\delta x^{2}}$$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
