@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "de6c4b1a2b0db0a4",
+        "id": "277adb5cda76c50d",
         "type": "tabs",
         "children": [
           {
-            "id": "0debef58a9cf83d6",
+            "id": "76271610466b8195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64711e05976a8891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables for the elliptic PDEs.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "abee340a12f26bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/a funny.md",
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ellipse",
+                "query": "corrosion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 278
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -110,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables for the elliptic PDEs.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -144,19 +119,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 184,
+    "collapsed": true
   },
-  "active": "64711e05976a8891",
+  "active": "76271610466b8195",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/yee.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables for the elliptic PDEs.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/elliptic partial differential equations.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs with inhomogeneous boundary conditions.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/a funny.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/I am dead inside.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/they know how to make equations look evil huh.md",
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md"
+    "Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/Matricies 3 overview.md",
+    "SESA2024 Astronautics/2 Attitude control/Attitude control overview.md",
+    "SESA2024 Astronautics/2 Attitude control/controllable external torquers.md",
+    "SESA2024 Astronautics/2 Attitude control/I think I explained that quite well.md",
+    "SESA2024 Astronautics/2 Attitude control/disturbance torques.md",
+    "SESA2024 Astronautics/2 Attitude control/categories for spacecraft stabilisation.md",
+    "SESA2024 Astronautics/2 Attitude control/goals of attitude control.md",
+    "SESA2024 Astronautics/2 Attitude control/internal and external torques.md",
+    "SESA2024 Astronautics/1 Intro to subsystems/attitude control subsystem (ACS).md",
+    "SESA2024 Astronautics/2 Attitude control/spin stabilising a spacecraft.md"
   ]
 }
