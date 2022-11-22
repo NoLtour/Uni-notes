@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ellipse",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,14 +174,14 @@
   "active": "d5f1adbb3881d0b6",
   "lastOpenFiles": [
     "SESA1015/Astro/3 Launch Vehicles/Launch Vehicles overview.md",
+    "SESA1015/Astro/3 Launch Vehicles/the rocket equation applied to launch vehicles.md",
+    "SESA1015/Astro/3 Launch Vehicles/the basic rocket equation.md",
     "SESA2024 Astronautics/Organisation and resources/CW/Question order.md",
     "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "SESA2024 Astronautics/5 Mission analysis/ellipse.md",
     "Mathematics for Engineering and the Environment/Year 2/5 wave equation/solving eigenvalue ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/euler type linear homogeneous ODEs.md",
     "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/defining half range series.md",
-    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md"
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md"
   ]
 }
