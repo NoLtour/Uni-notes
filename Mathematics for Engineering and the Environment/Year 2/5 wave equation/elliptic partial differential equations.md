@@ -24,3 +24,4 @@ If you look at the laplace equation above you can see that is is defined using 2
 - 2 Boundary conditions defining $x$
 - 2 Boundary conditions defining $y$
 
+There is no time dependence for elliptic problems, hence unlike most other cases we don't use initial conditions.

@@ -4,7 +4,7 @@ tags: []
 ---
 
 ## Inhomogeneous PDEs
-You thought normal [[separation of variables]] was a pain? Well it gets worse, introducing inhomogeneous PDEs. For example this abomination:
+You thought normal [[separation of variables]] was a pain? Well it gets worse, introducing inhomogeneous PDEs. For example this [[they know how to make equations look evil huh|abomination]]:
 
 $$ \frac{\delta y}{\delta t} = k^{2} \frac{\delta^{2} y}{\delta x^{2}} + F(x,t) $$
 
@@ -20,7 +20,7 @@ $$\begin{align*}
 \text{where:} & & y(0,t) &= 0 & y(1,t)&= 0
 \end{align*}$$
 (These boundary conditions are used since they are convenient)
-This is of course solvable using the content from [[separation of variables]], (not going to prove this because pointless) if this is solved using the boundary conditions from the original equation you get:
+This is of course solvable using the content from [[separation of variables]], (not going to prove this because pointless) if this is solved you get:
 $$\begin{align*}
 y(x,t) & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x) 
 \end{align*}$$
@@ -57,3 +57,11 @@ T_{n}(t) &= e^{-(kn\pi)^{2}} \left[ C_{n} + \int e^{(kn\pi)^{2}} F_{n}(t) \cdot 
 \end{align*}$$
 
 (Method used to solve that equation is [[solution of first order linear differential equations|solving first order inhomogeneous ODEs]])
+Then we can take this result and sub it back into:
+
+$$\begin{align*}
+y & = \sum\limits^{\infty}_{n=1} T_{n}(t) \sin(n\pi x)\\
+ & = \sum\limits^{\infty}_{n=1}  \sin(n\pi x) e^{-(kn\pi)^{2}} \left[ C_{n} + \int e^{(kn\pi)^{2}} F_{n}(t) \cdot dt \right]
+\end{align*}$$
+
+And that's it, done. Ez.
