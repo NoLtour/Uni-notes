@@ -23,3 +23,4 @@ Ok so a bit more development, just like [[Scalars and vectors|vectors]] magnitud
 >> $M=|N|=\sqrt{a^{2}+b^{2}}=$ magnitude of $N$
 
 ^c3da45
+![[eix 1.mp4]]

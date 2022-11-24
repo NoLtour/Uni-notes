@@ -8,55 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0debef58a9cf83d6",
+            "id": "946e6c9cc0a9262d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "946e6c9cc0a9262d",
+            "id": "d822f0084ce39841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/9 Communications/Communications overview.md",
-                "mode": "source",
+                "file": "Mathematics for Engineering and the Environment/Year 1/11US Vectors 2/Vectors 2 overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "80901212867c703e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3e6cbaa2f9be78a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/line integral of a vector field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/line integral of a vector field.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,20 +131,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "f3e6cbaa2f9be78a",
+  "active": "946e6c9cc0a9262d",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/line integral of a vector field.md",
     "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/derivative of a parametric curve.md",
-    "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/formal definition of a parametric curve.md",
-    "Templates/Maths equation highlighted.md",
-    "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/approximating turbulent BL near the wall.md",
-    "Thermofluids/23 Flow characterisation and visualisation/vector fields.md",
-    "Thermofluids/23 Flow characterisation and visualisation/basis vectors.md",
-    "Thermofluids/23 Flow characterisation and visualisation/scalar fields.md",
+    "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/grad to get normal of plane.md",
+    "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/implicitly.md",
+    "Mathematics for Engineering and the Environment/Year 1/11US Vectors 2/Vectors 2 overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/differentiation of a scalar field in the direction of a unit vector.md",
+    "Mathematics for Engineering and the Environment/Year 1/11US Vectors 2/perpendicular distance between a point and a plane.md",
     "SESA2024 Astronautics/9 Communications/Communications overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md"
+    "SESA2024 Astronautics/9 Communications/bit error rate.md",
+    "SESA2024 Astronautics/9 Communications/calculating communication link strength.md"
   ]
 }

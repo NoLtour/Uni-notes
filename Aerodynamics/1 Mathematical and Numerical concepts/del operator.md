@@ -1,5 +1,5 @@
 ---
-aliases: ["del","nabla","grad"]
+aliases: ["del","nabla","grad","gradient"]
 tags: []
 ---
 
@@ -19,7 +19,11 @@ This is quite simple:
 >> $\vec{e}_{i}=$ $i_{th}$ [[unit vector]] in the $i_{th}$ dimension
 
 All this means is that for some function $f$, if you apply the [[del operator]] you get the rate of change of each of it's components, this results in a vector which points in the direction of increase.
-So the [[del operator]] will give you a vector representing the direction of increase in a [[Scalars and vectors|scalar]] field.
+So the [[del operator]] will give you a vector representing the direction of greatest increase in a [[Scalars and vectors|scalar]] field.
+
+Clearly by using a [[del operator]] on a [[scalar fields|scalar field]] you can get a [[vector fields|vector field]].
+
+Also might be worth checking out [[noteable properties of the del operator]].
 
 ### Example
 > Take the [[del operator]] of $p=x^{2} + 7yx + e^{3z}$ where $p$ represents pressure:

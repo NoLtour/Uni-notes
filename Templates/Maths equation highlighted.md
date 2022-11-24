@@ -1,4 +1,4 @@
-> ### $$ <% tp.file.cursor(1) %> = $$ 
+> ### $$\begin{align*}   &=   \end{align*}$$
 >> where:
 >> $=$ 
 >> $=$

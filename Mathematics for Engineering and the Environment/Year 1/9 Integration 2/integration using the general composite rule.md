@@ -20,6 +20,8 @@ Alternatively you can replace g(x) with t (or some other letter) and use:
 >> $f(t)=$ a function 
 >> $k=$ a constant
 
+^11dcf7
+
 (This second one is the way you really use it tbh)
 
 ##### Important note! Remember to adjust limits appropirately when using this method!!
