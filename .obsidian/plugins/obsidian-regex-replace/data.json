@@ -1,6 +1,6 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "\\underline",
+  "replaceText": "\\vec",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,
