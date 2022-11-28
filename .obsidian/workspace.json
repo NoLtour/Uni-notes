@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "four",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,17 +133,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "946e6c9cc0a9262d",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 1/11US Vectors 2/Vectors 2 overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/line integral of a vector field.md",
     "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
     "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/grad to get normal of plane.md",
     "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/implicitly.md",
-    "Mathematics for Engineering and the Environment/Year 1/11US Vectors 2/Vectors 2 overview.md",
     "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/differentiation of a scalar field in the direction of a unit vector.md",
     "Mathematics for Engineering and the Environment/Year 1/11US Vectors 2/perpendicular distance between a point and a plane.md",
     "SESA2024 Astronautics/9 Communications/Communications overview.md",
-    "SESA2024 Astronautics/9 Communications/bit error rate.md",
-    "SESA2024 Astronautics/9 Communications/calculating communication link strength.md"
+    "SESA2024 Astronautics/9 Communications/bit error rate.md"
   ]
 }
