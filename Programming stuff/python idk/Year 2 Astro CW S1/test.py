@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plot 
+import scipy.optimize as sp
 
 JUPITER_MU = 1.26687*(10**8)*(10**9)
 JUPITER_RAD = 69173000
@@ -30,15 +31,25 @@ class Environment:
 
     currentTime = 0
 
-    timesHist = []
+    timesHist       = []
     moonElcipseHist = []
-    JupElcipseHist = []
+    jupElcipseHist  = []
+    seperationHist  = []
+    
 
     probeOrbitPeriod = 0
     
 
     def __init__(this, initSolarAngle, probeOrbitPerigee, probeOrbitApogee ): 
-        
+        this.changeOrbit( probeOrbitApogee, probeOrbitPerigee )
+
+        this.currentTime = initSolarAngle/this.dzdt 
+        this.addMoon( 421800,  1821.5*2 ) # IO
+
+        #this.addMoon( JUPITER_RAD/1000, 0 )
+        this.incrementTime(0) 
+
+    def changeOrbit( this, probeOrbitPerigee, probeOrbitApogee ):
         this.probeSemiMajor = (probeOrbitPerigee+probeOrbitApogee)/2
         this.probeSemiMinor = ( (this.probeSemiMajor**2) - ( this.probeSemiMajor - probeOrbitPerigee )**2 )**0.5
         this.probeEccentrisity = (1-(this.probeSemiMinor**2/this.probeSemiMajor**2))**0.5
@@ -50,20 +61,9 @@ class Environment:
         this.B = (JUPITER_MU/this.probeSOAnglerMom)*this.probeEccentrisity
         this.hhomu = this.probeSOAnglerMom*this.probeSOAnglerMom/JUPITER_MU
 
-        this.probeR = this.hhomu/( 1 + (this.probeEccentrisity * np.cos( this.probeTheta )) )
-
-        this.currentTime = initSolarAngle/this.dzdt
+        this.probeR = this.hhomu/( 1 + (this.probeEccentrisity * np.cos( this.probeTheta )) ) 
 
         this.probeOrbitPeriod = np.pi*2*np.sqrt((this.probeSemiMajor**3) / JUPITER_MU)
-
-        #this.addMoon( 1882700, 4820.6 ) # Callisto
-        #this.addMoon( 1070400, 5268.2 ) # Ganymede
-        #this.addMoon( 671100,  3121.6 ) # Europa
-        this.addMoon( 421800,  1821.5*2 ) # IO
-
-        #this.addMoon( JUPITER_RAD/1000, 0 )
-        this.incrementTime(0)
-        return;
 
     def addMoon(this, orbitalRadiusKM, moonDiameterKM):
         this.moonRadii.append( moonDiameterKM*1000 )
@@ -130,9 +130,78 @@ class Environment:
 
         this.timesHist.append( this.currentTime )
         this.moonElcipseHist.append( moonEclipse )
-        this.JupElcipseHist.append( jupEclipse )
+        this.jupElcipseHist.append( jupEclipse )
+        this.seperationHist.append( this.probeR )
 
         return probePos, jupEclipse, moonEclipse 
+
+JUPITER_SOLAR_MULTIPLIER = 0.035462
+
+FIBRE_GYRO = 15.8
+REACTION_WHEEL = 5
+SENSORS_LIGHT = 6.7 + 7.6 + 4.2 + 7.8
+SENSORS_DARK  = 6.7 + 4.2 + 7.8
+COMS_POWER    = 25
+POWER_CONTROL = 28
+
+def exampleConsumptionFunction( inSolarEclipse, inJupiterEclipse, jupiterSeperation ):
+    baseLoad = FIBRE_GYRO + REACTION_WHEEL*2 + COMS_POWER + POWER_CONTROL
+
+    if ( inJupiterEclipse or inSolarEclipse ):
+        baseLoad += 100
+
+    baseLoad *= 2
+
+    if ( inJupiterEclipse ):
+        return baseLoad + SENSORS_DARK
+    else:
+        return baseLoad + SENSORS_LIGHT
+
+class ProbeState:
+
+    init_solar_output = 0
+    init_RTG_output = 0
+    init_battery_capacity = 0 # Watt seconds
+    energyConsumtionFunction = exampleConsumptionFunction
+
+    def __init__(this, RTG_count, solarMass, batteryMass, energyConsumtionFunction):
+
+        this.init_RTG_output = RTG_count * 5.2 * 57/100
+        this.init_solar_output = solarMass * 50 * JUPITER_SOLAR_MULTIPLIER
+        this.init_battery_capacity = batteryMass*110*(60*60)
+        this.energyConsumtionFunction = energyConsumtionFunction
+
+    def genPowerData( this, envSim ):
+        energyStates = []
+
+        pTime = 0
+        currentEnergy = this.init_battery_capacity
+        lowestCapacityFrac = 1
+
+        for i in range(0, len(envSim.timesHist)):
+            cTime = envSim.timesHist[i]
+            cMoonEclipse = envSim.moonElcipseHist[i]
+            cJupEc  = envSim.jupElcipseHist[i]
+            cSep = envSim.seperationHist[i]
+
+            dt = cTime - pTime
+
+            if ( cJupEc or cMoonEclipse ):
+                currentEnergy += dt * ( this.init_RTG_output )
+            else:
+                currentEnergy += dt * ( this.init_RTG_output + this.init_solar_output )
+
+            currentEnergy -= dt * ( this.energyConsumtionFunction( cMoonEclipse, cJupEc, cSep ) )
+
+            currentEnergy = min( currentEnergy, this.init_battery_capacity )
+
+            pTime = cTime
+            energyStates.append( currentEnergy )
+            lowestCapacityFrac = min( currentEnergy/this.init_battery_capacity, lowestCapacityFrac )
+
+        return np.array( envSim.timesHist ), np.array( energyStates ), lowestCapacityFrac
+
+
 
 
 def displayOrbits():
@@ -219,9 +288,8 @@ def getLongestEclipse( freshEnvSim, days, dt, plotting=False ):
         elif ( startEcTime != 0 ):
             newTotalTime = freshEnvSim.currentTime - startEcTime
 
-            if ( plotting ):
-                period = freshEnvSim.probeOrbitPeriod
-                ecLens.append( newTotalTime/(period)  )
+            if ( plotting ): 
+                ecLens.append( newTotalTime/(60)  )
                 ecTimes.append( freshEnvSim.currentTime/(60*60*24) )
 
             longestTotalEclipse = max( newTotalTime, longestTotalEclipse )
@@ -235,18 +303,80 @@ def getLongestEclipse( freshEnvSim, days, dt, plotting=False ):
             plot.plot( ecTimes, ecLens, "bx"  )
         else:
             plot.plot( ecTimes, ecLens, "rx"  )
-        plot.ylabel("eclipse RaTiO")
+        plot.ylabel("eclipse time (mins)")
         plot.xlabel("time (days)")
             
     return longestTotalEclipse
 
-dt = 120
+def getPowerData( envSim, probeSim ):
+    plot.figure( 420 );
+    times, powers, ignore = probeSim.genPowerData( envSim )
 
-envSim2Years = Environment( 0, PROBE_PERIGEE_2YEAR, PROBE_APOGEE_2YEAR )
-print("2 year (phase 1) longest eclipse", getLongestEclipse( envSim2Years, 365*5 , dt, True )) 
+    plot.plot( times/(60*60*24*365), powers  );
 
-envSim3Years = Environment( 0, PROBE_PERIGEE_3YEAR, PROBE_APOGEE_3YEAR )
-print("3 year (phase 2) longest eclipse", getLongestEclipse( envSim3Years, 365*5, dt, True )) 
+    plot.ylabel("current power stored (J)")
+    plot.xlabel("time (years)")
+
+class PowerOptamiser:
+
+    envSim = 0
+    consumptionFunction = exampleConsumptionFunction
+
+    def __init__(this, envSim, consumptionFunction):
+        this.consumptionFunction = consumptionFunction
+        this.envSim = envSim
+
+    def powerScoringFunction( this, inputs ):
+        batteryMass, rtgCount, solarMass = inputs
+        rtgCount = int( rtgCount )
+
+        powerMass = batteryMass + rtgCount*54 + solarMass
+
+        probeSim = ProbeState( rtgCount, solarMass, batteryMass, exampleConsumptionFunction )
+        
+        lowestCapacityFrac = probeSim.genPowerData( this.envSim )[2]
+
+        trashness = 0
+
+        if ( lowestCapacityFrac < 0 ):
+            trashness += 0
+        elif( lowestCapacityFrac >= 0.99 ):
+            trashness += 1000
+        
+        trashness += powerMass + ( 100 * abs(lowestCapacityFrac-0.1) )
+
+        print( "S:",solarMass, "\tB:", batteryMass, "\tR:",rtgCount, "\tL:",lowestCapacityFrac , "\tM:",powerMass , "\tt:",trashness )
+
+        return trashness 
+
+    def getOptimalValues( this ):
+        initBMass  = 90
+        initRTGs   = 4
+        initSMass  = 163
+
+        outs = sp.minimize( this.powerScoringFunction, [initBMass, initRTGs, initSMass],  bounds=[ [0, 1000], [0, 100], [0, 1000] ] ).x 
+
+        bBatMass  = outs[0]
+        bSolMass  = outs[2]
+        bRTGCount = int(outs[1])
+
+        return bBatMass, bSolMass, bRTGCount
+
+dt = 460
+
+envSim = Environment( 0, PROBE_PERIGEE_2YEAR, PROBE_APOGEE_2YEAR )
+print("2 year (phase 1) longest eclipse", getLongestEclipse( envSim, 365*2 , dt, True )) 
+
+envSim.changeOrbit( PROBE_PERIGEE_3YEAR, PROBE_APOGEE_3YEAR )
+print("3 year (phase 2) longest eclipse", getLongestEclipse( envSim, 365*3, dt, True )) 
+
+probeOpt = PowerOptamiser( envSim, exampleConsumptionFunction )
+
+bBatMass, bSolMass, bRTGCount = probeOpt.getOptimalValues()
+
+probeSim = ProbeState( bRTGCount, bSolMass, bBatMass, exampleConsumptionFunction )
+
+getPowerData( envSim, probeSim )
 
 displayOrbits()
 
