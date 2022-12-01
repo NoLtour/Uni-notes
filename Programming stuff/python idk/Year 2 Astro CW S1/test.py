@@ -45,9 +45,35 @@ class Environment:
 
         this.currentTime = initSolarAngle/this.dzdt 
         this.addMoon( 421800,  1821.5*2 ) # IO
-
-        #this.addMoon( JUPITER_RAD/1000, 0 )
+ 
         this.incrementTime(0) 
+
+    def getTimeIndex( this, time ):
+        for i in range(0, len(this.timesHist)):
+            if ( this.timesHist[i]>=time ):
+                return i
+        return -1
+
+    def trimStoredData( this, savedRangesYears ):
+        timesHist       = []
+        moonElcipseHist = []
+        jupElcipseHist  = []
+        seperationHist  = []
+
+        for cSample in savedRangesYears:
+            minTimeIndex = this.getTimeIndex( cSample[0]*(60*60*24*365) )
+            maxTimeIndex = this.getTimeIndex( cSample[1]*(60*60*24*365) )
+
+            timesHist += this.timesHist[ minTimeIndex:maxTimeIndex ]
+            moonElcipseHist += this.moonElcipseHist[ minTimeIndex:maxTimeIndex ]
+            jupElcipseHist += this.jupElcipseHist[ minTimeIndex:maxTimeIndex ]
+            seperationHist += this.seperationHist[ minTimeIndex:maxTimeIndex ]
+
+        this.timesHist = timesHist
+        this.moonElcipseHist = moonElcipseHist
+        this.jupElcipseHist = jupElcipseHist
+        this.seperationHist = seperationHist
+
 
     def changeOrbit( this, probeOrbitPerigee, probeOrbitApogee ):
         this.probeSemiMajor = (probeOrbitPerigee+probeOrbitApogee)/2
@@ -148,14 +174,17 @@ def exampleConsumptionFunction( inSolarEclipse, inJupiterEclipse, jupiterSeperat
     baseLoad = FIBRE_GYRO + REACTION_WHEEL*2 + COMS_POWER + POWER_CONTROL
 
     if ( inJupiterEclipse or inSolarEclipse ):
-        baseLoad += 100
+        baseLoad += 10
 
-    baseLoad *= 2
+    baseLoad *= 3.3 # SETTINGS ARE GOOD FOR DEBUGGING (opt mass 64.09)
 
     if ( inJupiterEclipse ):
         return baseLoad + SENSORS_DARK
     else:
         return baseLoad + SENSORS_LIGHT
+
+RTG_OUTPUT = 5.2 * 57 
+BATTERY_CAPACITY_PER_KG = 110*(60*60)
 
 class ProbeState:
 
@@ -166,9 +195,9 @@ class ProbeState:
 
     def __init__(this, RTG_count, solarMass, batteryMass, energyConsumtionFunction):
 
-        this.init_RTG_output = RTG_count * 5.2 * 57 
+        this.init_RTG_output = RTG_count * RTG_OUTPUT
         this.init_solar_output = solarMass * 50 * JUPITER_SOLAR_MULTIPLIER
-        this.init_battery_capacity = batteryMass*110*(60*60)
+        this.init_battery_capacity = batteryMass*BATTERY_CAPACITY_PER_KG
         this.energyConsumtionFunction = energyConsumtionFunction
 
     def genPowerData( this, envSim ):
@@ -176,30 +205,58 @@ class ProbeState:
 
         pTime = 0
         currentEnergy = this.init_battery_capacity
-        lowestCapacityFrac = 1
+        pEnergy = currentEnergy
+        lowestCapacity = 10000000000000
+        overCharge = 0
+        underCharge = 0
+
+        prevDt = 1000000000000
+
+        avRecChange = 0
+        
+        TIME_SINCE_START = 365*60*60*24*( 2.7 ) # TODO GET CORRECT VALUE!
 
         for i in range(0, len(envSim.timesHist)):
             cTime = envSim.timesHist[i]
             cMoonEclipse = envSim.moonElcipseHist[i]
             cJupEc  = envSim.jupElcipseHist[i]
             cSep = envSim.seperationHist[i]
+            RTG_efficiency = 1-(0.00787*(TIME_SINCE_START+cTime)/(365*60*60*24))
 
             dt = cTime - pTime
 
-            if ( cJupEc or cMoonEclipse ):
-                currentEnergy += dt * ( this.init_RTG_output )
+            if ( dt > prevDt*30 ):
+                if ( currentEnergy/this.init_battery_capacity < 0.99999 ):
+                    # clear data jump AND it didn't end prev iteration at max power
+                    currentEnergy += dt * avRecChange
+
             else:
-                currentEnergy += dt * ( this.init_RTG_output + this.init_solar_output )
+                if ( cJupEc or cMoonEclipse ):
+                    currentEnergy += dt * ( this.init_RTG_output * RTG_efficiency )
+                else:
+                    currentEnergy += dt * ( (this.init_RTG_output * RTG_efficiency) + this.init_solar_output )
 
-            currentEnergy -= dt * ( this.energyConsumtionFunction( cMoonEclipse, cJupEc, cSep ) )
+                currentEnergy -= dt * ( this.energyConsumtionFunction( cMoonEclipse, cJupEc, cSep ) )
 
-            currentEnergy = min( currentEnergy, this.init_battery_capacity )
+            if ( currentEnergy > this.init_battery_capacity ):
+                overCharge += currentEnergy - this.init_battery_capacity
+                currentEnergy = this.init_battery_capacity
+
+            if ( currentEnergy < 0 ):
+                underCharge -= currentEnergy
+                currentEnergy = 0
+
+            avRecChange = (100000*avRecChange + (currentEnergy-pEnergy))/(dt+100000)
 
             pTime = cTime
             energyStates.append( currentEnergy )
-            lowestCapacityFrac = min( currentEnergy/this.init_battery_capacity, lowestCapacityFrac )
+            lowestCapacity = min( currentEnergy, lowestCapacity )
+            prevDt = dt
+            pEnergy = currentEnergy
 
-        return np.array( envSim.timesHist ), np.array( energyStates ), lowestCapacityFrac
+        overCharge /= pTime - envSim.timesHist[1] 
+
+        return np.array( envSim.timesHist ), np.array( energyStates ), lowestCapacity, overCharge, underCharge
 
 
 
@@ -310,16 +367,18 @@ def getLongestEclipse( freshEnvSim, days, dt, plotting=False ):
 
 def getPowerData( envSim, probeSim ):
     plot.figure( 420 );
-    times, powers, ignore = probeSim.genPowerData( envSim )
+    times, powers, ignore, ignore2, ignore3 = probeSim.genPowerData( envSim )
 
-    plot.plot( times/(60*60*24*365), powers  );
+    plot.plot( times/(60*60*24*365), powers/probeSim.init_battery_capacity  );
 
-    plot.ylabel("current power stored (J)")
+    plot.ylabel("current power stored (frac)")
     plot.xlabel("time (years)")
 
 class PowerOptamiser:
     envSim = 0
     consumptionFunction = exampleConsumptionFunction
+
+    lastScore = -1
 
     def __init__(this, envSim, consumptionFunction):
         this.consumptionFunction = consumptionFunction
@@ -332,40 +391,55 @@ class PowerOptamiser:
         powerMass = batteryMass + rtgCount*54 + solarMass
 
         probeSim = ProbeState( rtgCount, solarMass, batteryMass, this.consumptionFunction )
+         
+        times, powers, lowestCapacity, overCharge, underCharge = probeSim.genPowerData( this.envSim )
         
-        lowestCapacityFrac = probeSim.genPowerData( this.envSim )[2]
-
         trashness = 0
 
-        if ( lowestCapacityFrac < 0 ):
-            trashness += 500
-        elif( lowestCapacityFrac >= 0.99 ):
-            trashness += 10000000000000000000000
+        if( lowestCapacity/(batteryMass*BATTERY_CAPACITY_PER_KG) >= 0.9999 ):
+            trashness += overCharge * 50 + 10000
+        elif ( lowestCapacity <= 0 ): 
+            trashness += 100
+
+        trashness += underCharge*10
 
         if ( batteryMass<0 or solarMass<0 ):
             trashness += 1000000000000
         
-        trashness += powerMass + ( 60 * abs(lowestCapacityFrac-0.1) )
+        trashness += powerMass + ( abs(lowestCapacity-80000)/200 )
 
-        print( "S:",solarMass, "\tB:", batteryMass, "\tR:",rtgCount, "\tL:",lowestCapacityFrac , "\tM:",powerMass , "\tt:",trashness )
+        #print( "S:",solarMass, "\tB:", batteryMass, "\tR:",rtgCount, "\tL:",lowestCapacity, "\tO:",overCharge , "\tM:",powerMass , "\tt:",trashness )
 
-        return trashness 
+        this.lastScore = trashness
+        return trashness
 
     def getOptimalValues( this ):
-        initBMass  = 0.5
-        initRTGs   = 1
-        initSMass  = 0.5
+        maxDraw = max(this.consumptionFunction( True, True, JUPITER_RAD*1.3 ), this.consumptionFunction( False, False, JUPITER_RAD*1.3 ))
 
-        outs = sp.minimize( this.powerScoringFunction, [initBMass, initRTGs, initSMass],  bounds=[ [0, 100], [0, 10], [0, 100] ], options={'maxiter':60} ).x 
+        initBMass  = 5
+        initRTGs   = int( 0.85 + (maxDraw/RTG_OUTPUT) )
+        initSMass  = 5
+
+        outs = sp.minimize( this.powerScoringFunction, [initBMass, initRTGs, initSMass],  bounds=[ [0, 50], [0, 10], [0, 50] ], method="Powell", options={ } ).x 
+        pOutMass = outs[0] + outs[2] + (54*int(outs[1]))
+        bRTGCount = int(outs[1])
+        #outs2 = sp.minimize( this.powerScoringFunction, [initBMass, bRTGCount-1, initSMass],  bounds=[ [0, 50], [bRTGCount-1, bRTGCount-1], [0, 50] ], method="Powell", options={ } ).x 
+        #nOutMass = outs[0] + outs[2] + (54*int(outs[1]))
+
+        #if ( nOutMass < pOutMass ):
+        #    print("switching Outs")
+        #    outs = outs2
+        #elif ( bRTGCount == initRTGs ):
+        #    print("init assumption correct")
+        print( "bestMass: ", pOutMass )
 
         bBatMass  = outs[0]
         bSolMass  = outs[2]
-        bRTGCount = int(outs[1])
+        bRTGCount = int(outs[1]) 
 
         return bBatMass, bSolMass, bRTGCount
 
 class MultiConfigurationOptamiser:
-
     sampleCount = 0
     inSunPowerDemands     = []
     inEclipsePowerDemands = []
@@ -373,6 +447,10 @@ class MultiConfigurationOptamiser:
     optimalRTGCounts      = []
     optimalBatteryMasses  = []
     optimalSolarMasses    = []
+    fianlLowestBatStates  = []
+
+    inSunPowerRange = []
+    inEclPowerRange = []
 
     cIndex = 0
 
@@ -388,15 +466,19 @@ class MultiConfigurationOptamiser:
 
         for sunIndex in range(0, sunSampleCount):
             cSunPower = minInSunPower + (sunIndex*inSunRange/sunSampleCount)
+            this.inSunPowerRange.append( cSunPower )
+
             for eclipseIndex in range(0, eclipseSampleCount):
                 cEclipsePower = minInEclipsePower + (eclipseIndex*inEclipseRange/eclipseSampleCount)
                 this.inSunPowerDemands.append( cSunPower )
                 this.inEclipsePowerDemands.append( cEclipsePower )
 
+                if ( len(this.inEclPowerRange) < eclipseSampleCount ):
+                    this.inEclPowerRange.append( cEclipsePower )
+
         this.sampleCount = sunSampleCount*eclipseSampleCount
 
-    def findOptimalAmounts( this, envSim ):
-        
+    def findOptimalAmounts( this, envSim ): 
         for i in range(0, this.sampleCount ):
             this.cIndex = i
             optamiser = PowerOptamiser( envSim, this.consumptionFunction )
@@ -407,7 +489,48 @@ class MultiConfigurationOptamiser:
             this.optimalBatteryMasses.append( bBatMass )
             this.optimalSolarMasses.append( bSolMass )
 
+            lowestCapacity = ProbeState( bRTGCount, bSolMass, bBatMass, this.consumptionFunction ).genPowerData( envSim )[2]
+            this.fianlLowestBatStates.append( lowestCapacity )
+
         return
+
+    def plotOptimals( this ):
+        inEclPowerRange = np.array( this.inEclPowerRange ) # xaxis
+        inSunPowerRange = np.array( this.inSunPowerRange ) # yaxis
+
+        ecP, suP = np.meshgrid( inEclPowerRange, inSunPowerRange )
+        
+        gridShape = ecP.shape
+
+        massGrid    = np.array( this.optimalMasses ).reshape( gridShape )
+        rtgCGrid    = np.array( this.optimalRTGCounts ).reshape( gridShape )
+        solarGrid   = np.array( this.optimalSolarMasses ).reshape( gridShape )
+        batteryGrid = np.array( this.optimalBatteryMasses ).reshape( gridShape )
+
+        plot.figure( 5409 )
+        plot.title("Minimum mass for power requirements")
+        plot.xlabel("Power consumption in eclipse (Watts)")
+        plot.ylabel("Power consumption in light (Watts)")
+        plot.colorbar( plot.contourf( ecP, suP, massGrid, 60 ) )
+
+        plot.figure( 54029 )
+        plot.title("RTG count at power requirements")
+        plot.xlabel("Power consumption in eclipse (Watts)")
+        plot.ylabel("Power consumption in light (Watts)")
+        plot.colorbar( plot.contourf( ecP, suP, rtgCGrid, max(this.optimalRTGCounts)-min(this.optimalRTGCounts) ) ) 
+
+        plot.figure( 54039 )
+        plot.title("Solar panel mass at power requirements (kg)")
+        plot.xlabel("Power consumption in eclipse (Watts)")
+        plot.ylabel("Power consumption in light (Watts)")
+        plot.colorbar( plot.contourf( ecP, suP, solarGrid, 60 ) )
+
+        plot.figure( 54409 )
+        plot.title("Battery mass at power requirements (kg)")
+        plot.xlabel("Power consumption in eclipse (Watts)")
+        plot.ylabel("Power consumption in light (Watts)")
+        plot.colorbar( plot.contourf( ecP, suP, batteryGrid, 60 ) )
+        
 
     def consumptionFunction( this, inSolarEclipse, inJupiterEclipse, jupiterSeperation ):
         if ( inSolarEclipse or inJupiterEclipse ):
@@ -416,7 +539,7 @@ class MultiConfigurationOptamiser:
             return this.inEclipsePowerDemands[ this.cIndex ]
 
 
-dt = 4600
+dt = 180
 
 
 
@@ -429,17 +552,23 @@ print("3 year (phase 2) longest eclipse", getLongestEclipse( envSim, 365*3, dt, 
 """
 probeOpt = PowerOptamiser( envSim, exampleConsumptionFunction )
 
-bBatMass, bSolMass, bRTGCount = probeOpt.getOptimalValues()
+bBatMass, bSolMass, bRTGCount = 1.029866, 0, 1 #probeOpt.getOptimalValues()
 
 probeSim = ProbeState( bRTGCount, bSolMass, bBatMass, exampleConsumptionFunction )
-
+print(bBatMass, bSolMass, bRTGCount)
 
 getPowerData( envSim, probeSim )"""
 
-configOpt = MultiConfigurationOptamiser( 100, 400, 100, 800, 4 )
+envSim.trimStoredData( [ [3.34109, 3.34742], [4.94825, 4.9552] ] )
+
+#configOpt = MultiConfigurationOptamiser( 60, 600, 60, 900, 600 )
+configOpt = MultiConfigurationOptamiser( 50, 240, 50, 240, 6000 )
 configOpt.findOptimalAmounts( envSim )
+configOpt.plotOptimals()
 
-displayOrbits()
 
+
+#displayOrbits()
+print("with IO")
 plot.show();
 input("")
