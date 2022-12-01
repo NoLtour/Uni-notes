@@ -369,9 +369,9 @@ def getPowerData( envSim, probeSim ):
     plot.figure( 420 );
     times, powers, ignore, ignore2, ignore3 = probeSim.genPowerData( envSim )
 
-    plot.plot( times/(60*60*24*365), powers/probeSim.init_battery_capacity  );
+    plot.plot( times/(60*60*24*365), powers/(60*60)   );
 
-    plot.ylabel("current power stored (frac)")
+    plot.ylabel("current power stored (Wh)")
     plot.xlabel("time (years)")
 
 class PowerOptamiser:
@@ -397,18 +397,18 @@ class PowerOptamiser:
         trashness = 0
 
         if( lowestCapacity/(batteryMass*BATTERY_CAPACITY_PER_KG) >= 0.9999 ):
-            trashness += overCharge * 50 + 10000
+            trashness += (overCharge * 50/(batteryMass*BATTERY_CAPACITY_PER_KG)) + 10000
         elif ( lowestCapacity <= 0 ): 
-            trashness += 100
+            trashness += 100000000
 
-        trashness += underCharge*10
+        trashness += underCharge
 
         if ( batteryMass<0 or solarMass<0 ):
             trashness += 1000000000000
         
-        trashness += powerMass + ( abs(lowestCapacity-80000)/200 )
+        trashness += powerMass + ( abs(lowestCapacity-80000)/20 )
 
-        #print( "S:",solarMass, "\tB:", batteryMass, "\tR:",rtgCount, "\tL:",lowestCapacity, "\tO:",overCharge , "\tM:",powerMass , "\tt:",trashness )
+       # print( "S:",solarMass, "\tB:", batteryMass, "\tR:",rtgCount, "\tL:",lowestCapacity, "\tO:",overCharge , "\tM:",powerMass , "\tt:",trashness )
 
         this.lastScore = trashness
         return trashness
@@ -417,20 +417,20 @@ class PowerOptamiser:
         maxDraw = max(this.consumptionFunction( True, True, JUPITER_RAD*1.3 ), this.consumptionFunction( False, False, JUPITER_RAD*1.3 ))
 
         initBMass  = 5
-        initRTGs   = int( 0.85 + (maxDraw/RTG_OUTPUT) )
+        initRTGs   = int( 0.8 + (maxDraw/(RTG_OUTPUT*(1-0.060599))) )
         initSMass  = 5
 
-        outs = sp.minimize( this.powerScoringFunction, [initBMass, initRTGs, initSMass],  bounds=[ [0, 50], [0, 10], [0, 50] ], method="Powell", options={ } ).x 
+        outs = sp.minimize( this.powerScoringFunction, [initBMass, initRTGs, initSMass],  bounds=[ [0, 50], [0, 5], [0, 50] ], method="Powell", options={ } ).x 
         pOutMass = outs[0] + outs[2] + (54*int(outs[1]))
-        bRTGCount = int(outs[1])
-        #outs2 = sp.minimize( this.powerScoringFunction, [initBMass, bRTGCount-1, initSMass],  bounds=[ [0, 50], [bRTGCount-1, bRTGCount-1], [0, 50] ], method="Powell", options={ } ).x 
-        #nOutMass = outs[0] + outs[2] + (54*int(outs[1]))
+        bRTGCount = int(outs[1]) 
+        outs2 = sp.minimize( this.powerScoringFunction, [initBMass, bRTGCount-1, initSMass],  bounds=[ [0, 50], [bRTGCount-1, bRTGCount-1], [0, 50] ], method="Powell", options={ } ).x 
+        nOutMass = outs2[0] + outs2[2] + (54*int(outs2[1]))
 
-        #if ( nOutMass < pOutMass ):
-        #    print("switching Outs")
-        #    outs = outs2
-        #elif ( bRTGCount == initRTGs ):
-        #    print("init assumption correct")
+        if ( nOutMass < pOutMass ):
+            print("switching Outs!!!!!!!!!!!!!!!!!!!!!")
+            outs = outs2
+        elif ( bRTGCount == initRTGs ):
+            print("init assumption correct")
         print( "bestMass: ", pOutMass )
 
         bBatMass  = outs[0]
@@ -539,7 +539,7 @@ class MultiConfigurationOptamiser:
             return this.inEclipsePowerDemands[ this.cIndex ]
 
 
-dt = 180
+dt = 1200
 
 
 
@@ -549,20 +549,20 @@ print("2 year (phase 1) longest eclipse", getLongestEclipse( envSim, 365*2 , dt,
 
 envSim.changeOrbit( PROBE_PERIGEE_3YEAR, PROBE_APOGEE_3YEAR )
 print("3 year (phase 2) longest eclipse", getLongestEclipse( envSim, 365*3, dt, True )) 
-"""
-probeOpt = PowerOptamiser( envSim, exampleConsumptionFunction )
+ 
+"""probeOpt = PowerOptamiser( envSim, exampleConsumptionFunction )
 
-bBatMass, bSolMass, bRTGCount = 1.029866, 0, 1 #probeOpt.getOptimalValues()
+bBatMass, bSolMass, bRTGCount = 1.7635247134412746, 46.08615988524932, 1 # probeOpt.getOptimalValues()
 
 probeSim = ProbeState( bRTGCount, bSolMass, bBatMass, exampleConsumptionFunction )
 print(bBatMass, bSolMass, bRTGCount)
 
-getPowerData( envSim, probeSim )"""
+getPowerData( envSim, probeSim ) """
 
 envSim.trimStoredData( [ [3.34109, 3.34742], [4.94825, 4.9552] ] )
 
 #configOpt = MultiConfigurationOptamiser( 60, 600, 60, 900, 600 )
-configOpt = MultiConfigurationOptamiser( 50, 240, 50, 240, 6000 )
+configOpt = MultiConfigurationOptamiser( 50, 240, 50, 600, 200 )
 configOpt.findOptimalAmounts( envSim )
 configOpt.plotOptimals()
 
