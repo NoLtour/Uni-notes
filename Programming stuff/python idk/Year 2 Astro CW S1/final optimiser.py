@@ -195,6 +195,22 @@ LOWEST_RTG_OUTPUT = RTG_OUTPUT*( 1 - (RTG_LOSS_PER_SECOND*TOTAL_MISSION_DURATION
 
 BATTERY_CHARGE_DISCHARGE_EFF = 0.85
 
+
+BASELOAD = 131.9
+TRANSMISSION_LOAD = 3000
+TRANSMISSION_UPLOAD_MbPs = 10
+AV_DATA_COLLECTION_MbPs = 0.05
+MAX_DATA_STORED_Mb = 10000
+HEATING_REQ_ECLIPSE = 0
+PAYLOAD_REQ_SUN = 7.6
+
+def finalConsumptionFunction( inSolarEclipse, inJupiterEclipse, jupiterSeperation ): 
+    if ( inJupiterEclipse ):
+        return BASELOAD + PAYLOAD_REQ_SUN + HEATING_REQ_ECLIPSE
+    else:
+        return BASELOAD
+
+
 class ProbeState:
 
     init_solar_output = 0
@@ -616,17 +632,7 @@ class MultiConfigurationOptamiser:
         else:
             return this.inSunPowerDemands[ this.cIndex ]
 
-BASELOAD = 131.9
-TRANSMISSION_LOAD = 0
-TRANSMISSION_DURATION = 0
-HEATING_REQ_ECLIPSE = 0
-PAYLOAD_REQ_SUN = 7.6
 
-def finalConsumptionFunction( inSolarEclipse, inJupiterEclipse, jupiterSeperation ): 
-    if ( inJupiterEclipse ):
-        return BASELOAD + PAYLOAD_REQ_SUN + HEATING_REQ_ECLIPSE
-    else:
-        return BASELOAD
 
 # 60, 200, 600, 1000
 dt = 60
