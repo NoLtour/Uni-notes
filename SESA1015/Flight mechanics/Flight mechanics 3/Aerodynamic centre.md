@@ -29,7 +29,7 @@ Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from
 >> $x_{AC} =$ distance between aerodynamic centre and centre of gravity
 >> $C_{m_0} =$ ?!?
 >> $c =$ [[Mean chord|Mean aerodynamic chord]]
->> $C_L =$ [[Lift coefficient]]
+>> $C_L =$ [[lift coefficient]]
 >> $h =$ a constant
 
 hence:

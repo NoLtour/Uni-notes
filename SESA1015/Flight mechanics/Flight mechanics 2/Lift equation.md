@@ -10,7 +10,7 @@ tags: ["Question","QFormat3"]
 >> $L =$ Lift
 >> $\rho =$ density of air
 >> $V =$  Velocity
->> $C_L=$ [[Lift coefficient]]
+>> $C_L=$ [[lift coefficient]]
 >> $S=$ [[refrence wing area]]
 
 ^1f2714

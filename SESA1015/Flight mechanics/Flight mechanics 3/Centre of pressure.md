@@ -24,5 +24,5 @@ Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from
 >> $x_{CP} =$ distance between centre of pressure and centre of gravity
 >> $c =$ [[Mean chord|Mean aerodynamic chord]]
 >> $C_{m_0} =$ ?!?
->> $C_L =$ [[Lift coefficient]]
+>> $C_L =$ [[lift coefficient]]
 >> $h =$ a constant

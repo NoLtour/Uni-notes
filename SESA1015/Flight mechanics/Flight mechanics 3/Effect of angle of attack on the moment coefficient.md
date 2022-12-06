@@ -24,7 +24,7 @@ The variation of the [[Pitching moment coefficient]] is:
 >> $C_m =$ [[Pitching moment coefficient]]
 >> $C_{mo} =$ [[Pitching moment coefficient]] at zero lift
 >> $h =$ a constant
->> $C_L =$ [[Lift coefficient]]
+>> $C_L =$ [[lift coefficient]]
 
 ^cfc8b1
-This shows that the moment coefficient varys with the [[Lift coefficient]] which we already know varies with angle of attack.
+This shows that the moment coefficient varys with the [[lift coefficient]] which we already know varies with angle of attack.

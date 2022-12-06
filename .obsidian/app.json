@@ -8,7 +8,7 @@
   "newFileLocation": "current",
   "autoConvertHtml": false,
   "attachmentFolderPath": "images",
-  "spellcheck": true,
+  "spellcheck": false,
   "pdfExportSettings": {
     "pageSize": "Tabloid",
     "landscape": false,

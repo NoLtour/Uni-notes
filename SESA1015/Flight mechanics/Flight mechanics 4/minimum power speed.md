@@ -50,7 +50,7 @@ This relationship is proved [[relating induced drag and form drag at minimum pow
 >> where:
 >> $C_{Do}=$ [[form drag coefficient]]
 >> $k=$ [[induced drag coefficient#^438b96|constant related to wing shape]]
->> $C_L=$ [[Lift coefficient]]
+>> $C_L=$ [[lift coefficient]]
 
 ^0cb1a3
 
@@ -73,4 +73,4 @@ This relationship is proved [[lift to drag ratio at minimum power speed]]
 >> $\frac{L}{D}_{minP}=$ [[lift to drag ratio]] at min power
 >> $C_{Do}=$ [[form drag coefficient]]
 >> $k=$ [[induced drag coefficient#^438b96|constant related to wing shape]]
->> $C_L=$ [[Lift coefficient]]
+>> $C_L=$ [[lift coefficient]]

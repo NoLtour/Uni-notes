@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### Value
 > ### $$C_{LminD} = \sqrt\frac{C_{Do}\pi A}{K} = \sqrt\frac{C_{Do}}{k} $$ 
 >> where:
->> $C_{LminD}=$ [[Lift coefficient]] at min drag 
+>> $C_{LminD}=$ [[lift coefficient]] at min drag 
 >> $C_{Do}=$ [[form drag]] coefficient
 >> $A=$ [[Wing aspect ratio]]
 >> $K=$ [[induced drag coefficient#^fce277|Constant related to wing shape]]

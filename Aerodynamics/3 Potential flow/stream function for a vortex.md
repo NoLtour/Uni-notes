@@ -19,7 +19,7 @@ $$\begin{align*}
 \end{align*}$$
 Using the definition of $c$:
 $$ V_{\theta} = - \frac{\Gamma}{2\pi r} $$
-Then using the same method from [[stream function for uniform flow]] we can get it's stream function using the defs of $V_{\theta}$ and $V_{r}$ which with a bit of [[sometimes I cba to do extra detail on the proofs leave me alone|omitted maths]] gives us:
+Then using the same method from [[stream function for uniform flow]] we can get it's stream function using the defs of $V_{\theta}$ and $V_{r}$ which with a bit of [[sometimes I cba to do extra detail on the proofs leave me alone|omitted maths]] gives us: ^c7a30d
 $$\begin{align*}
 \psi (r,\theta) &= - \frac{\Gamma}{2\pi} \ln r
 \end{align*}$$

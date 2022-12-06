@@ -6,13 +6,13 @@ tags: ["Question","QFormat3","SESA1015"]
 #### What causes the
 ## Induced drag coefficient
 ### Main bit
-This is caused from the downwash the wing uses to produce lift, it increases in proportion to the square of the [[Lift coefficient]] with a relationship of:
+This is caused from the downwash the wing uses to produce lift, it increases in proportion to the square of the [[lift coefficient]] with a relationship of:
 
 > $$ C_{Di} = k C_L^{2} $$ 
 >> where:
 >> $C_{Di} =$ induced drag coefficient
 >> $k =$ a constant
->> $C_L =$ [[Lift coefficient]]
+>> $C_L =$ [[lift coefficient]]
 
 ^4d0b00
 
