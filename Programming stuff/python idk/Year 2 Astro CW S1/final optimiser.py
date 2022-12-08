@@ -173,9 +173,9 @@ POWER_CONTROL = 28
 
 def exampleConsumptionFunction( inSolarEclipse, inJupiterEclipse, jupiterSeperation ): 
     if ( inJupiterEclipse or inSolarEclipse ):
-        return 532
+        return 532 
     else:
-        return 400
+        return 400 
         
 
 
@@ -206,13 +206,7 @@ MAX_DATA_STORED_Mb = AV_DATA_COLLECTION_MbPs*(60*60*36) #60
 
 
 HEATING_REQ_ECLIPSE = 0
-PAYLOAD_REQ_SUN = 7.6
-
-def finalConsumptionFunction( inSolarEclipse, inJupiterEclipse, jupiterSeperation ): 
-    if ( inJupiterEclipse ):
-        return BASELOAD + PAYLOAD_REQ_SUN + HEATING_REQ_ECLIPSE
-    else:
-        return BASELOAD
+PAYLOAD_REQ_SUN = 7.6 
 
 
 class ProbeState:
@@ -287,10 +281,10 @@ class ProbeState:
             
 
             if ( currentEnergy > pEnergy ):
-                currentEnergy -= BATTERY_CHARGE_DISCHARGE_EFF*( currentEnergy - pEnergy )
+                currentEnergy -= (1-BATTERY_CHARGE_DISCHARGE_EFF)*( currentEnergy - pEnergy )
 
             if ( currentEnergy > this.init_battery_capacity ):
-                overProduction.append( (currentEnergy - this.init_battery_capacity)/dt )
+                overProduction.append( (currentEnergy - pEnergy)/dt )
                 
                 overCharge += currentEnergy - this.init_battery_capacity
                 
@@ -670,7 +664,7 @@ class MultiConfigurationOptamiser:
 
 
 # 60, 200, 600, 1000
-dt = 100
+dt = 800
 
 
 

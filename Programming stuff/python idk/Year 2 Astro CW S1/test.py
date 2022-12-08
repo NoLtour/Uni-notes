@@ -251,7 +251,7 @@ class ProbeState:
                 currentEnergy -= dt * ( this.energyConsumtionFunction( cMoonEclipse, cJupEc, cSep ) )
 
             if ( currentEnergy > pEnergy ):
-                currentEnergy -= BATTERY_CHARGE_DISCHARGE_EFF*( currentEnergy - pEnergy )
+                currentEnergy -= (1-BATTERY_CHARGE_DISCHARGE_EFF)*( currentEnergy - pEnergy )
 
             if ( currentEnergy > this.init_battery_capacity ):
                 overCharge += currentEnergy - this.init_battery_capacity
