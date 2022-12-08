@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/4 thin foil/thin symmetric airfoil analysis.md",
+                "file": "Aerodynamics/4 thin foil/thin camvered airfoil analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/4 thin foil/thin symmetric airfoil analysis.md",
+                "file": "Aerodynamics/4 thin foil/thin camvered airfoil analysis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,15 +172,15 @@
   },
   "active": "fa196c0e05871663",
   "lastOpenFiles": [
-    "Aerodynamics/4 thin foil/very nice indeed.md",
+    "Aerodynamics/4 thin foil/it is hard to put into words just how incredibly cursed this equation is.md",
+    "Aerodynamics/4 thin foil/thin camvered airfoil analysis.md",
+    "Aerodynamics/4 thin foil/look sometimes the skill issue is acceptable.md",
     "Aerodynamics/4 thin foil/thin symmetric airfoil analysis.md",
-    "Aerodynamics/4 thin foil/vortex sheet strength.md",
-    "Aerodynamics/4 thin foil/fundemental equation of thin aerofoil theory.md",
     "Aerodynamics/4 thin foil/Thin airfoil theory Overview.md",
     "Aerodynamics/4 thin foil/because it is really really hard.md",
-    "Aerodynamics/4 thin foil/aka the useless form.md",
-    "Aerodynamics/4 thin foil/thin airfoil problem definition.md",
-    "Aerodynamics/4 thin foil/Kelvin's circulation theorem.md",
-    "Aerodynamics/4 thin foil/kutta condition.md"
+    "Aerodynamics/4 thin foil/very nice indeed.md",
+    "Aerodynamics/4 thin foil/vortex sheet strength.md",
+    "Aerodynamics/4 thin foil/fundemental equation of thin aerofoil theory.md",
+    "Aerodynamics/4 thin foil/aka the useless form.md"
   ]
 }

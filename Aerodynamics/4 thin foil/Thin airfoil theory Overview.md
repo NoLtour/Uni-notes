@@ -15,6 +15,7 @@ tags: ["NotesPage"]
 - [[thin airfoil problem definition]]
 - [[fundemental equation of thin aerofoil theory]]
 - [[thin symmetric airfoil analysis]]
+- [[thin camvered airfoil analysis]]
 
 
 ## Expanded articles

@@ -173,9 +173,9 @@ POWER_CONTROL = 28
 
 def exampleConsumptionFunction( inSolarEclipse, inJupiterEclipse, jupiterSeperation ): 
     if ( inJupiterEclipse or inSolarEclipse ):
-        return 472
+        return 532
     else:
-        return 220
+        return 400
         
 
 
@@ -197,7 +197,7 @@ BATTERY_CHARGE_DISCHARGE_EFF = 0.85
 
 
 BASELOAD = 131.9
-TRANSMISSION_LOAD = 360
+TRANSMISSION_LOAD = 1000
 TRANSMISSION_UPLOAD_MbPs = 0.1875
 AV_DATA_COLLECTION_MbPs = 0.00025
 MAX_DATA_STORED_Mb = AV_DATA_COLLECTION_MbPs*(60*60*36) #60 
@@ -670,7 +670,7 @@ class MultiConfigurationOptamiser:
 
 
 # 60, 200, 600, 1000
-dt = 10
+dt = 100
 
 
 

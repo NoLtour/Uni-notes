@@ -659,7 +659,7 @@ getPowerData( envSim, probeSim )
 envSim.trimStoredData( [ [3.272, 3.31], [4.9895, 4.9989 ] ] )
 
 #configOpt = MultiConfigurationOptamiser( 60, 900, 60, 900, 4000 )
-configOpt = MultiConfigurationOptamiser( 60, 300, 120, 800, 1000)
+configOpt = MultiConfigurationOptamiser( 200, 500, 250, 700, 2000)
 #configOpt = MultiConfigurationOptamiser( 280, 300, 240, 620, 100 )
 configOpt.findOptimalAmounts( envSim )
 configOpt.plotOptimals()

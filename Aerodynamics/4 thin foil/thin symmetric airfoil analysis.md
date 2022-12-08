@@ -65,6 +65,17 @@ C_{l} = \frac{L'}{\frac{1}{2} \rho V_{\infty}^{2}c}&= 2\pi\alpha\\
 \frac{dC_{l}}{d\alpha}&= 2\pi
 \end{align*}$$
 
+### Analysis of vortex distrobution
+
+![[Pasted image 20221208125332.png]]
+
+This is the result of plotting the vortex equation we used earlyer, once converted into cartesian form (right graph) you get a more intuitive look at the distrobution. Something that should be kept in mind is as shown in previous section ([[vortex sheet strength#Sheet strength and pressure]]) we know that:
+$$ \gamma \propto \Delta P $$
+Meaning according to our gamma function the pressure difference decreases from infinity to zero along the length of the foil, (of course this isn't the case in real life but a simular shape is followed). This extreme pressure distrobution actually leads to boundary layer seperation (if you include [[viscosity]]) on the leading edge:
+![[Pasted image 20221208125817.png]]
+
+The area where flow is detached leads to a region where the pressure does not follow the distrobution predicted by $\gamma$ and reduces lift.
+
 ### Pitching moment
 
 #### Equations
