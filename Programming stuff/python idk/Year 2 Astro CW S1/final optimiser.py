@@ -664,7 +664,7 @@ class MultiConfigurationOptamiser:
 
 
 # 60, 200, 600, 1000
-dt = 800
+dt = 10
 
 
 
