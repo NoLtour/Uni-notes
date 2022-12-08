@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "deffc5c14bbf3c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/4 thin foil/very nice indeed.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "5192cf03fc2fc4be",
             "type": "leaf",
             "state": {
@@ -160,15 +172,15 @@
   },
   "active": "fa196c0e05871663",
   "lastOpenFiles": [
+    "Aerodynamics/4 thin foil/very nice indeed.md",
+    "Aerodynamics/4 thin foil/thin symmetric airfoil analysis.md",
     "Aerodynamics/4 thin foil/vortex sheet strength.md",
     "Aerodynamics/4 thin foil/fundemental equation of thin aerofoil theory.md",
-    "Aerodynamics/4 thin foil/thin symmetric airfoil analysis.md",
     "Aerodynamics/4 thin foil/Thin airfoil theory Overview.md",
     "Aerodynamics/4 thin foil/because it is really really hard.md",
     "Aerodynamics/4 thin foil/aka the useless form.md",
     "Aerodynamics/4 thin foil/thin airfoil problem definition.md",
     "Aerodynamics/4 thin foil/Kelvin's circulation theorem.md",
-    "Aerodynamics/4 thin foil/kutta condition.md",
-    "Aerodynamics/4 thin foil/yes fuck you I used pog.md"
+    "Aerodynamics/4 thin foil/kutta condition.md"
   ]
 }
