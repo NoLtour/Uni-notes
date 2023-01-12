@@ -17,6 +17,9 @@ Then we can use the identity of [[circulation]], but first we need to know the a
 $$\begin{align*}
 \Gamma &= \int_{C} \vec{V} \cdot d\vec{s} && \to &  \Gamma &= \int_{0}^{2\pi} \vec{V} \cdot rd\theta && \to &  \Gamma &= \int_{0}^{2\pi} c d\theta \\&&&&&&&&&= -2\pi c
 \end{align*}$$
+
+^285fcd
+
 Using the definition of $c$:
 $$ V_{\theta} = - \frac{\Gamma}{2\pi r} $$
 Then using the same method from [[stream function for uniform flow]] we can get it's stream function using the defs of $V_{\theta}$ and $V_{r}$ which with a bit of [[sometimes I cba to do extra detail on the proofs leave me alone|omitted maths]] gives us: ^c7a30d

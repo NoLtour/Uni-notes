@@ -25,7 +25,7 @@ As you can see $L/D$ will cancel everything out so lift to drag ratio:
 >> $C_{Do} =$ [[profile drag coefficient]]
 >> $C_L=$ [[lift coefficient]]
 >> $K =$ constant (see [[induced drag coefficient#^fce277]])
->> $A =$ [[Wing aspect ratio]]
+>> $A =$ [[wing aspect ratio]]
 
 ^3e1672
 Typical values for L/D ratio are ~8, 10 being quite good

@@ -26,7 +26,7 @@ The constant $k$ from above can be calculated using:
 >> where:
 >> $k =$ a constant from [[induced drag coefficient#^4d0b00|this equation]]
 >> $K =$ another constant
->> $A =$ [[Wing aspect ratio]]
+>> $A =$ [[wing aspect ratio]]
 
 ^438b96
 

@@ -11,7 +11,7 @@ This is basically just top down 2D representation of a wings area, the complicat
 >> where:
 >> $S=$ Wing plan area 
 >> $b=$ [[Wing span]]
->> $A=$ [[Wing aspect ratio]]
+>> $A=$ [[wing aspect ratio]]
 >> $\bar{c}=$ [[Mean chord|Mean aerodynamic chord]]
 
 ### Net wing area ($S_N$)

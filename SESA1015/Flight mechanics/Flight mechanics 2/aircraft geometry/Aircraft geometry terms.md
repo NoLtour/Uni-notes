@@ -18,6 +18,6 @@ tags: ["Question","QFormat3"]
 > - $S_W=$ [[Wetted area of component]]
 
 > Shape parameters:
-> - $\lambda=$ [[Taper ratio]]
-> - $\Lambda=$ [[Wing sweep]]
-> - $A =$ [[Wing aspect ratio]]
+> - $\lambda=$ [[taper ratio]]
+> - $\Lambda=$ [[wing sweep]]
+> - $A =$ [[wing aspect ratio]]

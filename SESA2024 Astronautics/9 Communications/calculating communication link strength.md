@@ -8,6 +8,14 @@ tags: []
 To calculate the strength of a received signal we need to know the receiver's area, the transmitters [[antenna gain|gain]] and the distance between them:
 ![[Pasted image 20221123233952.png]]
 
+Effectively what this equation is calculating is comparing:
+- Signal transmission power
+- Signal receiver sensitivity
+- Signal power loss during transmission
+- Signal lost due to atmospheric effects
+
+And then seeing if it's stronger than the background noise, sufficiently to get data from it.
+
 > ### $$ \frac{C}{N_{0}}  = P_{T}G_{T} \left(\frac{ G_{R} }{k_{B}T_{R}} \right)\left(\frac{ 1 }{ L_{FS} L_{A} }  \right) $$ 
 > ### $$ L_{FS}  = \left(\frac{4\pi\rho}{\lambda}\right)^{2} $$ 
 >> where:
