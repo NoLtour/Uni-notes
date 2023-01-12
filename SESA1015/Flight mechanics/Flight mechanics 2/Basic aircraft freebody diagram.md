@@ -11,7 +11,7 @@ Here:
 $R =$ [[Aerodynamic Reaction]]
 $V =$ [[relative wind]]
 $CG =$ Centre of gravity (note this is important for [[Flight path]])
-$\alpha =$ [[Angle of attack]]
+$\alpha =$ [[angle of attack]]
 
 (also note that [[typical length]] ($l$) may be included in the diagram as well)
 

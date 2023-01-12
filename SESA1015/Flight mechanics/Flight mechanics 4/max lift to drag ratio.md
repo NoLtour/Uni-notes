@@ -22,7 +22,7 @@ Remember since $L=W$.
 >> where:
 >> $(L/D)_{max}=$ [[max lift to drag ratio]]
 >> $C_{Do}=$ [[form drag coefficient]]
->> $A=$ [[Wing aspect ratio]]
+>> $A=$ [[wing aspect ratio]]
 >> $K=$ [[induced drag coefficient#The K and the k|a constant]]
 
 ^570509

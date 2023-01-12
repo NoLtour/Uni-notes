@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["AOA"]
 tags: ["Question","QFormat3"]
 ---
 

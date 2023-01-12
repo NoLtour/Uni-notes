@@ -8,67 +8,102 @@
         "type": "tabs",
         "children": [
           {
-            "id": "946e6c9cc0a9262d",
+            "id": "d404f69703d28712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/volume integral.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "75023c638640a863",
+            "id": "afa12ef2ca7152f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/4 thin foil/fundemental equation of thin aerofoil theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa196c0e05871663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/4 thin foil/thin camvered airfoil analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deffc5c14bbf3c6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/4 thin foil/very nice indeed.md",
+                "file": "SESA2024 Astronautics/6 Attitude control/gyroscopic rigidity.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "5192cf03fc2fc4be",
+            "id": "df7861809db9c732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/4 thin foil/thin airfoil problem definition.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Turbulant Flow for a laminar boundary layer Overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e58c108392b19475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/Viscous Flow for a laminar boundary layer Overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "36e639711a480d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1c69d5cea2370151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "743e2f57ba231573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/4 thin foil/air foil shape and leading edge stall.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9e7b98f3a8f207da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/4 thin foil/thin camvered airfoil analysis.md",
+                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/volume integral.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,17 +205,31 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "fa196c0e05871663",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "d404f69703d28712",
   "lastOpenFiles": [
-    "Aerodynamics/4 thin foil/it is hard to put into words just how incredibly cursed this equation is.md",
-    "Aerodynamics/4 thin foil/thin camvered airfoil analysis.md",
-    "Aerodynamics/4 thin foil/look sometimes the skill issue is acceptable.md",
-    "Aerodynamics/4 thin foil/thin symmetric airfoil analysis.md",
-    "Aerodynamics/4 thin foil/Thin airfoil theory Overview.md",
-    "Aerodynamics/4 thin foil/because it is really really hard.md",
-    "Aerodynamics/4 thin foil/very nice indeed.md",
-    "Aerodynamics/4 thin foil/vortex sheet strength.md",
-    "Aerodynamics/4 thin foil/fundemental equation of thin aerofoil theory.md",
-    "Aerodynamics/4 thin foil/aka the useless form.md"
+    "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/flux integrals.md",
+    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
+    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/problem sheet I.pdf",
+    "SESA2024 Astronautics/8 Power subsystem/Power subsystem overview.md",
+    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+    "SESA2024 Astronautics/3 Launch Vehicles/Launch Vehicles overview.md",
+    "SESA2024 Astronautics/3 Launch Vehicles/the basic rocket equation.md"
   ]
 }

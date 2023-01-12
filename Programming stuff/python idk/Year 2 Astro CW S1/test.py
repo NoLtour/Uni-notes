@@ -629,7 +629,7 @@ def finalConsumptionFunction( inSolarEclipse, inJupiterEclipse, jupiterSeperatio
         return BASELOAD
 
 # 60, 200, 600, 1000
-dt = 90
+dt = 2000
 
 
 

@@ -8,9 +8,10 @@ tags: []
 So you know how for [[flow over a rotating cylinder]] when we did all that work for finding drag and it just turned out to be zero? Well turns out that for a potential flow it is __always__ zero regardless of shape or free stream. The result found for the lift is also always $L'=\rho V_{\infty} \Gamma$.
 
 Put in a nice format:
-
+[[2D and 3D lift coefficient]]
 > ## $$ D' = 0 $$ 
 > ## $$ L' = \rho V_{\infty} \Gamma = \rho ( \vec{V}_{\infty}  \times \vec\Gamma  ) $$ 
+> ## $$ C_{l} = \frac{\Gamma}{\frac{1}{2}V_{\infty} c}$$ 
 >> where:
 >> $D'=$ drag per unit length
 >> $L'=$ lift per unit length

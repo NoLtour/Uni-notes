@@ -25,5 +25,5 @@ Now we have an equation for the coefficient of lift at minimum drag
 >> where:
 >> $C_{L_{MD}}=$ lift coefficient at minimum drag
 >> $K=$ [[induced drag coefficient|a constant related to wing planform]]
->> $A=$ [[Wing aspect ratio]]
+>> $A=$ [[wing aspect ratio]]
 >> $C_{Do}=$ [[profile drag coefficient]]

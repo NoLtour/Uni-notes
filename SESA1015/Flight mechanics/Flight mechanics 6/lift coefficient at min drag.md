@@ -10,7 +10,7 @@ tags: ["Question","QFormat3"]
 >> where:
 >> $C_{LminD}=$ [[lift coefficient]] at min drag 
 >> $C_{Do}=$ [[form drag]] coefficient
->> $A=$ [[Wing aspect ratio]]
+>> $A=$ [[wing aspect ratio]]
 >> $K=$ [[induced drag coefficient#^fce277|Constant related to wing shape]]
 >> $k=$ [[induced drag coefficient#^438b96|Another constant relating to wing shape]]
 

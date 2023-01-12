@@ -13,7 +13,7 @@ $$\begin{align*}
 \frac{dC_{mG}}{d\alpha} &< 0 
 \end{align*}$$
 $dC_{mG}$ being the pitching moment about the centre of gravity
-$\alpha$ being the [[Angle of attack]]
+$\alpha$ being the [[angle of attack]]
 
 So to calculate this we will need an expression for $C_{mG}$ interms of $\alpha$. Introducing "maths":
 

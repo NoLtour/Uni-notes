@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 
 ![[Pasted image 20211123174004.png]]
 
-We can model [[Angle of attack]] as $\theta$ then work with that to define useful relationships
+We can model [[angle of attack]] as $\theta$ then work with that to define useful relationships
 
 #### Angle of attack
 We can get a descent approximation of angle of attack from the [[lift to drag ratio]] using the method below:
