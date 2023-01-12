@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/4 thin foil/thin camvered airfoil analysis.md",
+                "file": "Aerodynamics/4 thin foil/very nice indeed.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,10 +170,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "fa196c0e05871663",
+  "active": "deffc5c14bbf3c6b",
   "lastOpenFiles": [
-    "Aerodynamics/4 thin foil/it is hard to put into words just how incredibly cursed this equation is.md",
     "Aerodynamics/4 thin foil/thin camvered airfoil analysis.md",
+    "Aerodynamics/4 thin foil/it is hard to put into words just how incredibly cursed this equation is.md",
     "Aerodynamics/4 thin foil/look sometimes the skill issue is acceptable.md",
     "Aerodynamics/4 thin foil/thin symmetric airfoil analysis.md",
     "Aerodynamics/4 thin foil/Thin airfoil theory Overview.md",
