@@ -8,102 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d404f69703d28712",
+            "id": "9a8609055ee1f066",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SESA2024 Astronautics/Year 1/Slides/Astronautics - Environment.pdf"
+              }
+            }
+          },
+          {
+            "id": "4356e42c405f018d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/volume integral.md",
+                "file": "SESA2024 Astronautics/Astro overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "afa12ef2ca7152f4",
+            "id": "9994d98eaff1d0aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/6 Attitude control/gyroscopic rigidity.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "df7861809db9c732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Turbulant Flow for a laminar boundary layer Overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e58c108392b19475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/2 Laminar boundary layer/Viscous Flow for a laminar boundary layer Overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "36e639711a480d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1c69d5cea2370151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "743e2f57ba231573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/4 thin foil/air foil shape and leading edge stall.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e7b98f3a8f207da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +73,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -153,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 349.5
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -169,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/volume integral.md",
+                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,17 +158,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d404f69703d28712",
+  "active": "9994d98eaff1d0aa",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/flux integrals.md",
-    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
-    "Mathematics for Engineering and the Environment/Year 2/2,3 Fourier stuff/Fourier Series Overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/problem sheet I.pdf",
-    "SESA2024 Astronautics/8 Power subsystem/Power subsystem overview.md",
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "SESA2024 Astronautics/3 Launch Vehicles/Launch Vehicles overview.md",
-    "SESA2024 Astronautics/3 Launch Vehicles/the basic rocket equation.md"
+    "SESA2024 Astronautics/Astro overview.md",
+    "SESA2024 Astronautics/Year 2 slides/SESA2024 Astronautics - Chapter 6 - Attitude Control - original slides(1).pdf",
+    "SESA2024 Astronautics/Year 1/Slides/Astronautics - Environment.pdf",
+    "SESA2024 Astronautics/6 Attitude control/categories for spacecraft stabilisation.md",
+    "SESA2024 Astronautics/6 Attitude control/spin stabilising a spacecraft.md",
+    "SESA2024 Astronautics/6 Attitude control/nutation.md",
+    "SESA2024 Astronautics/7 Propulsion intro/specific impulse.md",
+    "SESA2024 Astronautics/7 Propulsion intro/Intro into propulsion overview.md",
+    "SESA2024 Astronautics/6 Attitude control/Attitude control overview.md",
+    "SESA2024 Astronautics/8 Power subsystem/Power subsystem overview.md"
   ]
 }
