@@ -6,7 +6,11 @@ tags: ["NotesPage"]
 # Introduction to longitudinal stability
 (oh yeah, the formats changed. I've realized that this is a better more [[based and so redpilled I overdosed|based]] way to layout the notes pages)
 #### Tunez
-![[Damn this is pog.mp3#play]]
+V Outdated and trash (year 1)
+![[Damn this is pog.mp3]]
+
+V my taste has improved (year 2)
+![[☢CAUTION!!☢ 東方 Touhou Metal_Rock 169  ☢CAUTION!!☢.mp3]]
 
 #### Intro and contents
 - Enjoy the fact that next week is just revision (probably)

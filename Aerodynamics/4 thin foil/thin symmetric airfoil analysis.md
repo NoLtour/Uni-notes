@@ -81,7 +81,7 @@ The area where flow is detached leads to a region where the pressure does not fo
 #### Equations
 
 > ### $$\begin{align*}   C_{m,LE} &= - \frac{C_{l}}{4}  \end{align*}$$
-> ### $$\begin{align*}   C_{m,c/4} &= C_{m,LE}+ \frac{C_{l}}{4}  \end{align*}$$
+> ### $$\begin{align*}   C_{m,c/4} &= C_{m,LE}+ \frac{C_{l}}{4} =0 \end{align*}$$
 >> where:
 >> $=$ 
 >> $=$

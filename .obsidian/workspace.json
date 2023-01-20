@@ -11,38 +11,124 @@
             "id": "9a8609055ee1f066",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SESA2024 Astronautics/Year 1/Slides/Astronautics - Environment.pdf"
-              }
-            }
-          },
-          {
-            "id": "4356e42c405f018d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/Astro overview.md",
+                "file": "Aerodynamics/3 Potential flow/Potential flow Overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "9994d98eaff1d0aa",
+            "id": "d39ebbb82ca45e77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Turbulant Flow for a laminar boundary layer Overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e8173b7f7ea2945d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6009ff8a6b83290c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/4 thin foil/thin cambered airfoil analysis.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "51b520952271aa81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4b6193c1a5fd99b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cea815fc3ce9594f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4b1eb322bcdff246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerodynamics/5 finite wing theory/elliptic lift distrobution analysis.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ff6370ae276a54bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1fb17ad00ce2da51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -71,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bern",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -88,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,17 +245,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9994d98eaff1d0aa",
+  "active": "1fb17ad00ce2da51",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/Astro overview.md",
-    "SESA2024 Astronautics/Year 2 slides/SESA2024 Astronautics - Chapter 6 - Attitude Control - original slides(1).pdf",
-    "SESA2024 Astronautics/Year 1/Slides/Astronautics - Environment.pdf",
-    "SESA2024 Astronautics/6 Attitude control/categories for spacecraft stabilisation.md",
-    "SESA2024 Astronautics/6 Attitude control/spin stabilising a spacecraft.md",
-    "SESA2024 Astronautics/6 Attitude control/nutation.md",
-    "SESA2024 Astronautics/7 Propulsion intro/specific impulse.md",
-    "SESA2024 Astronautics/7 Propulsion intro/Intro into propulsion overview.md",
-    "SESA2024 Astronautics/6 Attitude control/Attitude control overview.md",
-    "SESA2024 Astronautics/8 Power subsystem/Power subsystem overview.md"
+    "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
+    "Aerodynamics/4 thin foil/air foil shape and leading edge stall.md",
+    "Aerodynamics/4 thin foil/2D and 3D lift coefficient.md",
+    "Aerodynamics/5 finite wing theory/elliptic lift distrobution analysis.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
+    "Aerodynamics/4 thin foil/thin cambered airfoil analysis.md",
+    "Aerodynamics/4 thin foil/Thin airfoil theory Overview.md",
+    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
+    "Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/Turbulant Flow for a laminar boundary layer Overview.md",
+    "Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md"
   ]
 }
