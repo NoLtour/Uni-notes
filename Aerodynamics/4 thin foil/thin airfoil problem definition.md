@@ -16,10 +16,10 @@ To simplify further we assume that due to the airfoil having a small angle of at
 We represent distance along this line using $\xi$, the verticle veloicty $w\approx w'$  due to the smallness of what was mentioned previously
 
 ### Freestream velocity approximation
-Since we are taking $\alpha$ to be small:
+Since we are taking $\alpha$ to be small (using [[I do not have a page on these since they are so easy lol|small angle approximations]]):
 
 $$\begin{align*}
-\vec{V}_{\infty} &= V_{\infty} ( \hat{{i}}\cos\alpha + \hat{{j}}\sin\alpha ) & &\to & \vec{V}_{\infty} &\approx V_{\infty} ( \hat{{i}} + \hat{{k}}\alpha ) 
+\vec{V}_{\infty} &= V_{\infty} ( \hat{{i}}\cos\alpha + \hat{{k}}\sin\alpha ) & &\to & \vec{V}_{\infty} &\approx V_{\infty} ( \hat{{i}} + \hat{{k}}\alpha ) 
 \end{align*}$$
 
 
@@ -38,6 +38,6 @@ $$\begin{align*}
 $$\begin{align*}
 \vec{V}\cdot\vec{n}&= 0\\
 ( 1\times(V_{\infty}\alpha+w) ) + \left( -\frac{dz}{dx} \times V_{\infty} \right) &= \\
-w + V_{\infty} \left(\alpha -\frac{dz}{dx}\right)   &= 
+w + V_{\infty} \left(\alpha -\frac{dz}{dx}\right)   &= \\
 -V_{\infty} \left(\alpha -\frac{dz}{dx}\right)   &= w
 \end{align*}$$

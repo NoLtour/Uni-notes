@@ -9,3 +9,5 @@ Yes I have a meme for that. I have 800 (at the time of writing this), there are 
 ![[video0_4 1.mp4]]
 
 Rookie numbers, the meme folder has passed 2000
+
+- note from year 2 the folder is now 4000 :trol:

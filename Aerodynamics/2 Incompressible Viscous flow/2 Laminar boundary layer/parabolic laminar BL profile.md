@@ -21,3 +21,4 @@ We've seen how to derive the formulas for multiple important characteristics of 
 >>
 >> Laminar flow on a flat plate.
 
+![[Pasted image 20230118100600.png]]
