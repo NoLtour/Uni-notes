@@ -44,7 +44,7 @@ This heavily approximated result actually is quite accurate for laminar boundary
 > ## $$  \frac{ \delta   }{L } \underset{\sim}{\propto} \frac{1}{\sqrt{Re_{L}}}  $$  
 >> where:
 >> $\delta=$ [[boundary layer displacement thickness|displacement thickness]] 
->> $Re_{L}=$ [[reynolds number]] for length $L$
+>> $Re_{L}=$ [[Reynolds number]] for length $L$
 >> $L=$ plate length
 
 The solution for [[boundary layer|turbulent boundary layers]] is actually quite similar: $\frac{ \delta   }{L } \underset{\sim}{\propto} \frac{1}{{Re_{L}^{0.2}}}$

@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "9e551e94a7cbdc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SESA2024 Astronautics/7 Propulsion intro/specific impulse.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "978f2389f1d8fb51",
             "type": "leaf",
             "state": {
@@ -42,9 +30,45 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a4d9ed728bed48ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermodynamics/Propulsion (year 2)/momentum conservation applied to a rocket engine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "296e47e5561fb041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/stress concentration at a crack tip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d866d26b32ac84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/stress concentration at a crack tip.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,17 +184,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "978f2389f1d8fb51",
+  "active": "296e47e5561fb041",
   "lastOpenFiles": [
-    "SESA2024 Astronautics/5 Mission analysis/keplers laws of orbital motion.md",
-    "SESA2024 Astronautics/9 Communications/Communications overview.md",
-    "SESA2024 Astronautics/Astro overview.md",
-    "SESA2024 Astronautics/10 Thermal control/Thermal control overview.md",
-    "SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
-    "SESA2024 Astronautics/7 Propulsion intro/specific impulse.md",
-    "SESA2024 Astronautics/3 Launch Vehicles/the basic rocket equation.md",
-    "SESA2024 Astronautics/5 Mission analysis/ellipse.md",
-    "SESA2024 Astronautics/10 Thermal control/radiation incidence behaviour.md"
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/2 Stress concentration/Griffith approach for critical stress.md",
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/stress concentration at a crack tip.md",
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/now the new shit starts.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/2 Stress concentration/Stress concentration notes.md",
+    "Mechanics structures and materials/Year 1/Materials/Materials read order.md",
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/I want a meme.md",
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
+    "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
+    "Thermodynamics/Propulsion (year 2)/momentum conservation applied to a rocket engine.md"
   ]
 }

@@ -1,1 +1,0 @@
-![[3rkwlucitzk81.png|300]]
