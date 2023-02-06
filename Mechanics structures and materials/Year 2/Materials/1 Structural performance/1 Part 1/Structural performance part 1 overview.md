@@ -8,6 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[Stress concentration notes]]
 - [[stress concentration at a crack tip]]
-
+- [[stress intensity factor]]
+- [[loading modes]]
 
 ## Expanded articles

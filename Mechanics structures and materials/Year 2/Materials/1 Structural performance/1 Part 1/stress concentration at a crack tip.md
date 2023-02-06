@@ -38,3 +38,4 @@ $$\begin{align*}
 >> $\gamma_{e}=$ surface energy per unit area (crack area work term)
 
 We know from previous materials stuff that plastic deformation can take a lot more energy in than elastic deformation hence why $\gamma_{p}>>\gamma_{e}$. Which helps explain why materials which can experience plastic deformation (such as ductile materials) tend to be much [[toughness|thougher]] than [[ductility|brittle]] materials.
+

@@ -6,7 +6,7 @@ tags: ["NotesPage"]
 # Fracture mechanics notes
 
 #### Intro and contents
-- [[stress intensity factor]]
+- [[stress intensity factor (Year 1)]]
 - [[critical stress intensity factor]]
 - [[griffith energys relationship with stress intensity factor]]
 
@@ -14,7 +14,7 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
-![[stress intensity factor]]
+![[stress intensity factor (Year 1)]]
 
 ![[critical stress intensity factor]]
 

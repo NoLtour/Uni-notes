@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Griffith energys relationship with stress intensity factor
 From:
 - [[Griffith approach]]
-- [[stress intensity factor]]
+- [[stress intensity factor (Year 1)]]
 
 We get the equation:
 $$\begin{align*}
