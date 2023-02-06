@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/loading modes.md",
+                "file": "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,11 +148,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3fd1b2dee73d122a",
+  "active": "c7162a887bcc7613",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/loading modes.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
     "Mechanics structures and materials/Year 1/Materials/Materials read order.md",
-    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/loading modes.md",
     "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
     "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
