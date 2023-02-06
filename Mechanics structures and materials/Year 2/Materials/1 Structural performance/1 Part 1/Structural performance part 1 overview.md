@@ -10,5 +10,6 @@ tags: ["NotesPage"]
 - [[stress concentration at a crack tip]]
 - [[stress intensity factor]]
 - [[loading modes]]
+- [[examples of fatigue failures]]
 
 ## Expanded articles
