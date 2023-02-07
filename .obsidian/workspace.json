@@ -15,7 +15,7 @@
               "state": {
                 "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/aircraft jet engine efficiency.md",
+                "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,17 +183,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e499acf130e84a89",
+  "active": "3fd1b2dee73d122a",
   "lastOpenFiles": [
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/the notes also cba on this so get fucked lol.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/aircraft jet engine efficiency.md",
+    "Thermodynamics/Propulsion (year 2)/1 Introduction/thrust specific fuel consumption.md",
+    "Thermodynamics/Propulsion (year 2)/1 Introduction/the notes also cba on this so get fucked lol.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/yes I am using stupid internet slang in my notes fuck you.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/math vomit is great.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a jet engine.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
     "Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a rocket engine.md",
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/you did not expect an amongus meme huh.md",
-    "Thermodynamics/Propulsion (year 2)/Propulsion overview.md"
+    "Thermodynamics/Propulsion (year 2)/1 Introduction/you did not expect an amongus meme huh.md"
   ]
 }

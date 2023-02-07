@@ -61,6 +61,15 @@ $$\begin{align*}
 \eta_{P} &= \frac{2}{\frac{V_{j}}{V_{\infty}} + 1}
 \end{align*}$$
 
+
+
+> ### $$\begin{align*}  \eta_{P} &= \frac{2}{\frac{V_{j}}{V_{\infty}} + 1}\end{align*}$$
+>> where:
+>> $\eta_{P}=$  [[aircraft jet engine efficiency|propulsive efficiency]]
+>> $V_{\infty}=$ vehicle velocity
+>> $V_{jet}=$ exhaust velocity 
+
+
 That is so much cleaner... we can also use the principles above to clean up our jet thrust equation:
 
 $$\begin{align*}
@@ -106,6 +115,9 @@ $$\begin{align*}
 >> $\eta_{O}=$  overall jet efficiency
 >> $V_{\infty}=$ vehicle velocity
 >> $V_{jet}=$ exhaust velocity
+>> $f=$ [[momentum conservation applied to a jet engine|fuel to air ratio]]
+>> $\text{TSFC}=$ [[thrust specific fuel consumption]]
+>> $\text{LCV}=$ fuel lower calorific value
 
 ### Thermal efficiency
 
@@ -125,6 +137,14 @@ $$\begin{align*}
 \end{align*}$$
 
 This result can be verified using $\eta_{O} = \eta_{P} \times \eta_{th}$ but [[the notes also cba on this so get fucked lol|I cba]]. 
+
+> ### $$\begin{align*}     \eta_{th}&= \frac{1}{2} \frac{V_{j}^{2} - V^{2}}{f \times \text{LCV}} \end{align*}$$
+>> where:
+>> $\eta_{th}=$  jet thermal efficiency
+>> $V_{\infty}=$ vehicle velocity
+>> $V_{jet}=$ exhaust velocity
+>> $f=$ [[momentum conservation applied to a jet engine|fuel to air ratio]] 
+>> $\text{LCV}=$ fuel lower calorific value
 
 The reason for splitting up the overall efficiency in the thermal and propulsive part is so that we can more easily see how to optimize each component. We already observed that the propulsive efficiency can be improved by reducing the difference between the jet speed and aircraft speed, and consequently the need for large air mass flow rates. For the thermal efficiency, we can use our knowledge of [[Brayton cycle]]s from part 1 thermofluids. We will go into more detail later in the module, but for an ideal Brayton cycle the thermal efficiency will increase with the overall pressure ratio, which is directly related to the temperature ratio.
 
