@@ -21,4 +21,4 @@ $$\begin{align*}
 \dot{m} V_{ex} &= \sum\limits F\\
 
 \end{align*}$$
-
+Sum of forces is just resultant force
