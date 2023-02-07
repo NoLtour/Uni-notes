@@ -32,4 +32,4 @@ Here it's clear that the geometry is concentrating stress along the bends which 
 
 ![[Pasted image 20230206235200.png]]
 
-[[final fracture (material fatigue)]]
+Now working backwards from final failure, if we start in the rough region here we can see [[shear lips]], which is where the crack clearly experiences [[final fracture (material fatigue)|final fracture]]. Continuing to work back we get [[beach marks]], indicating the region of crack propagation and material fatigue. Then finally we see the origin that initialized this failure, indicating abnormal stress concentration.

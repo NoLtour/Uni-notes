@@ -11,5 +11,6 @@ tags: ["NotesPage"]
 - [[stress intensity factor]]
 - [[loading modes]]
 - [[examples of fatigue failures]]
+- [[striations]]
 
 ## Expanded articles
