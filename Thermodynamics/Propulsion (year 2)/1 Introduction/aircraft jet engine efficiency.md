@@ -52,4 +52,24 @@ $$\begin{align*}
 
 Now that looks disgusting, and it is ([[math vomit is great|yay]])! So we take the ever present engineering approach of "what can I cut out to make my life easyer?" and the answer is 2 things:
 - We know that for a not shit jet engine the amount of fuel relative to the amount of air is tiny, so $f<<1$ and hence $f+1\approx1$
-- Secondly for a non shit 
+- Secondly for a non shit engine (which is the most common when dealing with civil jets) the exhaust is basically fully expanded so $P_{j}\approx P_{a}$ hence $P_{j}-P_{a}\approx0$
+
+Subbing this into our math vomit produces:
+$$\begin{align*}
+\eta_{P} &= \frac{V_{\infty} \dot{m}_{a}[ 1 V_{jet} - V_{\infty}] + V_{\infty} A_{j} (0) }{\frac{1}{2} \dot{m}_{a} [1 V_{jet}^{2} - V_{\infty}^{2} ]}\\
+&=  \frac{V_{\infty} [ V_{jet} - V_{\infty}]  }{\frac{1}{2} [ V_{jet}^{2} - V_{\infty}^{2} ]}\\
+&... \text{rearanging magic}\\
+\eta_{P} &= \frac{2}{\frac{V_{j}}{V_{\infty}} + 1}
+\end{align*}$$
+
+That is so much cleaner... we can also use the principles above to clean up our jet thrust equation:
+
+$$\begin{align*}
+F  &= \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + A_{j}(P_{j}-P_{a}) & \to && F  &= \dot{m}_{a}[ V_{jet} - V_{\infty}]  
+\end{align*}$$
+From which it becomes obvious that for positive thrust to exist $V_{jet}>V_{\infty}$, which makes intuitive sense. This means that the equation for propulsive efficiency is essentially stating that the closer $V_{j}$ is to $V_\infty$ the more (propulsively) efficient our engine:
+![[Pasted image 20230207160904.png]]
+
+Of course if we think about it the closer $V_j$ is to $V_{\infty}$ the lower our thrust ($F  = \dot{m}_{a}[ V_{jet} - V_{\infty}]$)   and here is a real shocker we need thrust to fly. So there is a limit to dropping this. If only there was some way to increase thrust without reducing propulsive efficienc
+
+
