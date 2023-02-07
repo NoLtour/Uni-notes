@@ -26,11 +26,12 @@ $$\begin{align*}
 \dot{m} V_{ex} &= P_{A} A_{j} - P_{j} A_{j} + F & &\to &  \dot{m} V_{ex} + A_{j}( P_{j} - P_{A} ) &= F
 \end{align*}$$
 
-(I find it annoying that we use $F$ for thrust instead of $T$, but I'm doing that since it seems to be the convention in this module)
+(I find it [[you did not expect an amongus meme huh|annoying]] that we use $F$ for thrust instead of $T$, but I'm doing that since it seems to be the convention in this module)
 
 > ### $$\begin{align*}  F &=  \dot{m} V_{ex} + A_{j}( P_{j} - P_{A} )  \end{align*}$$
 >> where:
 >> $\dot{m}=$  mass flow rate through rocket nozzle
 >> $V_{ex}=$ exhaust velocity from rocket nozzle
 >> $A_{j}=$ cross sectional area of end of rocket nozzle
->> $P_{j}=$ pr
+>> $P_{j}=$ pressure on rocket nozzle end
+>> $P_{A}=$ atmospheric pressure
