@@ -23,13 +23,12 @@ $$\begin{align*}
 \eta_{P} &= \frac{\dot{W}_{aircraft}}{\dot{W}_{jet}}
 \end{align*}$$
 
-The equation for engine power is easy enough, just simple thrust multiplied by velocity of the vehicle. We know the velocity of the vehicle is just $V_{\infty}$ and thrust is [[momentum conservation applied to a jet engine|thrust of a jet engine]] so combining this:
-
+The equation for engine power is easy enough, just simple thrust multiplied by velocity of the vehicle. We know the velocity of the vehicle is just $V_{\infty}$ and thrust is [[momentum conservation applied to a jet engine|thrust of a jet engine]] so combining this: 
 $$\begin{align*}
 \dot{W}_{aircraft} &= V_{\infty} \times F & F  &= \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + A_{j}(P_{j}-P_{a})\\
 &= V_{\infty} \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + V_{\infty} A_{j} (P_{j}-P_{a}) 
-\end{align*}$$
-
+\end{align*}$$ 
+^e77207
 
 Now the KE used in the air through the engine is simple enough to find, just KE of air out minus KE of air in:
 
@@ -70,6 +69,16 @@ F  &= \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + A_{j}(P_{j}-P_{a}) & \to && F  &
 From which it becomes obvious that for positive thrust to exist $V_{jet}>V_{\infty}$, which makes intuitive sense. This means that the equation for propulsive efficiency is essentially stating that the closer $V_{j}$ is to $V_\infty$ the more (propulsively) efficient our engine:
 ![[Pasted image 20230207160904.png]]
 
-Of course if we think about it the closer $V_j$ is to $V_{\infty}$ the lower our thrust ($F  = \dot{m}_{a}[ V_{jet} - V_{\infty}]$)   and here is a real shocker we need thrust to fly. So there is a limit to dropping this. If only there was some way to increase thrust without reducing propulsive efficienc
+Of course if we think about it the closer $V_j$ is to $V_{\infty}$ the lower our thrust ($F  = \dot{m}_{a}[ V_{jet} - V_{\infty}]$)   and here is a real shocker we need thrust to fly. So there is a limit to dropping this. If only there was some way to increase thrust without reducing propulsive efficiency ($\dot{m}_{a}$)... air flow rate exists, ever wonder why jet engines keep getting bigger and increasing air bypass ratio? Well this is why.
 
+Course there are limitations in increasing engine size, mainly mass and it needs to fit under the wing in landing!
 
+### Overal efficiency
+
+K this one's pretty [[yes I am using stupid internet slang in my notes fuck you|ez]], it's just power of the engine divided by total heat in. We already know the aircrafts engine power from [[aircraft jet engine efficiency#^e77207]] then heat in is just burning fuel:
+
+$$\begin{align*}
+\eta_{O} &= \frac{\dot{W}_{aircraft}}{\dot{Q}_{in}}
+\end{align*}$$
+
+The fuel part needs some variable defining fuel consumption... let's just use LCV (lower calorific value)
