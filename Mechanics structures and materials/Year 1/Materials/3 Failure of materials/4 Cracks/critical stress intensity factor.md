@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Critical stress intensity factor ($K_c$)
-The critical stress intensity factor is the [[stress intensity factor]] at which the local stress required for fracture to occur is reached.
+The critical stress intensity factor is the [[stress intensity factor (Year 1)]] at which the local stress required for fracture to occur is reached.
 
 This is the equation for critical stress intensity factor for an infinate plate:
 
