@@ -49,7 +49,7 @@ $$\begin{align*}
 \eta_{P} &= \frac{\dot{W}_{aircraft}}{\dot{W}_{jet}} & \to& & \eta_{P} &= \frac{V_{\infty} \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + V_{\infty} A_{j} (P_{j}-P_{a}) }{\frac{1}{2} \dot{m}_{a} [ (1+f) V_{jet}^{2} - V_{\infty}^{2} ]} 
 \end{align*}$$
 
-Now that looks disgusting, and it is ([[math vomit is great|yay]])! So we take the ever present engineering approach of "what can I cut out to make my life easyer?" and the answer is 2 things:
+Now that looks disgusting, and it is ([[math vomit is great|yay]])! So we take the ever present engineering approach of "what can I cut out to make my life easyer?" and the answer is 2 things: ^30f127
 - We know that for a not shit jet engine the amount of fuel relative to the amount of air is tiny, so $f<<1$ and hence $f+1\approx1$
 - Secondly for a non shit engine (which is the most common when dealing with civil jets) the exhaust is basically fully expanded so $P_{j}\approx P_{a}$ hence $P_{j}-P_{a}\approx0$
 
@@ -81,4 +81,21 @@ $$\begin{align*}
 \eta_{O} &= \frac{\dot{W}_{aircraft}}{\dot{Q}_{in}}
 \end{align*}$$
 
-The fuel part needs some variable defining fuel consumption... let's just use LCV (lower calorific value)
+The fuel part needs some variable defining fuel consumption... let's just use LCV (lower calorific value, the heat released per mass of some fuel) multiplied by fuel mass flow rate $\dot{m}_{f}$ so $\dot{Q}_{in} = \text{LCV} \dot{m}_{f}$ subbing this in and the equation for [[aircraft jet engine efficiency#^e77207|engine power]] :
+
+$$\begin{align*}
+\eta_{O} &= \frac{\dot{W}_{aircraft}}{\dot{Q}_{in}} & \to& & \eta_{O} &= \frac{V_{\infty} \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + V_{\infty} A_{j} (P_{j}-P_{a}) }{\text{LCV} \dot{m}_{f}}
+\end{align*}$$
+
+Recall [[aircraft jet engine efficiency#^30f127|those convenient assumptions]] we used to clean up the  equation before... well lets use em again so:
+
+$$\begin{align*}
+\eta_{O} &= \frac{V_{\infty} \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + V_{\infty} A_{j} (P_{j}-P_{a}) }{\text{LCV} \dot{m}_{f}} & \to& & \eta_{O} &= \frac{V_{\infty} \dot{m}_{a}[ V_{jet} - V_{\infty}]  }{\text{LCV} \dot{m}_{f}}\\
+&&&&&= \frac{V_{\infty}  [ V_{jet} - V_{\infty}]  }{\text{LCV} f}
+\end{align*}$$
+
+Alternatively using specific thrust fuel consumption:
+
+$$\begin{align*}
+\eta_{O} &= \frac{F}{\dot{m}_{f}} \frac{V_{\infty}}{\text{LCV}} = \frac{1}{\text{TSFC}} \frac{V}{\text{LCV}}
+\end{align*}$$
