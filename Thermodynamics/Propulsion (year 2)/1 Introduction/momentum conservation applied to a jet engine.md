@@ -1,5 +1,5 @@
 ---
-aliases: ["fuel to air ratio"]
+aliases: ["fuel to air ratio","thrust of a jet engine"]
 tags: []
 ---
 
