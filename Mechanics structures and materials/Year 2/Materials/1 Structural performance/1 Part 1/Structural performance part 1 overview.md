@@ -13,5 +13,6 @@ tags: ["NotesPage"]
 - [[beach marks]]
 - [[examples of fatigue failures]]
 - [[striations]]
+- [[loading forensics from failure profile]]
 
 ## Expanded articles
