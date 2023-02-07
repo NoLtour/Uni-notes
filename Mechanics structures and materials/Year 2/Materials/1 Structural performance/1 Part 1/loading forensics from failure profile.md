@@ -13,4 +13,9 @@ What I mean by [[Stress safety factor|safety factor]] is the region of material 
 
 If something has a high [[Stress safety factor|safety factor]] then we know that the region where final failure occurred will me a small proportion of the failure surface and vice versa.
 
-From the chart it can be seen that it may be hard to distinguish between uniaxal loading and 
+The chart also shows the difference between cases where there is severe and no stress concentation.
+
+1) The first state (row) is a tensile stress state.
+2) Second is for the bend case, it can be hard to tell from the fracture surface if it was a bend or tensile stress state since the profiles are simular so in that case you'll often have to consider external conditions to figure it out.
+3) Reverse bend, this is where the force is alternating between two sides, leads to crack propigation from both sides (as you'd expect)
+4) Off-axis loading in a rotating thingy.
