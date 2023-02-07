@@ -7,8 +7,9 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[control volume]]
-- [[momentum conservation applied to a rocket engine]]]]
+- [[momentum conservation applied to a rocket engine]]
 - [[momentum conservation applied to a jet engine]]
+- [[Breguet range equation (jets)]]
 
 
 ## Expanded articles
