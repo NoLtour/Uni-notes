@@ -29,3 +29,27 @@ $$\begin{align*}
 \dot{W}_{aircraft} &= V_{\infty} \times F & F  &= \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + A_{j}(P_{j}-P_{a})\\
 &= V_{\infty} \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + V_{\infty} A_{j} (P_{j}-P_{a}) 
 \end{align*}$$
+
+
+Now the KE used in the air through the engine is simple enough to find, just KE of air out minus KE of air in:
+
+$$\begin{align*}
+KE_{in} &= \frac{1}{2} V_{\infty}^{2} \dot{m}_{a} & KE_{exit} &= \frac{1}{2} V_{jet}^{2} \dot{m}_{a}(1+f)
+\end{align*}$$
+$$\begin{align*}
+\dot{W}_{jet} &= KE_{exit} - KE_{in}\\
+&=  \frac{1}{2} V_{jet}^{2} \dot{m}_{a}(1+f) - \frac{1}{2} V_{\infty}^{2} \dot{m}_{a}\\
+&= \frac{1}{2} \dot{m}_{a} [ (1+f) V_{jet}^{2} - V_{\infty}^{2} ]
+\end{align*}$$
+
+
+
+Now we can sub back to get propulsive efficiency:
+
+$$\begin{align*}
+\eta_{P} &= \frac{\dot{W}_{aircraft}}{\dot{W}_{jet}} & \to& & \eta_{P} &= \frac{V_{\infty} \dot{m}_{a}[(1+f) V_{jet} - V_{\infty}] + V_{\infty} A_{j} (P_{j}-P_{a}) }{\frac{1}{2} \dot{m}_{a} [ (1+f) V_{jet}^{2} - V_{\infty}^{2} ]} 
+\end{align*}$$
+
+Now that looks disgusting, and it is ([[math vomit is great|yay]])! So we take the ever present engineering approach of "what can I cut out to make my life easyer?" and the answer is 2 things:
+- We know that for a not shit jet engine the amount of fuel relative to the amount of air is tiny, so $f<<1$ and hence $f+1\approx1$
+- Secondly for a non shit 
