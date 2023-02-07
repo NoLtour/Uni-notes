@@ -100,6 +100,13 @@ $$\begin{align*}
 \eta_{O} &= \frac{F}{\dot{m}_{f}} \frac{V_{\infty}}{\text{LCV}} = \frac{1}{\text{TSFC}} \frac{V}{\text{LCV}}
 \end{align*}$$
 
+> ### $$\begin{align*}  \eta_{O} &=  \frac{V_{\infty}  [ V_{jet} - V_{\infty}]  }{\text{LCV} f} \end{align*}$$
+> ### $$\begin{align*}  \eta_{O} &=  \frac{1}{\text{TSFC}} \frac{V_{\infty}}{\text{LCV}} \end{align*}$$
+>> where:
+>> $\eta_{O}=$  overall jet efficiency
+>> $V_{\infty}=$ vehicle velocity
+>> $V_{jet}=$ exhaust velocity
+
 ### Thermal efficiency
 
 Well we could sub into:
@@ -121,4 +128,7 @@ This result can be verified using $\eta_{O} = \eta_{P} \times \eta_{th}$ but [[t
 
 The reason for splitting up the overall efficiency in the thermal and propulsive part is so that we can more easily see how to optimize each component. We already observed that the propulsive efficiency can be improved by reducing the difference between the jet speed and aircraft speed, and consequently the need for large air mass flow rates. For the thermal efficiency, we can use our knowledge of [[Brayton cycle]]s from part 1 thermofluids. We will go into more detail later in the module, but for an ideal Brayton cycle the thermal efficiency will increase with the overall pressure ratio, which is directly related to the temperature ratio.
 
-Increasing pressure ratio and engine temp is a trend that can be clearly seen
+Increasing pressure ratio and engine temp is a trend that can be clearly seen in industry:
+![[Pasted image 20230207164122.png]]
+
+As you'd expect!
