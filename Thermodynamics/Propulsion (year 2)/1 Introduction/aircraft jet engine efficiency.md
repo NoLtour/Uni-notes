@@ -73,7 +73,7 @@ Of course if we think about it the closer $V_j$ is to $V_{\infty}$ the lower our
 
 Course there are limitations in increasing engine size, mainly mass and it needs to fit under the wing in landing!
 
-### Overal efficiency
+### Overall efficiency
 
 K this one's pretty [[yes I am using stupid internet slang in my notes fuck you|ez]], it's just power of the engine divided by total heat in. We already know the aircrafts engine power from [[aircraft jet engine efficiency#^e77207]] then heat in is just burning fuel:
 
@@ -99,3 +99,26 @@ Alternatively using specific thrust fuel consumption:
 $$\begin{align*}
 \eta_{O} &= \frac{F}{\dot{m}_{f}} \frac{V_{\infty}}{\text{LCV}} = \frac{1}{\text{TSFC}} \frac{V}{\text{LCV}}
 \end{align*}$$
+
+### Thermal efficiency
+
+Well we could sub into:
+$$\begin{align*}
+\eta_{O} &= \eta_{P} \times \eta_{th}
+\end{align*}$$
+Then rearrange to get it, but it can also be deriveed quite easily using the fact that thermal efficiency is just the kinetic energy imparted on air by the jet divided by heat in:
+
+$$\begin{align*}
+\eta_{th} &= \frac{\dot{W}_{jet}}{\dot{Q}_{in}}
+\end{align*}$$
+We know from all the shite above the equations for $\dot{W}_{jet}$ and $\dot{Q}_{in}$ already so just subbing that in and rearranging:
+
+$$\begin{align*}
+\eta_{th} &= \frac{\dot{W}_{jet}}{\dot{Q}_{in}} & \to& & (math+effort) & &\to && \eta_{th}&= \frac{1}{2} \frac{V_{j}^{2} - V^{2}}{f \times \text{LCV}}
+\end{align*}$$
+
+This result can be verified using $\eta_{O} = \eta_{P} \times \eta_{th}$ but [[the notes also cba on this so get fucked lol|I cba]]. 
+
+The reason for splitting up the overall efficiency in the thermal and propulsive part is so that we can more easily see how to optimize each component. We already observed that the propulsive efficiency can be improved by reducing the difference between the jet speed and aircraft speed, and consequently the need for large air mass flow rates. For the thermal efficiency, we can use our knowledge of [[Brayton cycle]]s from part 1 thermofluids. We will go into more detail later in the module, but for an ideal Brayton cycle the thermal efficiency will increase with the overall pressure ratio, which is directly related to the temperature ratio.
+
+Increasing pressure ratio and engine temp is a trend that can be clearly seen
