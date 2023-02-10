@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA2024 Astronautics/3 Launch Vehicles/the rocket equation applied to launch vehicles.md",
+                "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,8 +184,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "829ec1c131478620",
+  "active": "3fd1b2dee73d122a",
   "lastOpenFiles": [
+    "SESA2024 Astronautics/3 Launch Vehicles/the rocket equation applied to launch vehicles.md",
     "SESA2024 Astronautics/3 Launch Vehicles/the basic rocket equation.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a rocket engine.md",
     "Thermodynamics/Thermofluids (year 1)/7 Properties of state/Phases and behaviours of state notes.md",
@@ -195,7 +195,6 @@
     "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/thrust specific fuel consumption.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/the notes also cba on this so get fucked lol.md",
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/yes I am using stupid internet slang in my notes fuck you.md",
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/math vomit is great.md"
+    "Thermodynamics/Propulsion (year 2)/1 Introduction/yes I am using stupid internet slang in my notes fuck you.md"
   ]
 }
