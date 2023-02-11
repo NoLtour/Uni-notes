@@ -27,3 +27,5 @@ Note that the curve is [[you know something is wrong when you describe fucking m
 >> $\sigma_{a0}=$ the baseline [[stress amplitude]] for when $\sigma_{m}=0$
 
 In effect this equation is relating [[stress amplitude]] and [[mean stress]] for which a material will experience the same cycles to failure.
+
+The equation itself assumes that [[mean stress]] and [[stress amplitude]] have a linear relationship at some [[fatigue life (material fatigue)|cycles to failure]] which is consistantish with real life. (as with all thing's in materials only ish)
