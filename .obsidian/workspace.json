@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
-                "mode": "preview",
+                "file": "Mechanics structures and materials/Year 2/Materials/slipband crack formation.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/slipband crack formation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,17 +183,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9dba8c53e0736664",
+  "active": "3fd1b2dee73d122a",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Materials/Structural performance part 2 overview.md",
+    "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
+    "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
     "SESA2024 Astronautics/3 Launch Vehicles/the rocket equation applied to launch vehicles.md",
     "SESA2024 Astronautics/3 Launch Vehicles/the basic rocket equation.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a rocket engine.md",
     "Thermodynamics/Thermofluids (year 1)/7 Properties of state/Phases and behaviours of state notes.md",
     "Thermodynamics/Thermofluids (year 1)/7 Properties of state/basic assumptions of thermodynamics.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/aircraft jet engine efficiency.md",
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/thrust specific fuel consumption.md",
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/the notes also cba on this so get fucked lol.md",
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/yes I am using stupid internet slang in my notes fuck you.md"
+    "Thermodynamics/Propulsion (year 2)/1 Introduction/thrust specific fuel consumption.md"
   ]
 }
