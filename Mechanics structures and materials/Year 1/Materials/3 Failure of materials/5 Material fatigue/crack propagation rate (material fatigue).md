@@ -1,5 +1,5 @@
 ---
-aliases: ["crack propagation rate","crack growth rate"]
+aliases: ["crack propagation rate","crack growth rate", "paris rule"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -27,16 +27,17 @@ Note that for values where $\sigma_{min}$ is compressive we let $\sigma_{min}=0$
 
 Hence we are left with an equation: $\Delta K =  (\Delta \sigma )Y  \sqrt{\pi a}$ that describes the [[stress intensity factor (Year 1)]] range experienced at the crack tip.
 
-### Crack propigation rate equation
+### Crack propigation rate equation (paris rule)
 We don't have a single equation as the relationship varies over the stress intensity factor range, as can be seen on this graph:
 ![[Pasted image 20211203132858.png]]
 But we can get an equation for that [[oh damn that graph thicc|thicc]] strait region, known as "Region II". (I know very creatively named)
 
 This is the equation for region II:
-> ### $$ \frac{da}{dN} = \log( A (\Delta K)^{m} ) = m\log(\Delta K) + \log(A) $$ 
+> ### $$ \log\left(\frac{da}{dN}\right) = \log( A (\Delta K)^{m} ) = m\log(\Delta K) + \log(A) $$ 
+> ### $$ \frac{da}{dN} = A (\Delta K)^{m}$$ 
 >> where:
 >> $A=$ material constant 
 >> $m=$ material constant
 >> $a=$ crack radius
->> $K=$ [[stress intensity factor (Year 1)]] 
+>> $\Delta K=$ [[stress intensity factor (Year 1)|stress intensity factor]] range (note here only the tensile part of the range is important (cracks ))
 

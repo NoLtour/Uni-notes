@@ -23,6 +23,7 @@ The process of fatigue can be broadly broken into 3 stages:
 - [[mean stress effect]]
 - [[miners rule]]
 - [[total life vs damage tolerant approaches]]
+- [[crack propagation rate (material fatigue)|crack growth rate]]
 
 
 ## Expanded articles
