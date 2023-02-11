@@ -1,5 +1,5 @@
 ---
-aliases: ["HCF","LCF","high cycle fatigue","low cycle fatigue"]
+aliases: ["HCF","LCF","high cycle fatigue","low cycle fatigue","fatigue strength coefficient","fatigue strength exponent","fatigue ductility coefficient","fatigue ductility exponent","modeling high cycle fatigue","modeling low cycle fatigue"]
 tags: []
 ---
 
@@ -18,10 +18,28 @@ Note that on that [[S-N curves|S-N curve]] we used [[stress amplitude]] but depe
 
 #### High cycle fatigue
 
-> ### $$\begin{align*}  \frac{\Delta \sigma}{2} &=   \end{align*}$$
+![[Pasted image 20230211121539.png]]
+
+> ### $$\begin{align*}  \frac{\Delta \sigma}{2} &= \sigma_{f}' (2N_{f})^{b} \end{align*}$$
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\Delta \sigma=$ [[stress range]]
+>> $N_{f}=$ [[fatigue life (material fatigue)|cycles to failure]]
+>> $\sigma_{f}'=$ [[high cycle and low cycle fatigue|fatigue strength coefficient]]
+>> $b=$ [[high cycle and low cycle fatigue|fatigue strength exponent]]
+
+Note that [[high cycle and low cycle fatigue|fatigue strength exponent]] and [[high cycle and low cycle fatigue|fatigue strength coefficient]] are generally just empirically determined values which relate to some specific situation.
+
+Also something to keep in mind is that under HCF you generally have low strain so the way cracks grow will be during processes that can occur under mostly elas
 
 #### Low cycle fatigue
+
+So you know what I was saying about strain usually being more important for [[high cycle and low cycle fatigue|low cycle fatigue]] well that's reflected in this equation describing LCF and [[fatigue life (material fatigue)|cycles to failure]]. This is because in [[high cycle and low cycle fatigue|HCF]] cases plastic deformation is usually the main thing driving crack propagation.
+
+![[Pasted image 20230211122027.png]]
+
+> ### $$\begin{align*}  \frac{\Delta \varepsilon}{2} &= \varepsilon_{f}' (2N_{f})^{c} \end{align*}$$
+>> where:
+>> $\Delta \varepsilon=$ [[strain range]]
+>> $N_{f}=$ [[fatigue life (material fatigue)|cycles to failure]]
+>> $\varepsilon_{f}'=$ [[high cycle and low cycle fatigue|fatigue ductility coefficient]]
+>> $c=$ [[high cycle and low cycle fatigue|fatigue ductility exponent]]
