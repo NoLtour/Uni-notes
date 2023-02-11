@@ -39,5 +39,5 @@ This is the equation for region II:
 >> $A=$ material constant 
 >> $m=$ material constant
 >> $a=$ crack radius
->> $\Delta K=$ [[stress intensity factor (Year 1)|stress intensity factor]] range (note here only the tensile part of the range is important (cracks ))
+>> $\Delta K=$ [[stress intensity factor (Year 1)|stress intensity factor]] range (note here only the tensile part of the range is important (cracks n that, this [[sample text|makes sense]]))
 

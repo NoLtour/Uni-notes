@@ -24,6 +24,7 @@ The process of fatigue can be broadly broken into 3 stages:
 - [[miners rule]]
 - [[total life vs damage tolerant approaches]]
 - [[crack propagation rate (material fatigue)|crack growth rate]]
+- [[calculating crack life using paris law]]
 
 
 ## Expanded articles
