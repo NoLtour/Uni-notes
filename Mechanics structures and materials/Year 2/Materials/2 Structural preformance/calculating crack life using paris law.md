@@ -37,4 +37,8 @@ $$\begin{align*}
 >> $m,A=$  material constants related to [[crack propagation rate (material fatigue)|paris rule]]
 >> $a_{c}=$ [[critical crack radius]]
 >> $a_{i}=$ initial crack radius (often found using advanced electronic devices, ultrasound sensors, X rays ect)
->> $Q=$
+>> $Q=$ [[stress intensity factor|shape factor]]
+>> $\Delta \sigma=$ stress range
+>> $N_{f}=$ cycles to failure
+
+Something to keep in mind is that not all geometrys/materials follow [[crack propagation rate (material fatigue)|paris rule]]! So this is as always an estimation that can sometimes be used.
