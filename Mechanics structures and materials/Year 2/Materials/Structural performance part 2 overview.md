@@ -19,6 +19,7 @@ The process of fatigue can be broadly broken into 3 stages:
 - [[material fatigue]]
 - [[fatigue limit (material fatigue)]]
 - [[endurance limit]]
+- [[high cycle and low cycle fatigue]]
 
 
 ## Expanded articles
