@@ -1,5 +1,5 @@
 ---
-aliases: ["fatigue life"]
+aliases: ["fatigue life","cycles to failure"]
 tags: ["Question","QFormat3"]
 ---
 

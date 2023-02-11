@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["fatigue limit"]
 tags: ["Question","QFormat3"]
 ---
 
