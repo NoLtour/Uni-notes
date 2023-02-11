@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### Define
-## Stress amplitude ($S$)
+## Stress amplitude ($S,\sigma_{a}$)
 
 > ### $$ S = \frac{\sigma_r}{2} $$ 
 >> where:
