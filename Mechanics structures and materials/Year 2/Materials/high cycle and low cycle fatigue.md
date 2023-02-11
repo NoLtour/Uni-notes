@@ -29,7 +29,7 @@ Note that on that [[S-N curves|S-N curve]] we used [[stress amplitude]] but depe
 
 Note that [[high cycle and low cycle fatigue|fatigue strength exponent]] and [[high cycle and low cycle fatigue|fatigue strength coefficient]] are generally just empirically determined values which relate to some specific situation.
 
-Also something to keep in mind is that under HCF you generally have low strain so the way cracks grow will be during processes that can occur under mostly elas
+Also something to keep in mind is that under HCF you generally have low strain so the way cracks grow will be during processes that can occur under mostly elastic deformation.
 
 #### Low cycle fatigue
 
