@@ -22,6 +22,7 @@ The process of fatigue can be broadly broken into 3 stages:
 - [[high cycle and low cycle fatigue]]
 - [[mean stress effect]]
 - [[miners rule]]
+- [[total life vs damage tolerant approaches]]
 
 
 ## Expanded articles
