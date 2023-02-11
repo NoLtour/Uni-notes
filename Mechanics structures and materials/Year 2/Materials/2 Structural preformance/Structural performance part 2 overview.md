@@ -21,6 +21,7 @@ The process of fatigue can be broadly broken into 3 stages:
 - [[endurance limit]]
 - [[high cycle and low cycle fatigue]]
 - [[mean stress effect]]
+- [[miners rule]]
 
 
 ## Expanded articles

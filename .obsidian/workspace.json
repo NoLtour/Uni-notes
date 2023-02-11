@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/mean stress effect.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/miners rule.md",
                 "mode": "source",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/mean stress effect.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/miners rule.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,15 +185,15 @@
   },
   "active": "3fd1b2dee73d122a",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/stress amplitude.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/material fatigue.md",
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/miners rule.md",
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/mean stress effect.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/stress amplitude.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/mean stress.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/stress range.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/I am a very funny and origional person.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/you know something is wrong when you describe fucking maths like this.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/high cycle and low cycle fatigue.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/strain range.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/idk material science seems mostly experimental solutions.md"
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/you know something is wrong when you describe fucking maths like this.md"
   ]
 }
