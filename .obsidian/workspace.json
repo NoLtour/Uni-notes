@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/fatigue life (material fatigue).md",
+                "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/having lasted this long on the course we are both quite experienced.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/having lasted this long on the course we are both quite experienced.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,17 +180,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3fd1b2dee73d122a",
+  "active": "d5daebca111cb637",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/reducing fatigue.md",
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/residual stress.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/fatigue life (material fatigue).md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/calculating crack life using paris law.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/crack propagation rate (material fatigue).md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/AHHHHHHHHHHHHH FRENCH.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/sample text.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/4 Cracks/stress intensity factor (Year 1).md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/total life vs damage tolerant approaches.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/you have to be shitting me are you this childish.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/miners rule.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md"
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/total life vs damage tolerant approaches.md"
   ]
 }

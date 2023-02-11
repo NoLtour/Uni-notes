@@ -20,4 +20,4 @@ Fatigue life is a measure of the total cycles needed before final fracture to oc
 >> $N_i=$ [[crack initiation (material fatigue)|cycles for crack initiation]]
 >> $N_p=$ [[crack propagation (material fatigue)|cycles for crack propagation]]
 
-Since final fracture occurs so rapidly, it dosn't contribute to the number of cycles before fracture enough to be of any note.
+Since final fracture occurs so rapidly, it doesn't contribute to the number of cycles before fracture enough to be of any note.
