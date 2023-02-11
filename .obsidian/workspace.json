@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rocket",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +183,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3fd1b2dee73d122a",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
     "SESA2024 Astronautics/3 Launch Vehicles/the rocket equation applied to launch vehicles.md",
     "SESA2024 Astronautics/3 Launch Vehicles/the basic rocket equation.md",
