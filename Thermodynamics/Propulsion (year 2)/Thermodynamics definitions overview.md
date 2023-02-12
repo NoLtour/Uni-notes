@@ -3,10 +3,14 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Thermodynamics definitions overview
 
 #### Intro and contents
-- 
+- [[system (thermodynamics)|system]]
+- [[equilibrium (thermodynamics)|equilibrium]]
+- [[properties (thermodynamics)|properties]]
+- [[the 2 property rule|two property rule]]
+- [[process (thermodynamics)|process]]
 
 
 ## Expanded articles
