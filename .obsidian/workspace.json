@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/specific molecular weight.md",
-                "mode": "source",
+                "file": "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/critical pressure.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/specific molecular weight.md",
+                "file": "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/critical pressure.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,15 +161,15 @@
   },
   "active": "e499acf130e84a89",
   "lastOpenFiles": [
-    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/individual gas constant.md",
-    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/universal gas constant.md",
+    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/ideal gas law.md",
+    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/critical pressure.md",
     "Thermodynamics/Propulsion (year 2)/Thermodynamics definitions overview.md",
+    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/individual gas constant.md",
+    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/specific molecular weight.md",
+    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/mole.md",
+    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/universal gas constant.md",
     "Thermodynamics/Thermofluids (year 1)/10U Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
     "Thermodynamics/Propulsion (year 2)/important processes in propulsion applications.md",
-    "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/types of process.md",
-    "Thermodynamics/Thermofluids (year 1)/7 Properties of state/enthalpy.md",
-    "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/isenthalpic process.md",
-    "Thermodynamics/Thermofluids (year 1)/7 Properties of state/process (thermodynamics).md",
-    "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/path (thermodynamics).md"
+    "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/types of process.md"
   ]
 }
