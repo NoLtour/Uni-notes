@@ -3,10 +3,11 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Thermodynamics mixtures overview
 
 #### Intro and contents
 - [[definitions of mixtures]]
+- [[Daltons law of partial pressure]]
 
 
 ## Expanded articles
