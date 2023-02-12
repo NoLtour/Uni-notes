@@ -45,4 +45,4 @@ The process of fatigue can be broadly broken into 3 stages:
 ![[contributions for fatigue]]
 ![[residual stress]]
 ![[environment effect on fatigue]]
-! [[the beauty of a weld]]
+![[the beauty of a weld]]
