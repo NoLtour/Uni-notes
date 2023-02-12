@@ -12,4 +12,10 @@ Real shocker, more chemically reactive environments will completely fuck your ma
 - In composites it may only be one bit of the [[matrix (materials)|matrix]] or [[reinforcement (materials)|reinforcement]]
 - Could be the intergranular boundaries have a different material due to [[crystal grain boundary precipitation]]
 - Could be the crystal itself is just suseptable
-- Some of the little additives ([[alloy]]) could be exposed 
+- Some of the little additives ([[factors that effect alloying|alloys]]) could be exposed then react leading to cracks
+- Temperature
+- Humidity
+- Fucking sunlight (UV, X rays, infrared)
+- Fuck it just [[try and corrode deez nuts]]
+
+Basically it really depends, and so much needs consideration to properly evaluate the effect of environment especially when dealing with materials which aren't perfect single grain crystalline materials (aka almost all real world materials).
