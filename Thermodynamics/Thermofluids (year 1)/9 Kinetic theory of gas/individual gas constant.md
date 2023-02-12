@@ -7,10 +7,10 @@ tags: ["Question","QFormat3"]
 ## Individual gas constant ($R$)
 This is a constant that is specific to a gas relating its molecular weight to the [[universal gas constant]].
 
-> ### $$ R= \frac{R_u}{m_u} $$ 
+> ### $$ R= \frac{R_{u}}{m_{u}} = \frac{\bar{R}}{M}$$ 
 >> where:
 >> $R=$ Individual gas constant
->> $R_u=$ [[universal gas constant]]
->> $m_u=$ specific molecular weight
+>> $R_u,\bar{R}=$ [[universal gas constant]]
+>> $m_u,M=$ [[specific molecular weight]] 
 
 Note for air it is 287

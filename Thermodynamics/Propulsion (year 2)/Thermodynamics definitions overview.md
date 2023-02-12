@@ -13,6 +13,11 @@ tags: ["NotesPage"]
 - [[process (thermodynamics)|process]]
 - [[types of process]]
 - [[important processes in propulsion applications]]
+- [[first law of thermodynamics]]
+- [[ideal gas law]]
+- [[perfect gas]]
+- [[individual gas constant|specific gas constant]]
+- [[universal gas constant]]
 
 
 ## Expanded articles
