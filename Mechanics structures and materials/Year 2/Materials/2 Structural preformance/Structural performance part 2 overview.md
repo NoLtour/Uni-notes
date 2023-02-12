@@ -27,6 +27,7 @@ The process of fatigue can be broadly broken into 3 stages:
 - [[calculating crack life using paris law]]
 - [[contributions for fatigue]]
 - [[residual stress]]
+- [[environment effect on fatigue]]
 
 
 ## Expanded articles

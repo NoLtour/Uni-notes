@@ -21,3 +21,5 @@ In a real world application, you can usually see shot peening used on turbine bl
 ![[Pasted image 20230212002148.png]]
 (on the right is typical microscopic appearance)
 Beyond the residual stress you also get [[cold work hardening|work hardening]], also now that I think about it if you work harden a material it would also result in [[residual stress]].
+
+This is especially beneficial for [[high cycle and low cycle fatigue|HCF]] cases.
