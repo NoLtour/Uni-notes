@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/aircraft jet engine efficiency.md",
+                "file": "Thermodynamics/Propulsion (year 2)/Thermodynamics definitions overview.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/aircraft jet engine efficiency.md",
+                "file": "Thermodynamics/Propulsion (year 2)/Thermodynamics definitions overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,15 +161,15 @@
   },
   "active": "e499acf130e84a89",
   "lastOpenFiles": [
+    "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
+    "Thermodynamics/Propulsion (year 2)/it is not notes theft since I gave credit.md",
+    "Thermodynamics/Propulsion (year 2)/SESA2023_slides_week_02 - Tagged.pdf",
+    "Thermodynamics/Propulsion (year 2)/1 Introduction/aircraft jet engine efficiency.md",
     "Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/6 Matrix determinants/I do have like 820.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/the beauty of a weld.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/wait a bad kind of war crime.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/you have to be shitting me are you this childish.md",
-    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/loading modes.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/environment effect on fatigue.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/residual stress.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/yooooooooooooooooo he said pee.md",
-    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/contributions for fatigue.md"
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/loading modes.md"
   ]
 }
