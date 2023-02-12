@@ -4,10 +4,20 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Specific heat capacity ($C$)
+## Specific heat capacity ($c$)
+Note that for all of these I'm using [[specific properties (thermodynamics)|specific]] hence the lower case $c$'s, there is also just heat capacity which is the [[extensive properties (thermodynamics)|extensive version]].
+ 
+> ### $$ d Q = mc\:d T $$ 
+>> where:
+>> $d Q=$ small heat added to substance
+>> $m=$ mass of substance
+>> $c=$ [[specific heat capacity]]
+>> $d T=$ small change in temperature
 
+ 
 > ### $$ \Delta Q = mc(\Delta T) $$ 
 >> where:
+>> The substance is a [[perfect gas]]
 >> $\Delta Q=$ Heat added to substance
 >> $m=$ mass of substance
 >> $c=$ [[specific heat capacity]]
@@ -17,5 +27,5 @@ This is the change in internal energy required to increase the temperature of 1k
 Specific heat capacity usually changes with temperature, if a gas has a constant specific heat for all temperatures we call it a [[perfect gas]].
 
 There are multiple types of specific heat capacity:
-- [[constant volume specific heat]] ($C_v$)
-- [[constant pressure specific heat]] ($C_p$)
+- [[constant volume specific heat]] ($c_v$)
+- [[constant pressure specific heat]] ($c_p$)

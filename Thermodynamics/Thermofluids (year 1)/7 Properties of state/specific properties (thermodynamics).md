@@ -1,5 +1,5 @@
 ---
-aliases: ["specific properties","specific property"]
+aliases: ["specific properties","specific property","specific"]
 tags: ["Question","QFormat3"]
 ---
 

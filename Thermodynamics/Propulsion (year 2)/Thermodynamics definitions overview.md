@@ -18,6 +18,11 @@ tags: ["NotesPage"]
 - [[perfect gas]]
 - [[individual gas constant|specific gas constant]]
 - [[universal gas constant]]
+- [[specific heat capacity|specific heat]]
+- [[constant volume specific heat]]
+- [[constant pressure specific heat]]
+- [[specific heat ratio]]
+- 
 
 
 ## Expanded articles
