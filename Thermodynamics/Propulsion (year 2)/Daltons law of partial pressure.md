@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["partial pressure","partial volume","pressure of gas component of mixture","pressure of volume component of mixture"]
 tags: []
 ---
 
@@ -25,3 +25,15 @@ Basically this states "the net pressure in a mixture is equal to the sum of the 
 >> $n=$ total [[mole|moles]] of mixture
 
 This can be proven quite easily using [[ideal gas law]], though I THINK the equation does still hold for non ideal gas (mostly gut feeling).
+
+### Partial volume
+
+Also using the [[ideal gas law]] you can derive:
+
+> ### $$\begin{align*}\frac{V_{i}}{V}  &=  y_{i} = \frac{n_{i}}{n}  \end{align*}$$
+>> where:
+>> $V=$ volume of the mixture
+>> $V_{i}=$ the volume of some component  
+>> $y_{i}=$ [[definitions of mixtures|molar fraction]]
+>> $n_{i}=$ [[mole|moles]] of the component present in the mixture
+>> $n=$ total [[mole|moles]] of mixture
