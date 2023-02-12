@@ -38,4 +38,6 @@ For an [[ideal gas law|ideal gas]], both the internal energy and the enthalpy ar
 ### Approximations
 ![[Pasted image 20230212142634.png]]
 
-Although most gases are not [[perfect gas]]es, they can often be approximated as such especially over small temp ranges.
+The perfect gas model is a good assumption for small changes in temperature. When a change in temperature can be considered ‘small’ will depend on the type of gas. Monoatomic gases (e.g., He,
+Ar) have constant$c_{V}$ and $c_{P}$ values over a relatively large range, while for gases consisting of complex molecules you will find changes in the specific heats over smaller temperature ranges. 
+The graph shows how  $c_{P}$ changes with temperature for three different gases. Note that the monoatomic gas argon has a constant  $c_{P}$ value over the full temperature range. The  $c_{P}$ value for air is reasonably constant near room temperature, but has a significant increase when temperature is increased more. This is something to be aware of specifically when analysing combustion processes, because it involves complex molecules and very large changes in temperature.
