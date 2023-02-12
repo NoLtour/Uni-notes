@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/properties of mixtures.md",
-                "mode": "source",
+                "file": "Thermodynamics/Propulsion (year 2)/Thermodynamics mixtures overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/properties of mixtures.md",
+                "file": "Thermodynamics/Propulsion (year 2)/Thermodynamics mixtures overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,7 @@
   },
   "active": "e499acf130e84a89",
   "lastOpenFiles": [
+    "Thermodynamics/Propulsion (year 2)/properties of mixtures.md",
     "Thermodynamics/Propulsion (year 2)/Thermodynamics mixtures overview.md",
     "Thermodynamics/Propulsion (year 2)/Daltons law of partial pressure.md",
     "Thermodynamics/Propulsion (year 2)/definitions of mixtures.md",
@@ -181,7 +182,6 @@
     "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/2.1 Revision and expansion of cocepts/Thermodynamics definitions overview.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
-    "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
-    "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md"
+    "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md"
   ]
 }

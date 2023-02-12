@@ -8,7 +8,10 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[definitions of mixtures]]
 - [[Daltons law of partial pressure]]
-- [[properties of mixtures]]
+- [[properties of mixtures]] 
 
 
 ## Expanded articles
+![[definitions of mixtures]]
+![[Daltons law of partial pressure]]
+![[properties of mixtures]] 

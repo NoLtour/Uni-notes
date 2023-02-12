@@ -24,5 +24,6 @@ K popping that into a nicer format:
 > ### $$\begin{align*} \mathcal{p} &= \sum\limits \mathcal{p}_{i} x_{i} \end{align*}$$
 >> where:
 >> $\mathcal{P}=$ some [[extensive properties (thermodynamics)|extensive property]]
->> $=$
->> $=$
+>> $\mathcal{p}=$ some [[intensive properties (thermodynamics)|intensive property]]
+>> $m_{i}=$ mass of component
+>> $x_{i}=$ [[definitions of mixtures|mass fraction]] of compoennt
