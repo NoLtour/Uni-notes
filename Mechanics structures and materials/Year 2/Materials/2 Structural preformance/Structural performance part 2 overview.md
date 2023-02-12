@@ -32,3 +32,17 @@ The process of fatigue can be broadly broken into 3 stages:
 
 
 ## Expanded articles
+
+![[material fatigue]]
+![[fatigue limit (material fatigue)]]
+![[endurance limit]]
+![[high cycle and low cycle fatigue]]
+![[mean stress effect]]
+![[miners rule]]
+![[total life vs damage tolerant approaches]]
+![[crack propagation rate (material fatigue)|crack growth rate]]
+![[calculating crack life using paris law]]
+![[contributions for fatigue]]
+![[residual stress]]
+![[environment effect on fatigue]]
+! [[the beauty of a weld]]
