@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Enthalpy $E_{h}$
+## Enthalpy ($E_{h},H,h$)
 Enthalpy is a property of a thermodynamic [[system (thermodynamics)|system]], is the equal to the system's [[internal energy]] plus the product of its pressure and volume.
 But the enthalpy of an [[ideal gas law|ideal gas]] is independent of its pressure or volume, and depends only on its temperature, which correlates to its thermal energy. Real gases at common temperatures and pressures often closely approximate this behavior, which simplifies practical thermodynamic design and analysis. 
 
