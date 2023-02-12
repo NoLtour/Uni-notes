@@ -33,6 +33,8 @@ There are multiple types of specific heat capacity:
 - [[constant volume specific heat]] ($c_v$)
 - [[constant pressure specific heat]] ($c_p$)
 
+For an [[ideal gas law|ideal gas]], both the internal energy and the enthalpy are a function of temperature only, and therefore the specific heats are also a function of temperature only (look at the defenitions of $c_{V}$ and $c_{P}$). 
+
 ### Approximations
 ![[Pasted image 20230212142634.png]]
 
