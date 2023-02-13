@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["SFEE"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -12,6 +12,7 @@ The equation below ([[steady flow energy equation]]) is really just an expressio
 > ### $$ Q - W = \sum\limits_{out} m \left( C_{v} T + \frac{U^{2}}{2} + \frac{p}{\rho} + gz \right) - \sum\limits_{in} m\left(C_{v} T + \frac{U^{2}}{2} + \frac{p}{\rho} + gz\right) $$ 
 > ### $$ Q - W = \sum\limits_{out} m \left( e_{h} + \frac{U^{2}}{2} + gz \right) - \sum\limits_{in} m\left(e_{h} + \frac{U^{2}}{2} + gz\right) $$ 
 >> where:
+>> First equation is assuming a [[perfect gas]]
 >> $e_{h}=$ [[specific enthalpy]]
 >> $C_{v}=$ [[constant volume specific heat]]
 >> $Q=$ [[heat]] transfer into system across the [[system boundary]] (positive is heat in)
