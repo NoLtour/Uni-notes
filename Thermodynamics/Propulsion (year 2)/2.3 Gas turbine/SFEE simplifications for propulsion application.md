@@ -30,3 +30,19 @@ So subbing into the [[steady flow energy equation|SFEE]] we end up with:
 $$\begin{align*}
 0 &= h_{2} - h_{1} - \frac{1}{2} V_{1}^{2}
 \end{align*}$$
+
+### Compressor
+
+The compressor is doing work on the fluid, increasing its pressure and temperature. This is an [[adiabatic expansion or compression|adiabatic]] component (no heat transfer) and the kinetic energy can be neglected at the inlet and the outlet subbing into [[steady flow energy equation|SFEE]]:
+
+$$\begin{align*}
+-w_{23} &= h_{3}- h_{2}\\
+w_{c}&= 
+\end{align*}$$
+
+### Burner
+The combustion is modelled as a constant pressure ([[isobaric expansion or compression|isobaric]]) heat addition process. No work is done, and kinetic energy can be neglected:
+
+$$\begin{align*}
+ &= 
+\end{align*}$$
