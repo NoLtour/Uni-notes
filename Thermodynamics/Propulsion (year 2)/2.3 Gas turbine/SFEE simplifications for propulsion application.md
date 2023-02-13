@@ -22,7 +22,8 @@ in below.
 
 (Note the numbers between each component, which we will use to indicate the states.)
 
-### Diffuser
+### The bits of the engine
+#### Diffuser
 
 This is a passive component, where no work is done and no heat is transferred. It's just where the air comes in and slows the fuck down, no heat or work transfer (ideally).
 Air typically flows in at a high velocity, but is slowed down significantly such that the outlet kinetic energy $\frac{1}{2}(V_{2})^{2}$ can be neglected.
@@ -31,7 +32,7 @@ $$\begin{align*}
 0 &= h_{2} - h_{1} - \frac{1}{2} V_{1}^{2}
 \end{align*}$$
 
-### Compressor
+#### Compressor
 
 The compressor is doing work on the fluid, increasing its pressure and temperature. This is an [[adiabatic expansion or compression|adiabatic]] component (no heat transfer) and the kinetic energy can be neglected at the inlet and the outlet subbing into [[steady flow energy equation|SFEE]]:
 
@@ -40,9 +41,47 @@ $$\begin{align*}
 w_{c}&= 
 \end{align*}$$
 
-### Burner
+#### Burner
 The combustion is modelled as a constant pressure ([[isobaric expansion or compression|isobaric]]) heat addition process. No work is done, and kinetic energy can be neglected:
 
 $$\begin{align*}
- &= 
+q_{34} &= h_{4} - h_{3}
 \end{align*}$$
+
+#### Turbine
+
+The turbine extracts work from the fluid, decreasing its pressure and temperature. Like the compressor (basically reverse compressor), it is an adiabatic component and kinetic energies can be neglected.
+
+$$\begin{align*}
+-w_{45} &= h_{5} - h_{4}\\
+-w_{t} &= 
+\end{align*}$$
+
+An important aspect is that all the work that the turbine delivers is used to drive the compressor, so we can combine it back with the compressor equation:
+
+$$\begin{align*}
+w_{c} &= w_{t}\\
+h_{3}- h_{2} &= -(h_{5} - h_{4})
+\end{align*}$$
+
+#### Bozzle
+A nozzle is effectively the inverse of a diffuser. It is an adiabatic component and no work is done. The inlet kinetic energy can be neglected, but we need to account for the kinetic energy at the outlet:
+
+$$\begin{align*}
+0 &= h_{6} - h_{5} + \frac{1}{2} V^{2}_{6}
+\end{align*}$$
+
+### Assumptions
+
+So that the maths is more manageable we will be making the assumption that:
+- All processes are [[reversible and irreversible processes|reversible]]
+- The gas is a [[perfect gas]] (hence we can use $\delta h=c_{p} (\Delta T)$)
+
+The reversibility means that all [[adiabatic expansion or compression|adiabatic processes]] are [[isentropic process|isentropic]], this plus the fact that we are dealing with a [[perfect gas]] means that (combing temp equation with [[adiabatic expansion or compression#^7c299a|this adiabatic equation]]):
+$$\begin{align*}
+\frac{T_{2}}{T_{1}} &= \left(\frac{P_{2}}{P_{1}}\right)^\frac{\gamma-1}{\gamma}
+\end{align*}$$
+
+### Entropy
+
+Real turbines, compressors, nozzles and diffusers are not isentropic due to irreversibilities. This means that the isentropic relations are not valid anymore to relate changes in pressure to changes in temperature and density. In this section we will look at how we can take non-isentropic effects into account in our calculations. We will start with some fundamental concepts of entropy and how to calculate changes in entropy.

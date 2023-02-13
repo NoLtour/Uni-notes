@@ -39,6 +39,8 @@ There is also this guy that applys for adiabetic specificly:
 >> $V=$ Volume
 >> $\gamma=$ [[isentropic expansion factor|adiabatic index]]
 
+^7c299a
+
 ##### Conservation of energy
 > ### $$ \begin{align*}Q_{12} - W_{12} &= E_{u12} \\ - W_{12} &= E_{u12}\end{align*} $$ 
 >> where:
