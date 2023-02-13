@@ -8,6 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[steady flow energy equation]]
 - [[SFEE simplifications for propulsion application]]
+- [[year 2 entropy relations]]
 
 
 ## Expanded articles

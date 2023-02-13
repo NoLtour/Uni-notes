@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["state variable","state property"]
 tags: ["Question","QFormat3"]
 ---
 

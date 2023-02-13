@@ -82,6 +82,3 @@ $$\begin{align*}
 \frac{T_{2}}{T_{1}} &= \left(\frac{P_{2}}{P_{1}}\right)^\frac{\gamma-1}{\gamma}
 \end{align*}$$
 
-### Entropy
-
-Real turbines, compressors, nozzles and diffusers are not isentropic due to irreversibilities. This means that the isentropic relations are not valid anymore to relate changes in pressure to changes in temperature and density. In this section we will look at how we can take non-isentropic effects into account in our calculations. We will start with some fundamental concepts of entropy and how to calculate changes in entropy.
