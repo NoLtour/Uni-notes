@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flight mechanics year 2/Equations of motion and tail plane equation overview.md",
+                "file": "Flight mechanics year 2/downwash for stability analysis.md",
                 "mode": "source",
                 "source": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/Equations of motion and tail plane equation overview.md",
+                "file": "Flight mechanics year 2/downwash for stability analysis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,15 +186,15 @@
   },
   "active": "d9aef9ea95d08451",
   "lastOpenFiles": [
-    "Flight mechanics year 2/Flight mechanics overview.md",
-    "Flight mechanics year 2/Equations of motion and tail plane equation overview.md",
+    "Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
     "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
+    "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a rocket engine.md",
+    "Flight mechanics year 2/downwash for stability analysis.md",
+    "Flight mechanics year 2/Equations of motion and tail plane equation overview.md",
+    "Flight mechanics year 2/Flight mechanics overview.md",
     "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/Introduction to gas turbines overview.md",
     "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/isentropic efficiency.md",
     "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/nerds try and figure out the truth of the universe we just need things to work lol.md",
-    "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/year 2 entropy relations.md",
-    "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/SFEE simplifications for propulsion application.md",
-    "Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
-    "Thermodynamics/Thermofluids (year 1)/13 Quantification of Entropy and T-S diagrams/state variables.md"
+    "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/year 2 entropy relations.md"
   ]
 }
