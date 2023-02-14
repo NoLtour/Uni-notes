@@ -1,13 +1,12 @@
 ---
----
 aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Equations of motion and tail plane equation overview
 
 #### Intro and contents
-- 
+- [[downwash]]
 
 
 ## Expanded articles
