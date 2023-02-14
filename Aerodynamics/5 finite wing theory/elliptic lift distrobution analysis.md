@@ -21,6 +21,8 @@ For an elliptic lift distrobution you get very nice results, since induced veloc
 >> $A=$ [[wing aspect ratio]]
 >> $b=$ [[Wing span]]
 
+^cbb7e1
+
 
 
 ### Derivation

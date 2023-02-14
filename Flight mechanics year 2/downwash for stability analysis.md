@@ -5,8 +5,10 @@ tags: []
 
 ## Downwash for stability analysis
 
-We've already done a bunch to get the equations for downwash in [[Finite wing theory overview]], in which we derived the equation:
+The average downwash from the front wing will obviously be some function of $C_{L}$. We know from [[Finite wing theory overview|finite wing theory]] that induced AOA for an elliptic wing is ([[elliptic lift distrobution analysis#^cbb7e1]]):
 
 $$\begin{align*}
-\epsilon &= 
+\alpha_{i} &= \frac{C_{L}}{\pi A}
 \end{align*}$$
+
+Then by slapping [[Oswald efficiency factor]] we can get
