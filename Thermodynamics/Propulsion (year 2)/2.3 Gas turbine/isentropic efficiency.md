@@ -36,4 +36,4 @@ See how irl [[entropy]] increases, we don't have a [[reversible and irreversible
 >> $T_{2}=$ ideal temp out of turbine (assuming [[isentropic process|isentropic]])
 >> $T_{2,s}=$ real temp out
 
-These equations can be used with [[introl]]
+These equations can be used with [[SFEE simplifications for propulsion application]] to do calculations involving turbines.
