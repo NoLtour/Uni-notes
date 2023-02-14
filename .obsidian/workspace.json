@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flight mechanics year 2/Flight mechanics overview.md",
+                "file": "Flight mechanics year 2/Equations of motion and tail plane equation overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/Flight mechanics overview.md",
+                "file": "Flight mechanics year 2/Equations of motion and tail plane equation overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,8 +186,8 @@
   },
   "active": "d9aef9ea95d08451",
   "lastOpenFiles": [
-    "Flight mechanics year 2/Equations of motion and tail plane equation overview.md",
     "Flight mechanics year 2/Flight mechanics overview.md",
+    "Flight mechanics year 2/Equations of motion and tail plane equation overview.md",
     "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/Introduction to gas turbines overview.md",
     "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/isentropic efficiency.md",
