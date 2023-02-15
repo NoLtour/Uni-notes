@@ -19,7 +19,30 @@ Putting all that into a diagram:
 
 ![[Pasted image 20230215192908.png]]
 
-Now we just need to find [[Basic aircraft trimming|trimmed flight]], aka $\sum\limits M=0$:
+Now we just need to find [[Basic aircraft trimming|trimmed flight]], aka $\sum\limits M=0$. Here we take moments about the centre of gravity:
 $$\begin{align*}
-M_{0} + W\cos\gamma (h-h_{0})c &= l L_{T}
+M_{0} + L(h-h_{0})c - L_{T}(l - (h-h_{0})c) &= 0 & &\to & M_{0} + (L+L_{T})(h-h_{0})c - L_{T} l &= 0\\
+\end{align*}$$
+
+Assuming steady flight we also know that:
+$$\begin{align*}
+L* &= W\cos\gamma\\
+L+L_{T} &= 
+\end{align*}$$
+
+Everything can be non dimensionalised then subbed back into the equations above to get more useful identities:
+
+$$\begin{align*}
+&L* & &\to & L* &= C_{L*} \frac{1}{2}\rho V^{2} S\\
+&L & &\to & L &= C_{L} \frac{1}{2}\rho V^{2} S\\
+&W & &\to & W &= C_{W} \frac{1}{2}\rho V^{2} S\\
+&L_{T} & &\to & L_{T} &= L_{T} \frac{1}{2}\rho V^{2} S_{T}= L_{T} \frac{1}{2}\rho V^{2} S \frac{S_{T}}{S}\\
+&M_{0} & &\to & M_{0} &= C_{M_{0}} \frac{1}{2}\rho V^{2} Sc\\
+\end{align*}$$
+
+Note that for $L*$ the reason we use $S$ and not $S+S_{T}$ is just because it makes the maths easier and often $S>>S_{T}$, we can non dimensionalise with any arbitrary area so it just makes sense to do it this way. Then subbing these into the moment and force balance equations:
+$$\begin{align*}
+ M_{0} + (L+L_{T})(h-h_{0})c - L_{T} l &= 0 & L+L_{T} &= W\cos\gamma\\
+C_{M_{0}} \frac{1}{2}\rho V^{2} Sc + (C_{L} \frac{1}{2}\rho V^{2} S+L_{T})(h-h_{0})c - L_{T} l &= 0 & L+L_{T} &= W\cos\gamma\\
+
 \end{align*}$$
