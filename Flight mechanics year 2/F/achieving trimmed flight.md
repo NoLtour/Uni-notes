@@ -36,13 +36,15 @@ $$\begin{align*}
 &L* & &\to & L* &= C_{L*} \frac{1}{2}\rho V^{2} S\\
 &L & &\to & L &= C_{L} \frac{1}{2}\rho V^{2} S\\
 &W & &\to & W &= C_{W} \frac{1}{2}\rho V^{2} S\\
-&L_{T} & &\to & L_{T} &= L_{T} \frac{1}{2}\rho V^{2} S_{T}= L_{T} \frac{1}{2}\rho V^{2} S \frac{S_{T}}{S}\\
+&L_{T} & &\to & L_{T} &= C_{L_{T}} \frac{1}{2}\rho V^{2} S_{T}= C_{L_{T}} \frac{1}{2}\rho V^{2} S \frac{S_{T}}{S}\\
 &M_{0} & &\to & M_{0} &= C_{M_{0}} \frac{1}{2}\rho V^{2} Sc\\
 \end{align*}$$
 
 Note that for $L*$ the reason we use $S$ and not $S+S_{T}$ is just because it makes the maths easier and often $S>>S_{T}$, we can non dimensionalise with any arbitrary area so it just makes sense to do it this way. Then subbing these into the moment and force balance equations:
 $$\begin{align*}
  M_{0} + (L+L_{T})(h-h_{0})c - L_{T} l &= 0 & L+L_{T} &= W\cos\gamma\\
-C_{M_{0}} \frac{1}{2}\rho V^{2} Sc + (C_{L} \frac{1}{2}\rho V^{2} S+L_{T})(h-h_{0})c - L_{T} l &= 0 & L+L_{T} &= W\cos\gamma\\
-
+C_{M_{0}} \frac{1}{2}\rho V^{2} Sc + \left(C_{L} \frac{1}{2}\rho V^{2} S+C_{L_{T}} \frac{1}{2}\rho V^{2} S \frac{S_{T}}{S}\right)(h-h_{0})c - C_{L_{T}} \frac{1}{2}\rho V^{2} S \frac{S_{T}}{S} l &= 0 & C_{L} \frac{1}{2}\rho V^{2} S+C_{L_{T}} \frac{1}{2}\rho V^{2} S \frac{S_{T}}{S} &= C_{W} \frac{1}{2}\rho V^{2} S\cos\gamma\\
+C_{M_{0}} + C_{L*} ( h - h_{0} ) - C_{L_{T}} K &= 0 & C_{L*} &= C_{L} + C_{L_{T}} \frac{S_{T}}{S} = C_{W}\cos\gamma
 \end{align*}$$
+
+Here we've introduced the variable $K$ known as [[tail volume fraction]].
