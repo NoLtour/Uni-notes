@@ -6,10 +6,11 @@ tags: ["NotesPage"]
 # Equations of motion and tail planes overview
 
 #### Intro and contents
-- [[downwash for stability analysis]]
+Unsure about [[downwash for stability analysis]], possibly delete.
+
 - [[achieving trimmed flight]]
 - [[centre of mass position and stability]]
-- [[components of a tailplane]]
+- [[components of a tailplane]] 
 - [[modelling the tailplane]]
 
 
