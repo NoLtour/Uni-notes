@@ -8,6 +8,8 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[downwash for stability analysis]]
 - [[achieving trimmed flight]]
+- [[centre of mass position and stability]]
+- [[components of a tailplane]]
 
 
 ## Expanded articles

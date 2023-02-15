@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 7/is it so hard to cross check notes.md",
+                "file": "Flight mechanics year 2/F/components of a tailplane.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 7/is it so hard to cross check notes.md",
+                "file": "Flight mechanics year 2/F/components of a tailplane.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,15 +198,15 @@
   },
   "active": "d9aef9ea95d08451",
   "lastOpenFiles": [
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 7/climb angle.md",
+    "Flight mechanics year 2/F/Equations of motion and tail planes overview.md",
+    "Flight mechanics year 2/F/centre of mass position and stability.md",
     "Flight mechanics year 2/F/achieving trimmed flight.md",
+    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 7/climb angle.md",
+    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 7/is it so hard to cross check notes.md",
     "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/aircraft geometry/Mean chord.md",
     "Flight mechanics year 2/F/tail volume fraction.md",
     "Flight mechanics year 2/F/shortened version of version.md",
-    "Flight mechanics year 2/F/Equations of motion and tail planes overview.md",
     "Flight mechanics year 2/F/downwash for stability analysis.md",
-    "Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
-    "Aerodynamics/5 finite wing theory/getting the drag efficiency factor from data.md",
-    "Aerodynamics/5 finite wing theory/Oswald efficiency factor.md"
+    "Aerodynamics/5 finite wing theory/Finite wing theory overview.md"
   ]
 }
