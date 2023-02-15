@@ -47,4 +47,22 @@ C_{M_{0}} \frac{1}{2}\rho V^{2} Sc + \left(C_{L} \frac{1}{2}\rho V^{2} S+C_{L_{T
 C_{M_{0}} + C_{L*} ( h - h_{0} ) - C_{L_{T}} K &= 0 & C_{L*} &= C_{L} + C_{L_{T}} \frac{S_{T}}{S} = C_{W}\cos\gamma
 \end{align*}$$
 
-Here we've introduced the variable $K$ known as [[tail volume fraction]].
+Here we've introduced the variable $K$ known as [[tail volume fraction]] for convenience.
+
+So yeah, to achieve steady level trimmed flight just satisfy the following equations:
+
+> ### $$\begin{align*} C_{M_{0}} + C_{L*} ( h - h_{0} ) - C_{L_{T}} K &= 0 \end{align*}$$
+> ### $$\begin{align*} C_{L*} &= C_{W}\cos\gamma\\ &= C_{L} + C_{L_{T}} \frac{S_{T}}{S} \end{align*}$$
+>> where:
+>> $C_{M_{0}}=$ coefficient of wing pitching moment about [[aerodynamic centre]]
+>> $C_{L*}=$ total lift coefficient
+>> $C_{L}=$ main wing lift coefficient
+>> $C_{L_{T}}=$ tail lift coefficient
+>> $K=$ [[tail volume fraction]]
+>> $S=$ [[Wing plan area]]
+>> $S_{T}=$ tail [[Wing plan area]]
+>> $l=$ distance from main to tail wing aerodynamic centres (quarter chord points)
+>> $h_{0} \bar c=$ distance from leading edge of main wing to aerodynamic centre $\approx \bar c/4$
+>> $h \bar c=$ distance from leading edge of main wing to centre of mass (no rea)
+>> $\bar c=$ [[Mean chord]]
+>> $\gamma=$ [[climb angle]]
