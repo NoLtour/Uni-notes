@@ -10,6 +10,7 @@ tags: ["NotesPage"]
 - [[achieving trimmed flight]]
 - [[centre of mass position and stability]]
 - [[components of a tailplane]]
+- [[modelling the tailplane]]
 
 
 ## Expanded articles
