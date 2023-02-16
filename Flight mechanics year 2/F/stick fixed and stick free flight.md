@@ -17,8 +17,11 @@ This can be quite easily described in math terms using the [[modelling the tailp
 
 ![[Pasted image 20230216105427.png]]
 
+We can also assume that $\beta=0$ because there is no point in the pilot using the trim tab if he is going to manually hold the elevator. Problem is controlling the tail like this is lots of effort on the pilots side so for thing's like cruse generally [[stick fixed and stick free flight|stick free]] is used instead.
 
+### Stick free
+In [[stick fixed and stick free flight|Stick free]], $C_{M_{H}}=0$ because the elevator is free to drift to equilibrium:
 
-- [[stick fixed and stick free flight|Stick free]], $C_{M_{H}}=0$ because the elevator is free to drift to equilibrium
+![[Pasted image 20230216105654.png]]
 
-
+This will generally be used in cruse because then the pilot doesn't need to actively do shite, generally in these cases $\beta\neq 0$ but that isn't necessarily true. For the stick free case we can use [[modelling the tailplane#Hinge moment equation]] to figure out what's needed to reach this equilibrium.
