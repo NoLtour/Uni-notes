@@ -1,5 +1,5 @@
 ---
-aliases: ["tail plane AOA","tail plane setting angle","floating tendency","restoring tendency"]
+aliases: ["tail plane AOA","tail plane setting angle","floating tendency","restoring tendency","tail hinge moment equation"]
 tags: []
 ---
 
@@ -78,5 +78,8 @@ If you imagine the tailplanes motion in the event that the only rigid joint is t
 ![[Pasted image 20230216104037.png]]
 
 This is where the names [[modelling the tailplane|restoring tendency]] and [[modelling the tailplane|floating tendency]] come from, they describe the tendency of these systems to move in particular ways:
-- [[modelling the tailplane|Floating tendency]], the effect causing the elevator to be deflected by the effects of overall attitude and the main wing
-- [[modelling the tailplane|Restoring tendency]], the effect from the elevator that will cause some equilib
+- [[modelling the tailplane|Floating tendency]], the effect causing the elevator to be deflected by the effects of overall attitude and the main wing.
+- [[modelling the tailplane|Restoring tendency]], the effect from the elevator that will cause some equilibrium to be reached.
+- $b_{3}$, the pilots input into the trim tab to passively control the elevators angle.
+
+Note that the [[components of a tailplane|horn balance]] actually exists to control [[modelling the tailplane|restoring tendency]].

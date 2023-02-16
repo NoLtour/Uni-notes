@@ -12,6 +12,7 @@ Unsure about [[downwash for stability analysis]], possibly delete.
 - [[centre of mass position and stability]]
 - [[components of a tailplane]] 
 - [[modelling the tailplane]]
+- [[stick fixed and stick free flight]]
 
 
 ## Expanded articles

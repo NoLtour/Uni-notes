@@ -61,9 +61,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flight mechanics year 2/F/modelling the tailplane.md",
+                "file": "Flight mechanics year 2/F/stick fixed and stick free flight.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "917c0ad65df5a202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flight mechanics year 2/F/modelling the tailplane.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/F/modelling the tailplane.md",
+                "file": "Flight mechanics year 2/F/stick fixed and stick free flight.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,15 +210,15 @@
   },
   "active": "d9aef9ea95d08451",
   "lastOpenFiles": [
-    "Flight mechanics year 2/F/Equations of motion and tail planes overview.md",
-    "Flight mechanics year 2/F/downwash for stability analysis.md",
+    "Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
     "Flight mechanics year 2/F/modelling the tailplane.md",
+    "Flight mechanics year 2/F/Equations of motion and tail planes overview.md",
+    "Flight mechanics year 2/F/stick fixed and stick free flight.md",
+    "Flight mechanics year 2/F/downwash for stability analysis.md",
     "Flight mechanics year 2/F/components of a tailplane.md",
     "Flight mechanics year 2/F/why am I being so agressive idk fuck you.md",
     "Flight mechanics year 2/F/retard prize.md",
     "Flight mechanics year 2/F/centre of mass position and stability.md",
-    "Flight mechanics year 2/F/achieving trimmed flight.md",
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 7/climb angle.md",
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 7/is it so hard to cross check notes.md"
+    "Flight mechanics year 2/F/achieving trimmed flight.md"
   ]
 }
