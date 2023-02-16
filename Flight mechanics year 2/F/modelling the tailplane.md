@@ -38,8 +38,36 @@ But of course there is the effect of the main wings [[downwash for stability ana
 
 ### Lift equation
 
-> ### $$\begin{align*} C_{L_{T}}  &= a_{1} \alpha_{T_{eff}} + a_{2} \eta   \end{align*}$$
+We know that there will be 3 things influencing the lift of the tail:
+- The main wings downwash
+- The static profile of the tailplane
+- The elevators angle
+- The trim tabs angle
+
+Since the main wing downwash and static profile of the tail plane are both just linear functions of AOA (in our model) we can combine them into $a_{1} \alpha_{T_{eff}}$, the others we can just give linear models. Then add em up and we get total tail lift:
+
+> ### $$\begin{align*} C_{L_{T}}  &= a_{1} \alpha_{T_{eff}} + a_{2} \eta + a_{3}\beta  \end{align*}$$
+> ### $$\begin{align*} a_{1} &= \frac{dC_{L_{T}}}{d\alpha_{T_{eff}}} &  a_{2} &= \frac{dC_{L_{T}}}{d\eta} &  a_{3} &= \frac{dC_{L_{T}}}{d\beta}  \end{align*}$$
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\alpha_{T_{eff}}=$   effective angle of attack of tailplane
+>> $\eta=$ elevator angle
+>> $\beta=$ trim tab angle relative to elevator
+>> $C_{L_{T}}=$ Lift coefficient of tail
+>> $a_{1}=$ Coeffient describing tail lift change with AOA change
+>> $a_{2}=$ Coefficient describing tail lift change with elevator change
+>> $a_{3}=$ Coefficient descibing tail lift change with trim angle change
+
+### Hinge moment equation
+
+This is the exact same approach as was taken for the tails lift equation, we know moments will be some function of all those angles and turns out a linear model works well enough so we just go with that and add em up:
+
+> ### $$\begin{align*} C_{M_{H}}  &= a_{1} \alpha_{T_{eff}} + a_{2} \eta + a_{3}\beta  \end{align*}$$
+> ### $$\begin{align*} a_{1} &= \frac{dC_{L_{T}}}{d\alpha_{T_{eff}}} &  a_{2} &= \frac{dC_{L_{T}}}{d\eta} &  a_{3} &= \frac{dC_{L_{T}}}{d\beta}  \end{align*}$$
+>> where:
+>> $\alpha_{T_{eff}}=$   effective angle of attack of tailplane
+>> $\eta=$ elevator angle
+>> $\beta=$ trim tab angle relative to elevator
+>> $C_{L_{T}}=$ Lift coefficient of tail
+>> $a_{1}=$ Coeffient describing tail lift change with AOA change
+>> $a_{2}=$ Coefficient describing tail lift change with elevator change
+>> $a_{3}=$ Coefficient descibing tail lift change with trim angle change
