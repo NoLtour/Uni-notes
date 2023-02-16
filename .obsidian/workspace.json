@@ -62,8 +62,8 @@
               "type": "markdown",
               "state": {
                 "file": "Flight mechanics year 2/F/modelling the tailplane.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           },
