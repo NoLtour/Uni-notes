@@ -18,6 +18,13 @@ Crevice corrosion is a real bitch, because it occurs in places not visible insid
 
 ### Factors
 
-- Often linked to assembly, like a bolted structire creates perfect conditions for crevice corrosion to occur in bolt holes
+- Often linked to assembly, like a bolted structure creates perfect conditions for crevice corrosion to occur in bolt holes
 - Debree accumulation can trap oxygen leading to a difference in oxygen concentration which causes it (hence keep thing's clean)
-- Overall geometry of the part could have some small hollow regions in which this could occur
+- Overall geometry of the part could have some small non isolated hollow regions in which this could occur
+- Debree might be created due to the corrosion, which then limits flow further and accelerates corrosion more (see below)
+
+#### Example
+
+![[Pasted image 20230218121717.png]]
+
+
