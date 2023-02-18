@@ -13,7 +13,7 @@ Concentration polarization may be reduced by increasing agitation or raising the
 
 When considering the physical location of ions you can start to understand polarisation. For example polarisation at the cathode shown above, the hydrogen ions get depleated near the cathode since they react to form hydrogen gas which bubbles off. This results in a higher concentration gradient which will lead to a higher electro potential ([[electrolyte concentration effect on electro potential|Nernst equation]]) and hence faster corrosion. This can also occur at the anode.
 
-The increased electropotential due to the formation of a depletion zone is known as a [[Concentration polarization (corrosion)|overpotential]]. 
+The increased electropotential due to the formation of a depletion zone is known as a [[concentration polarization (corrosion)|overpotential]]. 
 
 ![[Pasted image 20230218152640.png]]
 
@@ -23,5 +23,4 @@ NOTE: in the notes this is not specifically called concentration polarization, w
 
 ###
 
-Concentration polarization is the part of the polarization of an electrolytic cell that results from changes in the electrolyte concentration that is caused by the passage of current through the electrode/solution interface.
-we can understand the term polarization as the shift of the electrochemical potential difference across the cell from the equilibrium value we obtain for this system. Therefore, the term is equivalent to concentration [[Concentration polarization (corrosion)|overpotential]] (deviation from typical potential).
+WRONG, IDK WHAT'S GOING ON FINISH LATER [[UNFINISHED STUFF]]
