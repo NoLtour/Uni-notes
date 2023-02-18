@@ -34,6 +34,26 @@ The general form for anodic reaction would be something like:
 
 #### Cathodic reaction
 
-This is a bit more complex, the reaction is determined largely by the environment. Electrons get transferred from the solution into the cathodic region
+This is a bit more complex, the reaction is determined largely by the environment. Electrons get transferred from the solution into the cathodic region resulting in the solutions contents forming the ions.
 
+##### Neutral/basic case
+This is what's occuring in the image above, here the water + dissolved oxygen is converted into $\text{OH}^{-}$ ions by loosing electrons to the cathodic bit:
+$$\begin{align*}
+\text{O}_{2} + 2 \text{H}_{2}\text{O} + 4 \text{e}^{-} &\to 4 \text{OH}^{-}
+\end{align*}$$
 
+In the steel example above what would then occur is the $\text{OH}^{-}$ ions would combine with the iron ions to form rust:
+$$\begin{align*}
+\text{Fe}^{2+} + 2\text{OH}^{-} &\to \text{Fe} (\text{O} \text{H})_{2}
+\end{align*}$$
+Clearly for this reaction you need dissolved oxygen, so if you have water which is isolated from the atmosphere or is stagnant as to dissolve oxygen slowly then you can prevent/slow rusting.
+
+##### Acid case
+
+![[Pasted image 20230218125312.png]]
+
+Here the mechanism is slightly different the electrons move through the material again but form hydrogen gas from the hydrogen ions from the acid.
+
+$$\begin{align*}
+\text{H}^{+} + \text{e}^{-} &= \text{H}
+\end{align*}$$
