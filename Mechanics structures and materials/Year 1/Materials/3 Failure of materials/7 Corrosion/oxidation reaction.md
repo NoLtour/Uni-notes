@@ -1,5 +1,5 @@
 ---
-aliases: ["oxidation"]
+aliases: ["oxidation","oxidise"]
 tags: ["Question","QFormat3"]
 ---
 

@@ -57,3 +57,7 @@ Here the mechanism is slightly different the electrons move through the material
 $$\begin{align*}
 \text{H}^{+} + \text{e}^{-} &= \text{H}
 \end{align*}$$
+
+### Driving force
+
+![[electrode potential#Electrode potential]]

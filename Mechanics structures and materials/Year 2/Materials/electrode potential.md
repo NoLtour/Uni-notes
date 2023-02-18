@@ -4,10 +4,17 @@ tags: []
 ---
 
 ## Electrode potential
-In electrochemistry, electrode potential is the electromotive force of a galvanic cell built from a standard reference electrode and another electrode to be characterized.
+In the same environment different elements [[oxidation reaction|oxidise]] at different rates. The standard electrode half cell potential gives us a measure of reactivity.
 
-![[Pasted image 20230218122705.png]]
+![[Pasted image 20211205120701.png]]
 
-Electrode potential appears at the interface between an electrode and electrolyte due to the transfer of charged stuff across the interface, specific adsorption of ions at the interface, and specific adsorption/orientation of polar molecules, including those of the solvent.
+(chart shows [[the standard emf series|standard electrode potential]])
 
-In an electrochemical cell, the [[cathode]] and the [[anode]] have a certain electrode potential independently and the difference between them is the cell potential.
+### Example
+
+![[Pasted image 20230218130455.png]]
+
+Here we can calculate the cell potential by taking the most negative minus the least negative material, zinc is the most negative and coppers clearly the least negative so:
+
+![[Pasted image 20230218130605.png]]
+
