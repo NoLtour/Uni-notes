@@ -33,6 +33,26 @@ $$\begin{align*}
 C_{M_{H}}  &= b_{1} \alpha_{T_{eff}} + b_{2} \eta + b_{3}\beta & C_{L_{T}}  &= a_{1} \alpha_{T_{eff}} + a_{2} \eta + a_{3}\beta\\&\text{let: }C_{M_{H}}=0\\
   \frac{- b_{3}\beta - b_{1} \alpha_{T_{eff}}}{b_{2}} &=   \eta   \\
   && C_{L_{T}}  &= a_{1} \alpha_{T_{eff}} + a_{2} \frac{ b_{3}\beta + b_{1} \alpha_{T_{eff}}}{-b_{2}} + a_{3}\beta\\
-  && C_{L_{T}}
+  &&   &= \left(a_{1} - a_{2} \frac{b_{1}}{b_{2}}\right) \alpha_{T_{eff}} + \left( a_{3} - a_{2} \frac{b_{3}}{b_{2}} \right) \beta\\
+  &&  &= \bar{a_{1}} \alpha_{T_{eff}} + \bar{a_{3}} \beta
 \end{align*}$$
+
+So that's a convenient equation:
+
+> ### $$\begin{align*} \eta&= - \frac{ b_{3}\beta + b_{1} \alpha_{T_{eff}}}{b_{2}}  \end{align*}$$
+> ### $$\begin{align*} C_{L_{T}}  &=  \bar{a_{1}} \alpha_{T_{eff}} + \bar{a_{3}} \beta \end{align*}$$
+> ### $$\begin{align*}  \bar{a_{1}} &=  a_{1} - a_{2} \frac{b_{1}}{b_{2}} & \bar{a_{3}} &=    a_{3} - a_{2} \frac{b_{3}}{b_{2}}  \end{align*}$$
+>> where:
+>> $\alpha_{T_{eff}}=$   effective angle of attack of tailplane
+>> $\eta=$ elevator angle
+>> $\beta=$ trim tab angle relative to elevator
+>> $C_{M_{H}}=$ Hinge moment acting on elevator
+>> $b_{1}=$ [[modelling the tailplane|floating tendency]]
+>> $b_{2}=$  [[modelling the tailplane|restoring tendency]]
+>> $b_{3}=$  change in hinge moment with trim angle
+>> $C_{L_{T}}=$ Lift coefficient of tail
+>> $a_{1}=$ Coeffient describing tail lift change with AOA change
+>> $a_{2}=$ Coefficient describing tail lift change with elevator change
+>> $a_{3}=$ Coefficient descibing tail lift change with trim angle change
+
 

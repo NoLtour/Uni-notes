@@ -13,6 +13,7 @@ Unsure about [[downwash for stability analysis]], possibly delete.
 - [[components of a tailplane]] 
 - [[modelling the tailplane]]
 - [[stick fixed and stick free flight]]
+- [[other methods of trim]]
 
 
 ## Expanded articles
