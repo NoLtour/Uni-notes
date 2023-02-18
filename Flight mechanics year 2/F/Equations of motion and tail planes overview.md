@@ -16,4 +16,11 @@ Unsure about [[downwash for stability analysis]], possibly delete.
 - [[other methods of trim]]
 
 
-## Expanded articles
+## Expanded articles 
+
+![[achieving trimmed flight]]
+![[centre of mass position and stability]]
+![[components of a tailplane]] 
+![[modelling the tailplane]]
+![[stick fixed and stick free flight]]
+![[other methods of trim]]

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9aef9ea95d08451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flight mechanics year 2/F/Equations of motion and tail planes overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0029aab14ef7236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flight mechanics year 2/F/other methods of trim.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -67,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/F/other methods of trim.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,6 +174,7 @@
   "active": "e0029aab14ef7236",
   "lastOpenFiles": [
     "Flight mechanics year 2/F/Equations of motion and tail planes overview.md",
+    "Flight mechanics year 2/F/other methods of trim.md",
     "Flight mechanics year 2/F/stick fixed and stick free flight.md",
     "Flight mechanics year 2/F/modelling the tailplane.md",
     "Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
@@ -194,7 +182,6 @@
     "Flight mechanics year 2/F/components of a tailplane.md",
     "Flight mechanics year 2/F/why am I being so agressive idk fuck you.md",
     "Flight mechanics year 2/F/retard prize.md",
-    "Flight mechanics year 2/F/centre of mass position and stability.md",
-    "Flight mechanics year 2/F/achieving trimmed flight.md"
+    "Flight mechanics year 2/F/centre of mass position and stability.md"
   ]
 }
