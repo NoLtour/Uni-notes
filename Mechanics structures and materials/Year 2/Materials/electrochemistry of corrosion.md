@@ -61,3 +61,5 @@ $$\begin{align*}
 ### Driving force
 
 ![[electrode potential#Electrode potential]]
+
+![[electrolyte concentration effect on electro potential ]]
