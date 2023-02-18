@@ -3,11 +3,11 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Structural performance part 3 overview
 
 #### Intro and contents
-- [[Corrosion notes]]
-- 
+Recall last years [[Corrosion notes]]. K now onto the [[eeeeeeeeeeeeeee|new stuff]]:
+- [[crevice corrosion]]
 
 
 ## Expanded articles
