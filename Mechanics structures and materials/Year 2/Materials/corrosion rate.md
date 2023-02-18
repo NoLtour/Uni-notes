@@ -17,4 +17,4 @@ We can actually link corrosion rate directly to current:
 
 So it can be seen that if you decrease the area the mass dissolved will remain the same and you will get [[pitting (corrosion)|pitting]]. This isn't really a proper relationship it's more to highlight the fact that corrosion rate is directly proportional to current density.
 
-NOTE: this is true for general corrosion rates, when considering the effects of [[polarisation (corrosion)|polarisation]] and [[passivation]] things get more complex.
+NOTE: this is true for general corrosion rates, when considering the effects of [[polarization (corrosion)|polarisation]] and [[passivation]] things get more complex.
