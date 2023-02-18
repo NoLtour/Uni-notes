@@ -22,3 +22,6 @@ Here $i$ is the current density.
 NOTE: in the notes this is not specifically called concentration polarization, which is [[can you tell the lack of detail in the materials notes is irritating me|dumb]] because it is. They should use the correct terms reeeeeeeee.
 
 ###
+
+Concentration polarization is the part of the polarization of an electrolytic cell that results from changes in the electrolyte concentration that is caused by the passage of current through the electrode/solution interface.
+we can understand the term polarization as the shift of the electrochemical potential difference across the cell from the equilibrium value we obtain for this system. Therefore, the term is equivalent to concentration [[Concentration polarization (corrosion)|overpotential]] (deviation from typical potential).
