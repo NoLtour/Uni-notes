@@ -25,3 +25,14 @@ In [[stick fixed and stick free flight|Stick free]], $C_{M_{H}}=0$ because the e
 ![[Pasted image 20230216105654.png]]
 
 This will generally be used in cruse because then the pilot doesn't need to actively do shite, generally in these cases $\beta\neq 0$ but that isn't necessarily true. For the stick free case we can use [[modelling the tailplane#Hinge moment equation]] to figure out what's needed to reach this equilibrium.
+
+#### Solving stick free problems
+
+Often in these cases you will need to find $\eta$ given some trim tab angle $\beta$, this can be done using the [[modelling the tailplane#Hinge moment equation]] and the tail lift coefficient [[modelling the tailplane#Lift equation]]:
+$$\begin{align*}
+C_{M_{H}}  &= b_{1} \alpha_{T_{eff}} + b_{2} \eta + b_{3}\beta & C_{L_{T}}  &= a_{1} \alpha_{T_{eff}} + a_{2} \eta + a_{3}\beta\\&\text{let: }C_{M_{H}}=0\\
+  \frac{- b_{3}\beta - b_{1} \alpha_{T_{eff}}}{b_{2}} &=   \eta   \\
+  && C_{L_{T}}  &= a_{1} \alpha_{T_{eff}} + a_{2} \frac{ b_{3}\beta + b_{1} \alpha_{T_{eff}}}{-b_{2}} + a_{3}\beta\\
+  && C_{L_{T}}
+\end{align*}$$
+
