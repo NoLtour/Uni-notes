@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Materials/electrode potential.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/electrochemistry of corrosion.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Materials/electrode potential.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/electrochemistry of corrosion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,7 @@
   },
   "active": "e0029aab14ef7236",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Materials/electrode potential.md",
     "Mechanics structures and materials/Year 2/Materials/electrochemistry of corrosion.md",
     "Mechanics structures and materials/Year 2/Materials/Structural performance part 3 overview.md",
     "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
@@ -181,7 +182,6 @@
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/eeeeeeeeeeeeeee.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
     "Flight mechanics year 2/F/Equations of motion and tail planes overview.md",
-    "Flight mechanics year 2/F/other methods of trim.md",
-    "Flight mechanics year 2/F/stick fixed and stick free flight.md"
+    "Flight mechanics year 2/F/other methods of trim.md"
   ]
 }
