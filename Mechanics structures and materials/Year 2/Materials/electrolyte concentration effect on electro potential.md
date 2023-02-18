@@ -22,4 +22,4 @@ The equation shows that if you increase the ion concentration gradient between t
 ### Effect
 ![[Pasted image 20230218144709.png]]
 
-Here the waterdrop has oxygen diffusing in from the edges, and the electrochemical reaction is causing the anode to have very low oxygen concentration. The con
+Here the waterdrop has oxygen diffusing in from the edges, and the electrochemical reaction is causing the anode to have very low oxygen concentration. The concentration gradient then greatly accelerates the corrosion. This is also why [[pitting (corrosion)|pitting]] is so bad.

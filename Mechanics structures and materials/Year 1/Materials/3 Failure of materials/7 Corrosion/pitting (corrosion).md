@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["pitting"]
 tags: ["Question","QFormat3"]
 ---
 
