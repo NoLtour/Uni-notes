@@ -8,8 +8,9 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[beam bending moments notation]] 
 - [[Bending of beams notes]] (revision)
-- [[bending a beam with assymetric cross sections
+- [[bending a beam with assymetric cross sections]]
 - [[finding the neutral axis of a asymmetric cross section]]
+- [[deflection of a asymmetric cross section beam]]
 - 
 
 ## Expanded articles
