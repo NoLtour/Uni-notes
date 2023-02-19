@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,8 +210,8 @@
   },
   "active": "cebdd1fbf3df13b8",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
     "Mechanics structures and materials/Year 1/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
     "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/Structural performance part 3 overview.md",

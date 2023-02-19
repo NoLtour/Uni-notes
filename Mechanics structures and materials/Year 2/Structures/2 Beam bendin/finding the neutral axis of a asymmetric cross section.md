@@ -23,5 +23,8 @@ Recall that when working with beams we use the centre of area as the z,y origin,
 >> $I_{yz}=$ second moment of area along yz? 
 >> $\phi=$ The angle of the neutral axis from z measured clockwise
 
-Note that if z axis  $I_{yz}$
+Note that if the neutral axis is on the z axis or y axis (aka it's symettrical) then $I_{yz}=0$, so:
+![[Pasted image 20230219155538.png]]
+
+
 

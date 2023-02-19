@@ -10,5 +10,6 @@ tags: ["NotesPage"]
 - [[Bending of beams notes]] (revision)
 - [[bending a beam with assymetric cross sections
 - [[finding the neutral axis of a asymmetric cross section]]
+- 
 
 ## Expanded articles
