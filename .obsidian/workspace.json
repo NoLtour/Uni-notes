@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
+                "file": "Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
+                "file": "Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,15 @@
   },
   "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Year 1/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
+    "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
     "Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Year 1/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
-    "Mechanics structures and materials/Year 1/Statics 1/5c Shear force and bending moment diagrams/Shear force and bending moment diagrams.md",
-    "Mechanics structures and materials/Year 1/Statics 1/5b Shear forces and bending moments on beams/Shear forces and bending moments on beams.md",
     "Mechanics structures and materials/Year 1/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
+    "Mechanics structures and materials/Year 1/Statics 1/5c Shear force and bending moment diagrams/Shear force and bending moment diagrams.md",
+    "Mechanics structures and materials/Year 1/Statics 1/11 a Statically indeterminate beams/Statically indeterminate beams notes.md",
+    "Mechanics structures and materials/Year 1/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
+    "Mechanics structures and materials/Year 1/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
+    "Mechanics structures and materials/Year 1/Statics 1/5b Shear forces and bending moments on beams/Shear forces and bending moments on beams.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
-    "Mechanics structures and materials/Year 1/Statics 1/2 Stress and Strain/Stress and Strain.md",
-    "Mechanics structures and materials/Year 1/Statics 1/1 Forces and Equilibrium/Forces and Equilibrium.md",
-    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/electrode potential.md"
+    "Mechanics structures and materials/Year 1/Statics 1/2 Stress and Strain/Stress and Strain.md"
   ]
 }
