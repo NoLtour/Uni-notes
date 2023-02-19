@@ -15,7 +15,13 @@ Note: Positive $M_{z}$ creates positive stress in the positive side of the beam 
 
 #### Final equation
 
-#### Proof
+> ### $$\begin{align*} \sigma_{xx}  &= \frac{ (M_{z} I_{y} - M_{y} I_{yz}) y  + (M_{y} I _{z} - M_{z} I_{yz}) z }{I_{y} I_{z} - I_{yz}^{2}}  \end{align*}$$
+>> where:
+>> $M_{z},M_{y}=$ bending moments acting in xz and xy planes repectively
+>> $I_{y}, I_{z}=$ [[moment of area]]
+>> $=$
+
+#### Proof (unfinished)
 ##### Method
 We already know how to model beam bending stuff from year 1, but what happens if we have moments acting in multiple directions instead of just one plane?
 
