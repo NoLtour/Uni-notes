@@ -11,6 +11,6 @@ tags: ["NotesPage"]
 - [[bending a beam with assymetric cross sections]]
 - [[finding the neutral axis of a asymmetric cross section]]
 - [[deflection of a asymmetric cross section beam]]
-- 
+- [[second moment of inertia in alternative coordinate systems]]
 
 ## Expanded articles
