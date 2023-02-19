@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/beam bending moments notation.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
                 "mode": "source",
                 "source": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/beam bending moments notation.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,15 +210,15 @@
   },
   "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/grow up.md",
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
+    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/beam bending moments notation.md",
     "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/Structural performance part 3 overview.md",
     "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/concentration polarization (corrosion).md",
     "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/can you tell the lack of detail in the materials notes is irritating me.md",
-    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/corrosion rate.md",
-    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/electrochemistry of corrosion.md",
-    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/electrolyte concentration effect on electro potential.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/pitting (corrosion).md",
-    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/cringe man chemistry.md"
+    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/corrosion rate.md"
   ]
 }

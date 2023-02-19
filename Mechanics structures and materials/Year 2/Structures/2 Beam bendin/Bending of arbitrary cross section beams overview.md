@@ -7,5 +7,7 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[beam bending moments notation]]
+- [[Bending of beams notes]] (revision)
+- [[bending a beam with assymetric cross sections]]
 
 ## Expanded articles
