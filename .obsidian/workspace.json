@@ -13,98 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
-                "mode": "source",
+                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/second moment of inertia in alternative coordinate systems.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "cebdd1fbf3df13b8",
+            "id": "857415749bf34697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/second moment of inertia in alternative coordinate systems.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "063475850d5274dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "25b2eba222a33d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e9a8d481767e595c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/electrode potential.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c84636a446811e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flight mechanics year 2/F/modelling the tailplane.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "917c0ad65df5a202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flight mechanics year 2/F/modelling the tailplane.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ae1917f23a8945d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
-                "mode": "source",
+                "file": "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,17 +147,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cebdd1fbf3df13b8",
+  "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
-    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/deflection of a asymmetric cross section beam.md",
-    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
-    "Mechanics structures and materials/Year 1/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
-    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/Structural performance part 3 overview.md",
-    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/grow up.md",
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
+    "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
+    "Mechanics structures and materials/Year 1/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
+    "Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
+    "Mechanics structures and materials/Year 1/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
-    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/beam bending moments notation.md",
-    "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md"
+    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md",
+    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/moment over a section of beam cross section.md"
   ]
 }
