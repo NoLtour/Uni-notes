@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/second moment of inertia in alternative coordinate systems.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/second moment of inertia in alternative coordinate systems.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,6 +150,7 @@
   "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/second moment of inertia in alternative coordinate systems.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
     "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
@@ -157,7 +158,6 @@
     "Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Year 1/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
-    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md",
-    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/moment over a section of beam cross section.md"
+    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md"
   ]
 }
