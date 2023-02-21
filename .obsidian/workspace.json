@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aspect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f26b55be7a4ea331",
+  "active": "075671ccff8c4b69",
   "lastOpenFiles": [
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
