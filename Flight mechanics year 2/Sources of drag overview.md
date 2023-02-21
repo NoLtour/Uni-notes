@@ -11,6 +11,10 @@ Recap of drag types:
 - [[profile drag coefficient]]
 - [[induced drag coefficient]]
 
-So in summeray we will be using $D_{0}$ for zero lift drag (parasitic drag)
+We will be using $D_{0}$ for zero lift drag (parasitic drag), and $D_{L}$ for lift related drag (induced drag), which directly link to total drag:
+$$\begin{align*}
+D^{*} &= D_{0} + D_{L}
+\end{align*}$$
+
 
 ## Expanded articles
