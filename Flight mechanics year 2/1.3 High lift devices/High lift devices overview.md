@@ -11,6 +11,7 @@ We know that for different parts of flight we need the aircraft to fly under ext
 So here we'll go over methods to achieve this.
 
 - [[flaps]]
+- [[slats]]
 
 
 ## Expanded articles
