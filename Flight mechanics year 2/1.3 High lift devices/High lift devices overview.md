@@ -15,6 +15,8 @@ So here we'll go over methods to achieve this.
 - [[krueger flap]]
 - [[leading edge droop]]
 - [[comparison of high lift devices]]
+- [[high lift devices effect on trim and static stability characteristics]]
+- [[limitations on AOA and fuselage length]]
 
 
 ## Expanded articles
