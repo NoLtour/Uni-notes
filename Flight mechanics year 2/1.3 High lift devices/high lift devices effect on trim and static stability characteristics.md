@@ -13,4 +13,4 @@ tags: []
 | - More negative $M_{0}$                              |                                                        | - Elevator deflection requirements |
 | - Large increase in drag                             |                                                        |                                    |
 
-(I haven't used a table in eons, but they do look great huh?)
+(I haven't used a table in eons, but they do [[obsidian is just so so so much better than other note making tools|look great]] huh?)

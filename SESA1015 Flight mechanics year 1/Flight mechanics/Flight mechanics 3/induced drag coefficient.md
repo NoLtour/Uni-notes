@@ -1,5 +1,5 @@
 ---
-aliases: ["lift drependent coefficient","vortex drag coefficient"]
+aliases: ["lift drependent coefficient","vortex drag coefficient","zero-lift drag"]
 tags: ["Question","QFormat3","SESA1015"]
 ---
 

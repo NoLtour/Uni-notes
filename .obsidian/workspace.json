@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flight mechanics year 2/1.3 High lift devices/limitations on AOA and fuselage length.md",
+                "file": "Flight mechanics year 2/Sources of drag overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/1.3 High lift devices/limitations on AOA and fuselage length.md",
+                "file": "Flight mechanics year 2/Sources of drag overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,15 +162,15 @@
   },
   "active": "6a4d19ec955f6312",
   "lastOpenFiles": [
+    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
+    "Flight mechanics year 2/Sources of drag overview.md",
+    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
+    "Flight mechanics year 2/Flight mechanics overview.md",
     "Flight mechanics year 2/1.3 High lift devices/High lift devices overview.md",
     "Flight mechanics year 2/1.3 High lift devices/high lift devices effect on trim and static stability characteristics.md",
+    "Flight mechanics year 2/1.3 High lift devices/obsidian is just so so so much better than other note making tools.md",
+    "Flight mechanics year 2/1.3 High lift devices/limitations on AOA and fuselage length.md",
     "Flight mechanics year 2/1.3 High lift devices/leading edge droop.md",
-    "Flight mechanics year 2/1.3 High lift devices/comparison of high lift devices.md",
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 3/slats.md",
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 3/flaps.md",
-    "Flight mechanics year 2/1.3 High lift devices/I just can not get over how funny this looks.md",
-    "Flight mechanics year 2/1.3 High lift devices/krueger flap.md",
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 3/miner spelling mistake.md",
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 3/hey why are you expecting something inappropriate.md"
+    "Flight mechanics year 2/1.3 High lift devices/comparison of high lift devices.md"
   ]
 }
