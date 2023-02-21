@@ -1,5 +1,5 @@
 ---
-aliases: ["plain flap","fowler flap","split flap","double-slotted fowler flap","slotted flap"]
+aliases: ["plain flap","fowler flap","split flap","double-slotted fowler flap","slotted flap","flap"]
 tags: ["Question","QFormat3"]
 ---
 

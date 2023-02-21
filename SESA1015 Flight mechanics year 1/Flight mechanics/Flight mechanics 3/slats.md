@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["slat"]
 tags: ["Question","QFormat3"]
 ---
 

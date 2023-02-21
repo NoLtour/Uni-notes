@@ -12,6 +12,9 @@ So here we'll go over methods to achieve this.
 
 - [[flaps]]
 - [[slats]]
+- [[krueger flap]]
+- [[leading edge droop]]
+- [[comparison of high lift devices]]
 
 
 ## Expanded articles
