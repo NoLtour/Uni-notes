@@ -4,7 +4,7 @@ tags: ["NotesPage"]
 ---
 
 # Propulsion overview
-UPDATE: Too much stuff to do, the given notes are a really good quality so I'm not going to continue making more propulsion notes
+UPDATE: Too much stuff to do, the given notes are a really good quality so I'm not going to continue making more propulsion notes [[I have finite time|sorry]].
 
 Something to note is I will be doing a lot more direct copy and pasting of notes for this, since the thermo notes are both well done and looooong (cba to rewrite if not needed). I will still add links where appropriate and label important equations so this should be basically normal notes + extra features. Thanks whoever wrote the thermo notes for [[it is not notes theft since I gave credit|doing a good]] job.
 
