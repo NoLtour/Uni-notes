@@ -5,13 +5,18 @@ tags: []
 
 ## Supersonic wave
 
-![[Pasted image 20230222231801.png]]
+These are a set of equations which describe conditions at some point in a supersonic flow. (derivation in given notes) The important thing is that these can be used to calculate changes in temperature across a supersonic wave front.
 
-We will consider an inviscid fluid in a pipe at rest, with a small disturbance initiated from the left, as shown in the image. 
-The disturbance is a small increase in velocity δU , which will send a wave through the pipe, travelling at the speed of sound a. 
-To the right of the wave front, the fluid is still at rest and doesn’t ‘know’ about the disturbance yet. To the left of the wave front, the fluid has obtained a velocity δU , as well as changes in the other properties of the fluid (e.g., pressure, density, temperature, enthalpy). 
-We will assume that these changes happen reversibly and adiabatically, and therefore assume no change in entropy.
-
-To simplify our analysis we will use a reference frame travelling with the wave front at speed a.
-Figure 3.3 shows the wave front with a small control volume drawn around it. Fluid enters the control
-volume from the right at speed a, and leaves the control volume on the left at a speed a − δU . The
+> ### $$\begin{align*} a  &= \sqrt{\gamma R T}  \end{align*}$$
+> ### $$\begin{align*} Ma  &= \frac{U}{a}  \end{align*}$$
+> ### $$\begin{align*} \frac{T_{0}}{T} &= 1 + \frac{\gamma-1}{2} Ma^{2} \end{align*}$$
+>> where:
+>> $a=$ speed of sound
+>> $Ma=$ [[Mach number]]
+>> $U=$ velocity
+>> $\gamma=$ [[isentropic expansion factor]]
+>> $T=$ temp
+>> $T_{0}=$ [[stagnation points in a compressible flow|stagnation temperature]]
+>> $R=$ [[individual gas constant|specific gas constant]]
+>
+>> Note this uses assumption of [[perfect gas]] and that the process across the wave boundary is [[isentropic process|isentropic]]

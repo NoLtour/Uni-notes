@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/supersonic wave.md",
+                "file": "Thermodynamics/Propulsion (year 2)/critical properties.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/supersonic wave.md",
+                "file": "Thermodynamics/Propulsion (year 2)/critical properties.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,7 @@
   "active": "857415749bf34697",
   "lastOpenFiles": [
     "Thermodynamics/Propulsion (year 2)/Speed of sound in a gas overview.md",
+    "Thermodynamics/Propulsion (year 2)/supersonic wave.md",
     "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/Compressible flow overview.md",
     "Thermodynamics/Propulsion (year 2)/stagnation points in a compressible flow.md",
@@ -182,7 +183,6 @@
     "Thermodynamics/Thermofluids (year 1)/10U Specific heats and the first law of thermodynamics/constant volume specific heat.md",
     "Thermodynamics/Propulsion (year 2)/streamline analysis in a compressible flow.md",
     "Thermodynamics/Propulsion (year 2)/conservation in a compressible flow.md",
-    "Thermodynamics/Propulsion (year 2)/proof is here.md",
-    "Thermodynamics/Propulsion (year 2)/Proof assosiated with compressible flow streamline stuff.md"
+    "Thermodynamics/Propulsion (year 2)/proof is here.md"
   ]
 }
