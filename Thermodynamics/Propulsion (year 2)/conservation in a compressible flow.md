@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["equations of conservation in a compressible flow"]
 tags: []
 ---
 

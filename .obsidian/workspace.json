@@ -39,6 +39,18 @@
               "state": {
                 "file": "Thermodynamics/Propulsion (year 2)/streamline analysis in a compressible flow.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41f0e07466d32b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermodynamics/Propulsion (year 2)/conservation in a compressible flow.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -162,15 +174,15 @@
   },
   "active": "857415749bf34697",
   "lastOpenFiles": [
-    "Thermodynamics/Propulsion (year 2)/Compressible flow overview.md",
     "Thermodynamics/Propulsion (year 2)/conservation in a compressible flow.md",
+    "Thermodynamics/Propulsion (year 2)/streamline analysis in a compressible flow.md",
+    "Thermodynamics/Propulsion (year 2)/proof is here.md",
+    "Thermodynamics/Propulsion (year 2)/Proof assosiated with compressible flow streamline stuff.md",
+    "Thermodynamics/Propulsion (year 2)/Compressible flow overview.md",
     "Thermodynamics/Propulsion (year 2)/3 thing/SESA2023_slides_week_03 - Tagged.pdf",
     "Thermodynamics/Propulsion (year 2)/I am shaking rn.md",
     "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/2.3 Gas turbine/Introduction to gas turbines overview.md",
-    "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
-    "Flight mechanics year 2/Sources of drag overview.md",
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 3/profile drag coefficient.md"
+    "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md"
   ]
 }
