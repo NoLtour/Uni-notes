@@ -18,6 +18,7 @@ We are often interested in the properties of a fluid when it has lost all kineti
 >> $T_{0}=$ stagnation temp
 >> $P_{0}=$ stagnation pressure
 >> $\rho_{0}=$ stagnation density
+>> $U=$ velocity at some point
 >> $h=$ specific [[enthalpy]] at some point
 >> $T=$ temp at some point
 >> $P=$ pressure at some point
