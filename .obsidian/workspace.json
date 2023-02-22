@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/second moment of inertia in alternative coordinate systems.md",
+                "file": "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/aircraft geometry/wing aspect ratio.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/second moment of inertia in alternative coordinate systems.md",
+                "file": "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,17 +149,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "075671ccff8c4b69",
+  "active": "857415749bf34697",
   "lastOpenFiles": [
+    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/aircraft geometry/wing aspect ratio.md",
+    "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
+    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md",
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/second moment of inertia in alternative coordinate systems.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/finding the neutral axis of a asymmetric cross section.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
-    "Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
     "Mechanics structures and materials/Year 1/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
     "Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Year 1/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
-    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
-    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md",
-    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/moment over a section of beam cross section.md"
+    "Mechanics structures and materials/Year 1/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md"
   ]
 }
