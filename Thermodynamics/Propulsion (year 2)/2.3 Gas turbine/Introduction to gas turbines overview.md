@@ -13,3 +13,7 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[steady flow energy equation]]
+![[SFEE simplifications for propulsion application]]
+![[year 2 entropy relations]]
+![[isentropic efficiency]]
