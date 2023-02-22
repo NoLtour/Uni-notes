@@ -15,3 +15,7 @@ In this section we will start with identifying the difference between compressib
 
 
 ## Expanded articles
+
+![[conservation in a compressible flow]]
+![[streamline analysis in a compressible flow]]
+![[stagnation points in a compressible flow]]
