@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/streamline analysis in a compressible flow.md",
+                "file": "Thermodynamics/Propulsion (year 2)/stagnation points in a compressible flow.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/streamline analysis in a compressible flow.md",
+                "file": "Thermodynamics/Propulsion (year 2)/stagnation points in a compressible flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,11 +174,11 @@
   },
   "active": "857415749bf34697",
   "lastOpenFiles": [
-    "Thermodynamics/Propulsion (year 2)/conservation in a compressible flow.md",
+    "Thermodynamics/Propulsion (year 2)/Compressible flow overview.md",
     "Thermodynamics/Propulsion (year 2)/streamline analysis in a compressible flow.md",
+    "Thermodynamics/Propulsion (year 2)/conservation in a compressible flow.md",
     "Thermodynamics/Propulsion (year 2)/proof is here.md",
     "Thermodynamics/Propulsion (year 2)/Proof assosiated with compressible flow streamline stuff.md",
-    "Thermodynamics/Propulsion (year 2)/Compressible flow overview.md",
     "Thermodynamics/Propulsion (year 2)/3 thing/SESA2023_slides_week_03 - Tagged.pdf",
     "Thermodynamics/Propulsion (year 2)/I am shaking rn.md",
     "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
