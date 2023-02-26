@@ -64,9 +64,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "03751b99f1833ddd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9dba8c53e0736664",
+  "active": "03751b99f1833ddd",
   "lastOpenFiles": [
     "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/Compressible flow overview.md",
