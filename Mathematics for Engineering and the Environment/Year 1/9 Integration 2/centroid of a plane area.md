@@ -1,5 +1,5 @@
 ---
-aliases: ["integration to find the center of a laminar","centre of area of a graph","centroid of a curve","cetnre of a curve"]
+aliases: ["integration to find the center of a laminar","centre of area of a graph","centroid of a curve","cetnre of a curve","centroid"]
 tags: ["Question","QFormat3"]
 ---
 

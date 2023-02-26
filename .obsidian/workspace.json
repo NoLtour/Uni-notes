@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 1/Statics 1/14a Shear stresses in beams/shear stress in a beam cross section.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 1/Statics 1/14a Shear stresses in beams/shear stress in a beam cross section.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,6 +174,10 @@
   },
   "active": "41f0e07466d32b4e",
   "lastOpenFiles": [
+    "images/Pasted image 20230226154840.png",
+    "Mechanics structures and materials/Year 1/Statics 1/14a Shear stresses in beams/shear stress in a beam cross section.md",
+    "images/Pasted image 20230226154433.png",
+    "Mathematics for Engineering and the Environment/Year 1/9 Integration 2/centroid of a plane area.md",
     "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
     "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/conservation in a compressible flow.md",

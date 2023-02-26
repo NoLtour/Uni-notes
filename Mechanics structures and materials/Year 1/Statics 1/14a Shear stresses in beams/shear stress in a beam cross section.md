@@ -11,9 +11,14 @@ tags: ["Question","QFormat3"]
 > ### $$ \sigma_{xy} = \frac{Q}{Ib} A_s y_c $$ 
 > ### $$ \sigma_{xy} = \sigma_{yx} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $b=$ width of strip
+>> $A_{s}=$ area of region of focus
+>> $y_{c}=$ [[centroid of a plane area|centroid]] of region of focus
+>> $Q=\bar{\sigma}_{yx} A=$ Average force being applied on the beam cross section
+>> $I=$ [[second moment of area]]
+>> $\sigma_{xy}=$ Shear acting normal to cross section at a specific point
+>> $\sigma_{yx}=$ Shear acting on beam cross section at specific point
+>> ![[Pasted image 20230226154433.png]]
 
 
 ### Proof
