@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
+                "file": "Mechanics structures and materials/Year 1/Statics 1/14a Shear stresses in beams/shear stress in a beam cross section.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
+                "file": "Mechanics structures and materials/Year 1/Statics 1/14a Shear stresses in beams/shear stress in a beam cross section.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,8 +174,8 @@
   },
   "active": "41f0e07466d32b4e",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
+    "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/conservation in a compressible flow.md",
     "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/Compressible flow overview.md",

@@ -8,16 +8,13 @@ tags: ["Question","QFormat3"]
 ### Equations
 
 > ### $$\sigma_{xy} = \frac{Q}{Ib} \int^{0}_{A_s} y \cdot dA$$ 
+> ### $$ \sigma_{xy} = \frac{Q}{Ib} A_s y_c $$ 
+> ### $$ \sigma_{xy} = \sigma_{yx} $$ 
 >> where:
 >> $=$ 
 >> $=$
 >> $=$
 
-> ### $$ \sigma_{yx} = \frac{Q}{BI} A_s y_c $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
 
 ### Proof
 #### Getting expressions for the left and right sides
@@ -76,6 +73,6 @@ This is useful, but so far we have been using $y$ which represents the top of ou
 We get the form:
 
 $$\begin{align*}
-\sigma_{yx} &= \frac{Q}{BI} A_s y_c 
+\sigma_{xy} &= \frac{Q}{Ib} A_s y_c 
 \end{align*}$$
 
