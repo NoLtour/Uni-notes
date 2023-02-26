@@ -44,39 +44,19 @@
             }
           },
           {
-            "id": "1e90d90c9c53be9d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
             "id": "41f0e07466d32b4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/conservation in a compressible flow.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "03751b99f1833ddd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/Calculateing airspeed with a pitot tube.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,8 +172,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "03751b99f1833ddd",
+  "active": "41f0e07466d32b4e",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
+    "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
+    "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/conservation in a compressible flow.md",
     "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/Bernouillis equation.md",
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/Compressible flow overview.md",
     "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
@@ -201,7 +184,6 @@
     "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/individual gas constant.md",
     "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
-    "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Thermodynamics/Propulsion (year 2)/I have finite time.md",
     "Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/shock properties equations.md"
   ]

@@ -8,3 +8,6 @@ tags: ["NotesPage"]
 
 1) Nothin
 2) [[Bending of arbitrary cross section beams overview]]
+3) [[Beams under shear stress analysis overview]]
+4) awd
+5) 
