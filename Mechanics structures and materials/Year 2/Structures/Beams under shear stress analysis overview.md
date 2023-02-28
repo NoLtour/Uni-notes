@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Beams under shear stress analysis overview
 
 #### Intro and contents
 ![[Pasted image 20230226154840.png]]
