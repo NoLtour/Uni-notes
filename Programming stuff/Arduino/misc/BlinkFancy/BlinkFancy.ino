@@ -31,9 +31,9 @@ void light( float fraction, int totalTime ){
   int offTime = PULSE_PERIOD - onTime;
   
   for ( ;totalTime>0; totalTime -= PULSE_PERIOD ){
-    digitalWrite(LED_BUILTIN, HIGH);   
+    digitalWrite(12, HIGH);   
     delay(onTime);                       
-    digitalWrite(LED_BUILTIN, LOW);    
+    digitalWrite(12, LOW);    
     delay(offTime); 
   }
 }
@@ -70,9 +70,9 @@ void light2( float brightness, int totalTime ){
   int flipTime = onTime + offTime;
   
   for ( ;totalTime>=flipTime; totalTime -= flipTime ){
-    digitalWrite(LED_BUILTIN, HIGH);   
+    digitalWrite(12, HIGH);   
     delay(intOnTime);                       
-    digitalWrite(LED_BUILTIN, LOW);    
+    digitalWrite(12, LOW);    
     delay(intOffTime);
   }
   
@@ -87,7 +87,7 @@ void light3( float brightness, int totalTime ){
   }
 
   if ( brightness < 0.05 ){
-    digitalWrite(LED_BUILTIN, invert?HIGH:LOW);   
+    digitalWrite(12, invert?HIGH:LOW);   
     delay(totalTime);
     return;
   }
@@ -106,9 +106,9 @@ void light3( float brightness, int totalTime ){
   int intFlipTime = intOnTime + intOffTime;
   
   for ( ;totalTime>=intFlipTime; totalTime -= intFlipTime ){
-    digitalWrite(LED_BUILTIN, HIGH);   
+    digitalWrite(12, HIGH);   
     delay(intOnTime);                       
-    digitalWrite(LED_BUILTIN, LOW);    
+    digitalWrite(12, LOW);    
     delay(intOffTime);
   }
   
@@ -131,7 +131,7 @@ void smoothLight( float stBright, float enBright, int transTime ){
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(12, OUTPUT);
 }
 
 void randLight(){
