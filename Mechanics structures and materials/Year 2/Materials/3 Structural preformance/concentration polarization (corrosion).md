@@ -3,7 +3,7 @@ aliases: ["polarization","concentration polarization","overpotential"]
 tags: []
 ---
 
-## Concentration polarization (corrosion)
+## Concentration polarization (corrosion) (ALL UNFINISHED)
 ### The mechanism behined it
 Concentration polarization of an electrode is the result of the formation of a diffusion layer adjacent to the surface of the electrode where there is a gradient of ion concentration. 
 Diffusion of the ions through the layers controls the electrochemical reaction and is important for processes such as electroplating and corrosion. 
