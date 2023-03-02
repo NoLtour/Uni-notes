@@ -22,6 +22,8 @@ Simply put cavitation is: "When the local static pressure is less than the vapou
 
 ![[Pasted image 20220209200737.png]]
 
+Better yet, even if the cavitation is not significant enough to damage the metal structure it will 100% create holes in protective films leading to an increase in good ol [[corrosion]] (because fuck you even more).
+
 It is important to consider that although most of the time when working with these concepts and equations we picutre pipes, we are really describing the flow channel thing, so any narrowing caused by propeller/turbine blades or even surrounding fluid flow can cause cavitation:
 ![[Pasted image 20220209200046.png]]
 ![[Pasted image 20220209200105.png]]

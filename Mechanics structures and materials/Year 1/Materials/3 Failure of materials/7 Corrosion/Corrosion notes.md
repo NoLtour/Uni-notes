@@ -11,7 +11,7 @@ tags: ["NotesPage"]
 - [[electric potentials between metals]]
 - [[corrosion]]
 - [[types of corrosion]]
-- [[protecting against corrosion]]
+- [[protecting against corrosion (year 1)]]
 
 
 ## Expanded articles
@@ -20,4 +20,4 @@ tags: ["NotesPage"]
 
 ![[corrosion]]
 
-![[protecting against corrosion]]
+![[protecting against corrosion (year 1)]]
