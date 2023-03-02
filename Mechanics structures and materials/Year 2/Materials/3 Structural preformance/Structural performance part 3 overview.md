@@ -14,6 +14,8 @@ Corrosion is a bitch, it causes billions worth of damage on a yearly basis and y
 - [[electro potential and passivation]]
 - [[types of corrosion]]
 - [[cavitation]]
+- [[localised corrosion]]
+- [[galvanic corrosion]]
 
 
 ## Expanded articles

@@ -10,3 +10,5 @@ This is [[corrosion]] caused by two different metals of alloys are [[electric po
 ![[Pasted image 20211205124720.png]]
 
 As you can imagine water with lots of dissolved substances (like saltwater) can accelerate this process substantially.
+
+Note that [[galvanic corrosion]] can be used for preferential corrosion of a [[sacrificial anode]], when done intentionally.
