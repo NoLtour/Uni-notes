@@ -11,7 +11,7 @@ Corrosion is a bitch, it causes billions worth of damage on a yearly basis and y
 - [[corrosion rate]]
 - [[concentration polarization (corrosion)|polarisation]]
 - [[passivation]]
-- [[]]
+- [[electro potential and passivation]]
 
 
 ## Expanded articles
