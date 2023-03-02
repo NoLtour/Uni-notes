@@ -8,6 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 Recall last years [[Corrosion notes]]. K now onto the [[eeeeeeeeeeeeeee|new stuff]]:
 - [[crevice corrosion]]
+- [[intergranular corrosion]]
 - [[electrolyte concentration effect on electro potential]]
 
 
