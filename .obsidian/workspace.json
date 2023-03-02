@@ -42,9 +42,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4696aaa4843e4a98",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "857415749bf34697",
+  "active": "4696aaa4843e4a98",
   "lastOpenFiles": [
     "Mechanics structures and materials/Year 2/Structures/Torsion/SL5 Torsion in closed sections.pdf",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/Structural performance part 4 overview.md",
