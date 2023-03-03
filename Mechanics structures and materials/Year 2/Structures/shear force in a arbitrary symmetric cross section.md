@@ -80,8 +80,11 @@ This tells us that (in a rectangular case) interlayer shear will be maximum at t
 
 ![[Pasted image 20230303210739.png]]
 
-It then becomes trivial to derive the fact that the mean shear will be:
+It then becomes trivial to derive mean shear using properties of a paraballa and the [[proof of second moment of area of a rectangle|equation for second moment of area for a rectangle]]:
 
 $$\begin{align*}
-\tau_{xy,max} &= 1.5 \bar{\tau}_{xy}
+\tau_{xy,max} &= 1.5 \bar{\tau}_{xy}\\
+\frac{Q_{y} h^{2}}{8 I_{z}} &= & I_{z} &= \frac{th^{3}}{12}\\
+\frac{3 Q_{y} }{2 th } &= \frac{3}{2} \bar{\tau}_{xy}\\
+\frac{ Q_{y} }{ th } &= \bar{\tau}_{xy}
 \end{align*}$$
