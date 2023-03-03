@@ -58,6 +58,30 @@ $$\begin{align*}
 Then recalling [[basic properties shear force and bending moment graphs|this relationship between shear force and moments]] $\frac{dM_{z}}{dx} = Q_{y}$ we can sub this into the equation above and get our final form:
 
 $$\begin{align*}
-\tau_{yx} &=  \frac{1}{t I_{z}} \int_{A}y Q_{y} \: d A\\
- &=  \frac{Q_{y}Ay}{t I_{z}}\\
+\tau_{yx} &=  \frac{Q_{y}}{t I_{z}} \int_{A}y  \: d A\\
+ &=  \frac{Q_{y}A\bar{y}}{t I_{z}}\\
+\end{align*}$$
+
+### Rectangular case
+
+![[Pasted image 20230303210217.png]]
+
+K let's try and figure out what this equation means by using a rectangular beam example, $dA=t\:dy$ so subbing that in:
+
+$$\begin{align*}
+\tau_{yx} &=  \frac{Q_{y}}{t I_{z}} \int_{A}y  \: d A\\
+ &=  \frac{Q_{y}}{t I_{z}} \int_{\frac{h}{2}}^{y} y t \: d y\\
+ &= \frac{Q_{y}}{ I_{z}} \left[\frac{y^{2}}{2}\right]_{\frac{h}{2}}^{y}\\
+&...\\
+\tau_{yx} &= \frac{Q_{y}}{2I_{z}} \left(\frac{h^{2}}{4} - y^{2}\right) 
+\end{align*}$$
+
+This tells us that (in a rectangular case) interlayer shear will be maximum at the centre and decay in a parabola, being zero at the edges:
+
+![[Pasted image 20230303210739.png]]
+
+It then becomes trivial to derive the fact that the mean shear will be:
+
+$$\begin{align*}
+\tau_{xy,max} &= 1.5 \bar{\tau}_{xy}
 \end{align*}$$
