@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,6 +162,7 @@
   },
   "active": "857415749bf34697",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
     "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
@@ -197,7 +198,6 @@
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/uniform attack (corrosion).md",
     "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/electro potential and passivation.md",
     "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/cathodic reaction.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/conventional current.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/passivation.md"
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/conventional current.md"
   ]
 }
