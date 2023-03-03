@@ -42,9 +42,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "896ee2e97b4a68fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "857415749bf34697",
+  "active": "896ee2e97b4a68fc",
   "lastOpenFiles": [
     "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/Structural performance part 4 overview.md",
