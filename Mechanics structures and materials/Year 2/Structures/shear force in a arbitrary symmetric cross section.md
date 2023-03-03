@@ -35,3 +35,22 @@ Q_{yx} &= \sigma_{xx}(x+\delta x) \: \delta A - \sigma_{xx}(x) \: \delta A\\
 \tau_{yx} t \: \delta x &= \sigma_{xx}(x+\delta x) \: \delta A - \sigma_{xx}(x) \: \delta A\\
 \end{align*}$$
 
+This element is being considered from the edge, if we replace $\delta A$ with $dA$ and let $\delta x \to 0$ (aka $\delta x \to dx$) we get something that looks like an integration problem:
+
+$$\begin{align*}
+\tau_{yx} t \: \delta x &= \sigma_{xx}(x+\delta x) \: \delta A - \sigma_{xx}(x) \: \delta A & &\to & \tau_{yx} t \: d x &= \sigma_{xx}(x+d x) \: d A - \sigma_{xx}(x) \: d A\\
+&& && \tau_{yx} t \: d x &= (\sigma_{xx}(x+d x) - \sigma_{xx}(x)) \: d A\\
+&& && && \sigma_{xx}(x+d x) - \sigma_{xx}(x) &= d\sigma_{xx}\\
+&& && \tau_{yx} t \: d x &=  d\sigma_{xx} \: d A\\
+&& && \tau_{yx} &= \frac{1}{t} \int_{A} \frac{d\sigma_{xx}}{dx} \: d A\\
+\end{align*}$$
+
+So the shear stress at the top of some area from the edge of the cross section is the area integral of the point $\frac{d\sigma_{xx}}{dx}$ (the rate of change of tensile stress along the beams length). This is assuming that the stress along the thickness of the beam are constant.
+
+Then by substituting the equation from [[engineer's bending theory]] we can get the following form:
+
+$$\begin{align*}
+&& \sigma_{xx} &= \frac{M_{z}y}{I_{z}}
+&& d\sigma_{xx} &= \frac{y}{I_{z}} dM_{z}\\\
+\tau_{yx} &= \frac{1}{t} \int_{A} \frac{d\sigma_{xx}}{dx} \: d A & &\to & \tau_{yx} &= \frac{1}{t} \int_{A} \frac{d\sigma_{xx}}{dx} \: d A
+\end{align*}$$
