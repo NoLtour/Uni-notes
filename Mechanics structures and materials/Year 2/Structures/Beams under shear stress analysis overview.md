@@ -13,6 +13,6 @@ Recap from last year:
 - [[shear stress in a beam cross section]]
 
 K now moving on from "easy" beams, onto this years content:
-- 
+- [[shear force in a arbitrary symmetric cross section]]
 
 ## Expanded articles
