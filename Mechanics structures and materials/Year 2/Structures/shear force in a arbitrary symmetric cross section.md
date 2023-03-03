@@ -88,3 +88,5 @@ $$\begin{align*}
 \frac{3 Q_{y} }{2 th } &= \frac{3}{2} \bar{\tau}_{xy}\\
 \frac{ Q_{y} }{ th } &= \bar{\tau}_{xy}
 \end{align*}$$
+
+You may have noticed that it is [[that is because it is|seemingly arbitrary]] when I use $\to$ to make substitutions/transformations clearer compared to just spreading working over multiple lines and there is no consistent format in how I do it.
