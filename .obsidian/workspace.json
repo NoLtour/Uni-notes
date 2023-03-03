@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pitot",
+                "query": "fracture toughness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "857415749bf34697",
+  "active": "075671ccff8c4b69",
   "lastOpenFiles": [
     "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
     "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
