@@ -50,7 +50,14 @@ So the shear stress at the top of some area from the edge of the cross section i
 Then by substituting the equation from [[engineer's bending theory]] we can get the following form:
 
 $$\begin{align*}
-&& \sigma_{xx} &= \frac{M_{z}y}{I_{z}}
-&& d\sigma_{xx} &= \frac{y}{I_{z}} dM_{z}\\\
-\tau_{yx} &= \frac{1}{t} \int_{A} \frac{d\sigma_{xx}}{dx} \: d A & &\to & \tau_{yx} &= \frac{1}{t} \int_{A} \frac{d\sigma_{xx}}{dx} \: d A
+&& \sigma_{xx} &= \frac{M_{z}y}{I_{z}}\\
+&& d\sigma_{xx} &= \frac{y}{I_{z}} dM_{z}\\
+\tau_{yx} &= \frac{1}{t} \int_{A} \frac{d\sigma_{xx}}{dx} \: d A & &\to & \tau_{yx} &=  \frac{1}{t I_{z}} \int_{A} y \frac{ dM_{z}}{dx} \: d A\\
+\end{align*}$$
+
+Then recalling [[basic properties shear force and bending moment graphs|this relationship between shear force and moments]] $\frac{dM_{z}}{dx} = Q_{y}$ we can sub this into the equation above and get our final form:
+
+$$\begin{align*}
+\tau_{yx} &=  \frac{1}{t I_{z}} \int_{A}y Q_{y} \: d A\\
+ &=  \frac{Q_{y}Ay}{t I_{z}}\\
 \end{align*}$$
