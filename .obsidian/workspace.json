@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/Beams under shear stress analysis overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear force in a arbitrary symmetric cross section.md",
                 "mode": "source",
                 "source": true
               }
@@ -196,26 +196,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "753a7370d5636172",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
-    "Mechanics structures and materials/Year 2/Structures/shear centre.md",
+    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff",
+    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/Beams under shear stress analysis overview.md",
+    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear centre.md",
     "images/Pasted image 20230304165123.png",
     "images/Pasted image 20230304165028.png",
     "images/Pasted image 20230304164948.png",
-    "Mechanics structures and materials/Year 2/Structures/calculating shear stress in open sections.md",
+    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/calculating shear stress in open sections.md",
     "images/Pasted image 20230304104638.png",
     "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/second moment of area.md",
-    "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
-    "Mechanics structures and materials/Year 2/Structures/horrible.md",
+    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear force in a arbitrary symmetric cross section.md",
+    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/horrible.md",
     "images/trim.8A7B1974-B2B4-4927-A55A-1C73326F35E1.mp4",
     "images/fnaf_france.mov",
     "images/Pasted image 20230304103909.png",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
     "images/Pasted image 20230304102349.png",
-    "Mechanics structures and materials/Year 2/Structures/comparison of axial and shear stress.md",
+    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/comparison of axial and shear stress.md",
     "images/Pasted image 20230304095526.png",
-    "Mechanics structures and materials/Year 2/Structures/that is because it is.md",
+    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/that is because it is.md",
     "images/東方Touhou [Mixed⧸Rock] Invisible History of the Moon.mp3",
     "images/E2F3D682-54B5-4632-9EB1-2890282662A9.png",
     "images/Pasted image 20230303210739.png",
