@@ -14,5 +14,6 @@ Recap from last year:
 
 K now moving on from "easy" beams, onto this years content:
 - [[shear force in a arbitrary symmetric cross section]]
+- [[comparison of axial and shear stress]]
 
 ## Expanded articles

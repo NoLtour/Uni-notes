@@ -7,7 +7,21 @@ tags: []
 
 ### Equation
 
-
+> Generic case:
+> ### $$\begin{align*} \tau_{yx} &=  \frac{Q_{yy}}{ I_{zz}} \int_{A} \frac{y}{t}  \: d A \end{align*}$$
+> Rectangular case:
+> ### $$\begin{align*} \tau_{yx} &= \frac{Q_{yy}}{2I_{zz}} \left(\frac{h^{2}}{4} - y^{2}\right)  \end{align*}$$
+> ### $$\begin{align*} \frac{ Q_{y} }{ th } &= \bar{\tau}_{xy} &&& \tau_{xy,max} &= 1.5 \bar{\tau}_{xy} \end{align*}$$
+>> where:
+>> $\tau_{yx}=$ shear force in the $yx$ plane
+>> $Q_{yy}=$ shear force acting in the pure $y$ direction
+>> $I_{zz}=$ [[second moment of area]]
+>> $t=$ thickness of section
+>> $A=$ cross sectional area 
+>> $\bar{\tau}_{xy}=$ average shear force in the $yx$ plane
+>> ${\tau}_{xy,max}=$ max shear force in the $yx$ plane
+>> $h=$ height of the rectangular cross section
+>> ![[Pasted image 20230303203315.png]]
 
 
 ### Proof
