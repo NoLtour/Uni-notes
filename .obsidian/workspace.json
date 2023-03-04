@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/calculating shear stress in open sections.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/calculating shear stress in open sections.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,10 @@
   },
   "active": "857415749bf34697",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
+    "Mechanics structures and materials/Year 2/Structures/calculating shear stress in open sections.md",
     "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
+    "images/Pasted image 20230304102349.png",
     "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
     "Mechanics structures and materials/Year 2/Structures/comparison of axial and shear stress.md",
     "images/Pasted image 20230304095526.png",
@@ -185,7 +188,6 @@
     "images/Pasted image 20230302155043.png",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/wear (tribology).md",
     "images/Pasted image 20230302154737.png",
-    "images/Pasted image 20230302154344.png",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/tribology.md",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/more protecting against corrosion.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/protecting against corrosion (year 1).md",
@@ -197,7 +199,6 @@
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/carbides.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/crevice corrosion.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/galvanic corrosion.md",
-    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/localised corrosion.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/cathode.md"
+    "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/localised corrosion.md"
   ]
 }
