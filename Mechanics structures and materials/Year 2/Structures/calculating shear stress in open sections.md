@@ -7,9 +7,13 @@ tags: []
 
 ### Equation
 
+Note the equation is only applicable for thin walled sections.
+
 > ### $$\begin{align*} q &= A \frac{(Q_{yy} I_{yy} - Q_{zz} I_{yz}) \bar{y} + (Q_{zz} I _{zz} - Q_{yy} I_{yz}) \bar{z}}{I_{yy} I_{zz} - I_{yz}^{2}}  \end{align*}$$
+> ### $$ \tau_{yx}  t = q $$
 >> where:
->> $=$ 
+>> $\tau_{yx}=$ shear force in the $yx$ plane
+>> $t=$ thickness of section
 >> $q=$ shear flow
 >> $I_{yy}, I_{zz}=$ [[second moment of area|2nd moment of area]] (may need to use [[parallel axis theorem]])
 >> $I_{yz}=$ [[bending a beam with assymetric cross sections#^5bba9e|equation from here]]
@@ -18,6 +22,10 @@ tags: []
 >> $A=$ area the shear flow is being calculated for
 >> $\bar{y},\bar{z}=$ [[centroid of a plane area|centroid]] of the region relative to overall [[centroid of a plane area|centroid]]
 >>![[Pasted image 20230304103909.png]]
+
+To apply this equation you'll need to apply it from the edge like so:
+![[Pasted image 20230304104638.png]]
+
 
 ### Derivation
 

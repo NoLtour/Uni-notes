@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "0f67aa5e1654e4b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "f514e5913fe61234",
             "type": "leaf",
             "state": {
@@ -174,13 +186,15 @@
   },
   "active": "857415749bf34697",
   "lastOpenFiles": [
+    "images/Pasted image 20230304104638.png",
+    "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/second moment of area.md",
+    "Mechanics structures and materials/Year 2/Structures/calculating shear stress in open sections.md",
+    "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
     "Mechanics structures and materials/Year 2/Structures/horrible.md",
     "images/trim.8A7B1974-B2B4-4927-A55A-1C73326F35E1.mp4",
     "images/fnaf_france.mov",
-    "Mechanics structures and materials/Year 2/Structures/calculating shear stress in open sections.md",
     "images/Pasted image 20230304103909.png",
     "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
-    "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
     "images/Pasted image 20230304102349.png",
     "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
     "Mechanics structures and materials/Year 2/Structures/comparison of axial and shear stress.md",
@@ -211,7 +225,6 @@
     "Mechanics structures and materials/Year 1/Materials/Materials read order.md",
     "Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/cavitation.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/intergranular corrosion.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/carbides.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/crevice corrosion.md"
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/carbides.md"
   ]
 }
