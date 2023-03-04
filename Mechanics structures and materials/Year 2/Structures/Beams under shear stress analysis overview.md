@@ -19,3 +19,8 @@ K now moving on from "easy" beams, onto this years content:
 - [[shear centre]]
 
 ## Expanded articles
+
+![[shear force in a arbitrary symmetric cross section]]
+![[comparison of axial and shear stress]]
+![[calculating shear stress in open sections]]
+![[shear centre]]
