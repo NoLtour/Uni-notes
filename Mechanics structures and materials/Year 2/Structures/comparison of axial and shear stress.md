@@ -20,4 +20,6 @@ $$\begin{align*}
 && \frac{\sigma_{xx,max}}{\tau_{xy,max}} &= \frac{\frac{6 FL }{th^{2}}}{\frac{3}{2} \frac{F}{th}}\\
 && &= \frac{4 L}{   h }
 \end{align*}$$
-From this it becomes clear that if w
+From this it becomes clear that if L is much greater than h ($L>>h$) then shear stress is tiny compared to compressive/tensile stress, as a rule of thumb if L is 10x greater than $h$ then shear stress doesn't really matter. Course that also goes the other way, if you've got some really short stubby thing then shear's probably more important.
+
+Although this analysis was done for rectangular cross sections it's general trends also apply to other typical cross sections.

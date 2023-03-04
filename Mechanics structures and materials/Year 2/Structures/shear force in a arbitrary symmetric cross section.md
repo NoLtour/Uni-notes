@@ -8,12 +8,14 @@ tags: []
 ### Equation
 
 > Generic case:
-> ### $$\begin{align*} \tau_{yx} &=  \frac{Q_{yy}}{ I_{zz}} \int_{A} \frac{y}{t}  \: d A \end{align*}$$
+> ### $$\begin{align*} \tau_{yx} &=  \frac{Q_{yy}}{t I_{zz}} \int_{A} y \: d A \end{align*}$$
+> ### $$\tau_{yx} = \frac{1}{t} \int_{A} \frac{d\sigma_{xx}}{dx} \: d A $$
 > Rectangular case:
 > ### $$\begin{align*} \tau_{yx} &= \frac{Q_{yy}}{2I_{zz}} \left(\frac{h^{2}}{4} - y^{2}\right)  \end{align*}$$
 > ### $$\begin{align*} \frac{ Q_{y} }{ th } &= \bar{\tau}_{xy} &&& \tau_{xy,max} &= 1.5 \bar{\tau}_{xy} \end{align*}$$
 >> where:
 >> $\tau_{yx}=$ shear force in the $yx$ plane
+>> $\frac{d\sigma_{xx}}{dx}=$ rate of change of compressive/tensile stress along the beams legnth
 >> $Q_{yy}=$ shear force acting in the pure $y$ direction
 >> $I_{zz}=$ [[second moment of area]]
 >> $t=$ thickness of section

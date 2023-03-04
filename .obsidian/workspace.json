@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/comparison of axial and shear stress.md",
-                "mode": "source",
-                "source": false
+                "file": "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/comparison of axial and shear stress.md",
+                "file": "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,9 +162,9 @@
   },
   "active": "857415749bf34697",
   "lastOpenFiles": [
-    "images/Pasted image 20230304095526.png",
     "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
     "Mechanics structures and materials/Year 2/Structures/comparison of axial and shear stress.md",
+    "images/Pasted image 20230304095526.png",
     "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
     "Mechanics structures and materials/Year 2/Structures/that is because it is.md",
     "images/東方Touhou [Mixed⧸Rock] Invisible History of the Moon.mp3",
@@ -186,7 +186,6 @@
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/wear (tribology).md",
     "images/Pasted image 20230302154737.png",
     "images/Pasted image 20230302154344.png",
-    "images/Pasted image 20230302154250.png",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/tribology.md",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/more protecting against corrosion.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/protecting against corrosion (year 1).md",
