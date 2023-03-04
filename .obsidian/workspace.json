@@ -39,7 +39,7 @@
               "state": {
                 "file": "Mechanics structures and materials/Year 2/Structures/comparison of axial and shear stress.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "857415749bf34697",
   "lastOpenFiles": [
+    "images/Pasted image 20230304095526.png",
     "Mechanics structures and materials/Year 2/Structures/Beams under shear stress analysis overview.md",
     "Mechanics structures and materials/Year 2/Structures/comparison of axial and shear stress.md",
     "Mechanics structures and materials/Year 2/Structures/shear force in a arbitrary symmetric cross section.md",
@@ -198,7 +199,6 @@
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/crevice corrosion.md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/galvanic corrosion.md",
     "Mechanics structures and materials/Year 2/Materials/3 Structural preformance/localised corrosion.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/cathode.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/uniform attack (corrosion).md"
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/cathode.md"
   ]
 }
