@@ -18,3 +18,6 @@ Well if you take the equations from [[bending a beam with assymetric cross secti
 >> $E=$ youngs modulus of material
 >> $v=$ deflection in the y axis
 >> $v=$ deflection in the z axis
+
+^4a88d2
+

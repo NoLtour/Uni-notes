@@ -7,10 +7,21 @@ tags: []
 
 ### Equation
 
+> ### $$\begin{align*} q &= A \frac{(Q_{yy} I_{yy} - Q_{zz} I_{yz}) \bar{y} + (Q_{zz} I _{zz} - Q_{yy} I_{yz}) \bar{z}}{I_{yy} I_{zz} - I_{yz}^{2}}  \end{align*}$$
+>> where:
+>> $=$ 
+>> $q=$ shear flow
+>> $I_{yy}, I_{zz}=$ [[second moment of area|2nd moment of area]] (may need to use [[parallel axis theorem]])
+>> $I_{yz}=$ [[bending a beam with assymetric cross sections#^5bba9e|equation from here]]
+>> $Q_{zz}=$ shear force in the $z$ direction
+>> $Q_{yy}=$ shear force in the $y$ direction
+>> $A=$ area the shear flow is being calculated for
+>> $\bar{y},\bar{z}=$ [[centroid of a plane area|centroid]] of the region relative to overall [[centroid of a plane area|centroid]]
+>>![[Pasted image 20230304103909.png]]
 
 ### Derivation
 
-Lets say instead of a nice closed loop we have some horrible cross section such as:
+Lets say instead of a nice closed loop we have some [[horrible]] cross section such as:
 ![[Pasted image 20230304102349.png]]
 
 To calculate the shear stress we can take the equation from [[shear force in a arbitrary symmetric cross section]]:
@@ -33,4 +44,4 @@ $$\begin{align*}
 &&&& \tau_{yx}  t &=   \frac{(Q_{yy} I_{yy} - Q_{zz} I_{yz}) \bar{y}A + (Q_{zz} I _{zz} - Q_{yy} I_{yz}) \bar{z}A}{I_{yy} I_{zz} - I_{yz}^{2}}  \\
 \end{align*}$$
 
-We then let $\tau_{yx}  t=q$ where $q$ is called "shear flow", think of it as the overall shear acting through a 2D slice of the cross section.
+We then let $\tau_{yx}  t=q$ where $q$ is called "shear flow", think of it as the overall shear acting through a 2D slice of the cross section, this works because it assumes a uniform shear across the cut, which only works for thin walled sections.
