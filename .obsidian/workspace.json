@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
+                "file": "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/Flight mechanics overview.md",
+                "file": "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,8 +196,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9dba8c53e0736664",
+  "active": "753a7370d5636172",
   "lastOpenFiles": [
+    "Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/Speed of sound in a gas overview.md",
+    "Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
+    "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
+    "Flight mechanics year 2/Flight mechanics overview.md",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/Beams under shear stress analysis overview.md",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear centre.md",
@@ -221,7 +225,6 @@
     "images/E2F3D682-54B5-4632-9EB1-2890282662A9.png",
     "images/Pasted image 20230303210739.png",
     "images/Pasted image 20230303210217.png",
-    "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
     "Mechanics structures and materials/Year 2/Materials/Year 2 Materials Overview.md",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/Structural performance part 4 overview.md",
@@ -235,8 +238,6 @@
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/protecting against corrosion (year 1).md",
     "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/stress corrosion.md",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/stress corrosion cracking.md",
-    "Mechanics structures and materials/Year 1/Materials/Materials read order.md",
-    "Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/cavitation.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/intergranular corrosion.md"
+    "Mechanics structures and materials/Year 1/Materials/Materials read order.md"
   ]
 }
