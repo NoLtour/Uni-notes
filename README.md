@@ -11,9 +11,7 @@ This is an obsidian vault so yeah, use it with that thing. The graph showing pag
 
 Now the year 2 version:
 
-
 [![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082369333210128517/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 
 You can probably tell but the only reason to go to university is to make obsidian notes so that you can get a cool graph. Literally no other reason.
 
