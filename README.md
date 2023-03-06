@@ -10,7 +10,10 @@ This is an obsidian vault so yeah, use it with that thing. The graph showing pag
 [![keke](https://cdn.discordapp.com/attachments/892362116214968330/968979464379842561/unknown.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Now the year 2 version:
-https://cdn.discordapp.com/attachments/1061627987860140064/1082369333210128517/image.png
+
+
+[![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082369333210128517/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 You can probably tell but the only reason to go to university is to make obsidian notes so that you can get a cool graph. Literally no other reason.
 
@@ -21,9 +24,11 @@ Now here is year 2 notes, this is the general layout of notes pages. Got intro a
 
 
 Hyperlinks to related content, especially for obscure variables put into equations. Proofs will often reference previous proofs, that sort of thing makes notes much easier to follow.
+
 [![keke]https://cdn.discordapp.com/attachments/1061627987860140064/1082370805989638144/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Also some of the notes like aero have a bunch of python jupyter stuff embedded into em. This is especially applicable with potential flow stuff:
+
 [![keke]https://cdn.discordapp.com/attachments/1061627987860140064/1082371258546663444/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
