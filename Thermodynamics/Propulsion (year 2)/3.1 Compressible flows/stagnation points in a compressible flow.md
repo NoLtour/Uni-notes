@@ -10,7 +10,7 @@ tags: []
 We are often interested in the properties of a fluid when it has lost all kinetic energy. We will consider a flow from point 1 to point 0 as indicated in figure 3.1. At point 0, the flow stagnates and we can use the conservation of energy equation directly to define the stagnation enthalpy $h_0$ and a bunch of other "stagnation things":
 
 > ### $$\begin{align*} h_{0}  &= h + \frac{1}{2} U^{2}  \end{align*}$$
-> ### $$\begin{align*} T_{0} &= T + \frac{U}{2c_{p}} \end{align*}$$
+> ### $$\begin{align*} T_{0} &= T + \frac{U^{2}}{2c_{p}} \end{align*}$$
 > ### $$\begin{align*} P_{0} &= P \left(\frac{T_{0}}{T}\right)^{\frac{\gamma}{\gamma-1}} \end{align*}$$
 > ### $$\begin{align*} \rho_{0} &= \rho \left(\frac{T_{0}}{T}\right)^{\frac{1}{\gamma-1}} \end{align*}$$
 >> where:
