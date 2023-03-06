@@ -4,6 +4,7 @@ Contains memes with a side of aero/astro university notes. If nothing else it's 
 
 If you want to use these as your own then fork and be ready to modify notes because I can guarantee that there are going to be some errors in here.
 
+
 ### Cool graph
 This is an obsidian vault so yeah, use it with that thing. The graph showing page connections looks quite cool too (year 1 image):
 
