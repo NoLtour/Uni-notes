@@ -52,21 +52,9 @@
                 "currentVersion": "1.1.16"
               }
             }
-          },
-          {
-            "id": "c2262369389eb0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,8 +169,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c2262369389eb0cc",
+  "active": "896ee2e97b4a68fc",
   "lastOpenFiles": [
+    "README.md",
     "Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
     "Aerodynamics/5 finite wing theory/Oswald efficiency factor.md",
     "Flight mechanics year 2/1 F/downwash for stability analysis.md",
@@ -192,7 +180,6 @@
     "SESA2024 Astronautics/9 Communications/antenna gain.md",
     "SESA2024 Astronautics/9 Communications/effective and projected aperture area.md",
     "SESA2024 Astronautics/9 Communications/HOLY SHIT IS THAT A PORTAL REFRENCE.md",
-    "README.md",
     "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "Aerodynamics/Aerodynamics overview.md",
     "Aerodynamics/4 thin foil/Thin airfoil theory Overview.md",
