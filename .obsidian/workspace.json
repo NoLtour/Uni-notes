@@ -47,14 +47,16 @@
             "id": "896ee2e97b4a68fc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compress",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,8 +173,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "896ee2e97b4a68fc",
+  "active": "857415749bf34697",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
     "README.md",
     "Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
     "Aerodynamics/5 finite wing theory/Oswald efficiency factor.md",
@@ -215,7 +220,6 @@
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/Compressible flow overview.md",
     "Programming stuff/python idk/Year 2/misc/Nozzle lab",
     "Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/stagnation pressure.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/4 Cracks/stress intensity factor (Year 1).md",
     "Mechanics structures and materials/Year 2/Structures/Torsion/SL5 Torsion in closed sections.pdf"
   ]
 }
