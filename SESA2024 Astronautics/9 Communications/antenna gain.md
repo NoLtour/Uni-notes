@@ -18,7 +18,7 @@ When no direction is specified, gain is understood to refer to the peak value of
 >> $\lambda=$ operating wavelength of dish
 >> $A_{eff}=$ [[effective and projected aperture area|effective aperture area]]
 >> $A=$ [[effective and projected aperture area|projected aperture area]]
->> $eta=$ [[effective and projected aperture area|aperture efficiency]] (generally in the range $0.4\to0.8$)
+>> $\eta=$ [[effective and projected aperture area|aperture efficiency]] (generally in the range $0.4\to0.8$)
 
 ^f6b5c0
 

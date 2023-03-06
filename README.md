@@ -17,6 +17,7 @@ Now the year 2 version:
 You can probably tell but the only reason to go to university is to make obsidian notes so that you can get a cool graph. Literally no other reason.
 
 ### Examples
+#### Year 2 (better notes)
 Now here is year 2 notes, this is the general layout of notes pages. Got intro and contents, some have intro's some don't:
 
 [![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082369520745852938/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -30,8 +31,16 @@ Also some of the notes like aero have a bunch of python jupyter stuff embedded i
 
 [![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082371258546663444/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+A example of where all the most important equations for a topic are shown and variables linked so that they can be easily utilised:
+
+[![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082384801220276234/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+Also a clear example of how backlinks may be used during proofs, also here Fourier series which is a maths module thing gets linked here making it easy to understand:
+
+[![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082384937161851000/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
+#### Old style/year 1 notes
 This horrible looking colour scheme is the result of some fool (me) who has no taste in themes (me) picking something trash (me) in year 1, here are a few examples of note pages from that shameful period:
 
 [![keke](https://cdn.discordapp.com/attachments/892362116214968330/968979328463409233/unknown.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
