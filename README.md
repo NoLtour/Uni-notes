@@ -18,16 +18,16 @@ You can probably tell but the only reason to go to university is to make obsidia
 ### Quality notes
 Now here is year 2 notes, this is the general layout of notes pages. Got intro and contents, some have intro's some don't:
 
-[![keke]https://cdn.discordapp.com/attachments/1061627987860140064/1082369520745852938/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082369520745852938/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 Hyperlinks to related content, especially for obscure variables put into equations. Proofs will often reference previous proofs, that sort of thing makes notes much easier to follow.
 
-[![keke]https://cdn.discordapp.com/attachments/1061627987860140064/1082370805989638144/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082370805989638144/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Also some of the notes like aero have a bunch of python jupyter stuff embedded into em. This is especially applicable with potential flow stuff:
 
-[![keke]https://cdn.discordapp.com/attachments/1061627987860140064/1082371258546663444/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![keke](https://cdn.discordapp.com/attachments/1061627987860140064/1082371258546663444/image.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
