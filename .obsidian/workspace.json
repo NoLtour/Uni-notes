@@ -57,14 +57,11 @@
             "id": "c2262369389eb0cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "misc/Todo stuff.canvas",
-                "viewState": {
-                  "x": 664.3208756663613,
-                  "y": -306.21952709924614,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Aerodynamics/Aerodynamics overview.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Todo stuff.canvas",
+                "file": "Aerodynamics/Aerodynamics overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,11 +182,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c2262369389eb0cc",
+  "active": "3d7e22d6e635444b",
   "lastOpenFiles": [
+    "Aerodynamics/4 thin foil/Thin airfoil theory Overview.md",
+    "Aerodynamics/4 thin foil/fundemental equation of thin aerofoil theory.md",
+    "Aerodynamics/Aerodynamics overview.md",
+    "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
+    "misc/Todo stuff.canvas",
     "images/mathematica.mp4",
     "misc/TODO.md",
-    "misc/Todo stuff.canvas",
     "Flight mechanics year 2/Flight mechanics overview.md",
     "Programming stuff/python idk/Year 2/Nozzle lab/labdoc.py",
     "Programming stuff/python idk/Year 2/Nozzle lab",
@@ -228,9 +229,6 @@
     "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/controlling surface properties.md",
     "Mechanics structures and materials/Year 2/Structures/Torsion/SL5 Torsion in closed sections.pdf",
-    "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/wear (tribology).md",
-    "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/tribology.md",
-    "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/more protecting against corrosion.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/protecting against corrosion (year 1).md"
+    "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/wear (tribology).md"
   ]
 }

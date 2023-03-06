@@ -1,5 +1,5 @@
 #### Today
-- Make propulsion flashcards on first 4 lectures
+- Make propulsion flashcards on first 4 propulsion lectures
 
 #### Soon
 - Make flight notes
