@@ -32,7 +32,7 @@ Also some of the notes like aero have a bunch of python jupyter stuff embedded i
 
 
 
-This horrible looking colour scheme is the result of some fool who has no taste in themes picking something trash in year 1, here are a few examples of note pages from that period:
+This horrible looking colour scheme is the result of some fool (me) who has no taste in themes (me) picking something trash (me) in year 1, here are a few examples of note pages from that shameful period:
 
 [![keke](https://cdn.discordapp.com/attachments/892362116214968330/968979328463409233/unknown.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
