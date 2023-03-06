@@ -27,6 +27,8 @@ Note: Positive $M_{z}$ creates positive stress in the positive side of the beam 
 >> $E=$ youngs modulus of material
 >> ![[Pasted image 20230219124240.png]]
 
+^5bba9e
+
 Note sometimes $I_{z}$ will be used instead of $I_{zz}$ for [[second moment of area]] in the lecture notes, I'm using the same notation that was used last year. (same for $M_{zz}$ and $M_{z}$)
 
 #### Proof (unfinished)
