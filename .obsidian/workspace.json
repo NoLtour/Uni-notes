@@ -52,9 +52,24 @@
                 "currentVersion": "1.1.16"
               }
             }
+          },
+          {
+            "id": "c2262369389eb0cc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "misc/Todo stuff.canvas",
+                "viewState": {
+                  "x": 664.3208756663613,
+                  "y": -306.21952709924614,
+                  "zoom": -0.3333333333333334
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/Flight mechanics overview.md",
+                "file": "misc/Todo stuff.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,8 +185,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9dba8c53e0736664",
+  "active": "c2262369389eb0cc",
   "lastOpenFiles": [
+    "images/mathematica.mp4",
+    "misc/TODO.md",
+    "misc/Todo stuff.canvas",
+    "Flight mechanics year 2/Flight mechanics overview.md",
     "Programming stuff/python idk/Year 2/Nozzle lab/labdoc.py",
     "Programming stuff/python idk/Year 2/Nozzle lab",
     "images/東方Touhou [Mixed⧸Rock] Invisible History of the Moon.mp3",
@@ -212,8 +231,6 @@
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/wear (tribology).md",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/tribology.md",
     "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/more protecting against corrosion.md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/protecting against corrosion (year 1).md",
-    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/stress corrosion.md",
-    "Mechanics structures and materials/Year 2/Materials/4 Structural preformance/stress corrosion cracking.md"
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/7 Corrosion/protecting against corrosion (year 1).md"
   ]
 }
