@@ -39,7 +39,7 @@ def TABLE_2():
 
     plot.plot( mass_flow_cor, p_out_l_p_0, "ro-.", label="p_out/p_0" );
     plot.plot( mass_flow_cor, p_2_l_p_0, "bx--", label="p_2/p_0" );
-    plot.plot( mass_flow_calc, linPressures/(pressure_0_bar_abs*100000), "g-", label="ee" );
+    plot.plot( mass_flow_calc, linPressures/(pressure_0_bar_abs*100000), "g-", label="theoretical" );
 
     plot.ylabel("p/p_0")
     plot.xlabel("mass flow rate (g/s)")
