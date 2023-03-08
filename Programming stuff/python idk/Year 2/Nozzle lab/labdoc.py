@@ -60,7 +60,7 @@ def TABLE_2():
 
     plot.legend()
 
-TABLE_2()
+#TABLE_2()
 
 
 def TABLE_3():
@@ -88,7 +88,7 @@ def TABLE_3():
 
     plot.legend()
 
-TABLE_3()
+#TABLE_3()
 
 def TABLE_4():
     area_throat = np.pi*(1/1000)**2
@@ -104,6 +104,8 @@ def TABLE_4():
 
 
     p_0_ov_p = p_0_bar/p_bar
+
+    p_star_bar = p_0_bar * (2/(gamma+1))**(gamma/(gamma-1))
 
     A_ov_Ast          = np.array( [ 1.4, 1, 1.13, 1.28, 1.42, 1.59, 1.77, 1.94 ] )
     area_point = A_ov_Ast * area_throat;
@@ -121,6 +123,11 @@ def TABLE_4():
     # post shock calcs
 
     plot.figure( 13 )
+    plot.plot( tapping_point, p_bar/p_0_bar )
+    plot.plot( [0, 8], [p_star_bar/p_0_bar,p_star_bar/p_0_bar] )
+    plot.xlabel( "tapping" )
+    plot.ylabel( "p/p_0" )
+
 
 TABLE_4()
 
