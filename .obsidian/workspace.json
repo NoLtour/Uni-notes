@@ -28,21 +28,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "896ee2e97b4a68fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/ideal gas law.md",
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,14 +146,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "857415749bf34697",
+  "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+    "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/ideal gas law.md",
+    "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
     "Templates/latex multiline eq.md",
     "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf",
     "Thermodynamics/Propulsion (year 2)/Hand outs/2 SESA2023_02_Thermodynamics.pdf",
     "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
     "Flight mechanics year 2/Flight mechanics overview.md",
-    "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
     "Mechanics structures and materials/Year 1/Materials/0 Flashcards/Atomic composition.md",
     "Templates/flashcard template.md",
     "Flight mechanics year 2/Sources of drag overview.md",
