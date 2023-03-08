@@ -116,7 +116,8 @@ def TABLE_4():
     speed_sound_prSh = np.sqrt( gamma * R * temps_preSh )
     rho_preSh = p_bar*100000/(R*temps_preSh)
 
-    mass_flow_rate = rho_0 * np.sqrt( 2 * cP * temp_0 ) * area_throat * ( 2/(gamma+1) )**(1/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
+    #mass_flow_rate = rho_0 * np.sqrt( 2 * cP * temp_0 ) * area_throat * ( 2/(gamma+1) )**(1/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
+    mass_flow_rate = 3.3/1000
     pre_sh_V = mass_flow_rate/(rho_preSh*area_point)
     Ma_pre_sh = pre_sh_V/speed_sound_prSh
 
@@ -155,7 +156,8 @@ def TABLE_5():
     speed_sound_prSh = np.sqrt( gamma * R * temps_preSh )
     rho_preSh = p_bar*100000/(R*temps_preSh)
 
-    mass_flow_rate = rho_0 * np.sqrt( 2 * cP * temp_0 ) * area_throat * ( 2/(gamma+1) )**(1/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
+    #mass_flow_rate = rho_0 * np.sqrt( 2 * cP * temp_0 ) * area_throat * ( 2/(gamma+1) )**(1/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
+    mass_flow_rate = 3.2/1000
     pre_sh_V = mass_flow_rate/(rho_preSh*area_point)
     Ma_pre_sh = pre_sh_V/speed_sound_prSh
 
