@@ -23,9 +23,11 @@
             "id": "857415749bf34697",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf"
+                "file": "Templates/latex multiline eq.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -41,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/Flight mechanics overview.md",
+                "file": "Templates/latex multiline eq.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,10 +160,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f26b55be7a4ea331",
+  "active": "857415749bf34697",
   "lastOpenFiles": [
-    "Flight mechanics year 2/Sources of drag overview.md",
+    "Mechanics structures and materials/Year 1/Materials/0 Flashcards/Atomic composition.md",
+    "Templates/flashcard template.md",
+    "Flight mechanics year 2/Flight mechanics overview.md",
     "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
+    "Flight mechanics year 2/Sources of drag overview.md",
     "Mechanics structures and materials/Year 2/Structures/Beams under torsion overview.md",
     "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
@@ -182,7 +188,6 @@
     "misc/Todo stuff.canvas",
     "images/mathematica.mp4",
     "misc/TODO.md",
-    "Flight mechanics year 2/Flight mechanics overview.md",
     "Programming stuff/python idk/Year 2/Nozzle lab/labdoc.py",
     "Programming stuff/python idk/Year 2/Nozzle lab",
     "images/東方Touhou [Mixed⧸Rock] Invisible History of the Moon.mp3",
@@ -201,8 +206,6 @@
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/that is because it is.md",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear force in a arbitrary symmetric cross section.md",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear centre.md",
-    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/horrible.md",
-    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/comparison of axial and shear stress.md",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff",
     "Programming stuff/python idk/Year 2/misc/Nozzle lab",
     "Mechanics structures and materials/Year 2/Structures/Torsion/SL5 Torsion in closed sections.pdf"
