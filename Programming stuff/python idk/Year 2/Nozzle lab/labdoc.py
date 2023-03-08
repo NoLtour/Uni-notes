@@ -129,6 +129,46 @@ def TABLE_4():
     plot.ylabel( "p/p_0" )
 
 
+def TABLE_5():
+    area_throat = np.pi*(1/1000)**2
+
+
+    tapping_point      = np.array( [ 1,   2,    3,    4,  5,   6,   7,  8 ] )
+    guage_p_bar_nCor   = np.array( [ 3,   2.3, 2.3, 2.4, 2.4, 2.5, 2.7, 2.8 ] )
+    p_bar_abs_nC       = np.array( [ 4.028, 3.328, 3.328, 3.428, 3.428, 3.528, 3.728, 3.828 ] )
+    p_bar              = np.array( [ 4.028, 3.428, 3.428, 3.428, 3.428, 3.628, 3.788, 3.928 ] )
+    
+    p_0_bar = 4 + pressure_atm_bar
+    rho_0 = p_0_bar*100000/(R * temp_0 )
+
+
+    p_0_ov_p = p_0_bar/p_bar
+
+    p_star_bar = p_0_bar * (2/(gamma+1))**(gamma/(gamma-1))
+
+    A_ov_Ast          = np.array( [ 1.4, 1, 1.13, 1.28, 1.42, 1.59, 1.77, 1.94 ] )
+    area_point = A_ov_Ast * area_throat;
+
+
+    # pre shock calcs
+    temps_preSh = temp_0/( p_0_ov_p**((gamma-1)/gamma) )
+    speed_sound_prSh = np.sqrt( gamma * R * temps_preSh )
+    rho_preSh = p_bar*100000/(R*temps_preSh)
+
+    mass_flow_rate = rho_0 * np.sqrt( 2 * cP * temp_0 ) * area_throat * ( 2/(gamma+1) )**(1/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
+    pre_sh_V = mass_flow_rate/(rho_preSh*area_point)
+    Ma_pre_sh = pre_sh_V/speed_sound_prSh
+
+    # post shock calcs
+
+    plot.figure( 123 )
+    plot.plot( tapping_point, p_bar/p_0_bar )
+    plot.plot( [0, 8], [p_star_bar/p_0_bar,p_star_bar/p_0_bar] )
+    plot.xlabel( "tapping T5" )
+    plot.ylabel( "p/p_0" )
+
+
 TABLE_4()
+TABLE_5()
 
 plot.show();
