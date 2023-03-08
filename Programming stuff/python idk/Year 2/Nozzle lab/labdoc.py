@@ -100,7 +100,7 @@ def TABLE_4():
     p_bar              = np.array( [ 3.928, 2.928, 2.828, 2.328, 2.328, 1.328,  1.128, 1.028 ] )
     
     p_0_bar = 4 + pressure_atm_bar
-    rho_0 = p_0_bar*100000/(R * temp_0 )
+    rho_0 = p_0_bar*100000/(R * temp_0 ) 
 
 
     p_0_ov_p = p_0_bar/p_bar
@@ -126,8 +126,13 @@ def TABLE_4():
     plot.figure( 13 )
     plot.plot( tapping_point, p_bar/p_0_bar )
     plot.plot( [0, 8], [p_star_bar/p_0_bar,p_star_bar/p_0_bar] )
-    plot.xlabel( "tapping" )
+    plot.xlabel( "tapping1" )
     plot.ylabel( "p/p_0" )
+
+    plot.figure( 1366)
+    plot.plot( tapping_point, Ma_pre_sh ) 
+    plot.xlabel( "tapping1" )
+    plot.ylabel( "Ma" )
 
 
 def TABLE_5():
@@ -166,8 +171,13 @@ def TABLE_5():
     plot.figure( 123 )
     plot.plot( tapping_point, p_bar/p_0_bar )
     plot.plot( [0, 8], [p_star_bar/p_0_bar,p_star_bar/p_0_bar] )
-    plot.xlabel( "tapping T5" )
+    plot.xlabel( "tapping2" )
     plot.ylabel( "p/p_0" )
+
+    plot.figure( 13615426)
+    plot.plot( tapping_point, Ma_pre_sh ) 
+    plot.xlabel( "tapping2" )
+    plot.ylabel( "Ma" )
 
 
 TABLE_4()
