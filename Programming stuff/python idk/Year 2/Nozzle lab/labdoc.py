@@ -28,7 +28,7 @@ def TABLE_2():
     p_out_l_p_0 = pressure_out_abs/pressure_0_bar_abs
     p_2_l_p_0 = pressure_2_absCor/pressure_0_bar_abs
 
-    linPressures = 100000*( 5.028 - np.arange( 0, 3, 0.1 ) )
+    linPressures = 100000*( 5.128 - np.arange( 0, 5.128-2.928, 0.01 ) )
 
     rho_0 = pressure_0_bar_abs*100000/(R * temp_0 )
 
@@ -60,7 +60,7 @@ def TABLE_2():
 
     plot.legend()
 
-#TABLE_2()
+TABLE_2()
 
 
 def TABLE_3():
