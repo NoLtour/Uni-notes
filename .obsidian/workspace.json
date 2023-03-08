@@ -11,11 +11,9 @@
             "id": "f26b55be7a4ea331",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Flight mechanics year 2/Flight mechanics overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf"
               }
             }
           },
@@ -43,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/latex multiline eq.md",
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,17 +157,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "857415749bf34697",
+  "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+    "Flight mechanics year 2/Flight mechanics overview.md",
+    "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
+    "Templates/latex multiline eq.md",
     "Mechanics structures and materials/Year 1/Materials/0 Flashcards/Atomic composition.md",
     "Templates/flashcard template.md",
-    "Flight mechanics year 2/Flight mechanics overview.md",
     "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
     "Flight mechanics year 2/Sources of drag overview.md",
     "Mechanics structures and materials/Year 2/Structures/Beams under torsion overview.md",
     "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
-    "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
     "README.md",
     "Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
     "Aerodynamics/5 finite wing theory/Oswald efficiency factor.md",
@@ -205,7 +203,6 @@
     "images/Pasted image 20230303203512.png",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/that is because it is.md",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear force in a arbitrary symmetric cross section.md",
-    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear centre.md",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff",
     "Programming stuff/python idk/Year 2/misc/Nozzle lab",
     "Mechanics structures and materials/Year 2/Structures/Torsion/SL5 Torsion in closed sections.pdf"
