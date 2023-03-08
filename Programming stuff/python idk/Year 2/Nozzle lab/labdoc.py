@@ -89,12 +89,13 @@ def TABLE_3():
     plot.legend()
 
 #TABLE_3()
+tapping_point      = np.array( [ 1,   2,    3,    4,  5,   6,   7,  8 ] )
+tapping_posit      = np.array( [ 0.75,   1.5,    2.25,    3,  3.75,   4.5,   5.25,  6 ] )
 
 def TABLE_4():
     area_throat = np.pi*(1/1000)**2
 
-
-    tapping_point      = np.array( [ 1,   2,    3,    4,  5,   6,   7,  8 ] )
+ 
     guage_p_bar_nCor   = np.array( [ 2.9, 1.8, 1.7, 1.3, 1.3, 0.2,  0, 0 ] )
     p_bar_abs_nC       = np.array( [ 3.928, 2.828, 2.728, 2.328, 2.328, 1.228,  1.028, 1.028 ] )
     p_bar              = np.array( [ 3.928, 2.928, 2.828, 2.328, 2.328, 1.328,  1.128, 1.028 ] )
@@ -123,23 +124,22 @@ def TABLE_4():
 
     # post shock calcs
 
-    plot.figure( 13 )
-    plot.plot( tapping_point, p_bar/p_0_bar )
-    plot.plot( [0, 8], [p_star_bar/p_0_bar,p_star_bar/p_0_bar] )
+    plot.figure( 13 ) 
+    plot.plot( tapping_posit, p_bar/p_0_bar, "bo-", label="mass flow: 3.3g/s" ) 
+    plot.plot( [0, tapping_posit[7]], [p_star_bar/p_0_bar,p_star_bar/p_0_bar] )
     plot.xlabel( "tapping1" )
     plot.ylabel( "p/p_0" )
 
     plot.figure( 1366)
-    plot.plot( tapping_point, Ma_pre_sh ) 
-    plot.xlabel( "tapping1" )
-    plot.ylabel( "Ma" )
+    plot.plot( tapping_posit, Ma_pre_sh, "bo-", label="mass flow: 3.3g/s" ) 
+    plot.xlabel( "tapping x (mm)" )
+    plot.ylabel( "Mach number" )
 
 
 def TABLE_5():
     area_throat = np.pi*(1/1000)**2
 
 
-    tapping_point      = np.array( [ 1,   2,    3,    4,  5,   6,   7,  8 ] )
     guage_p_bar_nCor   = np.array( [ 3,   2.3, 2.3, 2.4, 2.4, 2.5, 2.7, 2.8 ] )
     p_bar_abs_nC       = np.array( [ 4.028, 3.328, 3.328, 3.428, 3.428, 3.528, 3.728, 3.828 ] )
     p_bar              = np.array( [ 4.028, 3.428, 3.428, 3.428, 3.428, 3.628, 3.788, 3.928 ] )
@@ -168,16 +168,13 @@ def TABLE_5():
 
     # post shock calcs
 
-    plot.figure( 123 )
-    plot.plot( tapping_point, p_bar/p_0_bar )
-    plot.plot( [0, 8], [p_star_bar/p_0_bar,p_star_bar/p_0_bar] )
-    plot.xlabel( "tapping2" )
-    plot.ylabel( "p/p_0" )
+    plot.figure( 13 ) 
+    plot.plot( tapping_posit, p_bar/p_0_bar, "gx--", label="mass flow: 3.2g/s" )   
+    plot.legend()
 
-    plot.figure( 13615426)
-    plot.plot( tapping_point, Ma_pre_sh ) 
-    plot.xlabel( "tapping2" )
-    plot.ylabel( "Ma" )
+    plot.figure( 1366)
+    plot.plot( tapping_posit, Ma_pre_sh, "gx--", label="mass flow: 3.2g/s" ) 
+    plot.legend()
 
 
 TABLE_4()
