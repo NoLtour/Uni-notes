@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf"
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,12 +159,14 @@
   },
   "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+    "Thermodynamics/Propulsion (year 2)/Hand outs/2 SESA2023_02_Thermodynamics.pdf",
+    "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf",
+    "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
     "Flight mechanics year 2/Flight mechanics overview.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
     "Templates/latex multiline eq.md",
     "Mechanics structures and materials/Year 1/Materials/0 Flashcards/Atomic composition.md",
     "Templates/flashcard template.md",
-    "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
     "Flight mechanics year 2/Sources of drag overview.md",
     "Mechanics structures and materials/Year 2/Structures/Beams under torsion overview.md",
     "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
@@ -202,9 +204,7 @@
     "images/Pasted image 20230303210217.png",
     "images/Pasted image 20230303203512.png",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/that is because it is.md",
-    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff/shear force in a arbitrary symmetric cross section.md",
     "Mechanics structures and materials/Year 2/Structures/3 Shear stuff",
-    "Programming stuff/python idk/Year 2/misc/Nozzle lab",
-    "Mechanics structures and materials/Year 2/Structures/Torsion/SL5 Torsion in closed sections.pdf"
+    "Programming stuff/python idk/Year 2/misc/Nozzle lab"
   ]
 }
