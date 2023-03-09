@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "b35e10a30c39d72e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf"
+              }
+            }
+          },
+          {
             "id": "64f33dbd37dd8efb",
             "type": "leaf",
             "state": {
@@ -51,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,12 +178,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f26b55be7a4ea331",
+  "active": "b35e10a30c39d72e",
   "lastOpenFiles": [
+    "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
     "Mechanics structures and materials/Year 2/Structures/SL6 Instability and Euler buckling theory.pdf",
     "Flight mechanics year 2/Lecture_2.4.pdf",
     "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
-    "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a jet engine.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a rocket engine.md",
