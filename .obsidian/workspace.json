@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
+                "file": "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,8 +157,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f20d53a588e1de27",
+  "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+    "Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf",
     "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/ideal gas law.md",
@@ -190,7 +190,6 @@
     "Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
     "misc/Todo stuff.canvas",
     "images/mathematica.mp4",
-    "misc/TODO.md",
     "Programming stuff/python idk/Year 2/Nozzle lab/labdoc.py",
     "Programming stuff/python idk/Year 2/Nozzle lab",
     "images/東方Touhou [Mixed⧸Rock] Invisible History of the Moon.mp3",

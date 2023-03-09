@@ -18,7 +18,7 @@ Unlike a [[system (thermodynamics)|system]] which has no mass transfer across it
 
 To find the net force acting on a control volume it's just conservation of momentum + normal pressure on the control volume boundary. 
 
-> ### $$\begin{align*} \sum\limits \vec{V}_{n} \dot{m}_{n} &= -\vec{F} + \sum\limits \vec{P}_{n} A_{n}  \end{align*}$$
+> ### $$\begin{align*} \vec{F}  = \sum\limits \vec{P}_{n} A_{n} + \sum\limits_{\text{in}} \vec{V}_{n} \dot{m}_{n}   - \sum\limits_{\text{out}} \vec{V}_{n} \dot{m}_{n}   \end{align*}$$
 >> where:
 >> $\vec{V}_{n} \dot{m}_{n}=$ the momentum of the mass flow of some input/output from the control volume
 >> $\vec{F}=$ resultant force acting on the control volume (usually your solving for this)
