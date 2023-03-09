@@ -19,7 +19,7 @@ def TABLE_2():
     pressure_0_bar_abs   = pressure_0_bar_guage + pressure_atm_bar
 
     critical_pressure_bar = pressure_0_bar_abs*( 2/(gamma+1) )**(gamma/(gamma-1))
-    print("Table 1, P*/P_0: ", critical_pressure_bar/pressure_0_bar_abs )
+    print("Table 1, theo P*/P_0: ", critical_pressure_bar/pressure_0_bar_abs )
 
     pressure_out_abs = np.array( [5.028,4.778,4.528,4.278,4.028,3.528,3.028,2.028] )
     pressure_2_absCor = np.array( [5.128,4.728,4.328,3.928,3.528,2.928,2.928,2.928] )
@@ -60,7 +60,7 @@ def TABLE_2():
 
     plot.legend()
 
-#TABLE_2()
+TABLE_2()
 
 
 def TABLE_3():
@@ -88,7 +88,7 @@ def TABLE_3():
 
     plot.legend()
 
-#TABLE_3()
+TABLE_3()
 tapping_point      = np.array( [ 1,   2,    3,    4,  5,   6,   7,  8 ] )
 tapping_posit      = np.array( [ 0.75,   1.5,    2.25,    3,  3.75,   4.5,   5.25,  6 ] )
 
@@ -173,6 +173,7 @@ def TABLE_5():
     plot.figure( 13 ) 
     plot.plot( tapping_posit, p_bar/p_0_bar, "gx--", label="mass flow: 3.2g/s" )   
     plot.legend()
+    plot.title("Mach number along a converging diverging nozzle")
 
     plot.figure( 1366)
     plot.plot( tapping_posit, Ma_pre_sh, "gx--", label="mass flow: 3.2g/s" ) 
