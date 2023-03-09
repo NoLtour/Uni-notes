@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/5 SESA2023_05_Combustion.pdf",
+                "file": "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,8 +168,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f26b55be7a4ea331",
+  "active": "64f33dbd37dd8efb",
   "lastOpenFiles": [
+    "Thermodynamics/Propulsion (year 2)/Hand outs/5 SESA2023_05_Combustion.pdf",
     "Flight mechanics year 2/Lecture_2.4.pdf",
     "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
     "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
@@ -214,7 +216,6 @@
     "images/Pasted image 20230304095526.png",
     "images/Pasted image 20230303210739.png",
     "images/Pasted image 20230303210217.png",
-    "images/Pasted image 20230303203512.png",
-    "Mechanics structures and materials/Year 2/Structures/3 Shear stuff"
+    "images/Pasted image 20230303203512.png"
   ]
 }
