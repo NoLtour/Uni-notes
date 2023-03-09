@@ -127,6 +127,7 @@ def TABLE_4():
     mass_flow_rate = 3.3/1000
     pre_sh_V  = mass_flow_rate/(rho_preSh*area_point)
     pre_sh_V  = np.sqrt((temp_0-temps_preSh)*2*cP)
+    rho_preSh  = mass_flow_rate/(area_point*pre_sh_V)
     Ma_pre_sh = pre_sh_V/speed_sound_prSh
 
     # post shock calcs
