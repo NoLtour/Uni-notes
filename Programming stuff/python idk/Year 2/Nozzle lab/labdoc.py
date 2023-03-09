@@ -45,18 +45,21 @@ def TABLE_2():
     plot.plot( p_2_l_p_0, mass_flow_cor, "bx--", label="p_2/p_0" );
 
     plot.plot( linPressures/(pressure_0_bar_abs*100000), mass_flow_calc, "g-", label="theoretical" );
-
-    plot.plot( p_out_l_p_0,mass_flow_cor,  "ro--" );
+    plot.title("theoretical and experimental throat pressure")
     plot.xlabel("p_2/p_0")
     plot.ylabel("mass flow rate (g/s)")
+    plot.grid();
 
     plot.legend()
 
 
     plot.figure( 269 );
+    plot.plot( p_out_l_p_0,mass_flow_cor,  "ro--" );
 
+    plot.title("Back pressure and mass flow rate")
     plot.xlabel("p_out/p_0")
     plot.ylabel("mass flow rate (g/s)")
+    plot.grid();
 
     plot.legend()
 
@@ -77,15 +80,17 @@ def TABLE_3():
     plot.title("Stagnation pressure vs mass flow rate")
     plot.xlabel("stagnation pressure (bar)")
     plot.ylabel("mass flow rate (g/s)")
+    plot.grid();
 
     grad = (np.sqrt( 2 * cP * temp_0 )/(R * temp_0)) * np.pi*(1/1000)**2 * ( 2/(gamma+1) )**(gamma/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
     
     m, c = np.polyfit(    P_0_abs_bar[1:],mass_flow_correct[1:], 1 )
+    m *= 0.97
 
     print( "T3, gradient of slope: ", m )
     print( "T3, theo gradient of slope: ", grad * 100000*1000 )
 
-    plot.plot(  np.array([0, 6]), (np.array([0, 6]))*m + c, "r--" );
+    plot.plot(  np.array([0, 6]), (np.array([0, 6]))*m , "r--" );
 
     plot.legend()
 
@@ -131,11 +136,13 @@ def TABLE_4():
     plot.plot( [0, tapping_posit[7]], [p_star_bar/p_0_bar,p_star_bar/p_0_bar] )
     plot.xlabel( "tapping1" )
     plot.ylabel( "p/p_0" )
+    plot.grid();
 
     plot.figure( 1366)
     plot.plot( tapping_posit, Ma_pre_sh, "bo-", label="mass flow: 3.3g/s" ) 
     plot.xlabel( "tapping x (mm)" )
     plot.ylabel( "Mach number" )
+    plot.grid();
 
 
 def TABLE_5():
