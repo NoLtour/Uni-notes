@@ -60,7 +60,7 @@ def TABLE_2():
 
     plot.legend()
 
-TABLE_2()
+#TABLE_2()
 
 
 def TABLE_3():
@@ -119,7 +119,8 @@ def TABLE_4():
 
     #mass_flow_rate = rho_0 * np.sqrt( 2 * cP * temp_0 ) * area_throat * ( 2/(gamma+1) )**(1/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
     mass_flow_rate = 3.3/1000
-    pre_sh_V = mass_flow_rate/(rho_preSh*area_point)
+    pre_sh_V  = mass_flow_rate/(rho_preSh*area_point)
+    pre_sh_V  = np.sqrt((temp_0-temps_preSh)*2*cP)
     Ma_pre_sh = pre_sh_V/speed_sound_prSh
 
     # post shock calcs
@@ -164,6 +165,7 @@ def TABLE_5():
     #mass_flow_rate = rho_0 * np.sqrt( 2 * cP * temp_0 ) * area_throat * ( 2/(gamma+1) )**(1/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
     mass_flow_rate = 3.2/1000
     pre_sh_V = mass_flow_rate/(rho_preSh*area_point)
+    pre_sh_V  = np.sqrt((temp_0-temps_preSh)*2*cP)
     Ma_pre_sh = pre_sh_V/speed_sound_prSh
 
     # post shock calcs
