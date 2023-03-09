@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf"
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/5 SESA2023_05_Combustion.pdf"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/5 SESA2023_05_Combustion.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,8 +169,9 @@
   },
   "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
-    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
+    "Flight mechanics year 2/Lecture_2.4.pdf",
     "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
+    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a jet engine.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a rocket engine.md",
