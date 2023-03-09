@@ -46,6 +46,7 @@ def TABLE_2():
 
     plot.plot( linPressures/(pressure_0_bar_abs*100000), mass_flow_calc, "g-", label="theoretical" );
 
+    plot.plot( p_out_l_p_0,mass_flow_cor,  "ro--" );
     plot.xlabel("p_2/p_0")
     plot.ylabel("mass flow rate (g/s)")
 
@@ -53,7 +54,6 @@ def TABLE_2():
 
 
     plot.figure( 269 );
-    plot.plot( p_out_l_p_0,mass_flow_cor,  "ro--" );
 
     plot.xlabel("p_out/p_0")
     plot.ylabel("mass flow rate (g/s)")
@@ -74,7 +74,8 @@ def TABLE_3():
     plot.figure( 1269 );
     plot.plot( P_0_abs_bar,  mass_flow_correct, "rx" );
 
-    plot.xlabel("p_0")
+    plot.title("Stagnation pressure vs mass flow rate")
+    plot.xlabel("stagnation pressure (bar)")
     plot.ylabel("mass flow rate (g/s)")
 
     grad = (np.sqrt( 2 * cP * temp_0 )/(R * temp_0)) * np.pi*(1/1000)**2 * ( 2/(gamma+1) )**(gamma/(gamma-1)) * np.sqrt( (gamma-1)/(gamma+1) )
@@ -173,9 +174,9 @@ def TABLE_5():
     plot.figure( 13 ) 
     plot.plot( tapping_posit, p_bar/p_0_bar, "gx--", label="mass flow: 3.2g/s" )   
     plot.legend()
-    plot.title("Mach number along a converging diverging nozzle")
 
     plot.figure( 1366)
+    plot.title("Mach number along a converging diverging nozzle")
     plot.plot( tapping_posit, Ma_pre_sh, "gx--", label="mass flow: 3.2g/s" ) 
     plot.legend()
 
