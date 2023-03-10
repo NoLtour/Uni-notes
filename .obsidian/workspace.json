@@ -13,17 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf"
-              }
-            }
-          },
-          {
-            "id": "b35e10a30c39d72e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf"
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/SESA2023_06_Rockets.pdf"
               }
             }
           },
@@ -33,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
+                "file": "misc/TODO.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf",
+                "file": "Thermodynamics/Propulsion (year 2)/Hand outs/SESA2023_06_Rockets.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,12 +167,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b35e10a30c39d72e",
+  "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+    "Thermodynamics/Propulsion (year 2)/Hand outs/5 SESA2023_05_Combustion.pdf",
+    "Thermodynamics/Propulsion (year 2)/Hand outs/4 SESA2023_04_Ramjets.pdf",
     "Thermodynamics/Propulsion (year 2)/Hand outs/1 SESA2023_01_Introduction.pdf",
     "Mechanics structures and materials/Year 2/Structures/SL6 Instability and Euler buckling theory.pdf",
-    "Flight mechanics year 2/Lecture_2.4.pdf",
+    "Mechanics structures and materials/Year 2/Structures/Beam bucklin.htm",
+    "misc/TODO.md",
+    "commutator.md",
     "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
+    "Flight mechanics year 2/Lecture_2.4.pdf",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a jet engine.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a rocket engine.md",
@@ -208,15 +202,10 @@
     "SESA2024 Astronautics/9 Communications/Communications overview.md",
     "SESA2024 Astronautics/9 Communications/antenna gain.md",
     "SESA2024 Astronautics/9 Communications/effective and projected aperture area.md",
-    "SESA2024 Astronautics/9 Communications/HOLY SHIT IS THAT A PORTAL REFRENCE.md",
-    "Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "misc/Todo stuff.canvas",
     "images/mathematica.mp4",
     "Programming stuff/python idk/Year 2/Nozzle lab/labdoc.py",
     "Programming stuff/python idk/Year 2/Nozzle lab",
-    "images/東方Touhou [Mixed⧸Rock] Invisible History of the Moon.mp3",
-    "images/trim.8A7B1974-B2B4-4927-A55A-1C73326F35E1.mp4",
-    "images/fnaf_france.mov",
     "images/Pasted image 20230304165123.png",
     "images/Pasted image 20230304165028.png",
     "images/Pasted image 20230304164948.png",
