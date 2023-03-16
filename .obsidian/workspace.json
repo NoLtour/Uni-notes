@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flight mechanics year 2/1 F/Equations of motion and tail planes overview.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flight mechanics year 2/1 F/Equations of motion and tail planes overview.md",
+                "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,8 +169,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3d7e22d6e635444b",
+  "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
+    "Flight mechanics year 2/1 F/Equations of motion and tail planes overview.md",
     "Flight mechanics year 2/2022-23_SESA2025_Lecture_3.2.pdf",
     "Flight mechanics year 2/2022-23_SESA2025_Lecture_3.1.pdf",
     "Thermodynamics/Propulsion (year 2)/Hand outs/SESA2023_06_Rockets.pdf",
@@ -191,7 +193,6 @@
     "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/ideal gas law.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
     "Templates/latex multiline eq.md",
-    "Thermodynamics/Propulsion (year 2)/Hand outs/2 SESA2023_02_Thermodynamics.pdf",
     "Flight mechanics year 2/Flight mechanics overview.md",
     "Mechanics structures and materials/Year 1/Materials/0 Flashcards/Atomic composition.md",
     "Templates/flashcard template.md",
@@ -206,7 +207,6 @@
     "SESA2024 Astronautics/Astro overview.md",
     "SESA2024 Astronautics/9 Communications/Communications overview.md",
     "SESA2024 Astronautics/9 Communications/antenna gain.md",
-    "SESA2024 Astronautics/9 Communications/effective and projected aperture area.md",
     "misc/Todo stuff.canvas",
     "images/Pasted image 20230304165123.png",
     "images/Pasted image 20230304165028.png",
