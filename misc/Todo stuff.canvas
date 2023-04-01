@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"e9bc9d0c743f9a74","x":1080,"y":-1180,"width":250,"height":60,"type":"text","text":"owo"},
-		{"id":"68a90350dc133056","x":-180,"y":-1200,"width":1020,"height":500,"type":"file","file":"misc/TODO.md"}
+		{"type":"file","file":"misc/TODO.md","id":"68a90350dc133056","x":-180,"y":-1200,"width":1020,"height":500},
+		{"type":"text","text":"owo","id":"e9bc9d0c743f9a74","x":1020,"y":-1360,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"13ec20882f4c712a","fromNode":"e9bc9d0c743f9a74","fromSide":"bottom","toNode":"68a90350dc133056","toSide":"right"}
