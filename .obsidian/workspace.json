@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/TODO.md",
-                "mode": "source",
+                "file": "Thermodynamics/Thermofluids (year 1)/7 Properties of state/enthalpy.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ideal gas",
+                "query": "entropy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/TODO.md",
+                "file": "Thermodynamics/Thermofluids (year 1)/7 Properties of state/enthalpy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,8 +172,13 @@
   },
   "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
-    "misc/Todo stuff.canvas",
+    "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/entropy.md",
+    "Thermodynamics/Thermofluids (year 1)/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
+    "Thermodynamics/Thermofluids (year 1)/12 Entropy and the second law of thermodynamics/fourth law of thermodynamics.md",
+    "Thermodynamics/Thermofluids (year 1)/12 Entropy and the second law of thermodynamics/Entropy and the second law of thermodynamics notes.md",
+    "Thermodynamics/Thermofluids (year 1)/10U Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
     "misc/TODO.md",
+    "misc/Todo stuff.canvas",
     "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
     "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
     "Flight mechanics year 2/1 F/Equations of motion and tail planes overview.md",
@@ -203,10 +209,6 @@
     "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
     "README.md",
-    "Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
-    "Aerodynamics/5 finite wing theory/Oswald efficiency factor.md",
-    "Flight mechanics year 2/1 F/downwash for stability analysis.md",
-    "SESA2024 Astronautics/Astro overview.md",
     "images/Pasted image 20230304165123.png",
     "images/Pasted image 20230304165028.png",
     "images/Pasted image 20230304164948.png",
