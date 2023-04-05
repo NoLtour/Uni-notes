@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
+                "file": "Flight mechanics year 2/1.3 High lift devices/High lift devices overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
+                "file": "Flight mechanics year 2/1.3 High lift devices/High lift devices overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,6 +137,7 @@
   },
   "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+    "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
     "Thermodynamics/Thermofluids (year 1)/7 Properties of state/enthalpy.md",
     "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/entropy.md",
     "Thermodynamics/Thermofluids (year 1)/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
@@ -174,7 +174,6 @@
     "Flight mechanics year 2/Sources of drag overview.md",
     "Mechanics structures and materials/Year 2/Structures/Beams under torsion overview.md",
     "Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
-    "Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
     "images/Pasted image 20230304165123.png",
     "images/Pasted image 20230304165028.png",
     "images/Pasted image 20230304164948.png",
