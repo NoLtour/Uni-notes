@@ -13,18 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
+=======
+                "file": "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
+>>>>>>> Stashed changes
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "64f33dbd37dd8efb",
+=======
+            "id": "c3a0c3b03e7ad985",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "misc/TODO.md",
                 "mode": "source",
                 "source": true
@@ -33,15 +42,36 @@
           },
           {
             "id": "f20d53a588e1de27",
+=======
+                "file": "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/3 Ductile to brittle transition/toughness.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "93c51e88e5478cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59391557955aa7a1",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
+=======
+                "file": "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/stress concentration at a crack tip.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": true
               }
             }
+<<<<<<< Updated upstream
           },
           {
             "id": "857415749bf34697",
@@ -52,6 +82,8 @@
                 "file": "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf"
               }
             }
+=======
+>>>>>>> Stashed changes
           }
         ]
       }
@@ -82,7 +114,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": "ideal gas",
+=======
+                "query": "matrix",
+>>>>>>> Stashed changes
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +155,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
+=======
+                "file": "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
+>>>>>>> Stashed changes
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,9 +211,33 @@
   },
   "active": "f26b55be7a4ea331",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Mechanics structures and materials/Year 2/Structures/SL7 buckling of beams with imperfection.pdf",
     "Flight mechanics year 2/2022-23_SESA2025_Lecture_3.3.pdf",
     "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
+=======
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/3 Ductile to brittle transition/toughness.md",
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/stress concentration at a crack tip.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/2 Stress concentration/Stress concentration notes.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/2 Stress concentration/stress concentration.md",
+    "misc/TODO.md",
+    "Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/7 Matrix algebra with determinants/addition rule with matrix determinants.md",
+    "Aerodynamics/5 finite wing theory/Oswald efficiency factor.md",
+    "SESA1015 Flight mechanics year 1/Flight mechanics/Flight mechanics 4/stalling speed.md",
+    "Aerodynamics/4 thin foil/air foil shape and leading edge stall.md",
+    "Aerodynamics/4 thin foil/thin symmetric airfoil analysis.md",
+    "Flight mechanics year 2/1.3 High lift devices/High lift devices overview.md",
+    "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/adiabatic expansion or compression.md",
+    "Thermodynamics/Thermofluids (year 1)/7 Properties of state/enthalpy.md",
+    "Thermodynamics/Thermofluids (year 1)/11 Processes, paths and reversibility/entropy.md",
+    "Thermodynamics/Thermofluids (year 1)/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
+    "Thermodynamics/Thermofluids (year 1)/12 Entropy and the second law of thermodynamics/fourth law of thermodynamics.md",
+    "Thermodynamics/Thermofluids (year 1)/12 Entropy and the second law of thermodynamics/Entropy and the second law of thermodynamics notes.md",
+    "Thermodynamics/Thermofluids (year 1)/10U Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
+    "misc/Todo stuff.canvas",
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
+>>>>>>> Stashed changes
     "Flight mechanics year 2/1 F/Equations of motion and tail planes overview.md",
     "Flight mechanics year 2/2022-23_SESA2025_Lecture_3.2.pdf",
     "Flight mechanics year 2/2022-23_SESA2025_Lecture_3.1.pdf",
@@ -190,6 +254,7 @@
     "Thermodynamics/Propulsion (year 2)/1 Introduction/Introduction to propulsion overview.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a jet engine.md",
     "Thermodynamics/Propulsion (year 2)/1 Introduction/momentum conservation applied to a rocket engine.md",
+<<<<<<< Updated upstream
     "Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
     "Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/ideal gas law.md",
     "Mathematics for Engineering and the Environment/Year 2/Year 2 cheat sheet.md",
@@ -208,6 +273,9 @@
     "SESA2024 Astronautics/Astro overview.md",
     "SESA2024 Astronautics/9 Communications/Communications overview.md",
     "misc/Todo stuff.canvas",
+=======
+    "Thermodynamics/Propulsion (year 2)/Hand outs/3 SESA2023_03_Gas_dynamics.pdf",
+>>>>>>> Stashed changes
     "images/Pasted image 20230304165123.png",
     "images/Pasted image 20230304165028.png",
     "images/Pasted image 20230304164948.png",
