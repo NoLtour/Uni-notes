@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "06f441eaf18b9dca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
             "id": "2ba05ed7bdd200a1",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,6 +85,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "11b81e2aa1533613",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -148,7 +167,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "76271610466b8195",
+  "active": "06f441eaf18b9dca",
   "lastOpenFiles": [
     "Mechanics structures and materials/D87C4950",
     "Mechanics structures and materials/557C4950",
