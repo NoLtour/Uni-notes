@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "06f441eaf18b9dca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "2ba05ed7bdd200a1",
             "type": "leaf",
             "state": {
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,15 +87,14 @@
             }
           },
           {
-            "id": "74f6af087305b76a",
+            "id": "11b81e2aa1533613",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +163,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "76271610466b8195",
+  "active": "06f441eaf18b9dca",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 1/Statics 2/2a Strain in multiple directions introduction/local strain.md",
+    "Mechanics structures and materials/Year 1/Statics 1/7a Beams, stress due to bending/Hooke's law.md",
     "Mechanics structures and materials/D87C4950",
     "Mechanics structures and materials/557C4950",
     "Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
