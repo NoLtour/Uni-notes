@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
+                "file": "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/crack propagation rate (material fatigue).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ac7e764e315534d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/stress intensity factor.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
+                "file": "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/crack propagation rate (material fatigue).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +169,16 @@
   },
   "active": "76271610466b8195",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
+    "Mechanics structures and materials/Year 2/Materials/2 Structural preformance/AHHHHHHHHHHHHH FRENCH.md",
+    "Mechanics structures and materials/Year 1/Materials/3 Failure of materials/4 Cracks/critical stress intensity factor.md",
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
+    "Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/stress intensity factor.md",
+    "Mechanics structures and materials/~$THING_SHEET.xlsx",
+    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
     "Mechanics structures and materials/D87C4950",
     "Mechanics structures and materials/557C4950",
     "Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
-    "Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
     "Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
     "Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md",
