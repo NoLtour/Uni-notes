@@ -1,8 +1,0 @@
-![[gafaw.gif]]
-![[hawdaf.gif]]
-![[juh644fea.gif]]
-![[yjrftaef.gif]]
-![[ythj64g.gif]]
-![[52y3afwf.gif]]
-![[awfag.gif]]
-![[awfdafw.gif]]

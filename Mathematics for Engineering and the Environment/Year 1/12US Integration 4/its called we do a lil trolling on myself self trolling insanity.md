@@ -1,1 +1,0 @@
-![[redditsave.com_cant_have_shit_in_detroit-wjmm9xrtcsi81.mp4#play&loop]]

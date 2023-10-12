@@ -1,2 +1,0 @@
-It's not even static it shifts by 1 degree every 70 years, which isn't a huge deal right now but people in the future are going to have so SO many issues caused by this. It's so shit, why don't we just use some REALLY distant object as a reference?! 
-![[dishwasher.mp4#play]]

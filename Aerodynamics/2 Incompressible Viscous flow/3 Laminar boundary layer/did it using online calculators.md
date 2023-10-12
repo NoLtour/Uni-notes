@@ -1,1 +1,0 @@
-![[amos.mp4#play]]

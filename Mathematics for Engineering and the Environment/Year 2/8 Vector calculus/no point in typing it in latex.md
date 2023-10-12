@@ -1,1 +1,0 @@
-![[playing_guitar_hero(1).mp4#play]]

@@ -1,0 +1,1 @@
+![[Wing plan area|Gross wing area]]

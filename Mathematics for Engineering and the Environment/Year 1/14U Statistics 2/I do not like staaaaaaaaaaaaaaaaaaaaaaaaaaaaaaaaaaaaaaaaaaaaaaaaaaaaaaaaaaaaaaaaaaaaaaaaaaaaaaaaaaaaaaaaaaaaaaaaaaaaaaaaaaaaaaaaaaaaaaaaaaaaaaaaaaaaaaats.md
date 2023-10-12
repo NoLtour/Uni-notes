@@ -1,1 +1,0 @@
-![[cry_about.gif]]

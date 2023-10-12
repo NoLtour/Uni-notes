@@ -1,0 +1,1 @@
+![[Anti-Capitalist-Shrine.mp4#play]]
