@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["LEO","low earth orbit","highly eccentric orbit","semi-synchronous orbit","geostationary orbit","GE"]
 tags: []
 ---
 

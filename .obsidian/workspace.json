@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9b8e39461a660e",
+        "id": "02fe1ff3fc77374c",
         "type": "tabs",
         "children": [
           {
-            "id": "ba480717c88f1d5c",
+            "id": "6f49b0381abe4988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 3 SLAM!!!.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/Mission Proposal Overview.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "85e4775e6f442f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eec433306f5c7662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 3 SLAM!!!.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/Mission Proposal Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,50 +167,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ba480717c88f1d5c",
+  "active": "6f49b0381abe4988",
   "lastOpenFiles": [
-    "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 2 Particle filter.md",
-    "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 3 SLAM!!!.md",
-    "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 1 Intro.md",
-    "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation",
-    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series EP6.md",
-    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series Ep 5.md",
-    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series Ep 4.md",
-    "images/Pasted image 20231010144655.png",
-    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series EP 3 notes.md",
-    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series EP 2 notes.md",
-    "images/Pasted image 20231010142632.png",
-    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series EP 1 notes.md",
-    "images/Pasted image 20231010140534.png",
-    "images/Pasted image 20231010140332.png",
-    "images/Pasted image 20231010140149.png",
-    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion",
-    "images/Pasted image 20231010135059.png",
-    "images/Pasted image 20231010134133.png",
-    "(Year 3, my IP) SLAM research/1 Initial research/Resources.md",
-    "(Year 3, my IP) SLAM research/1 Initial research",
-    "(Year 3, my IP) SLAM research",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/6 Matrix determinants/I do have like 820.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
-    "(Year 3) Aero systems control/Slides/SESA3030-Slides-Topic-2(1).html",
-    "(Year 3) Systems engineering and design/Slides/Ch 1 A connected University - SESA3041_6079_System Engineering Ch1 Mission Design(1).pdf",
-    "(Year 3) Systems engineering and design/Slides/Ch1.htm",
-    "(Year 3) Systems engineering and design/Slides",
-    "(Year 3) Systems engineering and design/New folder",
-    "(Year 3) Systems engineering and design",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/linearly dependent and independent functions.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/15 LCCDE/ansatz.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/5 Material fatigue/crack propagation rate (material fatigue).md",
-    "(Year 2) Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
-    "(Year 2) Aerodynamics/5 finite wing theory/general lift distrobution for a finite wing.md",
-    "(Year 2) Aerodynamics/5 finite wing theory/WHAT IS UP WITH PEOPLE USING e FOR THINGS OTHER THAN FUCKING e JUST USE A DIFFERENT VARIABLE YOU CUNTS.md",
-    "conflict-files-obsidian-git.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Materials/2 Structural preformance/Structural performance part 2 overview.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Materials/2 Structural preformance/AHHHHHHHHHHHHH FRENCH.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/4 Cracks/critical stress intensity factor.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/Structural performance part 1 overview.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Materials/1 Structural performance/1 Part 1/stress intensity factor.md"
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/Mission Proposal Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Remote Sensing",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design",
+    "(Year 3) Aero systems control/2 Modelling of dynamic systems/Modelling of dynamic systems Overview.md",
+    "(Year 3) Aero systems control/2 Modelling of dynamic systems/linear approximation of nonlinear systems.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
+    "images/Pasted image 20231014184100.png",
+    "images/Pasted image 20231014183558.png",
+    "(Year 3) Aero systems control/2 Modelling of dynamic systems/linear systems.md",
+    "(Year 3) Aero systems control/2 Modelling of dynamic systems/time-variant system.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md",
+    "images/Pasted image 20231014181009.png",
+    "(Year 3) Aero systems control/2 Modelling of dynamic systems/I suggest a proof by exhaustion.md",
+    "images/RDT_20230708_165903.mp4",
+    "images/head_empty.mp4",
+    "(Year 3) Aero systems control/2 Modelling of dynamic systems/principle of superposition.md",
+    "(Year 3) Aero systems control/1 Introduction/Aero systems and control introduction Overview.md",
+    "(Year 3) Aero systems control/1 Introduction/block diagram.md",
+    "images/Pasted image 20231014160548.png",
+    "(Year 3) Aero systems control/1 Introduction/simplified model of a cars dynamics.md",
+    "images/Pasted image 20231014160347.png",
+    "images/Pasted image 20231014155515.png",
+    "images/Pasted image 20231014152325.png",
+    "(Year 3) Aero systems control/1 Introduction/standard form first-order ODE.md",
+    "(Year 3) Aero systems control/1 Introduction/control response types.md",
+    "(Year 3) Aero systems control/1 Introduction/control system loop types.md",
+    "(Year 3) Aero systems control/1 Introduction/yoooo that is what they call me.md",
+    "images/one_must_imagine_driller_happy.mp4",
+    "images/Pasted image 20231014125300.png",
+    "images/Pasted image 20231014124800.png",
+    "images/Pasted image 20231014123810.png",
+    "(Year 3) Aero systems control/1 Introduction/systems control defs.md",
+    "(Year 3) Aero systems control/1 Introduction/control system (systems control).md",
+    "(Year 3) Aero systems control/1 Introduction/looking forward to calculus yaaay.md",
+    "images/ultrakill_minos_yippee.mp4",
+    "(Year 3) Aero systems control/4 Response of dynamic systems",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 UUU/1.4 Array Performance Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/Adv Astro 1 Power Systems Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
+    "Templates/Notes Page.md",
+    "Templates/Navigation page.md"
   ]
 }

@@ -12,5 +12,10 @@ It is incredibly important to maintain a consistent power source, whether that b
 ### Primary power system
 The main source of electrical energy (i.e. for an earth orbiting satellite this is often the conversion of sunlight into electrical energy using a solar panel).
 
-### Secondary power system
-An electrical storage device, which implies the use of a battery, although other possibilities exist.
+Other examples include:
+- RTGs
+- Fuel cells
+- Batteries (in the event they aren't rechargeable)
+
+### Secondary power system (rechargeable energy storage)
+An electrical storage device, which implies the use of a battery, although other possibilities exist such as flywheels.

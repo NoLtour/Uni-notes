@@ -16,6 +16,12 @@ There is some proof for this in the book but I [[shut I cba|cba]] to go into (+I
 >> where:
 >> $f(t)=$ [[solution of first order linear differential equations|integrating factor]]
 
+Alternative form (more directly applicable for [[standard form first-order ODE]], which is used in year 3 aero systems control):
+> For an equation of the form:
+> ### $$\begin{align*} \tau \frac{dy}{dt} + y  &= f(t)  \end{align*}$$
+> The solution is: 
+> ### $$\begin{align*} y(t) &= e^{-\frac{ t}{\tau}} \left[ \int e^{\frac{t}{\tau}} \times f(t) \cdot dt + C \right]  \end{align*}$$ 
+
 ### Example
 > Solve:
 > $$ \frac{dx}{dt} + t x = t $$
