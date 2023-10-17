@@ -23,6 +23,7 @@ I would post more to proove a point but. Acc nvm I'm posting more
 >![[awfafwfwa.gif]]
 >![[grwgwrgaefafe.gif]]
 >![[eafawfdawf.gif]]
+(This used to make sense since .mov didn't embed properly)
 
 ![[chad_wildcat 1.mp4]]
 ![[based!!!!.png]]
@@ -49,3 +50,35 @@ fuck you I can keep going
 ![[retard abuse.mp4]]
 
 note 820 is now outdated its closer to 1600
+
+haha cute:
+![[Pasted image 20231017135235.png]]
+This is what happens when you've been meme hording for 3 years
+
+
+![[334528554_2252297311617422_4803477929459373233_n.png]]
+
+![[fthrtufrtuu.png]]
+
+
+![[fsdgeasrgtrh.png]]
+
+![[IMG_4632.jpg]]
+
+![[-6511437207808243149.mp4]]
+
+![[3697503111764 1.mp4]]
+
+![[1231_4dcb4b7baff349ef.webm]]
+
+![[2871grw31ph91.webp]]
+
+![[801374.mp4]]
+
+![[Titan.mp4]]
+
+![[Teslaupdate_d3c33f_103640302.mp4]]
+
+![[video0_6 1.mov]]
+
+![[Vista.mp4]]
