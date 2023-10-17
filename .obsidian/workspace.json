@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02fe1ff3fc77374c",
+        "id": "9d04f6190450fe5c",
         "type": "tabs",
         "children": [
           {
-            "id": "6f49b0381abe4988",
+            "id": "b241bd2f762cd677",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/Mission Proposal Overview.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "85e4775e6f442f30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eec433306f5c7662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Laplace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/Mission Proposal Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,53 +138,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6f49b0381abe4988",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
+    "(Year 3) Advanced Astronautics/Slideees/SESA3039 Adv Astronautics Ch2_Thermal Control System.pdf",
+    "(Year 3) Aerothermodynamics/Slides/SESA3029_2.3.pdf",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/2.1 Revision and expansion of cocepts/Thermodynamics definitions overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/Payload selection and remote sensing Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/scanner ghosts.md",
+    "images/Pasted image 20231016143538.png",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/scanning methods.md",
+    "images/Pasted image 20231016143013.png",
+    "images/Pasted image 20231016142904.png",
+    "images/Whiskbroom_visualization.gif",
+    "images/Push_broom_scanner_visualization.gif",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/remote sensor types.md",
+    "images/Pasted image 20231016141721.png",
+    "images/Pasted image 20231016141037.png",
+    "images/Pasted image 20231016141017.png",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/remote sensing (aerospace).md",
+    "images/Pasted image 20231016140750.png",
+    "images/Pasted image 20231016135352.png",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/payload selection.md",
     "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/Slides/Ch 1 A connected University - SESA3041_6079_System Engineering Ch1 Mission Design(1).pdf",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
+    "(Year 3, my IP) SLAM research/Docz/StartPresentation.pptx",
+    "(Year 3, my IP) SLAM research/Docz/~$StartPresentation.pptx",
+    "(Year 3, my IP) SLAM research/Docz",
+    "(Year 3, my IP) SLAM research/New folder",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/example of invalid transform.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
+    "(Year 3) Aero systems control/-Slides/SESA3030-Slides-Topic3(1)(1)(1).pdf",
     "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/Mission Proposal Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Remote Sensing",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design",
-    "(Year 3) Aero systems control/2 Modelling of dynamic systems/Modelling of dynamic systems Overview.md",
-    "(Year 3) Aero systems control/2 Modelling of dynamic systems/linear approximation of nonlinear systems.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
-    "images/Pasted image 20231014184100.png",
-    "images/Pasted image 20231014183558.png",
-    "(Year 3) Aero systems control/2 Modelling of dynamic systems/linear systems.md",
-    "(Year 3) Aero systems control/2 Modelling of dynamic systems/time-variant system.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md",
-    "images/Pasted image 20231014181009.png",
-    "(Year 3) Aero systems control/2 Modelling of dynamic systems/I suggest a proof by exhaustion.md",
-    "images/RDT_20230708_165903.mp4",
-    "images/head_empty.mp4",
-    "(Year 3) Aero systems control/2 Modelling of dynamic systems/principle of superposition.md",
-    "(Year 3) Aero systems control/1 Introduction/Aero systems and control introduction Overview.md",
-    "(Year 3) Aero systems control/1 Introduction/block diagram.md",
-    "images/Pasted image 20231014160548.png",
-    "(Year 3) Aero systems control/1 Introduction/simplified model of a cars dynamics.md",
-    "images/Pasted image 20231014160347.png",
-    "images/Pasted image 20231014155515.png",
-    "images/Pasted image 20231014152325.png",
-    "(Year 3) Aero systems control/1 Introduction/standard form first-order ODE.md",
-    "(Year 3) Aero systems control/1 Introduction/control response types.md",
-    "(Year 3) Aero systems control/1 Introduction/control system loop types.md",
-    "(Year 3) Aero systems control/1 Introduction/yoooo that is what they call me.md",
-    "images/one_must_imagine_driller_happy.mp4",
-    "images/Pasted image 20231014125300.png",
-    "images/Pasted image 20231014124800.png",
-    "images/Pasted image 20231014123810.png",
-    "(Year 3) Aero systems control/1 Introduction/systems control defs.md",
-    "(Year 3) Aero systems control/1 Introduction/control system (systems control).md",
-    "(Year 3) Aero systems control/1 Introduction/looking forward to calculus yaaay.md",
-    "images/ultrakill_minos_yippee.mp4",
-    "(Year 3) Aero systems control/4 Response of dynamic systems",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 UUU/1.4 Array Performance Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/ESA mission selection.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/introduction to space programs.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/principle investigator.md",
+    "(Year 3) Aerothermodynamics/isentropic flow equations.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/isentropic expansion factor.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/Compressible flow overview.md",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/inviscid flow.md",
+    "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/momentum balance in inviscid incompressible flow.md",
+    "(Year 2) Aerodynamics/4 thin foil/Kelvin's circulation theorem.md",
     "(Year 3) Advanced Astronautics/Ch 1 Power System/Adv Astro 1 Power Systems Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
-    "Templates/Notes Page.md",
-    "Templates/Navigation page.md"
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/18 Differential equations 2/solution of first order linear differential equations.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Remote Sensing",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal"
   ]
 }

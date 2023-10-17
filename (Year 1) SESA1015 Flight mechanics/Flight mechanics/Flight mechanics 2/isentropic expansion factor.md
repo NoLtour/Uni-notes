@@ -1,5 +1,5 @@
 ---
-aliases: ["adiabatic index"]
+aliases: ["adiabatic index","gamma"]
 tags: ["Question","QFormat3"]
 ---
 
