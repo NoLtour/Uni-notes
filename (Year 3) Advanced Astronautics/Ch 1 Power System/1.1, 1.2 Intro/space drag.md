@@ -5,7 +5,7 @@ tags: []
 
 ## Space drag
 ### Drag in SPACE?!
-"Space drag" isn't the technical term, but basically even in [[obit selection|LEO]] there is drag. Which adds up over the long missions we do, there are additional effects which start to come into place even in [[obit selection|GEO]]. 
+"Space drag" isn't the [[but since when have I ever used the technical terms|technical term]], but basically even in [[obit selection|LEO]] there is drag. Which adds up over the long missions we do, there are additional effects which start to come into place even in [[obit selection|GEO]]. 
 
 These effects are the culmination of everything listed below, what's most prominent varies depending on your region of space. But the common factor linking most of em is surface area, large area's tend to be acted on leading to destabilising effects.
 

@@ -13,7 +13,7 @@ To achieve greater accuracy a Kelly cosine should be used:
 - Beyond $85\degree$ no power is produced
 - Beyond $50\degree$ a standard $\cos$ approximation becomes impractical
 
-> ### $$\begin{align*} I_{s}  &= I_{0} \{text{KellyCos}}(\theta)  \end{align*}$$
+> ### $$\begin{align*} I_{s}  &= I_{0} \: \text{KellyCos} (\theta)  \end{align*}$$
 >> where:
 >> $I_{s}=$ Current at current angle
 >> $I_{0}=$ Reference current when cell is normal to the sun ($\theta=0$)
