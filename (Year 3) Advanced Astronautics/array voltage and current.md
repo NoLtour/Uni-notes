@@ -16,7 +16,7 @@ As discussed in [[solar layout terms|solar arrays]], parallel and series count d
 >> $I_{mp}=$ current per [[solar layout terms|string]]
 
 Here the $N$ numbers you get out are very unlikely to be integers, so you will need to round:
-- $N_\text{series cells}$- Can be rounded either up or down, choice depends on wide range of factors
+- $N_\text{series cells}$- Can be rounded either up or down, choice depends on wide range of factors. Generally if you can round down while keeping in tolerance DO IT since it saves on mass!
 - $N_\text{array strings}$ - Must be rounded up, otherwise there will be insufficient power
 
 
