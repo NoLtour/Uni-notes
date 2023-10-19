@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0cf7f7cc2b28ccdd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "719602cac660895e",
+  "active": "0cf7f7cc2b28ccdd",
   "lastOpenFiles": [
     "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
     "(Year 3) Advanced Astronautics/1.5 Design process and trades for the power system overview.md",
