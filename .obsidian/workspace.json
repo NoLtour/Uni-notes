@@ -4,16 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "37123dafa3a5ba57",
+        "id": "00da7b287980e12f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1ed3e7f0bea6869",
+            "id": "f6eac0b7dc3cf382",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series Ep 5.md",
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "41fb6ec74b6751d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4674645711dedfee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/1 Mostly recap/normal shock properties equations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5fc7287dcd688d67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series Ep 5.md",
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,53 +179,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1ed3e7f0bea6869",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
-    "(Year 3) Aerothermodynamics/Slides/Diamond_aerofoil_example(1) - Tagged.pdf",
-    "(Year 3) Aerothermodynamics/Slides/SESA3029_2.5.pdf",
-    "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 1 Intro.md",
-    "(Year 3) Aerothermodynamics/pitot tube in supersonic flow.md",
-    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/supersonic flow properties equations.md",
-    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/Speed of sound in a gas overview.md",
-    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/shock properties equations.md",
-    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/Compressible flow overview.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
-    "(Year 3, my IP) SLAM research/Docz/ppt8FA0.tmp",
-    "(Year 3, my IP) SLAM research/Docz/pptF4F2.tmp",
     "(Year 3, my IP) SLAM research/Docz/~$StartPresentation.pptx",
-    "(Year 3, my IP) SLAM research/Docz/ppt2BE5.tmp",
-    "(Year 3, my IP) SLAM research/Docz/ppt630.tmp",
-    "(Year 3, my IP) SLAM research/Docz/pptF6DD.tmp",
-    "(Year 3, my IP) SLAM research/Docz/pptD4EB.tmp",
-    "(Year 3) Aerothermodynamics/Slides/1000_F_210958957_6V7eyRJHl1wBhhMUhsnlpcKh2xSEYy4U.jpg",
-    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
-    "(Year 3) Advanced Astronautics/1.5 Design process and trades for the power system overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
-    "(Year 3) Advanced Astronautics/array voltage and current.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.3 Photovoltaic-Battery System/1.3 Photovoltaic-Battery System Overview.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/1 - 7 Defs/Taylor series.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/Pixel and image characteristics Overview.md",
-    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/Thermofluids read order.md",
-    "(Year 3, my IP) SLAM research/Docz/StartPresentation - Copy.pptx",
-    "(Year 3) Spacecraft Systems Engineering and Design/Slides/SESA3041_6079_System Engineering Ch2 Space Debris.pdf",
-    "images/Pasted image 20231010140534.png",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/trivialize deez.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
-    "(Year 3) Aero systems control/2 Modelling of dynamic systems/Modelling of dynamic systems Overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Advanced Astronautics/battery technical design.md",
-    "images/Pasted image 20231017205457.png",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.5 Design Process/trades when designing the power system.md",
-    "images/Pasted image 20231017205211.png",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.3 Photovoltaic-Battery System/solar layout terms.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/spacecraft electrical bus.md",
-    "images/Pasted image 20231017202432.png",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.5 Design Process/bad thing is my best sucks lmao.md",
-    "images/49D14E5C-750D-470D-A379-4E79B0868AE4.jpg",
-    "images/Pasted image 20231017201015.png",
-    "images/Pasted image 20231017195937.png",
-    "images/Pasted image 20231017194344.png",
-    "images/Pasted image 20231017193718.png"
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock equations.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
+    "images/Pasted image 20231024190034.png",
+    "images/Pasted image 20231024190012.png",
+    "images/Pasted image 20231024185956.png",
+    "images/Pasted image 20231024185940.png",
+    "images/Pasted image 20231024185257.png",
+    "images/Pasted image 20231024185101.png",
+    "images/Pasted image 20231024175130.png",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/ok I will double kill myself.md",
+    "images/therapist.mp4",
+    "images/879722.mov",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/Mach number.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/as fucking if we both know you are not going to try.md",
+    "images/fdsvgsfvvscf.png",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/normal shock properties equations.md",
+    "images/Pasted image 20231024165051.png",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock angles.md",
+    "images/Pasted image 20231024164504.png",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shocks.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/ok I will kill myself now.md",
+    "images/stazeny_soubor_52-1.mp4",
+    "images/869208.webm",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/pitot tube in supersonic flow.md",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/lmao that aint happening ever.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/supersonic flow properties equations.md",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/isentropic flow equations.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
+    "(Year 3) Aerothermodynamics/1 Mostly recap",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/shock properties equations.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/Speed of sound in a gas overview.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/Propulsion overview.md",
+    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series Ep 5.md",
+    "(Year 3) Aerothermodynamics/Slides/Diamond_aerofoil_example(1) - Tagged.pdf",
+    "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 1 Intro.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/Compressible flow overview.md"
   ]
 }
