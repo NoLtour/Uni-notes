@@ -30,10 +30,12 @@ In this course we only deal with [[oblique shock chart|weak solutions]], and in 
 The equations for where $\theta=0$ are the following:
 
 > ### $$$$
-> ### $$\begin{align*} \text{At }\theta=0\degree:&&  \beta &= \arcsin \frac{1}{M_{1}} \:\:\text{or}\:\: \beta = 90\degree \end{align*}$$
+> ### $$\begin{align*} \text{At }\theta=0\degree:&&  \beta &= \arcsin \frac{1}{M_{1}} = \arctan \frac{1}{\sqrt{x^{2} + 1}} \:\:\text{or}\:\: \beta = 90\degree \end{align*}$$
 >> where:
 >> $\theta=$ [[oblique shock angles|shock angle]]
 >> $\beta=$ [[oblique shock angles|flow turning angle]]
 >> $M_{1}=$ [[Mach number]] before [[oblique shocks|oblique shock]]
+
+^3557f5
 
 Note that often a [[oblique shock chart]] (like the one above) can be used to calculate $\theta$ instead of using the [[oblique shock equations]], alternatively make use of On-line shock calculator: https://devenport.aoe.vt.edu/aoe3114/calc.html

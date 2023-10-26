@@ -14,6 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "94edcbb6f3deabdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
                 "mode": "source",
                 "source": true
               }
@@ -169,20 +181,24 @@
   },
   "active": "f6eac0b7dc3cf382",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
+    "images/Pasted image 20231026104633.png",
+    "images/Pasted image 20231026104457.png",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/normal shock properties equations.md",
+    "images/Pasted image 20231026103726.png",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/no stop thinking that.md",
     "images/audiophiles_when.mp4",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/simple observation of oblique shocks in viscous flows.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/expansion fan.md",
     "images/Expansion_fan.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/2.3 Regular reflections, Mach reflections and viscous effects overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/oblique shock interaction.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4",
     "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
-    "(Year 3) Aerothermodynamics/1 Mostly recap/normal shock properties equations.md",
     "images/Pasted image 20231025194904.png",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/peak entertainment.md",
     "images/10000000_337845901177230_2258114321123097918_n_1 (Encoded).webm",
@@ -207,12 +223,8 @@
     "images/-_10075.mp4",
     "images/Pasted image 20231025103143.png",
     "images/Pasted image 20231025102959.png",
-    "images/Pasted image 20231025102955.png",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/rocket science be like.md",
-    "images/why.mp4",
-    "images/Screenshot_2022-10-29-13-45-24-31_1c337646f29875672b5a61192b9010f9.jpg",
-    "images/Pasted image 20231025102133.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md"
+    "images/why.mp4"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "tan",
+  "replaceText": "cos",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,

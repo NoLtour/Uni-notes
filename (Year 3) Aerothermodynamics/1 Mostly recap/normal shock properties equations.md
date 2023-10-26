@@ -17,7 +17,10 @@ With that in mind how other properties change is easy to predict:
 - Stagnation pressure drops, because the useful energy decreases since [[entropy]] increases, which is also why temperature increases
 - Density increases because of the speed drop
 
+#### Entropy
+
 Something else to keep in mind is that the magnitude of these changes increases exponentially with [[Mach number]], with a negligible change with normal shocks occurring at Mach 1. So we can reduce entropy increase by avoiding normal shocks far away from Mach 1!
+![[Pasted image 20231026103726.png]]
 
 ### Equations
 
