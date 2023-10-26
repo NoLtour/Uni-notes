@@ -1,5 +1,5 @@
 ---
-aliases: ["finding beta for oblique shocks"]
+aliases: ["finding beta for oblique shocks","solving oblique problems"]
 tags: []
 ---
 
@@ -20,8 +20,8 @@ For a start we need to define [[oblique shock angles|theta]], generally we do th
 
 ##### tldr
 
-> ### $$\begin{align*}   \tan\theta&= 2 \frac{1}{\tan\beta} \left[\frac{M_{1}^{2} \sin^{2}\beta - 1 }{M_{1}^{2}(\gamma + \cos 2\beta)+2}\right]   \end{align*}$$   $$\begin{align*}   M^{2}_{2}  &= \frac{1}{\sin^{2}(\beta-\theta)}   \frac{(\gamma - 1) M^{2}_{1} \sin^{2} \beta + 2}{2\gamma M^{2}_{1} \sin^{2} \beta - (\gamma - 1)}  \text{(confirm)} \end{align*}$$
-> ### $$\begin{align*} M_{n1} &= M_{1} \sin \beta  & \text{find }M_{n2}&\text{ from NST}(M_{n1})\text{ then use}& M^{2}_{2} &= \frac{M^{2}_{n2}}{\sin^{2}(\beta-\theta)} \end{align*}$$
+> ### $$\begin{align*}   \tan\theta&= 2 \frac{1}{\tan\beta} \left[\frac{M_{1}^{2} \sin^{2}\beta - 1 }{M_{1}^{2}(\gamma + \cos 2\beta)+2}\right]   \end{align*}$$   $$\begin{align*}   M^{2}_{2}  &= \frac{1}{\sin^{2}(\beta-\theta)}   \frac{(\gamma - 1) M^{2}_{1} \sin^{2} \beta + 2}{2\gamma M^{2}_{1} \sin^{2} \beta - (\gamma - 1)}    \end{align*}$$
+> ### $$\begin{align*} M_{n1} &= M_{1} \sin \beta  & \text{find }M_{n2}&\text{ from NST}(M_{n1})\text{ then use}& M _{2} &= \frac{M _{n2}}{\sin (\beta-\theta)} \end{align*}$$
 >> where $X_{1}\to X_{2}$ is the [[adiabatic expansion or compression|adiabatic]] expansion across the shock and:
 >> $M=$ [[Mach number]] before and after shock
 >> $M_{n}=$ [[Mach number]] normal to [[oblique shocks|oblique shock]] before and after
@@ -29,7 +29,9 @@ For a start we need to define [[oblique shock angles|theta]], generally we do th
 >> $\beta=$ [[oblique shock angles|shock angle]]
 >> $\text{NST}=$ normal shock tables, equivalent to using [[normal shock properties equations]]
 >> 
->> Note that the bottom 2 equations are simply alternative methods of calculation
+>> Note that the bottom 2 equations are simply alternative methods of calculation, and practically you will need to find $\beta$ from normal shock tables since rearranging isn't practical.
+
+^774680
 
 ##### Proof
 
@@ -107,3 +109,4 @@ $$\begin{align*}
 
 Easy. ([[as fucking if we both know you are not going to try|the rearrangement is left as an exercise for the reader]])
 
+Now something to realise is that we generally know $\theta$, so this equation is the wrong way around! Good luck rearranging for $\beta$ lmao, this is where the normal shock tables and online calculators save us.
