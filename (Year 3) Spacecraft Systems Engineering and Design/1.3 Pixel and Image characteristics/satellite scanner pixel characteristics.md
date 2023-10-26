@@ -1,5 +1,5 @@
 ---
-aliases: ["IFOV","GIFOV","instantaneous field of view","ground-projected instantaneous field of view","focal length","sensor altitude"]
+aliases: ["IFOV","GIFOV","instantaneous field of view","ground-projected instantaneous field of view","focal length","sensor altitude","swadth width"]
 tags: []
 ---
 
@@ -14,6 +14,10 @@ IFOV (Instantaneous Field of View) represents the minor angle in a projection of
 #### Ground-projected instantaneous field of view (GIFOV)
 
 GIFOV is the IFOV that has been projected onto the Earth's surface. It accounts for the effect of the satellite's altitude and viewing angle, indicating the area on the ground corresponding to one pixel after considering the satellite's position and orientation.
+
+#### Swadth width (GFOV)
+
+Basically just [[satellite scanner pixel characteristics|GIFOV]] times by pixel count.
 
 #### Focal length
 

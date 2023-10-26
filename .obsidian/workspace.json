@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/2.3 Regular reflections, Mach reflections and viscous effects overview.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/pixel shape and overlap (remote sensing).md",
                 "mode": "preview",
                 "source": true
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Laplace",
+                "query": "circular orbit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/2.3 Regular reflections, Mach reflections and viscous effects overview.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/pixel shape and overlap (remote sensing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,12 +182,22 @@
   },
   "active": "f6eac0b7dc3cf382",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/Slides/SESA3029_2.6.pdf",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/pixel shape and overlap (remote sensing).md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/satellite scanner pixel characteristics.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/Pixel and image characteristics Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/Payload selection and remote sensing Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/scanning methods.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.5 Design Process/trades when designing the power system.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/2.3 Regular reflections, Mach reflections and viscous effects overview.md",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shocks.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
     "images/Pasted image 20231026104633.png",
     "images/Pasted image 20231026104457.png",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
@@ -197,7 +208,6 @@
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/simple observation of oblique shocks in viscous flows.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/expansion fan.md",
     "images/Expansion_fan.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/2.3 Regular reflections, Mach reflections and viscous effects overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/oblique shock interaction.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4",
     "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/stagnation points in a compressible flow.md",
@@ -209,23 +219,14 @@
     "images/Pasted image 20231025191130.png",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/SINGLE LINE EQUATIONS ARE A BLESSING.md",
     "images/Little Dark Age - Tribute to Mathematics [EXTENDED].mp4",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/this is why we make assumptions.md",
     "images/SPOILER_vCbxKZe.mp4",
     "images/Pasted image 20231025160043.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/oblique shock reflection.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/yipeee.md",
     "images/yippee.mp4",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock equations.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/normal shock table.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/NST.pdf",
     "images/Pasted image 20231025110629.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/detached shock.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/it really is nasty.md",
     "images/-_10075.mp4",
     "images/Pasted image 20231025103143.png",
     "images/Pasted image 20231025102959.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
     "images/why.mp4"
   ]
 }

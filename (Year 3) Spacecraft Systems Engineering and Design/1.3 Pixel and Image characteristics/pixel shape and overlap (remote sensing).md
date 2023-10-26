@@ -1,5 +1,5 @@
 ---
-aliases: ["pixel shape and overlap","calculating IFOV","calculating GIFOV","pixel data size"]
+aliases: ["pixel shape and overlap","calculating IFOV","calculating GIFOV","pixel data size","swadth width"]
 tags: []
 ---
 
@@ -27,9 +27,12 @@ Note that in the following we approximate using small angle approximations, cons
 
 > ### $$\begin{align*} \text{IFOV}  &=  2 \arctan\left( \frac{w}{2f} \right)  \approx \frac{w}{f} \end{align*}$$
 > ### $$\begin{align*} \text{GIFOV}  &=  2 H \tan\left( \frac{\text{IFOV}}{2} \right)  \approx w \frac{H}{f} \end{align*}$$
+> ### $$\begin{align*} \text{GFOV}  &=  \text{GIFOV} N \end{align*}$$
 >> where:
 >> $\text{IFOV}=$ [[satellite scanner pixel characteristics|IFOV]]
 >> $\text{GIFOV}=$ [[satellite scanner pixel characteristics|GIFOV]]
+>> $\text{GFOV}=$ [[satellite scanner pixel characteristics|swadth width]]
+>> $N=$ pixel count ([[scanning methods|pushbroom]])
 >> $w=$ [[sensor sample terms|inter-detector spacing]]
 >> $f=$ [[satellite scanner pixel characteristics|focal length]]
 >> $H=$ [[satellite scanner pixel characteristics|sensor altitude]]
