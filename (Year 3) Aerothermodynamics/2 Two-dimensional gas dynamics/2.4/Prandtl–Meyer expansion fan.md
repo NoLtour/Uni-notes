@@ -1,5 +1,5 @@
 ---
-aliases: ["supersonic expansion fan","expansion fan","turning angle","angle of the first Mach line","angle of the last Mach line"]
+aliases: ["supersonic expansion fan","expansion fan","turning angle","angle of the first Mach line","angle of the last Mach line","Prandtl-Meyer function"]
 tags: []
 ---
 
@@ -33,6 +33,21 @@ Here we can see the definitions of the angles:
 - $\theta=$  turning angle (just like [[oblique shock angles|turning angle]] for [[oblique shocks]])
 
 ### Calculating
+
+The following is derived from theory and shows you the angle changes required to expand a flow to a target Mach. Note that $\nu$ can also be found in the isentropic flow table.
+
+> ### $$\begin{align*} \nu(M) &= \sqrt{ \frac{\gamma+1}{\gamma-1} } arctan\sqrt{ \frac{\gamma-1}{\gamma+1} (M^{2} - 1) } - \arctan\sqrt{M^{2} - 1}   \end{align*}$$
+>> where:
+>> $\nu(M)=$ the angle divergence (in radians) required to accelerate a flow from Mach 1 to target Mach $M$
+>> $M=$ input Mach number 
+>
+>
+> ### $$\begin{align*} \theta &= \nu(M_{2}) - \nu(M_{1})   \end{align*}$$
+>> where:
+>> $\nu=$ [[Prandtl–Meyer expansion fan|Prandtl-Meyer function]]
+>> $M_{1}=$ the initial Mach number
+>> $M_{2}=$ the final Mach number
+>> $\theta=$ the angle divergence required to expand the flow from $M_{1}\to M_{2}$
 
 #### Proof
 
@@ -84,4 +99,53 @@ Subbing back the equation we got previously:
 
 $$\begin{align*}
 \frac{dV}{V} &= \frac{  da}{ a} + \frac{ dM}{M } & &\to & \frac{ d\theta}{\sqrt{x^{2} + 1}} &= \frac{  da}{ a} + \frac{ dM}{M } 
+\end{align*}$$
+
+I'm not going to detail the next part since it'll take too long, using "magic" you can combine the above equation with $\frac{a_{0}}{a^{2}} = 1 - \frac{\gamma-1}{2} M^{2}$ to get:
+
+$$\begin{align*}
+d\theta &= \frac{\sqrt{M^{2} - 1}}{1 + \frac{\gamma-1}{2} M^{2}} \frac{dM}{M} 
+\end{align*}$$
+
+Which when plotted produces:
+
+![[Pasted image 20231027113416.png]]
+
+Note that the $y$ axis is $d\theta/dM$ and $x$ is [[Mach number]].
+
+What this tells us is that the ratio of $\theta$ change to Mach change is greatest around Mach 1.6 and lowest at Mach 1 or infinity.
+
+In reality [[Prandtl–Meyer expansion fan]]s act in response to curvature, so $\theta$ is our input. Considering that $dM$ represents Mach increase, as is the nature of expansion in the supersonic domain, this function describes the rate of flow acceleration around a (convex) curved surface by it's current Mach number. 
+
+Let's invert the function so it describes $dM/d\theta$, which means taking 1/f(x):
+
+![[Pasted image 20231027114909.png]]
+
+Let's consider these implications using a diverging nozzle (with constant $\frac{d\theta}{dx}$) with entry at $M=1$:
+1) Initially the rate of Mach increase will be unbelievably high
+2) The rate of Mach increase decreases rapidly, at Mach 1.01 it is $0.15\:Ma/\degree$  till at $M\approx 1.6$ it's $0.035\:Ma/\degree$
+3) This tends back upward as you deviate away from Mach 1.6, though at a slower rate
+
+#### Prandtl-Meyer function
+
+Ok back to the equation, through further math magic and integration it becomes possible to get:
+
+$$\begin{align*}
+\int^{\theta'}_{0} d\theta &= \int^{M'}_{1} \frac{\sqrt{M^{2}-1}}{1+ \frac{\gamma-1}{2} M^{2}} \frac{d\theta}{M}\\
+&\downarrow\\
+\nu(M) &= \sqrt{ \frac{\gamma+1}{\gamma-1} } arctan\sqrt{ \frac{\gamma-1}{\gamma+1} (M^{2} - 1) } - \arctan\sqrt{M^{2} - 1}
+\end{align*}$$
+
+(This equation is known as the Prandtl-Meyer function)
+
+Looking at the limit's this equation represents the angle change required to get a flow from Mach 1 to target Mach $M$. 
+
+It is also given in the isentropic flow table, at each $M$:
+
+![[Pasted image 20231027121534.png]]
+
+This also means that if we want to find the angle change corresponding to change from $M_{1}$ to $M_{2}$ we can actually just use that function:
+
+$$\begin{align*}
+\theta &= \nu(M_{2}) - \nu(M_{1})
 \end{align*}$$

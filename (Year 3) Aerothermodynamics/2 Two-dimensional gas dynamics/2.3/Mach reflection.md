@@ -18,3 +18,4 @@ The slip line has some strange properties:
 - The velocities, temperature and density can be discontinuous
 
 Also note that the intersection point, where all these phenomena intersect is T on the diagram and known as the [[Mach reflection|triple point]]. Note also that since across the Mach stem there is subsonic flow, information can back propagate so downstream conditions can effect it's shape and position.
+

@@ -13,4 +13,4 @@ By doing so we can figure out other useful information about them, the issues wi
 
 So basically what the entire purpose of [[Thin airfoil theory Overview|thin airfoil theory]] is just trying to simplify the problem ^ and get useful info. Some of the info we are trying to get is pressure distrobution:
 ![[Pasted image 20221204151802.png]]
-Which will then be useful for finding things such as [[aerodynamic centre]] and [[Centre of pressure]], remember these thing's from year 1? Well most of the equations from then which we pulled out of our [[and the maths is going to be fun|asses]] at the time will now be derived.
+Which will then be useful for finding things such as [[aerodynamic centre]] and [[centre of pressure]], remember these thing's from year 1? Well most of the equations from then which we pulled out of our [[and the maths is going to be fun|asses]] at the time will now be derived.
