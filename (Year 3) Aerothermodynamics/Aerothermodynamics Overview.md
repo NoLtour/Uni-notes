@@ -18,3 +18,5 @@ Module 2:
 3) [[2.3 Regular reflections, Mach reflections and viscous effects overview]]
 4) [[2.4 Expansion waves overview]]
 5) [[supersonic flow past a tilted flat plate|2.5 Flow past a tilted flat plate]]
+6) [[2.6 Laval nozzle overview]]
+7) [[over-expanded nozzles and supersonic wind tunnels]]
