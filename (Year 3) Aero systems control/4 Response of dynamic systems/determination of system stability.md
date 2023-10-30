@@ -17,7 +17,7 @@ For all values of $T>0$ it will be in the yellow region. What this actually tran
 
 You can prove this with [[too much math I skip|math]], but looking back at [[first order system step response]] and thinking about the effects of negative $T$ is good enough.
 
-Also recall [[system response time metrics]], decreasing $T$ will obviously increase the rate at which you get a response. On the [[system pole-zero pattern|pole–zero plot]] this represents as, the more extreme the value (in the real axis), the faster the response.
+Also recall [[simple system response time metrics]], decreasing $T$ will obviously increase the rate at which you get a response. On the [[system pole-zero pattern|pole–zero plot]] this represents as, the more extreme the value (in the real axis), the faster the response.
 
 ### Second order systems
 

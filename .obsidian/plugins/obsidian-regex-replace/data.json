@@ -1,6 +1,6 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "+p",
+  "replaceText": "-p",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,

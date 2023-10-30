@@ -13,55 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b1afd3b116231b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a09ad76d5d4aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "53f38401eaafe72e",
+            "id": "3e022b8e60bc000d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "488fd6425c23a6db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/over-expanded nozzles and supersonic wind tunnels.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isentropic equation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/over-expanded nozzles and supersonic wind tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +156,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2b1afd3b116231b4",
+  "active": "3e022b8e60bc000d",
   "lastOpenFiles": [
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Advanced Astronautics/Slideees/SESA3039 Adv Astronautics Ch3_EDL.pdf",
+    "(Year 3) Advanced Astronautics/Slideees/Chapter 4 - Week 8.pdf",
+    "(Year 3) Aerothermodynamics/Slides/MoC_lecture_notes_v3(1).pdf",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/Ludwig tube.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
+    "(Year 3) Aerothermodynamics/Slides/SESA3029_3.1(1).pdf",
+    "images/Pasted image 20231030144046.png",
     "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/partial fractions fast method.md",
+    "images/Pasted image 20231030143831.png",
+    "images/Pasted image 20231030143744.png",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/simple system response time metrics.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/determination of system stability.md",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/supersonic flow properties equations.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/supersonic flow past a tilted flat plate.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/pitot tube in supersonic flow.md",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/isentropic flow equations.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.1 Compressible flows/Compressible flow overview.md",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/normal shock properties equations.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/pitot-static tube.md",
     "(Year 3) Aero systems control/-Slides/SESA3030 Topic 5 Notes(2).pdf",
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Laplace transform representation of a system.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/determination of system stability.md",
     "images/Pasted image 20231029213246.png",
     "images/Pasted image 20231029212913.png",
     "images/Pasted image 20231029211736.png",
@@ -214,30 +199,10 @@
     "images/東方Touhou XII - Heian Alien【Medieval Epic Style】.mp3",
     "images/Pasted image 20231029202441.png",
     "(Year 3) Aero systems control/4 Response of dynamic systems/system pole-zero pattern.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/first order system step response.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/got like 4 different docs with their own damping variables lmao.md",
     "images/SnapInsta.io-Alguien_de_este_grupo_se_le_perdio_esta_bicicleta-480p.mp4",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/types of dampening (differentially modelled oscillator).md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/derivative of Laplace transform.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/general case of second order linear ODEs.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/properties of linear Laplace transforms.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/in reality I am lazy.md",
     "images/our entire team needs to be executed.mp4",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/system response time metrics.md",
-    "images/Pasted image 20231029181404.png",
     "images/ラクトガール～少女密室 (Locked Girl ~ The Girl's Secret Room) - Cafe de Touhou 3.mp3",
-    "images/FB_IMG_1684273088052.jpg",
-    "images/Pasted image 20231029175523.png",
     "(Year 3) Aero systems control/4 Response of dynamic systems",
-    "images/m_m_mm_m_m.mp4",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Laplace transforms(1)(1).pdf",
-    "images/7a2bFjiONCktcpgK.mp4",
-    "images/Calculus Lore.mp4"
+    "images/m_m_mm_m_m.mp4"
   ]
 }
