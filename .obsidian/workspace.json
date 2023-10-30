@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
-                "mode": "source",
+                "file": "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+                "file": "(Year 3) Aero systems control/Aero Systems Control Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,10 +195,11 @@
   "active": "2b1afd3b116231b4",
   "lastOpenFiles": [
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Laplace transform representation of a system.md",
     "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+    "(Year 3) Aero systems control/-Slides/SESA3030 Topic 5 Notes(2).pdf",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Laplace transform representation of a system.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/determination of system stability.md",
     "images/Pasted image 20231029213246.png",
     "images/Pasted image 20231029212913.png",
@@ -230,7 +231,6 @@
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/system response time metrics.md",
     "images/Pasted image 20231029181404.png",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/first order system impulse response.md",
     "images/ラクトガール～少女密室 (Locked Girl ~ The Girl's Secret Room) - Cafe de Touhou 3.mp3",
     "images/FB_IMG_1684273088052.jpg",
     "images/Pasted image 20231029175523.png",
@@ -238,7 +238,6 @@
     "images/m_m_mm_m_m.mp4",
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Laplace transforms(1)(1).pdf",
     "images/7a2bFjiONCktcpgK.mp4",
-    "images/Calculus Lore.mp4",
-    "images/video0_2876.mp4"
+    "images/Calculus Lore.mp4"
   ]
 }
