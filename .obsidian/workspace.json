@@ -4,46 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "00da7b287980e12f",
+        "id": "a75fdb7cf841609b",
         "type": "tabs",
         "children": [
           {
-            "id": "f6eac0b7dc3cf382",
+            "id": "3ef4592b85626fe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/over and under  expanded nozzles.md",
+                "file": "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b1afd3b116231b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29a09ad76d5d4aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d36e49a69076783b",
+            "id": "53f38401eaafe72e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/2.3 Regular reflections, Mach reflections and viscous effects overview.md",
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "a571acda66001431",
+            "id": "488fd6425c23a6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.6/2.6 Laval nozzle overview.md",
-                "mode": "source",
+                "file": "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/over and under  expanded nozzles.md",
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,53 +192,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f6eac0b7dc3cf382",
+  "active": "2b1afd3b116231b4",
   "lastOpenFiles": [
-    "images/Pasted image 20231027211721.png",
-    "images/Pasted image 20231027211415.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/over-expanded nozzles and supersonic wind tunnels.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/over and under  expanded nozzles.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/compression fans.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
-    "images/Pasted image 20231027210107.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/types of nozzle expansion state.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.6/2.6 Laval nozzle overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/2.3 Regular reflections, Mach reflections and viscous effects overview.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/quite literal when dealing with supersonic shite.md",
-    "images/g2U8VQg3e5M5umhX.mp4",
-    "images/Pasted image 20231027200948.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7",
-    "images/Pasted image 20231027191029.png",
-    "2.7 Under",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/mass flowrate through a choked nozzle.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
-    "images/Pasted image 20231027184547.png",
-    "images/Pasted image 20231027184327.png",
-    "images/Pasted image 20231027182958.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/my use of technical terms is legendary.md",
-    "images/RDT_20230626_085939.mp4",
-    "images/Pasted image 20231027182738.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/hell yeah fuck entropy.md",
-    "images/wait_you_did_fill_it.mp4",
-    "images/bus_racing.mov",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.6",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/supersonic flow past a tilted flat plate.md",
-    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 3/centre of pressure.md",
-    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 3/aerodynamic centre.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/wave drag.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/skillz.md",
-    "images/french_ppl.mp4",
-    "images/Pasted image 20231027172412.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock equations.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/oblique shock reflection.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/pixel shape and overlap (remote sensing).md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/Pixel and image characteristics Overview.md",
-    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/supersonic flow properties equations.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/I seem to be saying that a lot this year.md",
-    "images/ssstik.io_1695068427493.mp4",
-    "images/Pasted image 20231027123056.png",
-    "(Year 3) Aerothermodynamics/2.5 Flow past a flat plate.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5"
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Laplace transform representation of a system.md",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/determination of system stability.md",
+    "images/Pasted image 20231029213246.png",
+    "images/Pasted image 20231029212913.png",
+    "images/Pasted image 20231029211736.png",
+    "images/Pasted image 20231029211011.png",
+    "images/Pasted image 20231029210453.png",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 8/based and so redpilled I overdosed.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/6UU Vibration/types of dampening (dynamics).md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/6UU Vibration/Vibration introduction notes.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/too much math I skip.md",
+    "images/2zqj8f72ywma1.png",
+    "images/東方Touhou XII - Heian Alien【Medieval Epic Style】.mp3",
+    "images/Pasted image 20231029202441.png",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/system pole-zero pattern.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/first order system step response.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/got like 4 different docs with their own damping variables lmao.md",
+    "images/SnapInsta.io-Alguien_de_este_grupo_se_le_perdio_esta_bicicleta-480p.mp4",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/7 Differential Equations 3/types of dampening (differentially modelled oscillator).md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace transform.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/derivative of Laplace transform.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/general case of second order linear ODEs.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/properties of linear Laplace transforms.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/in reality I am lazy.md",
+    "images/our entire team needs to be executed.mp4",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/system response time metrics.md",
+    "images/Pasted image 20231029181404.png",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/first order system impulse response.md",
+    "images/ラクトガール～少女密室 (Locked Girl ~ The Girl's Secret Room) - Cafe de Touhou 3.mp3",
+    "images/FB_IMG_1684273088052.jpg",
+    "images/Pasted image 20231029175523.png",
+    "(Year 3) Aero systems control/4 Response of dynamic systems",
+    "images/m_m_mm_m_m.mp4",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Laplace transforms(1)(1).pdf",
+    "images/7a2bFjiONCktcpgK.mp4",
+    "images/Calculus Lore.mp4",
+    "images/video0_2876.mp4"
   ]
 }

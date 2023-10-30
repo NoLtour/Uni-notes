@@ -10,6 +10,7 @@
   "attachmentFolderPath": "images",
   "spellcheck": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",

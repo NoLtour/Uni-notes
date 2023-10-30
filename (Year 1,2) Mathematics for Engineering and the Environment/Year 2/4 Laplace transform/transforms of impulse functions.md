@@ -1,5 +1,5 @@
 ---
-aliases: ["Laplace transform of heaviside function","heaviside function Laplace transform","second shift theorem"]
+aliases: ["Laplace transform of heaviside function","Laplace transform of a dirac delta function","Laplace transform of a impulse function","heaviside function Laplace transform","second shift theorem"]
 tags: []
 ---
 

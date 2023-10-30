@@ -1,9 +1,11 @@
 ---
-aliases: [""]
+aliases: ["impulse function"]
 tags: []
 ---
 
 ## Dirac $\delta$ function
+
+![[th-929004038.jpg]]
 
 These are similar to [[heaviside function]] except instead of going to zero under certain conditions they go to $\infty$ at one point, mathematicians [[major coping|cope]] hard if you say they equal infinity but since that's basically the case Ima just say skill issue and define them as:
 

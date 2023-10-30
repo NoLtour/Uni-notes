@@ -5,6 +5,9 @@ tags: ["Question","QFormat3"]
 
 #### What is a
 ## Step function
+
+![[Pasted image 20231029173050.png]]
+
 > ### $$ \left( x-k \:\:\: \{x-k\geq 0\}\right) = [x-k] $$ 
 >> where:
 >> $x=$ A variable

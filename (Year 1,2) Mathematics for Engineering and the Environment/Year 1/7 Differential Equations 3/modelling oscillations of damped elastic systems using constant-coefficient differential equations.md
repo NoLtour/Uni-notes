@@ -8,10 +8,10 @@ tags: ["Question","QFormat3"]
 ### The equation
 This is the equation we generally use when modelling in this context.
 
-> ### $$ \frac{d^{2}}{dt^{2}} + 2 \zeta \omega \frac{dx}{dt} + \omega^{2} x = 0 $$ 
+> ### $$ \frac{d^{2}x}{dt^{2}} + 2 \zeta \omega \frac{dx}{dt} + \omega^{2} x = 0 $$ 
 >> where:
->> $\zeta =$ [[natural frequency (differentially modelled oscillator)|natural frequency]]
->> $\omega =$ [[damping parameter (differentially modelled oscillator)|damping parameter]]
+>> $\zeta =$  [[damping parameter (differentially modelled oscillator)|damping parameter]]
+>> $\omega =$ [[natural frequency (differentially modelled oscillator)|natural frequency]]
 
 ^d6891c
 
@@ -35,4 +35,4 @@ ml \frac{d^{2}\theta}{dt^{2}}+ \frac{d\theta}{dt}k + mg \theta &= 0
 \end{align*}$$
 Wow would you look at that, this looks like a [[Linear homogeneous constant-coefficient equation notes|thing]] :thinking:, it's almost as if that is intentianal! Now we have a practical use for all of that stuff we did over differential equations 1 n 3.
 
-![[types of dampening (differentuially modeeled oscillator)#Types of dampening differentuially modeeled oscillator]]
+![[types of dampening (differentially modelled oscillator)#Types of dampening differentuially modeeled oscillator]]

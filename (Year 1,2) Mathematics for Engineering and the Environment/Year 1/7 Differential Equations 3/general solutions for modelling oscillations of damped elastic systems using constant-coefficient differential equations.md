@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### What are the
 ## General solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations
 
-Refering to [[types of dampening (differentuially modeeled oscillator)|types of dampening]]:
+Refering to [[types of dampening (differentially modelled oscillator)|types of dampening]]:
 #### When $\zeta > 1$
 > ### $$ x = A e^{\left(\sqrt{\zeta^{2}-1} - \zeta \right) \omega t} + B e^{\left(\sqrt{\zeta^{2}-1} - \zeta \right) \omega t} $$ 
 >> where:
