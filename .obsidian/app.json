@@ -22,5 +22,6 @@
     "isochoric"
   ],
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": false,
+  "showInlineTitle": true
 }

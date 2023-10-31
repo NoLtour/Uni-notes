@@ -1,8 +1,9 @@
 {
-  "baseFontSize": 13,
-  "cssTheme": "Blue Topaz",
+  "baseFontSize": 14,
+  "cssTheme": "Subtlegold",
   "enabledCssSnippets": [
-    "truncc"
+    "truncc",
+    "image cent"
   ],
-  "accentColor": "#94479e"
+  "accentColor": ""
 }
