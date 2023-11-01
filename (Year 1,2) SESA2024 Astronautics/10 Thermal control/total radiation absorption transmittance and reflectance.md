@@ -1,5 +1,5 @@
 ---
-aliases: ["absorptance","total radiation absorption","reflectance","transmittance"]
+aliases: ["absorptance","total radiation absorption","reflectance","transmittance","absorptivity"]
 tags: []
 ---
 

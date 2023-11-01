@@ -1,5 +1,5 @@
 ---
-aliases: ["Planks law","Wiens displacement law","total black body emission"]
+aliases: ["Planks law","Wiens displacement law","total black body emission","monochromatic emissive power"]
 tags: []
 ---
 
@@ -9,13 +9,16 @@ tags: []
 
 All thing's radiate thermal radiation when above absolute zero, but generally modelling it is hard. For a[[black and grey bodies|black body]] the equations relatively simple though:
 
-> ### $$\begin{align*} q_{\lambda}  &= \frac{2 \pi h c^{2}}{\lambda^{5} \left( e^{\frac{ch}{k\lambda T}} - 1 \right)}  \end{align*}$$
+> ### $$\begin{align*} \text{Form 1:}&& q_{\lambda}  &= \frac{2 \pi h c^{2}}{\lambda^{5} \left( e^{\frac{ch}{k\lambda T}} - 1 \right)}\\ \text{Form 2:}&& E_{b\lambda}  &= \frac{C_{1} \lambda^{-5}}{  \left( e^{\frac{C_{2}}{\lambda T}} - 1 \right)} \end{align*}$$
 >> where:
->> $q_{\lambda}=$ [[blackbody emission]] (at wavelength $\lambda$), units $Wm^{-3}$
+>> $q_{\lambda}, E_{b\lambda}=$ [[blackbody emission]] per unit wavelength (at wavelength $\lambda$), units $Wm^{-3}$ also called monochromatic emissive power
 >> $h=$ [[Plank constant]]
 >> $k=$ [[Boltzmann constant]]
 >> $c=$ [[speed of light]]
 >> $\lambda=$ wavelength being emitted units $m$
+>> $C_{1}, C_{2}=$ constants
+
+Form 2 is just the format this equation takes in year 3.
 
 ### Wiens displacement law
 

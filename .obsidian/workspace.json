@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ef4592b85626fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "3e022b8e60bc000d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology/2.3 Design Methodology Overview.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/Space Debris Mitigation Overview.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology/2.3 Design Methodology Overview.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/Space Debris Mitigation Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,18 +145,40 @@
   },
   "active": "3e022b8e60bc000d",
   "lastOpenFiles": [
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/Space Debris Mitigation Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/Space debris Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/removing space debris.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/IDAC.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/space debris.md",
+    "images/Pasted image 20231101204922.png",
+    "images/Pasted image 20231101204609.png",
+    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/Outer space treaty overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/it is bad and sucks I want to do space mining.md",
+    "images/e6f15ca5b56b953aff9338917a4d30690c8f69041635a1fa23f49678373ad040_1.mp4",
+    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris",
     "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/over-expanded nozzles and supersonic wind tunnels.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology/2.3 Design Methodology Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/Oppenheim radiation network.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/view factor and radiation exchange.md",
+    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/Thermal control overview.md",
+    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/blackbody emission.md",
+    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/real body emission.md",
+    "(Year 3, my IP) SLAM research/Docz/~$StartPresentation.pptx",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/view factor.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/thermoelectric cooling.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/brief description of thermal control methods.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/spacecraft maintenance problem.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/if you do not like it then fucking seeth.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/humanity students be like.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/absolute pandamonium.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/a technical term.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/2.1 Thermal Control System intro Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/highly reflective surface.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/selective surfaces.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/useful spacecraft surface characteristics.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/optical solar reflector.md",
+    "images/Pasted image 20231101150453.png",
+    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/active and passive thermal control.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/infrared emissivity.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/solar absorptivity.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/surface property manipulation for thermal control.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/spacecraft thermal radiation emission.md",
+    "images/fouriers+law+of+conduction-4269232480.jpg",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro",
@@ -177,32 +186,10 @@
     "images/【東方Metal／Rock】 RECALL A TRAUMATIC EXPERIENCE 「Xenoglossy」 1.mp3",
     "images/nuts sword or something.mp4",
     "images/fig6-25-2553287988.jpg",
-    "images/dansen 1.mp4",
-    "images/QNf5q-C1YfLKY2Ym.mp4",
     "images/Pasted image 20231031172042.png",
     "images/Pasted image 20231031165236.png",
     "images/Pasted image 20231031164026.png",
     "images/Pasted image 20231031163035.png",
-    "images/Pasted image 20231031162557.png",
-    "images/Pasted image 20231031162454.png",
-    "images/Pasted image 20231031161833.png",
-    "images/Pasted image 20231031123721.png",
-    "images/Pasted image 20231031123438.png",
-    "images/6f73d9819fe497253e7ce333771e8b96d62628264c5c433e53256723f9489197_1.mp4",
-    "(Year 3) Advanced Astronautics/Slideees/SESA3039 Adv Astronautics Ch3_EDL.pdf",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/Ludwig tube.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/partial fractions fast method.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/simple system response time metrics.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/determination of system stability.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
-    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/supersonic flow properties equations.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/supersonic flow past a tilted flat plate.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
-    "(Year 3) Aerothermodynamics/1 Mostly recap/pitot tube in supersonic flow.md"
+    "images/Pasted image 20231031162557.png"
   ]
 }

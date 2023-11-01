@@ -1,5 +1,5 @@
 ---
-aliases: ["emittance"]
+aliases: ["emittance","emissivity"]
 tags: []
 ---
 
