@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/Space Debris Mitigation Overview.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/mitigating orbital break-ups.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ff52026d2d028f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) SESA2024 Astronautics/10 Thermal control/real body emission.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/Space Debris Mitigation Overview.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/mitigating orbital break-ups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,8 +159,18 @@
   },
   "active": "3e022b8e60bc000d",
   "lastOpenFiles": [
-    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Aero systems control/-Slides/SESA3030 Topic 6 Notes(2).pdf",
+    "(Year 3) Spacecraft Systems Engineering and Design/seeth.md",
+    "images/Rock_solid_-_httpst.coRFcSF8SN87-622p.mp4",
+    "(Year 3) Spacecraft Systems Engineering and Design/mitigating orbital break-ups.md",
     "(Year 3) Spacecraft Systems Engineering and Design/Space Debris Mitigation Overview.md",
+    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/real body emission.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/view factor and radiation exchange.md",
+    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/spacecraft heat balance.md",
+    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/brief description of thermal control methods.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
     "(Year 3) Spacecraft Systems Engineering and Design/Space debris Overview.md",
     "(Year 3) Spacecraft Systems Engineering and Design/removing space debris.md",
     "(Year 3) Spacecraft Systems Engineering and Design/IDAC.md",
@@ -157,13 +181,9 @@
     "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/it is bad and sucks I want to do space mining.md",
     "images/e6f15ca5b56b953aff9338917a4d30690c8f69041635a1fa23f49678373ad040_1.mp4",
     "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris",
-    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/Oppenheim radiation network.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/view factor and radiation exchange.md",
     "(Year 1,2) SESA2024 Astronautics/10 Thermal control/Thermal control overview.md",
     "(Year 1,2) SESA2024 Astronautics/10 Thermal control/blackbody emission.md",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/real body emission.md",
     "(Year 3, my IP) SLAM research/Docz/~$StartPresentation.pptx",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/view factor.md",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/highly reflective surface.md",
@@ -172,11 +192,6 @@
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/optical solar reflector.md",
     "images/Pasted image 20231101150453.png",
     "(Year 1,2) SESA2024 Astronautics/10 Thermal control/active and passive thermal control.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/infrared emissivity.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/solar absorptivity.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/surface property manipulation for thermal control.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/spacecraft thermal radiation emission.md",
     "images/fouriers+law+of+conduction-4269232480.jpg",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology",
@@ -184,7 +199,6 @@
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System",
     "images/【東方Metal／Rock】 RECALL A TRAUMATIC EXPERIENCE 「Xenoglossy」 1.mp3",
-    "images/nuts sword or something.mp4",
     "images/fig6-25-2553287988.jpg",
     "images/Pasted image 20231031172042.png",
     "images/Pasted image 20231031165236.png",
