@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/10 Thermal control/real body emission.md",
+                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isentropic equation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/mitigating orbital break-ups.md",
+                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,14 +158,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3e022b8e60bc000d",
+  "active": "ff52026d2d028f40",
   "lastOpenFiles": [
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+    "(Year 1,2) SESA2024 Astronautics/Astro overview.md",
+    "(Year 1,2) SESA2024 Astronautics/6 Attitude control/Attitude control overview.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital elements.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital eccentricity.md",
+    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/real body emission.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/mitigating orbital break-ups.md",
+    "(Year 3) Aerothermodynamics/Slides/SESA3029_3.3.pdf",
     "(Year 3) Aero systems control/-Slides/SESA3030 Topic 6 Notes(2).pdf",
     "(Year 3) Spacecraft Systems Engineering and Design/seeth.md",
     "images/Rock_solid_-_httpst.coRFcSF8SN87-622p.mp4",
-    "(Year 3) Spacecraft Systems Engineering and Design/mitigating orbital break-ups.md",
     "(Year 3) Spacecraft Systems Engineering and Design/Space Debris Mitigation Overview.md",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/real body emission.md",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/view factor and radiation exchange.md",
     "(Year 1,2) SESA2024 Astronautics/10 Thermal control/spacecraft heat balance.md",
@@ -185,20 +194,12 @@
     "(Year 1,2) SESA2024 Astronautics/10 Thermal control/Thermal control overview.md",
     "(Year 1,2) SESA2024 Astronautics/10 Thermal control/blackbody emission.md",
     "(Year 3, my IP) SLAM research/Docz/~$StartPresentation.pptx",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/view factor.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/highly reflective surface.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/selective surfaces.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/useful spacecraft surface characteristics.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/optical solar reflector.md",
     "images/Pasted image 20231101150453.png",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/active and passive thermal control.md",
     "images/fouriers+law+of+conduction-4269232480.jpg",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System",
-    "images/【東方Metal／Rock】 RECALL A TRAUMATIC EXPERIENCE 「Xenoglossy」 1.mp3",
     "images/fig6-25-2553287988.jpg",
     "images/Pasted image 20231031172042.png",
     "images/Pasted image 20231031165236.png",
