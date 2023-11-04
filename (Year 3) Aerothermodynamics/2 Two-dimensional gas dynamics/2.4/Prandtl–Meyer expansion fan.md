@@ -25,6 +25,8 @@ Since this process occurs in the event of expansion, it applies when dealing wit
 
 #### Terms
 
+^3a6820
+
 ![[Pasted image 20231026104633.png]]
 
 Here we can see the definitions of the angles:
@@ -83,9 +85,11 @@ V_{1}\cos(\mu) &= (V_{1}+dV)\cos(\mu+d\theta) & &\to & V_{1}\cos(\mu) &= (V_{1}+
 A bit more rearanging can get it into a more useful form:
 
 $$\begin{align*}
-&& && && \tan \mu &=  \frac{1}{\sqrt{x^{2} + 1}}\\
-V d\theta \sin \mu&=   dV \cos \mu & &\to & d\theta \tan \mu&=   \frac{dV}{V} & &\to &   \frac{ d\theta}{\sqrt{x^{2} + 1}} &=   \frac{dV}{V}
+&& && && \tan \mu &=  \frac{1}{\sqrt{M^{2} - 1}}\\
+V d\theta \sin \mu&=   dV \cos \mu & &\to & d\theta \tan \mu&=   \frac{dV}{V} & &\to &   \frac{ d\theta}{\sqrt{M^{2} - 1}} &=   \frac{dV}{V}
 \end{align*}$$
+
+^77e61b
 
 Now to get $V$ in terms of $M$, we will first use [[What's the product rule|product rule]]:
 
@@ -98,7 +102,7 @@ V &= M\:a && \to & dV &= M\:da + a\:dM\\
 Subbing back the equation we got previously:
 
 $$\begin{align*}
-\frac{dV}{V} &= \frac{  da}{ a} + \frac{ dM}{M } & &\to & \frac{ d\theta}{\sqrt{x^{2} + 1}} &= \frac{  da}{ a} + \frac{ dM}{M } 
+\frac{dV}{V} &= \frac{  da}{ a} + \frac{ dM}{M } & &\to & \frac{ d\theta}{\sqrt{M^{2} - 1}} &= \frac{  da}{ a} + \frac{ dM}{M } 
 \end{align*}$$
 
 I'm not going to detail the next part since it'll take too long, using "magic" you can combine the above equation with $\frac{a_{0}}{a^{2}} = 1 - \frac{\gamma-1}{2} M^{2}$ to get:

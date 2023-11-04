@@ -1,8 +1,8 @@
 {
-  "findText": "\\delta",
-  "replaceText": "\\partial",
+  "findText": "- ",
+  "replaceText": "!",
   "useRegEx": false,
-  "selOnly": false,
+  "selOnly": true,
   "caseInsensitive": false,
   "processLineBreak": true,
   "processTab": false,

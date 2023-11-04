@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/3.3 Method of characteristics/KEYWORDS environment characteristics.md",
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "994e0b811477bfd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/Mach lines and domains of influence.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9b3b99db9f2b99c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d559db22a8c15592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/3.3 Method of characteristics/KEYWORDS environment characteristics.md",
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,51 +193,50 @@
   },
   "active": "ff52026d2d028f40",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
+    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/supersonic nozzle design using method of characteristics.md",
+    "images/Pasted image 20231104204339.png",
+    "images/Pasted image 20231104204251.png",
+    "images/Pasted image 20231104204102.png",
+    "images/Pasted image 20231104203959.png",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/method of characteristics.md",
+    "images/Pasted image 20231104203620.png",
+    "images/Pasted image 20231104203430.png",
+    "images/Pasted image 20231104203200.png",
+    "images/Pasted image 20231104202811.png",
+    "images/Pasted image 20231104202627.png",
+    "images/Pasted image 20231104202113.png",
+    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/wave wall interaction.md",
+    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/Mach lines and domains of influence.md",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/characteristics proofs matrix thing.md",
+    "(Year 3) Aerothermodynamics/Slides/SESA3029_3.2.pdf",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/1,2 Intro into matrices/definining matrices.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/Matrices 1 overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/3,4 Basic operations of matrices/Basic operations of matrices notes.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/3,4 Basic operations of matrices/addition and subtraction of matrices.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/General org/matrices (maths).md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/10 Composites/matrix (materials).md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
     "(Year 1,2) Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
-    "(Year 3) Aerothermodynamics/3.3 Method of characteristics/KEYWORDS environment characteristics.md",
-    "images/Pasted image 20231103194300.png",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/homentropic flow.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/2 Curvilinear motion/n-t diagram.md",
     "(Year 2) Aerodynamics/3 Potential flow/Potential flow Overview.md",
     "(Year 2) Aerodynamics/Aerodynamics overview.md",
     "(Year 2) Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md",
-    "(Year 2) Aerodynamics/2 Incompressible Viscous flow/2 Laminar Boundary Layer/Viscous Flow for a laminar boundary layer Overview.md",
-    "(Year 2) Aerodynamics/2 Incompressible Viscous flow/1 Into/Introduction to Viscous Flow Overview.md",
-    "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/Mathamatical and numerical concepts overview.md",
-    "images/Pasted image 20231103191829.png",
-    "(Year 3) Aerothermodynamics/3.3 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
-    "images/Pasted image 20231103190937.png",
-    "(Year 3) Aerothermodynamics/3.3 Method of characteristics",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/relationship between temperature and kinetic energy of particles.md",
-    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/Boltzmann constant.md",
-    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/9 Kinetic theory of gas/ideal gas law.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/black body emission.md",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/real body emission.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/mitigating orbital break-ups.md",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics",
     "(Year 3) Aero systems control/-Slides/SESA3030 Topic 6 Notes(2).pdf",
-    "(Year 3) Spacecraft Systems Engineering and Design/seeth.md",
     "images/Rock_solid_-_httpst.coRFcSF8SN87-622p.mp4",
-    "(Year 3) Spacecraft Systems Engineering and Design/Space Debris Mitigation Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/view factor and radiation exchange.md",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/spacecraft heat balance.md",
-    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/brief description of thermal control methods.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/Space debris Overview.md",
-    "images/Pasted image 20231101204922.png",
-    "images/Pasted image 20231101204609.png",
     "images/e6f15ca5b56b953aff9338917a4d30690c8f69041635a1fa23f49678373ad040_1.mp4",
     "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris",
     "(Year 3, my IP) SLAM research/Docz/~$StartPresentation.pptx",
-    "images/Pasted image 20231101150453.png",
-    "images/fouriers+law+of+conduction-4269232480.jpg",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro",
-    "images/fig6-25-2553287988.jpg",
-    "images/Pasted image 20231031172042.png",
-    "images/Pasted image 20231031165236.png"
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology"
   ]
 }
