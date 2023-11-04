@@ -29,7 +29,7 @@ $$\begin{align*}&& \Delta s &\to 0\\
 
 These will be useful later.
 
-####
+#### 
 
 
 ![[Pasted image 20231103194300.png]]
@@ -46,4 +46,14 @@ $$\begin{align*}
 \rho u \Delta n \: \left( u+\frac{\partial u}{\partial s}\right) -  \rho u \Delta n \: u &= - \left(\frac{\partial p }{\partial s}\Delta s\right) \Delta n  & &\to & \rho u \frac{\partial u}{\partial s} &= - \frac{\partial p}{\partial s}
 \end{align*}$$
 
+We'll also get [[curl of a vector|vorticity]] into this [[n-t diagram|n-t coordinate system]] (this will be useful later):
 
+$$\begin{align*}&& \text{m}&\text{agic}\\
+\omega &= \frac{\partial v}{\partial x} - \frac{\partial u}{\partial y} & &\to & \omega &=u \frac{\partial \theta}{\partial s} - \frac{\partial u}{\partial n}
+\end{align*}$$
+
+Ok so, since mass cannot cross between streamlines we can derive a simple expression for mass transfer in our [[control volume]]:
+
+$$\begin{align*}
+\dot{m} &= \rho u \Delta n & &\to & \dot{m} &= 
+\end{align*}$$
