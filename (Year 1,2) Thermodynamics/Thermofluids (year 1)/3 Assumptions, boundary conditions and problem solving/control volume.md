@@ -23,3 +23,6 @@ To find the net force acting on a control volume it's just conservation of momen
 >> $\vec{V}_{n} \dot{m}_{n}=$ the momentum of the mass flow of some input/output from the control volume
 >> $\vec{F}=$ resultant force acting on the control volume (usually your solving for this)
 >> $\vec{P}_{n} A_{n}=$ Pressure over area acting over a side of the control volume
+
+^7e3815
+

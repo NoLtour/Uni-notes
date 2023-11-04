@@ -20,3 +20,7 @@ Module 2:
 5) [[supersonic flow past a tilted flat plate|2.5 Flow past a tilted flat plate]]
 6) [[2.6 Laval nozzle overview]]
 7) [[over-expanded nozzles and supersonic wind tunnels]]
+
+Module 3:
+1) [[3.1, 3.2 Method of characteristics Overview]]
+2) 

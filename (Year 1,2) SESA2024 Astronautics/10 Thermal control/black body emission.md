@@ -3,7 +3,7 @@ aliases: ["Planks law","Wiens displacement law","total black body emission","mon
 tags: []
 ---
 
-## Blackbody emission
+## Black body emission
 
 ### Planks law
 
@@ -11,7 +11,7 @@ All thing's radiate thermal radiation when above absolute zero, but generally mo
 
 > ### $$\begin{align*} \text{Form 1:}&& q_{\lambda}  &= \frac{2 \pi h c^{2}}{\lambda^{5} \left( e^{\frac{ch}{k\lambda T}} - 1 \right)}\\ \text{Form 2:}&& E_{b\lambda}  &= \frac{C_{1} \lambda^{-5}}{  \left( e^{\frac{C_{2}}{\lambda T}} - 1 \right)} \end{align*}$$
 >> where:
->> $q_{\lambda}, E_{b\lambda}=$ [[blackbody emission]] per unit wavelength (at wavelength $\lambda$), units $Wm^{-3}$ also called monochromatic emissive power
+>> $q_{\lambda}, E_{b\lambda}=$ [[black body emission]] per unit wavelength (at wavelength $\lambda$), units $Wm^{-3}$ also called monochromatic emissive power
 >> $h=$ [[Plank constant]]
 >> $k=$ [[Boltzmann constant]]
 >> $c=$ [[speed of light]]
@@ -31,7 +31,7 @@ Can see clearly that the emission increases with temperature, as you'd expect. I
 
 > ### $$\begin{align*} \lambda_{max} T  &= 2.898\times 10^{3} && (\mu m \: K) \\ \lambda_{max} T  &= 2.898 &&(m \: K)  \end{align*}$$
 >> where:
->> $\lambda_{max}=$ the wavelength of highest [[blackbody emission]] for the given temperature
+>> $\lambda_{max}=$ the wavelength of highest [[black body emission]] for the given temperature
 >> $T=$ the temperature of the black body
 
 #### Application
@@ -45,7 +45,7 @@ $$\begin{align*}
 &&&& T_{earth} &\approx \frac{2.898\times 10^{3}}{10} = 289.8K
 \end{align*}$$
 
-Once you get a value of the temperature of an object you can then go back to [[blackbody emission|Planks law]] and create a reasonably accurate emission spectrum for the object!
+Once you get a value of the temperature of an object you can then go back to [[black body emission|Planks law]] and create a reasonably accurate emission spectrum for the object!
 
 ### Total emission
 
