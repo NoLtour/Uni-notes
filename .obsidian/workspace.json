@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +193,12 @@
   },
   "active": "ff52026d2d028f40",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
+    "(Year 3) Aerothermodynamics/Python/Coursework1.ipynb",
+    "(Year 3) Aerothermodynamics/Python/Untitled.ipynb",
+    "(Year 3) Aerothermodynamics/Python/openLab.bat",
+    "(Year 3) Aerothermodynamics/Python",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/supersonic nozzle design using method of characteristics.md",
     "images/Pasted image 20231104204339.png",
@@ -208,7 +214,6 @@
     "images/Pasted image 20231104202113.png",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/wave wall interaction.md",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/Mach lines and domains of influence.md",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/characteristics proofs matrix thing.md",
@@ -221,7 +226,6 @@
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/3,4 Basic operations of matrices/addition and subtraction of matrices.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/General org/matrices (maths).md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/10 Composites/matrix (materials).md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
     "(Year 1,2) Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
@@ -233,10 +237,6 @@
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics",
     "(Year 3) Aero systems control/-Slides/SESA3030 Topic 6 Notes(2).pdf",
     "images/Rock_solid_-_httpst.coRFcSF8SN87-622p.mp4",
-    "images/e6f15ca5b56b953aff9338917a4d30690c8f69041635a1fa23f49678373ad040_1.mp4",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris",
-    "(Year 3, my IP) SLAM research/Docz/~$StartPresentation.pptx",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology"
+    "images/e6f15ca5b56b953aff9338917a4d30690c8f69041635a1fa23f49678373ad040_1.mp4"
   ]
 }
