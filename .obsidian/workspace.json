@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e7e511a698cf6cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21c8e1d47990d998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,44 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/Mach lines and domains of influence.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9b3b99db9f2b99c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea43794e9d79cd7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d559db22a8c15592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
-                "mode": "source",
+                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -141,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,13 +181,30 @@
   },
   "active": "ff52026d2d028f40",
   "lastOpenFiles": [
+    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
+    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
+    "(Year 3) Aero systems control/Python/Coursework 1.ipynb",
+    "(Year 3) Aero systems control/Python/Untitled.ipynb",
+    "(Year 3) Aero systems control/Python/openLab.bat",
+    "(Year 3) Aero systems control/Python",
+    "(Year 3) Aero systems control/New folder",
+    "(Year 3) Aero systems control/-Slides/SESA3030_Assignment_1_202324.pdf",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/Mach lines and domains of influence.md",
+    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/supersonic flow properties equations.md",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/supersonic flow past a tilted flat plate.md",
+    "(Year 3) Aerothermodynamics/1 Mostly recap/isentropic flow equations.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
     "(Year 3) Aerothermodynamics/Python/Coursework1.ipynb",
     "(Year 3) Aerothermodynamics/Python/Untitled.ipynb",
     "(Year 3) Aerothermodynamics/Python/openLab.bat",
     "(Year 3) Aerothermodynamics/Python",
-    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/supersonic nozzle design using method of characteristics.md",
     "images/Pasted image 20231104204339.png",
     "images/Pasted image 20231104204251.png",
@@ -213,11 +218,7 @@
     "images/Pasted image 20231104202627.png",
     "images/Pasted image 20231104202113.png",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/wave wall interaction.md",
-    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/Mach lines and domains of influence.md",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/characteristics proofs matrix thing.md",
-    "(Year 3) Aerothermodynamics/Slides/SESA3029_3.2.pdf",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/1,2 Intro into matrices/definining matrices.md",
@@ -225,18 +226,6 @@
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/3,4 Basic operations of matrices/Basic operations of matrices notes.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/3,4 Basic operations of matrices/addition and subtraction of matrices.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/General org/matrices (maths).md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/10 Composites/matrix (materials).md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
-    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/3 Assumptions, boundary conditions and problem solving/control volume.md",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/homentropic flow.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/2 Curvilinear motion/n-t diagram.md",
-    "(Year 2) Aerodynamics/3 Potential flow/Potential flow Overview.md",
-    "(Year 2) Aerodynamics/Aerodynamics overview.md",
-    "(Year 2) Aerodynamics/2 Incompressible Viscous flow/Incompressible Viscous Flow Overview.md",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics",
-    "(Year 3) Aero systems control/-Slides/SESA3030 Topic 6 Notes(2).pdf",
-    "images/Rock_solid_-_httpst.coRFcSF8SN87-622p.mp4",
-    "images/e6f15ca5b56b953aff9338917a4d30690c8f69041635a1fa23f49678373ad040_1.mp4"
+    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/10 Composites/matrix (materials).md"
   ]
 }
