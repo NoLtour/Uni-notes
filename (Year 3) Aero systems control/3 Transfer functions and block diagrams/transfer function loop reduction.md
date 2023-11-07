@@ -10,7 +10,7 @@ tags: []
 Turns out even feedback loops can be reduced! Which is great since they are vital in [[control system loop types|closed-loop systems]] so pop up everywhere.
 
 >![[Pasted image 20231029122222.png]]
-> ### $$\begin{align*} \text{General:}& & \frac{C}{R} \equiv G &= \frac{\text{forward path}}{1 + \text{loop path}} \\ \text{This case:}&&  G &= \frac{G_{1}G_{2}}{1+ G_{1}G_{2}H} \end{align*}$$
+> ### $$\begin{align*} \text{General:}& & \frac{C}{R} \equiv G &= \frac{\text{forward path}}{1 - \text{loop path}} \\ \text{This case:}&&  G &= \frac{G_{1}G_{2}}{1+ G_{1}G_{2}H} \end{align*}$$
 >> where:
 >> $G_{1}(s),\:G_{2}(s),\:H(s)=$ [[Laplace transform representation of a system|Laplace domain transfer function]], multiplying it by the input function gets the output function (in the Laplace domain)
 >> $R(s),\:X(s)=$ [[Laplace transform|Laplace]] domain input function
@@ -55,7 +55,7 @@ Now we finish with a final [[transfer function series manipulation|series transf
 
 ![[Pasted image 20231029130230.png]]
 
-There you go! It can be imagined just how useful this sort of method can be for simplifying extremely complex systems.
+There you go! It can be imagined just how useful this sort of method can be for simplifying extremely complex systems. (NOTE: This is wrong, the signs on the bottom should be flipped!)
 
 ### Sample exam question
 
