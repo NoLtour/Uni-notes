@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,11 +191,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "21c8e1d47990d998",
+  "active": "ff52026d2d028f40",
   "lastOpenFiles": [
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function loop reduction.md",
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/multiple input system manipulation.md",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
@@ -207,7 +207,6 @@
     "(Year 1,2) Mechanics structures and materials/Year 1/Materials/1 Atomic composition/1 Atoms and types of bonding/polar molecule induced dipoles.md",
     "(Year 3) Aero systems control/Aero Systems Control Overview.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
-    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
     "(Year 3) Aero systems control/Python/Coursework 1.ipynb",
     "(Year 3) Aero systems control/Python/Untitled.ipynb",
     "(Year 3) Aero systems control/Python/openLab.bat",
