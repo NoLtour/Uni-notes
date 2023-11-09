@@ -20,8 +20,8 @@ Chapter 2 (Thermal Control System):
 2) [[brief description of thermal control methods|2.2 Thermal Control System Options]]
 3) [[2.3 Design Methodology Overview]]
 4) [[2.4 Basic Analytical Equations and Relations Overview]] ASK LECTURE ABOUT OPPENHEIMER SCOPE
-FINISH
+FINISH FINISH
 
 Chapter 3 (Entry, Decent, and Landing):
-1) stuff
+1) [[3 Entry, decent and landing Overview]] UNFINISHED
 
