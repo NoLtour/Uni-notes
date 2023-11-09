@@ -42,7 +42,7 @@ The time for the response to reach and stay within a range of the final value (e
 Taking a second order system and applying a step response will produce the oscillatory motion seen above. A valid representation of this is as follows:
 
 $$\begin{align*}
-c(t) &= 1 - \frac{1}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}t} \sin \left(\omega_{n} t\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)
+c(t) &= K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}t} \sin \left(\omega_{n} t\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)
 \end{align*}$$
 
 We'll now use this as our equation for getting each of these metrics from.
@@ -52,7 +52,7 @@ We'll now use this as our equation for getting each of these metrics from.
 Not so hard, just find where $dc/dt=0$ and then take the first occurance above zero. This looks daunting, till you realise that $\zeta$ and $\omega_{n}$ are constants. Going to skip over most of it:
 
 $$\begin{align*}
-c(t) &= 1 - \frac{1}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}t} \sin \left(\omega_{n} t\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) \\
+c(t) &= K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}t} \sin \left(\omega_{n} t\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) \\
 &\downarrow\: \text{ Find } \frac{dc}{dx}=0 \text{, then rearrange}\\
 \frac{\sqrt{{1-\zeta^{2}}}}{\zeta} &= \tan\left( \omega_{n}t\sqrt{1-\zeta^{2}} +\arctan\frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)\\
 &\downarrow\: \text{ Solve for }t\\
@@ -76,31 +76,31 @@ First $c_{max}$:
 
 
 $$\begin{align*}  
-c(T_{p}) &= 1 - \frac{1}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}\frac{\pi}{\omega_{n}\sqrt{1-\zeta^{2}}}} \sin \left(\omega_{n} \frac{\pi}{\omega_{n}\sqrt{1-\zeta^{2}}}\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) \\
-c_{max} &= 1 - \frac{1}{\sqrt{1-\zeta^{2}}}e^{-\zeta \frac{\pi}{ \sqrt{1-\zeta^{2}}}} \sin \left(   \pi  + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) \\
+c(T_{p}) &= K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}\frac{\pi}{\omega_{n}\sqrt{1-\zeta^{2}}}} \sin \left(\omega_{n} \frac{\pi}{\omega_{n}\sqrt{1-\zeta^{2}}}\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) \\
+c_{max} &= K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta \frac{\pi}{ \sqrt{1-\zeta^{2}}}} \sin \left(   \pi  + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) \\
 \end{align*}$$
 
 Then $c_{min}$:
 
 $$\begin{align*}  
-c(0) &= 1 - \frac{1}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}0} \sin \left(\omega_{n} 0\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)  \\
-c_{min} &= 1 - \frac{1}{\sqrt{1-\zeta^{2}}} \sin \left(\arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)  \\
- &= 1-1\\
+c(0) &= K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}0} \sin \left(\omega_{n} 0\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)  \\
+c_{min} &= K - \frac{K}{\sqrt{1-\zeta^{2}}} \sin \left(\arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)  \\
+ &= K-K\\
 &= 0  \\
 
 \end{align*}$$
 
 Then $c_{total}$:
 $$\begin{align*}  
-\lim_{t\to\infty} c(t) &= 1 - \frac{1}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}t} \sin \left(\omega_{n} t\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)  \\
-c_{total} &= 1 - \frac{1}{\sqrt{1-\zeta^{2}}} \\
+\lim_{t\to\infty} c(t) &= K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}t} \sin \left(\omega_{n} t\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)  \\
+c_{total} &= K - \frac{K}{\sqrt{1-\zeta^{2}}} \\
 
 \end{align*}$$
 
 Finally:
 
 $$\begin{align*}
-PO  &= \frac{c_{max}-c_{min}}{c_{final}} \times 100 & &\to & PO  &= \frac{1 - \frac{1}{\sqrt{1-\zeta^{2}}}e^{-\zeta \frac{\pi}{ \sqrt{1-\zeta^{2}}}} \sin \left(   \pi  + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) }{ 1 - \frac{1}{\sqrt{1-\zeta^{2}}}} \times 100 
+PO  &= \frac{c_{max}-c_{min}}{c_{final}} \times 100 & &\to & PO  &= \frac{K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta \frac{\pi}{ \sqrt{1-\zeta^{2}}}} \sin \left(   \pi  + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) }{ K- \frac{K}{\sqrt{1-\zeta^{2}}}} \times 100 
 \end{align*}$$
 
 Ok so just simplify that. I [[it is just that easy|did it in my head]], got this:
