@@ -29,4 +29,5 @@ Good control is essential for basically everything, so in this module we learn h
 2) [[Modelling of dynamic systems Overview]]
 3) [[Transfer functions and block diagrams Overview]]
 4) [[Response of dynamic systems Overview]]
+5) [[Aero control Stability Overview]]
 

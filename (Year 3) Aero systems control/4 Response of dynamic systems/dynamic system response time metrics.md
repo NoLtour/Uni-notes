@@ -49,7 +49,7 @@ We'll now use this as our equation for getting each of these metrics from.
 
 #### Peak overshoot
 
-Not so hard, just find where $dc/dt=0$ and then take the first occurance above zero. This looks daunting, till you realise that $\zeta$ and $\omega_{n}$ are constants. Going to skip over most of it:
+Not so hard, just find where $dc/dt=0$ and then take the first occurrence above zero. This looks daunting, till you realise that $\zeta$ and $\omega_{n}$ are constants. Going to skip over most of it:
 
 $$\begin{align*}
 c(t) &= K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}t} \sin \left(\omega_{n} t\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) \\
@@ -93,14 +93,14 @@ c_{min} &= K - \frac{K}{\sqrt{1-\zeta^{2}}} \sin \left(\arctan \frac{\sqrt{1-\ze
 Then $c_{total}$:
 $$\begin{align*}  
 \lim_{t\to\infty} c(t) &= K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta\omega_{n}t} \sin \left(\omega_{n} t\sqrt{1 - \zeta^{2}} + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right)  \\
-c_{total} &= K - \frac{K}{\sqrt{1-\zeta^{2}}} \\
+c_{total} &= K  \\
 
 \end{align*}$$
 
 Finally:
 
 $$\begin{align*}
-PO  &= \frac{c_{max}-c_{min}}{c_{final}} \times 100 & &\to & PO  &= \frac{K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta \frac{\pi}{ \sqrt{1-\zeta^{2}}}} \sin \left(   \pi  + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) }{ K- \frac{K}{\sqrt{1-\zeta^{2}}}} \times 100 
+PO  &= \frac{c_{max}-c_{min}}{c_{final}} \times 100 & &\to & PO  &= \frac{K - \frac{K}{\sqrt{1-\zeta^{2}}}e^{-\zeta \frac{\pi}{ \sqrt{1-\zeta^{2}}}} \sin \left(   \pi  + \arctan \frac{\sqrt{1-\zeta^{2}}}{\zeta} \right) }{ K} \times 100 
 \end{align*}$$
 
 Ok so just simplify that. I [[it is just that easy|did it in my head]], got this:
@@ -116,7 +116,8 @@ Easy.
 That can be suitably found after 4 time steps:
 
 $$\begin{align*}
- c(T_{s})=c(4T) &\approx 4\%\text{ of fianl value}
+ c(T_{s})=c(4T) &\approx 4\%\text{ of fianl value}\\\\
+\therefore T_{s} &= 4T
 \end{align*}$$
 
 Here:

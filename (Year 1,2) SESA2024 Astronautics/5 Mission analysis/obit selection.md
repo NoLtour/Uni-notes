@@ -28,6 +28,6 @@ Commonly used for navigation.
 ![[Pasted image 20221108104947.png]]
 
 ### Geostationary orbit
-Communications and observation, here the orbital period is 24 hours.
+Communications and observation, here the orbital period is 24 hours. (35786 km)
 
 ![[Pasted image 20221108105034.png]]
