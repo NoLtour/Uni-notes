@@ -28,6 +28,8 @@ That [[orbital eccentricity]] is there to ensure they circularise their orbit, n
 
 The $C_{R}$ bit is to counter the effects of [[space drag]].
 
+![[Pasted image 20231109160411.png]]
+
 ### Calculating
 To perform a transfer from GEO to graveyard we'll obviously require a [[impulsive orbital transfers|Hohmann transfer]].
 

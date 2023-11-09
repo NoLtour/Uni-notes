@@ -15,6 +15,7 @@ Contents:
 - [[GEO post-mission disposal]]
 - [[orbital precession]]
 - [[causes of GEO orbital precession]]
+- [[elimination of GEO solar pressure effect]]
 
 
 ## Expanded articles

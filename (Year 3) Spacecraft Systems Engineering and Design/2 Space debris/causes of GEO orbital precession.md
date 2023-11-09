@@ -29,7 +29,7 @@ With eccentricity playing the largest role in this type of orbital drift:
 #### Solar radiation pressure
 The long-term effects of solar radiation pressure on the eccentricity can be approximated using:
 
-> ### $$\begin{align*} \frac{de}{dt}  &= -K_{2} a^{2}\sqrt{1- e^{2}} \sin(\lambda_{sun} - omega - Omega)  \end{align*}$$
+> ### $$\begin{align*} \frac{de}{dt}  &= -K_{2} a^{2}\sqrt{1- e^{2}} \sin(\lambda_{sun} - \omega - \Omega)  \end{align*}$$
 >> where:
 >> $K_{2}=$ is a constant ~$1\times10^{-10}$
 >> $\omega=$ [[argument of perigee]]
@@ -37,6 +37,8 @@ The long-term effects of solar radiation pressure on the eccentricity can be app
 >> $a=$ [[orbital semi-major axis|semi-major axis]]
 >> $e=$ [[orbital eccentricity]]
 >> $t=$ time (seconds?)
+
+^5a6975
 
 ![[Pasted image 20231108190931.png]]
 
