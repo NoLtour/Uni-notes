@@ -15,7 +15,7 @@
               "state": {
                 "file": "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -169,19 +169,21 @@
   },
   "active": "16f1f5af95ba25dd",
   "lastOpenFiles": [
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
+    "images/Pasted image 20231110004117.png",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/I am moments away from commiting multiple mass genocides my rage is not containable.md",
     "images/oh no.mp4",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
     "images/Pasted image 20231109233236.png",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/stability in state space.md",
     "images/Pasted image 20231109232716.png",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/diagonal matrix of eigenvalues.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/my hands hurt from handling too much latex.md",
     "images/20230701_025451.jpg",
     "images/Pasted image 20231109230540.png",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
     "images/Pasted image 20231109225908.png",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/I own a bakery in french.md",
     "images/uranium2.mp4",
@@ -189,9 +191,7 @@
     "images/Pasted image 20231109222209.png",
     "images/Pasted image 20231109213842.png",
     "images/Pasted image 20231109205256.png",
-    "images/Pasted image 20231109205016.png",
     "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems",
     "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
     "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/Space Debris Mitigation Overview.md",

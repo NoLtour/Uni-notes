@@ -11,6 +11,10 @@ tags:
 - [[state space form]]
 - [[stability in state space]]
 - [[multivariable systems in state space form]]
+- UNFINISHED
 
 
 ## Expanded articles
+
+![[state space form]]
+![[stability in state space]]
