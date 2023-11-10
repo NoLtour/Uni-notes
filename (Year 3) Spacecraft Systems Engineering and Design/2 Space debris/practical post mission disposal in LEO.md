@@ -36,7 +36,7 @@ The orbital lifetime is influenced by countless factors... but we do have some e
 >> $\tau=$ [[keplers laws of orbital motion|orbital period]]
 >> $a=$ [[orbital semi-major axis|semi-major axis]]
 >> $\rho$ satellite density??
->> $\beta$ solar pressure variable
+>> $\beta$ 1/ballistic coefficient
 >> $C_{D}=$ solar pressure constant
 >> $A=$ sat cross sectional area
 >> $m=$ satellite mass
