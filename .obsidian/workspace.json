@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
-                "mode": "source",
-                "source": false
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/practical post mission disposal in LEO.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/practical post mission disposal in LEO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,9 +169,11 @@
   },
   "active": "16f1f5af95ba25dd",
   "lastOpenFiles": [
+    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/Space Debris Mitigation Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
     "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
     "images/Pasted image 20231110004117.png",
@@ -193,8 +195,6 @@
     "images/Pasted image 20231109205256.png",
     "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems",
-    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/Space Debris Mitigation Overview.md",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.1(1).pdf",
     "(Year 3, my IP) SLAM research/Diagrams drawIO/Firstlol.drawio",
     "(Year 3, my IP) SLAM research/Diagrams drawIO",
