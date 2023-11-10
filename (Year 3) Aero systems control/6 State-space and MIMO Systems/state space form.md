@@ -7,7 +7,7 @@ tags: []
 
 ### General form
 
-This is a general form that any $n$ input to $1$ output [[block diagram parts|system]] can be represented as:
+This is a general form that any $n$ inputs to $n$ outputs [[block diagram parts|system]] can be represented as:
 
 > ![[Pasted image 20231109205016.png]]
 > ### $$\begin{align*} \dot{\bf{x}}  &= \bf{A}\bf{x} + \bf{B}\bf{u}  \end{align*}$$
