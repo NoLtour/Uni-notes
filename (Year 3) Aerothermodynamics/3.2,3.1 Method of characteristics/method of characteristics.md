@@ -31,7 +31,7 @@ All the equations needed for this method are listed below, read the [[method of 
 > 
 >> where:
 >> $\theta=$ [[Prandtl–Meyer expansion fan|turning angle]]
->> $\nu=$ [[Prandtl–Meyer expansion fan|Prandtl-Meyer function 
+>> $\nu=$ [[Prandtl–Meyer expansion fan|Prandtl-Meyer function]]
 >> $R^{+}=$ [[method of characteristics|Riemann invariant]] for the characteristic line $C^{+}$
 >> $R^{-}=$ [[method of characteristics|Riemann invariant]] for the characteristic line $C^{-}$
 >> $\alpha=$ absolute angle of [[Mach lines and domains of influence|characteristic lines]] in cartesian space
