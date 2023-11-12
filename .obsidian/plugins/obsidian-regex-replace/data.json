@@ -1,6 +1,6 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "$ is",
+  "replaceText": "=$ ",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,

@@ -8,37 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16f1f5af95ba25dd",
+            "id": "14f6f39e11e0f977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a0da05899960878",
+            "id": "2ba24370f0a11022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
-                "mode": "preview",
+                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "14f6f39e11e0f977",
+            "id": "4e0460378c7a4960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
-                "mode": "preview",
+                "file": "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Gibbs' equation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4386d937319a01ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Gibbs' equation.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -49,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
-                "mode": "preview",
-                "source": true
+                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -91,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,17 +227,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "075671ccff8c4b69",
+  "active": "14f6f39e11e0f977",
   "lastOpenFiles": [
-    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/3.4 Croccos theorem",
+    "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Crocco’s theorem.md",
+    "(Year 3) Aerothermodynamics/3.4 Crocco’s theorem for supersonic flow Overview.md",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
+    "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Gibbs' equation.md",
+    "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Gibbs free energy.md",
+    "images/Pasted image 20231112163540.png",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/2 Curvilinear motion/n-t diagram.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
+    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/method of characteristics.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/supersonic nozzle design using method of characteristics.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
     "(Year 3) Aerothermodynamics/Python/rando1.ipynb",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.6/2.6 Laval nozzle overview.md",
     "(Year 3) Aero systems control/Aero Systems Control Overview.md",
@@ -238,20 +257,12 @@
     "(Year 1) Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
     "(Year 1) Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Depletion region.md",
     "(Year 1) Electrical and electronic systems/2 Electronics/1a Semiconductor theory/diode.md",
-    "(Year 1) Electrical and electronic systems/2 Electronics/1a Semiconductor theory/poggers.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/if the slides are good enough I use.md",
     "images/【東方アレンジ Little Princess】 さく - 輝く針の小人族.mp3",
     "images/Touhou Honpougi, T05 - Crow on a Dark Night, Tengu in the Mountains.mp3",
     "images/5186a4bf205dc3590f66b7881386a20008fa1614a258c2d49f53a3fef656a5d6.png",
     "images/Pasted image 20231111110813.png",
     "images/Pasted image 20231111110742.png",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/I need some shitposting.md",
     "images/an_orderly_world.mp4",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/supersonic flow past a tilted flat plate.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/skillz.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/I am moments away from commiting multiple mass genocides my rage is not containable.md",
     "images/Pasted image 20231110004117.png",
     "images/oh no.mp4",
     "images/Pasted image 20231109233236.png",
@@ -260,7 +271,6 @@
     "images/Pasted image 20231109230540.png",
     "images/Pasted image 20231109225908.png",
     "images/uranium2.mp4",
-    "images/Pasted image 20231109223012.png",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.1(1).pdf",
     "(Year 3, my IP) SLAM research/Diagrams drawIO/Firstlol.drawio",
