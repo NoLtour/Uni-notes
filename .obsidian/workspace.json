@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-                "mode": "source",
+                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
-                "mode": "source",
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
+                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/homentropic flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "solid rocket",
+                "query": "throat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/homentropic flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,25 +229,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "14f6f39e11e0f977",
+  "active": "c0a9651bdb52255c",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/Slides/SESA3029_4.3(2).pdf",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
+    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/3.4 Croccos theorem",
     "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Crocco’s theorem.md",
     "(Year 3) Aerothermodynamics/3.4 Crocco’s theorem for supersonic flow Overview.md",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
     "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Gibbs' equation.md",
     "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Gibbs free energy.md",
     "images/Pasted image 20231112163540.png",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/2 Curvilinear motion/n-t diagram.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
     "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/method of characteristics.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
     "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/supersonic nozzle design using method of characteristics.md",
     "(Year 3) Aerothermodynamics/Python/rando1.ipynb",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.6/2.6 Laval nozzle overview.md",
@@ -273,7 +276,6 @@
     "images/uranium2.mp4",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.1(1).pdf",
-    "(Year 3, my IP) SLAM research/Diagrams drawIO/Firstlol.drawio",
-    "(Year 3, my IP) SLAM research/Diagrams drawIO"
+    "(Year 3, my IP) SLAM research/Diagrams drawIO/Firstlol.drawio"
   ]
 }
