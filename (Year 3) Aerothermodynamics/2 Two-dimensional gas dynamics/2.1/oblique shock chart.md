@@ -13,7 +13,7 @@ Lot's of interesting properties of [[oblique shocks]] can be gathered from this 
 - There is generally ($\theta<\theta_{max}$) 2 solutions for any valid [[oblique shock angles|turning angle]]
 - At zero [[oblique shock angles|turning angle]] they have a [[normal shock properties equations|normal shock]] solution as well as some $\beta\neq90\degree$ solution. 
 - All Mach numbers have a [[normal shock properties equations|normal shock]] solution at an appropriate turning angle, which makes sense
-- The maximum turning angle is $45\degree$ with higher Mach numbers tending towards this value
+- The maximum turning angle is $45\degree$ with high Mach numbers tending towards this value
 - There exists a maximum possible turning angle for any mach number $\theta_{max}$
 
 ### Technical stuff

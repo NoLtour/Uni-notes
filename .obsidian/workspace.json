@@ -11,13 +11,28 @@
             "id": "19630243e72c04fb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Given materials/System Navigation 02 - Deadreckoning.pdf"
+                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "124d4691f1e74a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Given materials/System Navigation 02 - Deadreckoning.pdf",
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,53 +156,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "19630243e72c04fb",
+  "active": "124d4691f1e74a4d",
   "lastOpenFiles": [
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/dynamic system response time metrics.md",
-    "(Year 3, my IP) SLAM research/Given materials/System Navigation 03 - Probabilistic Localisation.pdf",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/detached shock.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock equations.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock angles.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shocks.md",
     "(Year 3, my IP) SLAM research/Given materials/System Navigation 02 - Deadreckoning.pdf",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
+    "(Year 3) Aero systems control/7 PID Control/velocity feedback controller.md",
+    "images/Pasted image 20231116224806.png",
+    "images/Pasted image 20231116224800.png",
+    "images/Pasted image 20231116224715.png",
+    "images/Pasted image 20231116224343.png",
+    "(Year 3) Aero systems control/7 PID Control/PID controller.md",
+    "(Year 3) Aero systems control/7 PID Control/derivative controller.md",
+    "images/Pasted image 20231116223048.png",
+    "images/Pasted image 20231116222617.png",
+    "(Year 3) Aero systems control/7 PID Control/integral controller.md",
+    "images/Pasted image 20231116221636.png",
+    "images/Pasted image 20231116221553.png",
+    "images/Pasted image 20231116220721.png",
+    "images/Pasted image 20231116214058.png",
+    "(Year 3) Aero systems control/7 PID Control/proportional controller.md",
+    "(Year 3) Aero systems control/7 PID Control/steady-state error.md",
+    "(Year 3) Aero systems control/7 PID Control/proof not needed bozo.md",
+    "(Year 3) Aero systems control/7 PID Control/general control system.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/final value theorem.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/step function.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+    "(Year 3) Aero systems control/-Slides/DrawIOstuff.drawio",
+    "(Year 3) Aero systems control/7 PID Control",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
+    "(Year 3, my IP) SLAM research/Given materials/System Navigation 03 - Probabilistic Localisation.pdf",
     "(Year 3, my IP) SLAM research/Given materials",
     "(Year 3, my IP) SLAM research/New folder",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/homentropic flow.md",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.3(2).pdf",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/irrotational, homentropic, supersonic flow.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/3.1, 3.2 Method of characteristics Overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/Prandtl–Meyer expansion fan.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/3.4 Croccos theorem",
-    "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Crocco’s theorem.md",
-    "(Year 3) Aerothermodynamics/3.4 Crocco’s theorem for supersonic flow Overview.md",
-    "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Gibbs' equation.md",
-    "(Year 3) Aerothermodynamics/3.4 Croccos theorem/Gibbs free energy.md",
-    "images/Pasted image 20231112163540.png",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/2 Curvilinear motion/n-t diagram.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/2.4 Expansion waves overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
-    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/3.3 Minimum length nozzle Overview.md",
-    "(Year 3) Aerothermodynamics/3.2,3.1 Method of characteristics/method of characteristics.md",
-    "(Year 3) Aerothermodynamics/3.3 Minimum length nozzle/supersonic nozzle design using method of characteristics.md",
     "(Year 3) Aerothermodynamics/Python/rando1.ipynb",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.6/2.6 Laval nozzle overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space system controllability.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/20U Complex numbers/Electrical read order.md",
-    "(Year 1) Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
-    "(Year 1) Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
-    "images/【東方アレンジ Little Princess】 さく - 輝く針の小人族.mp3",
-    "images/Touhou Honpougi, T05 - Crow on a Dark Night, Tengu in the Mountains.mp3",
-    "images/5186a4bf205dc3590f66b7881386a20008fa1614a258c2d49f53a3fef656a5d6.png",
-    "images/Pasted image 20231111110813.png",
-    "images/Pasted image 20231111110742.png",
-    "images/an_orderly_world.mp4",
-    "images/Pasted image 20231110004117.png",
-    "images/Pasted image 20231109233236.png",
-    "images/Pasted image 20231109232716.png",
-    "images/20230701_025451.jpg",
-    "images/Pasted image 20231109230540.png",
-    "images/Pasted image 20231109225908.png"
+    "images/【東方アレンジ Little Princess】 さく - 輝く針の小人族.mp3"
   ]
 }
