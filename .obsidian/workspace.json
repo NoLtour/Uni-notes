@@ -23,16 +23,38 @@
             "id": "124d4691f1e74a4d",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "(Year 3, my IP) SLAM research/Given materials/System Navigation 02 - Deadreckoning.pdf"
+              }
+            }
+          },
+          {
+            "id": "36c04aa64c6e651d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a6ffc01d9b571eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3, my IP) SLAM research/Maths/Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3, my IP) SLAM research/Maths/Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,21 +178,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "124d4691f1e74a4d",
+  "active": "a6ffc01d9b571eac",
   "lastOpenFiles": [
+    "(Year 3, my IP) SLAM research/Given materials/System Navigation 02 - Deadreckoning.pdf",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
+    "(Year 3, my IP) SLAM research/Maths/Control.md",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/1,2 Intro into matrices/square matrix.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/1,2 Intro into matrices/Intro into matrices notes.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/Matrices 1 overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/General org/matrices (maths).md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/10 Composites/matrix (materials).md",
+    "images/Pasted image 20231118140415.png",
+    "(Year 3, my IP) SLAM research/Maths",
+    "(Year 3, my IP) SLAM research/Untitled",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/detached shock.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock equations.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock angles.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shocks.md",
-    "(Year 3, my IP) SLAM research/Given materials/System Navigation 02 - Deadreckoning.pdf",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
     "(Year 3) Aero systems control/7 PID Control/velocity feedback controller.md",
     "images/Pasted image 20231116224806.png",
     "images/Pasted image 20231116224800.png",
@@ -184,25 +215,15 @@
     "images/Pasted image 20231116221636.png",
     "images/Pasted image 20231116221553.png",
     "images/Pasted image 20231116220721.png",
-    "images/Pasted image 20231116214058.png",
     "(Year 3) Aero systems control/7 PID Control/proportional controller.md",
     "(Year 3) Aero systems control/7 PID Control/steady-state error.md",
     "(Year 3) Aero systems control/7 PID Control/proof not needed bozo.md",
-    "(Year 3) Aero systems control/7 PID Control/general control system.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/final value theorem.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/step function.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
     "(Year 3) Aero systems control/-Slides/DrawIOstuff.drawio",
     "(Year 3) Aero systems control/7 PID Control",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
     "(Year 3, my IP) SLAM research/Given materials/System Navigation 03 - Probabilistic Localisation.pdf",
     "(Year 3, my IP) SLAM research/Given materials",
     "(Year 3, my IP) SLAM research/New folder",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.3(2).pdf",
-    "(Year 3) Aerothermodynamics/3.4 Croccos theorem",
-    "(Year 3) Aerothermodynamics/Python/rando1.ipynb",
-    "images/【東方アレンジ Little Princess】 さく - 輝く針の小人族.mp3"
+    "(Year 3) Aerothermodynamics/3.4 Croccos theorem"
   ]
 }
