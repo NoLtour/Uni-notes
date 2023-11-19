@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c809114775afe352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,21 +168,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "124d4691f1e74a4d",
+  "active": "c809114775afe352",
   "lastOpenFiles": [
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.5.pdf",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/detached shock.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock equations.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock angles.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shocks.md",
     "(Year 3, my IP) SLAM research/Given materials/System Navigation 02 - Deadreckoning.pdf",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
     "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
     "(Year 3) Aero systems control/7 PID Control/velocity feedback controller.md",
     "images/Pasted image 20231116224806.png",
@@ -202,7 +214,6 @@
     "(Year 3, my IP) SLAM research/New folder",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.3(2).pdf",
     "(Year 3) Aerothermodynamics/3.4 Croccos theorem",
-    "(Year 3) Aerothermodynamics/Python/rando1.ipynb",
-    "images/【東方アレンジ Little Princess】 さく - 輝く針の小人族.mp3"
+    "(Year 3) Aerothermodynamics/Python/rando1.ipynb"
   ]
 }
