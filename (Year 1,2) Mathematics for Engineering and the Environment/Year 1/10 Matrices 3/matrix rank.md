@@ -7,6 +7,9 @@ tags: ["Question","QFormat3"]
 ## Matrix rank
 Note that everything on this page only applies to [[square matrix|square matrices]].
 
+ 
+
+
 There are some funkey definitions but just go with: "the number of rows that contain things other than zero once the matrix is in [[matrix in echelon form]]"
 
 This is a rank 4 matrix:

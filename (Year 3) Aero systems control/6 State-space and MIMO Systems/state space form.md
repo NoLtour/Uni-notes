@@ -25,7 +25,7 @@ The bit more important than that block diagram is the equations, these are const
 
 ### Examples
 
-#### Simple lag
+#### Simple lag (REDO - INACURATE, BASE OFF CW)
 
 Take the case where the entire system [[transfer function]] can be written as:
 $$\begin{align*}
@@ -64,7 +64,7 @@ In this case the state space model isn't unique. The simplest choice is $x_{1}=w
 $$\begin{align*}
 x_{1} &=  w\\
 x_{2} &= \dot{x}_{1}=\dot{w}\\
-x_{3} &=\dot{x}_{2}= \ddot{x}_{1}=\ddot{w}\\
+x_{3} &=\dot{x}_{2}= \ddot{x}_{1}=\ddot{w} \text{!!!! WRONG !!!!}\\
 x_{4} &= \dot{x}_{3}= \ddot{x}_{2}=\dddot{x}_{1}=\dddot{w}\\
 \end{align*}$$
 
