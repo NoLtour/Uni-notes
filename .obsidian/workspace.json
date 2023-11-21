@@ -13,50 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "124d4691f1e74a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/Oppenheim radiation network.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c809114775afe352",
+            "id": "7732ca16d77bc7b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "(Year 3) Aero systems control/5 Stability/Routh-Hurwitz stability criterion.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2b1e5fa65477caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/Control.md",
-                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/Control.md",
+                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/Oppenheim radiation network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,35 +155,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a2b1e5fa65477caa",
+  "active": "19630243e72c04fb",
   "lastOpenFiles": [
-    "(Year 3) Aerothermodynamics/Slides/SESA3029_4.6(2).pdf",
     "(Year 3) Aero systems control/5 Stability/Routh-Hurwitz stability criterion.md",
     "(Year 3) Aero systems control/5 Stability/Aero control Stability Overview.md",
     "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/Oppenheim radiation network.md",
+    "images/Pasted image 20231120225145.png",
+    "images/Pasted image 20231120224806.png",
+    "images/Pasted image 20231120223718.png",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/view factor and radiation exchange.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/view factor.md",
+    "images/Pasted image 20231120221418.png",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
+    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3, my IP) SLAM research/Maths/Control.md",
+    "(Year 3) Aerothermodynamics/Slides/SESA3029_4.6(2).pdf",
     "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
     "(Year 3) Aero systems control/7 PID Control/steady-state error.md",
-    "(Year 3, my IP) SLAM research/Maths/Control.md",
     "(Year 3, my IP) SLAM research/1 Initial research/Resources.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
     "(Year 3) Aero systems control/7 PID Control/derivative controller.md",
     "(Year 3) Aero systems control/7 PID Control/general control system.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/8 Matrices 2/using elementary row operations to get the upper-triangular form.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/matrix rank.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/matrix in echelon form.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.5.pdf",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/2.2 Oblique shock charts overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/detached shock.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.2/intro to engine intake design in supersonic flow.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock chart.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock equations.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/oblique shock angles.md",
     "(Year 3, my IP) SLAM research/Given materials/System Navigation 02 - Deadreckoning.pdf",
     "images/Pasted image 20231116224806.png",
     "images/Pasted image 20231116224800.png",
@@ -216,17 +195,12 @@
     "images/Pasted image 20231116224343.png",
     "images/Pasted image 20231116223048.png",
     "images/Pasted image 20231116222617.png",
-    "images/Pasted image 20231116221636.png",
-    "images/Pasted image 20231116221553.png",
-    "images/Pasted image 20231116220721.png",
-    "images/Pasted image 20231116214058.png",
     "(Year 3) Aero systems control/-Slides/DrawIOstuff.drawio",
     "(Year 3) Aero systems control/7 PID Control",
     "(Year 3, my IP) SLAM research/Given materials/System Navigation 03 - Probabilistic Localisation.pdf",
     "(Year 3, my IP) SLAM research/Given materials",
     "(Year 3, my IP) SLAM research/New folder",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.3(2).pdf",
-    "(Year 3) Aerothermodynamics/3.4 Croccos theorem",
-    "(Year 3) Aerothermodynamics/Python/rando1.ipynb"
+    "(Year 3) Aerothermodynamics/3.4 Croccos theorem"
   ]
 }
