@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["reciprocity rule"]
 tags: []
 ---
 
