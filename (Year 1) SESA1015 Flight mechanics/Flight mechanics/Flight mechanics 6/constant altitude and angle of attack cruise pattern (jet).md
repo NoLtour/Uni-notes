@@ -45,7 +45,7 @@ $$\begin{align*}
 \end{align*}$$
 
 So to maxamise $R$ we must find when $\frac{\sqrt{C_L}}{C_D}$ is at a maximum.
-Hence we will need equations for the [[Drag coefficient]] 
+Hence we will need equations for the [[drag coefficient]] 
 
 $$\begin{align*}
    &   &  C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\

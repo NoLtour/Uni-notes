@@ -23,7 +23,7 @@ $$\begin{align*}
    \frac{L}{D} &= \frac{C_L}{D_D}\\
 &= \dfrac{C_L}{C_{D0} + \dfrac{KC_L^{2}}{\pi A} } 
 \end{align*}$$
-hence $\frac{C_L}{C_{D0} + \frac{KC_L^{2}}{\pi A} }$ will also be constant. ([[Drag coefficient|where we got the equation from]])
+hence $\frac{C_L}{C_{D0} + \frac{KC_L^{2}}{\pi A} }$ will also be constant. ([[drag coefficient|where we got the equation from]])
 
 Now since we know that $L/D$ is constant and that $V$ is constant we can use the [[Breguet range equation (jets)]]: $R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$
 

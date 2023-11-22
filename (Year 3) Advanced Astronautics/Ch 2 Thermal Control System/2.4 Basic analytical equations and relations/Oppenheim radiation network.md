@@ -8,6 +8,10 @@ tags: []
 
 
 ### Example
+![[Pasted image 20231121155649.png]]
+![[Pasted image 20231121155633.png]]
+
+
 
 Two flat disks of identical dimensions exist in a otherwise empty vacuum. 
 
@@ -41,6 +45,7 @@ The "resistance"
 
 $$\begin{align*}
 R_{1} &= \frac{\varepsilon_{IR}}{1-\varepsilon_{IR}} A_{A} & R_{2} &= \frac{\varepsilon_{S}}{1-\varepsilon_{S}} A_{S} & R_{3} &= \frac{\varepsilon_{IR}}{1-\varepsilon_{IR}} A_{B}\\
+&=  &&& &= 
 \end{align*}$$
 
 others:
@@ -53,20 +58,22 @@ Then we can create set's of simultaneous equations for nodes:
 $$\begin{align*} 
 &\begin{aligned} 
 \sum\limits \dot{Q}_{in} - \sum\limits \dot{Q}_{out}&= 0\\\\
-\dot{Q}_{A} + R_{1} J_{A} - R_{1} T_{A} &= 0 \\
-T_{A} R_{1} + R_{6} J_{B} + R_{4} J_{S} - J_{A}(R_{1} + R_{6} + R_{4}) &= 0 \\
-T_{B} R_{3} + R_{6} J_{A} + R_{5} J_{S} - J_{B}(R_{6} + R_{5} + R_{3}) &= 0 \\
-J_{B} R_{3} - T_{B} R_{3} &= 0 \\
-\end{aligned}&\to&&
-&\begin{aligned} 
-\\\\
-\dot{Q}_{A}   + J_{A} R_{1} \:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:  &= T_{A} R_{1} \\
- - J_{A}(R_{1} + R_{6} + R_{4}) + J_{B} R_{6} \:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:&= -T_{A} R_{1} \\
-T_{B} R_{3}\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\: + J_{A} R_{6} \: - J_{B}(R_{6} + R_{5} + R_{3}) &= 0 \\
-- T_{B} R_{3}\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:+J_{B} R_{3}\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:  &= 0 \\
-\end{aligned}\\
-\begin{array}{ccc} 
-&\dot{Q}_{A} &- T_{A} R_{1} &+ J_{A} R_{1} &= 0 \\
+\dot{Q}_{A} + R_{1} J_{A} - R_{1} T_{A}^{4} \sigma &= 0 \\
+T_{A}^{4} \sigma R_{1} + R_{6} J_{B} + R_{4} J_{S} - J_{A}(R_{1} + R_{6} + R_{4}) &= 0 \\
+T_{B}^{4} \sigma R_{3} + R_{6} J_{A} + R_{5} J_{S} - J_{B}(R_{6} + R_{5} + R_{3}) &= 0 \\
+J_{B} R_{3} - T_{B}^{4} \sigma R_{3} &= 0 \\
+\end{aligned}&\to&& 
+\begin{array}{ccc} \\\\\\
+&\dot{Q}_{A} &+ J_{A} R_{1}&&& &= T_{A}^{4} \sigma R_{1} \\
+ &&- J_{A}(R_{1} + R_{6} + R_{4}) &&+ J_{B} R_{6} &&= -T_{A}^{4} \sigma R_{1} \\
+&& J_{A} R_{6} &+T_{B}^{4} \sigma R_{3}  &- J_{B}(R_{6} &+ R_{5} + R_{3}) &= 0 \\
+&&&- T_{B}^{4} \sigma R_{3} &+J_{B} R_{3} & &= 0
 \end{array}
 \end{align*}$$
 
+These can then be easily solved using matrices or calculator functions:
+
+Error not getting right ans https://docs.google.com/spreadsheets/d/1k1AZ5Wgv3xKkt-p3K0CtuVLnrkaoljeTRJmpkcM5Fsg/edit#gid=0
+
+
+![[Pasted image 20231121155517.png]]

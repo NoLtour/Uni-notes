@@ -16,7 +16,7 @@ As you can see $L/D$ will cancel everything out so lift to drag ratio:
 > $$ (L/D) = \frac{L}{D} = \frac{C_L}{C_D} $$ 
 >> where:
 >> $L/D=$ LD ratio 
->> $C_D=$ [[Drag coefficient]]
+>> $C_D=$ [[drag coefficient]]
 >> $C_L=$ [[lift coefficient]]
 
 > $$ (L / D) = \frac{C_L}{C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}}= \frac{\pi A C_{L}}{\pi A C_{Do} + K(C_L)^{2}} $$ 

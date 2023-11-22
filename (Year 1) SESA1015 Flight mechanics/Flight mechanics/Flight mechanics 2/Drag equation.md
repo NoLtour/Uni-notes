@@ -10,11 +10,11 @@ tags: ["Question","QFormat3"]
 >> $D =$ Drag
 >> $\rho =$ density of air
 >> $V =$  Velocity
->> $C_D=$ [[Drag coefficient]]
+>> $C_D=$ [[drag coefficient]]
 >> $S=$ [[refrence wing area]]
 
 ^33fc8d
 
 To get the drag coeffiecient:
 
-![[Drag coefficient]]
+![[drag coefficient]]

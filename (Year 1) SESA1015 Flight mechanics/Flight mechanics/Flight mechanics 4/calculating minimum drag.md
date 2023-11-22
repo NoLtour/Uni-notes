@@ -13,7 +13,7 @@ We know that drag can be found using:
 ![[Drag equation#^33fc8d]]
 
 Subbing in for $C_D$ with:
-[[Drag coefficient#^e6ae2f]]
+[[drag coefficient#^e6ae2f]]
 
 Then subbing in $C_{Di}$ with:
 [[induced drag coefficient#^4d0b00]]
