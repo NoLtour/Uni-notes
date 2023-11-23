@@ -27,5 +27,6 @@ Module 3:
 3) [[Crocco’s theorem|3.4 Crocco’s theorem for supersonic flow Overview]]
 
 Module 4:
-1) 
+1) Not doing notes, just proof of [[euler equations for inviscid and incompressible flow|euler equations]] but for supersonic flow (has more terms)
+2) 
 

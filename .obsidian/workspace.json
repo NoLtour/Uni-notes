@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 3 EDL/ballistic entry velocity equation.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3aae7e7591a22f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 3 EDL/ballistic entry velocity equation.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +156,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1de04b209f61e4b7",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
+    "(Year 3) Aero systems control/-Slides/SESA3030 Topic 8 Notes.pdf",
+    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 3 EDL/ballistic entry velocity equation.md",
     "(Year 3) Advanced Astronautics/Ch 3 EDL/non-thrusting entry terms.md",
     "(Year 3) Advanced Astronautics/Ch 3 EDL/challenge of designing for re-entry.md",
     "images/your_mother.mp4",
@@ -161,7 +178,6 @@
     "(Year 3, my IP) SLAM research/Given materials/System Design 02 - Models and Ocean Impacts.pdf",
     "(Year 3, my IP) SLAM research/Given materials/System Design 01 - Introduction Motivation and Types.pdf",
     "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/unless the mf wants to control space weather.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
     "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/in a manor quite similar to the size of the mother who is morbidly obese.md",
     "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi optimisation analysis.md",
     "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/experiment design for the Taguchi method.md",
@@ -181,12 +197,10 @@
     "(Year 3) Advanced Astronautics/Ch 3 EDL/lifting entry paths.md",
     "(Year 3) Advanced Astronautics/Ch 3 EDL/lifting entry velocity equations.md",
     "(Year 3) Advanced Astronautics/Ch 3 EDL/lifting entry cross range.md",
-    "(Year 3) Advanced Astronautics/Ch 3 EDL/ballistic entry velocity equation.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/9 Integration 2/single-page-integral-table.pdf",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/9 Integration 2/Integration 2 overview.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/General org/integration.md",
     "(Year 3) Advanced Astronautics/Ch 3 EDL/lifting re-entry and ballistic re-entry.md",
-    "(Year 3) Advanced Astronautics/Ch 3 EDL/equations of motion for re-entry.md",
     "(Year 3, my IP) SLAM research/Given materials/System Navigation 03 - Probabilistic Localisation.pdf",
     "(Year 3) Advanced Astronautics/Slideees/Chapter 4 - Week 8 - Copy.pdf",
     "(Year 3) Aerothermodynamics/Slides/SESA3029_4.6(2).pdf"
