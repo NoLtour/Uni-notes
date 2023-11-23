@@ -5,13 +5,9 @@ tags: []
 
 ## Oppenheim radiation network
 
-
+It's best explained through an example so here you go.
 
 ### Example
-![[Pasted image 20231121155649.png]]
-![[Pasted image 20231121155633.png]]
-
-
 
 Two flat disks of identical dimensions exist in a otherwise empty vacuum. 
 
@@ -45,7 +41,7 @@ The "resistance"
 
 $$\begin{align*}
 R_{1} &= \frac{\varepsilon_{IR}}{1-\varepsilon_{IR}} A_{A} & R_{2} &= \frac{\varepsilon_{S}}{1-\varepsilon_{S}} A_{S} & R_{3} &= \frac{\varepsilon_{IR}}{1-\varepsilon_{IR}} A_{B}\\
-&=  &&& &= 
+&= 0.754 &&& &= 0.754
 \end{align*}$$
 
 others:
@@ -72,6 +68,13 @@ J_{B} R_{3} - T_{B}^{4} \sigma R_{3} &= 0 \\
 \end{align*}$$
 
 These can then be easily solved using matrices or calculator functions:
+
+$$\begin{align*}
+\dot{Q}_{A} &= 576\\
+{J}_{A} &= 1050\\
+{T}_{B}^{4} &= 1.33\times10^{10} & T_{B}&= 340\\
+{J}_{B} &= 753\\
+\end{align*}$$
 
 Error not getting right ans https://docs.google.com/spreadsheets/d/1k1AZ5Wgv3xKkt-p3K0CtuVLnrkaoljeTRJmpkcM5Fsg/edit#gid=0
 
