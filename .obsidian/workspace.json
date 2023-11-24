@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aae7e7591a22f2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/4.4 Prandtl-Glauert transformation Overview.md",
-                "mode": "source",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,18 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/Karman-Tsien correction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d77ada81f2e86492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,8 +179,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d77ada81f2e86492",
+  "active": "1de04b209f61e4b7",
   "lastOpenFiles": [
+    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/experiment design for the Taguchi method.md",
+    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/Karman-Tsien correction.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/4.6 Optimum shape of aerofoils for supersonic flight/optimum shape of aerofoils for supersonic flight.md",
     "images/Pasted image 20231124004448.png",
     "images/Pasted image 20231124000215.png",
@@ -215,7 +194,6 @@
     "images/Pasted image 20231123233716.png",
     "images/Pasted image 20231123233708.png",
     "images/Pasted image 20231123233635.png",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/4.6 Optimum shape of aerofoils for supersonic flight",
     "images/Pasted image 20231123232411.png",
     "(Year 3) Aerothermodynamics/4.5/4.5 Ackeret theory for supersonic aerofoils Overview.md",
@@ -224,7 +202,6 @@
     "images/Pasted image 20231123230910.png",
     "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/modelling lift and drag across Mach numbers.md",
     "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/Pandtl-Glauert theory.md",
-    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/Karman-Tsien correction.md",
     "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/Prandtl-Glauert transformation.md",
     "(Year 3) Aero systems control/5 Stability/Routh-Hurwitz stability criterion.md",
     "(Year 3) Aero systems control/Aero Systems Control Overview.md",
@@ -245,7 +222,6 @@
     "Templates/Maths equation highlighted.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/3,4 Basic operations of matrices/matrix multiplication.md",
     "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/4.2 Effect of Mach number on airfoil flow Overview.md",
-    "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/wave drag reduction strategies.md",
     "(Year 3) Aero systems control/-Slides/SESA3030 Topic 8 Notes.pdf",
     "images/your_mother.mp4",
     "images/RDT_20231113_140559.mp4",
