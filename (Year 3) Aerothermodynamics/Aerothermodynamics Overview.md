@@ -28,5 +28,9 @@ Module 3:
 
 Module 4:
 1) Not doing notes, just proof of [[euler equations for inviscid and incompressible flow|euler equations]] but for supersonic flow (has more terms)
-2) 
+2) [[4.2 Effect of Mach number on airfoil flow Overview]]
+3) [[linearized compressible flow|4.3 Potential flow equations for compressible flow Overview]]
+4) [[4.4 Prandtl-Glauert transformation Overview]]
+5) [[Ackeret theory|4.5 Ackeret theory for supersonic aerofoils Overview]]
+6) [[optimum shape of aerofoils for supersonic flight|4.6 Optimum shape of aerofoils for supersonic flight]]
 

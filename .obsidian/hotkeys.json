@@ -122,5 +122,13 @@
       ],
       "key": "D"
     }
+  ],
+  "templater-obsidian:Templates/latex matrix.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }

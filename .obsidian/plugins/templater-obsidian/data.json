@@ -26,9 +26,11 @@
     "Templates/Specific Subject.md",
     "Templates/SESA Simple def.md",
     "Templates/flashcard template.md",
-    "Templates/jupyter basic plot.md"
+    "Templates/jupyter basic plot.md",
+    "Templates/latex matrix.md"
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "enable_ribbon_icon": true
 }
