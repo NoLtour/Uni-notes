@@ -25,37 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/Karman-Tsien correction.md",
+                "file": "(Year 3) Advanced Astronautics/4.1 Key orbital concepts Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "346ddfa73ce67223",
+            "id": "90000e1d9c5815e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
+                "file": "(Year 3) Advanced Astronautics/4.1 Key orbital concepts Overview.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "9acde9cc6400e9bc",
+            "id": "a163a1c4be0bafb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
+                "file": "(Year 3) Advanced Astronautics/4.1 Key orbital concepts Overview.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c48878064ab0e230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Advanced Astronautics/4.1 Key orbital concepts Overview.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+                "file": "(Year 3) Advanced Astronautics/4.1 Key orbital concepts Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,53 +192,52 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1de04b209f61e4b7",
+  "active": "c48878064ab0e230",
   "lastOpenFiles": [
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/experiment design for the Taguchi method.md",
+    "(Year 3) Advanced Astronautics/spherical triangles.md",
+    "images/Pasted image 20231127200856.png",
+    "(Year 3) Advanced Astronautics/Euclidian space.md",
+    "(Year 3) Advanced Astronautics/this asterisk scares me.md",
+    "images/503631aa1612151b.mp4",
+    "images/image-asset-3279562769-1.jpeg",
+    "(Year 3) Advanced Astronautics/4.1 Key orbital concepts Overview.md",
+    "(Year 3) Advanced Astronautics/Newtons second law in non inertial frame.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/1 Particle Dynamics – Linear motion/2 Newton's laws of motion/inertial frame of reference.md",
+    "(Year 3) Advanced Astronautics/non-inertial frame.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Dynamics 1/1 Particle Dynamics – Linear motion/2 Newton's laws of motion/lmao idk.md",
+    "images/output.mp4",
+    "(Year 3) Advanced Astronautics/quadrant disambiguation.md",
+    "images/Pasted image 20231127190912.png",
+    "(Year 3) Advanced Astronautics/vector identities to memorise for Adv astro.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/1U Vectors 1/cross product (vectors).md",
+    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
     "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/Karman-Tsien correction.md",
+    "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
+    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/4.4 Prandtl-Glauert transformation Overview.md",
+    "(Year 3) Advanced Astronautics/Slideees/Chapter 4 - Week 9.pdf",
+    "(Year 3) Aerothermodynamics/Slides/SESA3029_5.2(2).pdf",
+    "(Year 3) Advanced Astronautics/Slideees/Chapter 4 - 03 Two Body Problem.pdf",
+    "(Year 3) Advanced Astronautics/Slideees/Chapter 4 - 02 Spherical Trigonometry.pdf",
+    "(Year 3) Advanced Astronautics/Slideees/Chapter 4 - 01 Mathematical Concepts.pdf",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/pressure coefficient.md",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/4.6 Optimum shape of aerofoils for supersonic flight/optimum shape of aerofoils for supersonic flight.md",
+    "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/4.2 Effect of Mach number on airfoil flow Overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/2.1 Oblique shocks overview.md",
+    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/experiment design for the Taguchi method.md",
     "images/Pasted image 20231124004448.png",
     "images/Pasted image 20231124000215.png",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.1/Mach cone.md",
-    "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
     "(Year 3) Aerothermodynamics/4.3 Potential flow equations for compressible flow/linearized compressible flow.md",
     "images/Pasted image 20231123233716.png",
     "images/Pasted image 20231123233708.png",
     "images/Pasted image 20231123233635.png",
     "(Year 3) Aerothermodynamics/4.6 Optimum shape of aerofoils for supersonic flight",
     "images/Pasted image 20231123232411.png",
-    "(Year 3) Aerothermodynamics/4.5/4.5 Ackeret theory for supersonic aerofoils Overview.md",
     "images/Pasted image 20231123232312.png",
-    "(Year 3) Aerothermodynamics/4.5/somethin.md",
-    "images/Pasted image 20231123230910.png",
-    "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/modelling lift and drag across Mach numbers.md",
-    "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/Pandtl-Glauert theory.md",
-    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/Prandtl-Glauert transformation.md",
-    "(Year 3) Aero systems control/5 Stability/Routh-Hurwitz stability criterion.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
     "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation",
-    "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils",
-    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/4.4 Prandtl-Glauert transformation Overview.md",
-    "images/Pasted image 20231123220737.png",
-    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/Critical Mach number pressure.md",
-    "images/Pasted image 20231123220342.png",
-    "(Year 1,2) Thermodynamics/Propulsion (year 2)/3.2 Supersonic shite/supersonic flow properties equations.md",
-    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/pressure coefficient.md",
-    "(Year 3) Aerothermodynamics/1 Mostly recap/isentropic flow equations.md",
-    "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow",
-    "(Year 3) Aerothermodynamics/4.3 Potential flow equations for compressible flow",
-    "(Year 3) Aerothermodynamics/4.3 Potential flow equations for compressible flow Overview.md",
-    "Templates/latex matrix.md",
-    "Templates/Maths equation highlighted.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/3,4 Basic operations of matrices/matrix multiplication.md",
-    "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/4.2 Effect of Mach number on airfoil flow Overview.md",
-    "(Year 3) Aero systems control/-Slides/SESA3030 Topic 8 Notes.pdf",
-    "images/your_mother.mp4",
-    "images/RDT_20231113_140559.mp4",
-    "(Year 3, my IP) SLAM research/Given materials/System Navigation 01 - Sensors.pdf",
-    "(Year 3, my IP) SLAM research/Given materials/System Design 02 - Models and Ocean Impacts.pdf"
+    "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils"
   ]
 }

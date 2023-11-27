@@ -9,7 +9,7 @@ tags: ["NotesPage"]
 - [[Newtons first law]]
 - [[Newtons second law]]
 - [[Newtons third law]]
-- [[inertial frame of refrence]]
+- [[inertial frame of reference]]
 
 ## Expanded articles
 
@@ -19,4 +19,4 @@ tags: ["NotesPage"]
 
 ![[Newtons third law]]
 
-![[inertial frame of refrence]]
+![[inertial frame of reference]]
