@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/geostationary coverage.md",
+                "file": "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 1 Intro.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/geostationary coverage.md",
+                "file": "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 1 Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +158,17 @@
   },
   "active": "1172c6e442f42663",
   "lastOpenFiles": [
+    "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 2 Particle filter.md",
+    "(Year 3, my IP) SLAM research/1 Initial research/Autonomous navigation/EP 1 Intro.md",
+    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series EP 3 notes.md",
+    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series EP6.md",
+    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series Ep 5.md",
+    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series Ep 4.md",
+    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series EP 1 notes.md",
+    "(Year 3, my IP) SLAM research/1 Initial research/Sensor fusion/Matlab series EP 2 notes.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/geostationary coverage.md",
     "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/calculating orbital coverage.md",
     "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/Spacecraft orbit design overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/geostationary coverage.md",
     "images/Pasted image 20231201230646.png",
     "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/obit selection.md",
     "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/orbit communication latency.md",
@@ -188,15 +196,8 @@
     "(Year 3) Aero systems control/5 Stability/Routh-Hurwitz stability criterion.md",
     "(Year 3) Aero systems control/5 Stability/Aero control Stability Overview.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
-    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
-    "(Year 3) Aero systems control/8 Root Locus/clean your fucking room.md",
     "images/signal-2022-08-28-17-29-27-200.mp4",
     "(Year 3) Aero systems control/8 Root Locus",
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/experiment design for the Taguchi method.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/4.6 Optimum shape of aerofoils for supersonic flight",
     "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation",
     "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils",
