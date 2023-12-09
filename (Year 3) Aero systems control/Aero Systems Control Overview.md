@@ -33,4 +33,5 @@ Good control is essential for basically everything, so in this module we learn h
 6) [[State-space and MIMO Systems Overview]]
 7) [[PID control Overview]]
 8) [[Root Locus Overview]] UNFINISHED
+9) [[Frequency Response Overview]]
 
