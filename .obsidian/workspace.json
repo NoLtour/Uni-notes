@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/linear system sinusoidal response.md",
+                "file": "(Year 3) Aero systems control/9 Frequency Response/linear system sinusoidal response.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/Frequency Response Overview.md",
+                "file": "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/simple bode plots.md",
+                "file": "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aero systems control/simple bode plots.md",
+                "file": "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,19 +168,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c1d685c080d90f9f",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
-    "(Year 3) Aero systems control/much more of an approximate sketch though.md",
+    "(Year 3) Aero systems control/9 Frequency Response",
+    "(Year 3) Aero systems control/9 Frequency Response/much more of an approximate sketch though.md",
     "images/rapidsave.com_holy_shit-z9sab3s141vb1.mp4",
-    "(Year 3) Aero systems control/simple bode plots.md",
-    "(Year 3) Aero systems control/sinusoidal loop gain function factors.md",
+    "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
+    "(Year 3) Aero systems control/9 Frequency Response/sinusoidal loop gain function factors.md",
     "images/Pasted image 20231208200027.png",
-    "(Year 3) Aero systems control/Frequency Response Overview.md",
-    "(Year 3) Aero systems control/it is not even on the slides just a comment in lectures.md",
+    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+    "(Year 3) Aero systems control/9 Frequency Response/it is not even on the slides just a comment in lectures.md",
     "images/RDT_20230902_211313.mp4",
-    "(Year 3) Aero systems control/linear system sinusoidal response.md",
+    "(Year 3) Aero systems control/9 Frequency Response/linear system sinusoidal response.md",
     "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/it is quite useful.md",
+    "(Year 3) Aero systems control/9 Frequency Response/it is quite useful.md",
     "images/362892424_205698512429993_3335877680741987066_n.png",
     "images/Pasted image 20231208181531.png",
     "(Year 1) Electrical and electronic systems/4 AC circuits/1 AC waveform/phasor representation.md",

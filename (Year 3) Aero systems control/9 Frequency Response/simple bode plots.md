@@ -42,4 +42,8 @@ Then consider the plot of phase change with frequency, it of course is just zero
 
 #### Integrators $\left(F=\frac{1}{(j\omega)^{n}}\right)$
 
-
+$$\begin{align*}
+&&F &= \frac{1}{(j\omega)^{n}} \\
+M &= 20\log_{10}|F| & &\to & M &= 20\log_{10}\left| \frac{1}{(j\omega)^{n}} \right|\\
+\phi &= \angle F& &\to & \phi &= 20\log_{10}|F|\\
+\end{align*}$$
