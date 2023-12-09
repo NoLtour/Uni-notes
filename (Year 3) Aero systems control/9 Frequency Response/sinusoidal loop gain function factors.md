@@ -5,6 +5,8 @@ aliases:
   - quadratic lead
   - quadratic lag
   - loop gain function
+  - integrator
+  - differentiator
 tags:
 ---
 
@@ -19,6 +21,8 @@ The general form the sinusoidal loop gain function is defined:
 >> where:
 >> $G_{c}GH =$ loop gain function
 >> $K=$ [[linear system sinusoidal response|sinusoidal gain]]
+>> $\frac{1}{(j\omega)^{n}}=$ a integrator
+>> $(j\omega)^{n}=$ a differentiator
 >> $S_{i}=$ a simple lead
 >> $\frac{1}{S_{i+k}}=$ a simple lag
 >> $T_{i}=$ the simple lead/lags time constant
