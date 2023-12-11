@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b78fcadfc99aad4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07bb05a13545fc98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "003c0493c21f4bd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/laminar-turbulent thermal boundary layer example.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c0a2a064c3b74afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) Thermodynamics/Thermofluids (year 1)/32 Introduction to viscous flow/Reynolds number.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2a0f4aef2dfa627d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/parallel and series 1D heat conduction.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "acfae3054cfa7662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
-                "mode": "source",
+                "file": "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/laminar-turbulent thermal boundary layer example.md",
+                "file": "(Year 3) Aero systems control/Aero Systems Control Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,18 +143,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "003c0493c21f4bd3",
+  "active": "acfae3054cfa7662",
   "lastOpenFiles": [
-    "(Year 3) Aerothermodynamics/5.3 Turbulent flow, use of Reynolds analogy Overview.md",
+    "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
     "(Year 3) Aerothermodynamics/laminar-turbulent thermal boundary layer example.md",
+    "(Year 3) Aerothermodynamics/5.3 Turbulent flow, use of Reynolds analogy Overview.md",
     "images/Pasted image 20231211014550.png",
     "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/convection heat transfer coefficient.md",
-    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/5.3",
     "(Year 1,2) Thermodynamics/Thermofluids (year 1)/32 Introduction to viscous flow/Reynolds number.md",
     "images/Pasted image 20231210173302.png",
-    "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
     "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/Prandtl number.md",
     "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/the cheat code for not having to understand something.md",
     "images/downloadfile-1.bin_21.mp4",
