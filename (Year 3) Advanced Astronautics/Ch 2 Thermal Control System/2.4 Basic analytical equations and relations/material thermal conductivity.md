@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["thermal conductivity"]
 tags: []
 ---
 

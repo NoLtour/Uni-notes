@@ -13,81 +13,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/sinusoidal loop gain function factors.md",
+                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bcf92c9c90e01733",
+            "id": "07bb05a13545fc98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1d685c080d90f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/Nyquist stability criterion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08382ce10ad0802f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "ae2de7cf353833ae",
+            "id": "003c0493c21f4bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/gain and phase margin.md",
+                "file": "(Year 3) Aerothermodynamics/laminar-turbulent thermal boundary layer example.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "a4e26e7cb10a54d3",
+            "id": "c0a2a064c3b74afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) Thermodynamics/Thermofluids (year 1)/32 Introduction to viscous flow/Reynolds number.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2a0f4aef2dfa627d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/parallel and series 1D heat conduction.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "acfae3054cfa7662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2893ce1bfde16ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/gain and phase margin.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -166,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/Nyquist stability criterion.md",
+                "file": "(Year 3) Aerothermodynamics/laminar-turbulent thermal boundary layer example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,52 +204,52 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c1d685c080d90f9f",
+  "active": "003c0493c21f4bd3",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/5.3 Turbulent flow, use of Reynolds analogy Overview.md",
+    "(Year 3) Aerothermodynamics/laminar-turbulent thermal boundary layer example.md",
+    "images/Pasted image 20231211014550.png",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/convection heat transfer coefficient.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/5.3",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/32 Introduction to viscous flow/Reynolds number.md",
+    "images/Pasted image 20231210173302.png",
+    "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/Prandtl number.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/the cheat code for not having to understand something.md",
+    "images/downloadfile-1.bin_21.mp4",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/thermal boundary layer.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/fundamental heat conduction (thermodynamics).md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/parallel and series 1D heat conduction.md",
+    "images/Pasted image 20231210165724.png",
+    "images/Pasted image 20231210165642.png",
+    "images/Pasted image 20231210165019.png",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/forced convection.md",
+    "images/Pasted image 20231210163551.png",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/natural convection.md",
+    "images/Pasted image 20231210163440.png",
+    "images/Pasted image 20231210140211.png",
+    "images/Pasted image 20231210135735.png",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/material thermal conductivity.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/heat transfer rate.md",
+    "images/Pasted image 20231210134424.png",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer",
+    "(Year 3) Aero systems control/9 Frequency Response/sinusoidal loop gain function factors.md",
     "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+    "(Year 3) Aero systems control/9 Frequency Response/Nyquist stability criterion.md",
     "(Year 3) Aero systems control/9 Frequency Response/estimating gain and phase margin.md",
     "(Year 3) Aero systems control/9 Frequency Response/complex bode plots.md",
-    "images/Pasted image 20231209212531.png",
-    "(Year 3) Aero systems control/9 Frequency Response/Nyquist stability criterion.md",
     "(Year 3) Aero systems control/9 Frequency Response/gain and phase margin.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space form.md",
-    "images/Pasted image 20231209211321.png",
-    "images/Pasted image 20231209210025.png",
     "(Year 3) Aero systems control/9 Frequency Response/what do you mean I am being a twat.md",
     "images/dimension-no-discord-2 1.mp4",
     "(Year 3) Aero systems control/9 Frequency Response/Nyquist plots.md",
-    "(Year 3) Aero systems control/9 Frequency Response/because my format is a universal standard.md",
     "images/g2U8VQg3e5M5umhX 1.mp4",
-    "images/Pasted image 20231209204435.png",
-    "images/Pasted image 20231209195551.png",
-    "images/Pasted image 20231209195238.png",
-    "images/Pasted image 20231209194335.png",
-    "images/Pasted image 20231209194018.png",
-    "images/Pasted image 20231209193613.png",
-    "(Year 3) Aero systems control/9 Frequency Response/scientific term for pain in the ass.md",
     "images/[東方] SHO- Judgement of Dolls ~ Lone Shape.mp3",
-    "images/Tumblr_l_2725091134199615.jpg",
-    "(Year 3) Aero systems control/9 Frequency Response/story of my life.md",
     "images/Oh_hey_look_a_civilian_airliner.mp4",
-    "(Year 3) Aero systems control/9 Frequency Response/cope seeth and mald.md",
-    "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
-    "(Year 3) Aero systems control/9 Frequency Response/sinusoidal loop gain function factors.md",
-    "(Year 3) Aero systems control/9 Frequency Response/bode plot stability criteria.md",
-    "(Year 3) Aero systems control/9 Frequency Response/unstable bode plots.md",
-    "(Year 3) Aero systems control/9 Frequency Response/these interactive things are really nice.md",
     "images/one_must_imagine_driller_happy 1.mp4",
     "images/RPReplay_Final1700281247.mov",
-    "(Year 3) Aero systems control/9 Frequency Response/as long as the link works lol.md",
-    "images/RDT_20231110_212024.mov",
-    "(Year 3) Aero systems control/9 Frequency Response/linear system sinusoidal response.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/9 Frequency Response",
-    "(Year 3) Aero systems control/9 Frequency Response/much more of an approximate sketch though.md",
-    "images/rapidsave.com_holy_shit-z9sab3s141vb1.mp4",
-    "(Year 3) Aero systems control/9 Frequency Response/it is not even on the slides just a comment in lectures.md",
-    "images/RDT_20230902_211313.mp4",
-    "(Year 3) Aero systems control/9 Frequency Response/it is quite useful.md",
-    "(Year 1) Electrical and electronic systems/4 AC circuits/1 AC waveform/phasor representation.md"
+    "images/RDT_20231110_212024.mov"
   ]
 }

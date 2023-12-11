@@ -34,3 +34,7 @@ Module 4:
 5) [[Ackeret theory|4.5 Ackeret theory for supersonic aerofoils Overview]]
 6) [[optimum shape of aerofoils for supersonic flight|4.6 Optimum shape of aerofoils for supersonic flight]]
 
+Module 5:
+1) [[5.1 5.2 Conduction and convection heat transfer Overview]]
+2) [[5.3 Turbulent flow, use of Reynolds analogy Overview]]
+
