@@ -37,4 +37,6 @@ Module 4:
 Module 5:
 1) [[5.1 5.2 Conduction and convection heat transfer Overview]]
 2) [[5.3 Turbulent flow, use of Reynolds analogy Overview]]
+3) [[5.4 Radiation heat transfer Overview]]
+4) [[5.5 Heat diffusion in 1D discretised systems Overview]]
 
