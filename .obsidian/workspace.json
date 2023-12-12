@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+                "file": "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems Overview.md",
+                "file": "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,10 +227,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0760fa3bd88ac379",
+  "active": "acfae3054cfa7662",
   "lastOpenFiles": [
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+    "(Year 3) Aero systems control/8 Root Locus/root locus plot rules.md",
     "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems Overview.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/5.4 Radiation heat transfer/5.4 Radiation heat transfer Overview.md",
     "(Year 3) Aerothermodynamics/5.4 Radiation heat transfer/Radiation issues in atmospheric entry and hypersonics.md",
     "images/Pasted image 20231211230712.png",
@@ -258,11 +259,9 @@
     "images/Pasted image 20231211193522.png",
     "(Year 2) Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/approximating a turbulent BL profile.md",
     "(Year 2) Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
-    "(Year 3) Aero systems control/8 Root Locus/root locus plot rules.md",
     "(Year 3) Aero systems control/8 Root Locus/root loci and design.md",
     "(Year 3) Aero systems control/8 Root Locus/Root Locus Overview.md",
     "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
     "(Year 3) Aero systems control/9 Frequency Response/estimating gain and phase margin.md",
     "(Year 3) Aero systems control/9 Frequency Response/complex bode plots.md",
     "(Year 3) Aero systems control/7 PID Control/PID controller.md",
