@@ -39,4 +39,5 @@ Module 5:
 2) [[5.3 Turbulent flow, use of Reynolds analogy Overview]]
 3) [[5.4 Radiation heat transfer Overview]]
 4) [[5.5 Heat diffusion in 1D discretised systems Overview]]
+5) [[5.6 Time variant heat diffusion in 1D discretised systems Overview]]
 
