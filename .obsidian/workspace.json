@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "0760fa3bd88ac379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e6ed6b7d5ebb6da",
             "type": "leaf",
             "state": {
@@ -229,6 +217,15 @@
   },
   "active": "acfae3054cfa7662",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/5.6 Time variant heat diffusion in 1D discretised systems Overview.md",
+    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/1D discretised time variant head diffusion.md",
+    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems",
+    "images/trebuchet_here_comes_bessy-fwgdoy85fz0a1.mp4",
+    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/general heat transfer equation.md",
+    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/error scaling in a discretised system.md",
+    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/construction of a 1D discretised system.md",
+    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/5.5 Heat diffusion in 1D discretised systems Overview.md",
+    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems",
     "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
     "(Year 3) Aero systems control/8 Root Locus/root locus plot rules.md",
     "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems Overview.md",
@@ -259,21 +256,12 @@
     "images/Pasted image 20231211193522.png",
     "(Year 2) Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/approximating a turbulent BL profile.md",
     "(Year 2) Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
-    "(Year 3) Aero systems control/8 Root Locus/root loci and design.md",
-    "(Year 3) Aero systems control/8 Root Locus/Root Locus Overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/9 Frequency Response/estimating gain and phase margin.md",
-    "(Year 3) Aero systems control/9 Frequency Response/complex bode plots.md",
-    "(Year 3) Aero systems control/7 PID Control/PID controller.md",
     "images/Pasted image 20231211014550.png",
     "(Year 3) Aerothermodynamics/5.3",
     "images/Pasted image 20231210173302.png",
     "images/downloadfile-1.bin_21.mp4",
     "images/Pasted image 20231210165724.png",
     "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer",
-    "images/dimension-no-discord-2 1.mp4",
-    "images/g2U8VQg3e5M5umhX 1.mp4",
-    "images/[東方] SHO- Judgement of Dolls ~ Lone Shape.mp3",
-    "images/Oh_hey_look_a_civilian_airliner.mp4"
+    "images/dimension-no-discord-2 1.mp4"
   ]
 }
