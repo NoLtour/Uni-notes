@@ -13,85 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6a71131d816eec9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/8 Root Locus/root locus plot rules.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0e6ed6b7d5ebb6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e84e118e78caf614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/convection heat transfer coefficient.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "af0242d9a29571e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/Prandtl number.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f13063093cfa45cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aerothermodynamics/5.3 Turbulent convection/laminar-turbulent thermal boundary layer example.md",
+                "file": "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/Heat exchangers Log mean temperature difference method Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a8b47aa81d9eaa0",
+            "id": "b1dcc6def7620932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/convection heat transfer coefficient.md",
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e60feaceb221b8d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/Heat exchangers Number of transfer units method Overview.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a60f9a956dfad798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6fd74f45cc895002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/general heat exchanger.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "53be74005f0cdc1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/construction of a 1D discretised system.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
+                "file": "(Year 3) Aerothermodynamics/Heat exchangers Number of transfer units method Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,53 +204,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "acfae3054cfa7662",
+  "active": "e60feaceb221b8d1",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/Heat exchangers Number of transfer units method Overview.md",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/Heat exchangers Log mean temperature difference method Overview.md",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/heat exchanger example.md",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/general heat exchanger.md",
+    "images/Pasted image 20231214140334.png",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/parallel-flow heat exchanger.md",
+    "images/Pasted image 20231214133630.png",
+    "images/Pasted image 20231214133607.png",
+    "images/Pasted image 20231214124920.png",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/neglect is an engineers best freind.md",
+    "images/ddx24rgn6t5c1.png",
+    "images/RDT_20231205_230242.mp4",
+    "images/Pasted image 20231214124243.png",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/10U Specific heats and the first law of thermodynamics/constant pressure specific heat.md",
+    "images/Pasted image 20231214122208.png",
     "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/5.6 Time variant heat diffusion in 1D discretised systems Overview.md",
-    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/1D discretised time variant head diffusion.md",
+    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/1D discretised time variant heat diffusion.md",
+    "images/Pasted image 20231214120516.png",
+    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/time steps.md",
+    "images/Pasted image 20231214115902.png",
+    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/construction of a 1D discretised system.md",
+    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/5.5 Heat diffusion in 1D discretised systems Overview.md",
+    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/Pasted image 20231213153246.png.md",
+    "images/Pasted image 20231214110819.png",
+    "(Year 3) Aero systems control/9 Frequency Response/simple bode plots.md",
     "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems",
     "images/trebuchet_here_comes_bessy-fwgdoy85fz0a1.mp4",
     "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/general heat transfer equation.md",
     "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/error scaling in a discretised system.md",
-    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/construction of a 1D discretised system.md",
-    "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems/5.5 Heat diffusion in 1D discretised systems Overview.md",
     "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems",
     "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
     "(Year 3) Aero systems control/8 Root Locus/root locus plot rules.md",
     "(Year 3) Aerothermodynamics/5.5 Heat diffusion in 1D discretised systems Overview.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/5.4 Radiation heat transfer/5.4 Radiation heat transfer Overview.md",
     "(Year 3) Aerothermodynamics/5.4 Radiation heat transfer/Radiation issues in atmospheric entry and hypersonics.md",
-    "images/Pasted image 20231211230712.png",
-    "images/Pasted image 20231211230607.png",
     "(Year 3) Aerothermodynamics/5.4 Radiation heat transfer/thermodynamics radiation absorption example.md",
-    "images/Pasted image 20231211224833.png",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
     "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/2.1 Thermal Control System intro Overview.md",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/total radiation absorption transmittance and reflectance.md",
     "(Year 3) Aerothermodynamics/5.4 Radiation heat transfer",
     "(Year 3) Aerothermodynamics/5.3 Turbulent convection",
-    "(Year 3) Aerothermodynamics/5.3 Turbulent convection/5.3 Turbulent flow, use of Reynolds analogy Overview.md",
-    "(Year 3) Aerothermodynamics/5.3 Turbulent convection/why should it be explained.md",
-    "(Year 3) Aerothermodynamics/5.3 Turbulent convection/teat transfer in turbulent pipe flow example.md",
-    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/convection heat transfer coefficient.md",
-    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/Prandtl number.md",
-    "(Year 3) Aerothermodynamics/5.3 Turbulent convection/laminar-turbulent thermal boundary layer example.md",
-    "images/Pasted image 20231211204651.png",
-    "images/Pasted image 20231211203428.png",
-    "(Year 2) Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/calculating drag across a plate with a transition region.md",
     "images/t=NODE - Reach for the Moon, Immortal Smoke.mp3",
-    "images/e17b3612e79aa510f2b218ff7ca08d014d9a8996b2b9420256ccdb138a0afcc8.png",
-    "images/Pasted image 20231211193522.png",
-    "(Year 2) Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/approximating a turbulent BL profile.md",
-    "(Year 2) Aerodynamics/2 Incompressible Viscous flow/1 Into/boundary layer thickness.md",
-    "images/Pasted image 20231211014550.png",
     "(Year 3) Aerothermodynamics/5.3",
-    "images/Pasted image 20231210173302.png",
-    "images/downloadfile-1.bin_21.mp4",
-    "images/Pasted image 20231210165724.png",
-    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer",
-    "images/dimension-no-discord-2 1.mp4"
+    "images/downloadfile-1.bin_21.mp4"
   ]
 }
