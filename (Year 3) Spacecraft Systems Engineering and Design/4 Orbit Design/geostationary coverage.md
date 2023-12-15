@@ -11,7 +11,7 @@ tags: []
 
 Since GEO is be definition in plane with the equator, it can't cover the poles:
 
-![[Pasted image 20231201230646.png]]
+![[05-Geostationary-Sat-Ani-4077262913.gif]]
 
 The coverage will of course be lower than the theoretical $\theta_{max}$ due to operational elevation angles being non zero ([[calculating orbital coverage]]). Further reducing the coverage.
 

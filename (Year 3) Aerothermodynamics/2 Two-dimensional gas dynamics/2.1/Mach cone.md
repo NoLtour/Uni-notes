@@ -28,7 +28,7 @@ Conceptually this is quite simple, the Mach cone is simply the region in which a
 
 ![[Pasted image 20231024185956.png]]
 
-Here as the source moves you get the Doppler effect.
+Here as the source moves you get the [[Doppler effect]].
 
 #### Mach 1
 
