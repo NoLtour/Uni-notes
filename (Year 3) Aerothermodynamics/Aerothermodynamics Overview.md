@@ -43,7 +43,7 @@ Module 5:
 6) [[5.6 Time variant heat diffusion in 1D discretised systems Overview]]
 7) 2D problem, too complex for exam?
 8) [[Heat exchangers Log mean temperature difference method Overview]]
-9) [[Heat exchangers Number of transfer units method Overview]]
+9) [[number of transfer units method|Heat exchangers Number of transfer units method Overview]]
 
 
 
