@@ -37,67 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "611fdd8082205c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital path in ellipse form.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3366f30bb5b6591d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21eabf802434212f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f854ddb11435e476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "499d6e04cefe5b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/deriving orbital properties from energy and eccentricity.md",
+                "file": "(Year 3) Advanced Astronautics/4.3 Orbit representation Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
+                "file": "(Year 3) Advanced Astronautics/4.3 Orbit representation Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,9 +170,11 @@
   },
   "active": "6ff3d8b42432631c",
   "lastOpenFiles": [
+    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
+    "(Year 3) Advanced Astronautics/4.3 Orbit representation Overview.md",
+    "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
     "(Year 3) Advanced Astronautics/orbit categories by eccentricity.md",
     "images/Pasted image 20231216010807.png",
-    "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
     "(Year 3) Advanced Astronautics/flight path angle.md",
     "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital path in ellipse form.md",
     "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
@@ -253,7 +195,6 @@
     "(Year 3) Advanced Astronautics/constant of motion.md",
     "(Year 3) Advanced Astronautics/specific angular momentum (year 3).md",
     "images/Pasted image 20231215164821.png",
-    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/4.1 Key orbital concepts Overview.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/astronautical reference frames.md",
     "images/c36c04575b707cf3e1d25cd5e1dc37a3-613991511.gif",
