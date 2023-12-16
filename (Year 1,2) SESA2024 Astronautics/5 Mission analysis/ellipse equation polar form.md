@@ -3,7 +3,7 @@ aliases: [""]
 tags: []
 ---
 
-## [[ellipse|Ellipse]] equation polar form
+## [[ellipse (year 2)|Ellipse]] equation polar form
 
 > ### $$ r =  \frac{a(1-E^{2})}{1+E \cos \theta} $$ 
 >> where:

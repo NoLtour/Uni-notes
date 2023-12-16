@@ -8,84 +8,96 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f32ec5d208706e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/highly eccentric orbit (year 3).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89cebb1967bed895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 4/4.1/distance on a sphere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f88604bdca6e17ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/constant of motion.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "97c341be51a31aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65ecceddac260b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 4/4.1/spherical triangles.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a07e13582e835ffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 4/4.1/spherical triangles.md",
+                "file": "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "121baa1b8875a544",
+            "id": "2b6a968d246879f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/geostationary coverage.md",
+                "file": "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ff3d8b42432631c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "611fdd8082205c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital path in ellipse form.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3366f30bb5b6591d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21eabf802434212f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f854ddb11435e476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499d6e04cefe5b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Advanced Astronautics/deriving orbital properties from energy and eccentricity.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/constant of motion.md",
+                "file": "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,13 +228,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f88604bdca6e17ce",
+  "active": "6ff3d8b42432631c",
   "lastOpenFiles": [
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
-    "(Year 3) Advanced Astronautics/constant of motion.md",
-    "images/Pasted image 20231215164821.png",
+    "(Year 3) Advanced Astronautics/orbit categories by eccentricity.md",
+    "images/Pasted image 20231216010807.png",
     "(Year 3) Advanced Astronautics/4.2 Orbit Properties Overview.md",
+    "(Year 3) Advanced Astronautics/flight path angle.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital path in ellipse form.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/keplers laws of orbital motion.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
+    "images/Pasted image 20231216002535.png",
+    "images/Pasted image 20231215200624.png",
+    "images/Pasted image 20231215200610.png",
+    "(Year 3) Advanced Astronautics/if this is the case please drop this course.md",
+    "images/42ar092evf3b11.jpg",
+    "images/Kegelschnitt-schar-s-4249920552.png",
+    "(Year 3) Advanced Astronautics/deriving orbital properties from energy and eccentricity.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
+    "(Year 3) Advanced Astronautics/eccentricity vector.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/ellipse (year 2).md",
+    "images/eccentricity-vector-24-1440259234.jpg",
+    "(Year 3) Advanced Astronautics/standard gravitational parameter.md",
+    "(Year 3) Advanced Astronautics/constant of motion.md",
+    "(Year 3) Advanced Astronautics/specific angular momentum (year 3).md",
+    "images/Pasted image 20231215164821.png",
     "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/4.1 Key orbital concepts Overview.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/astronautical reference frames.md",
@@ -230,34 +260,15 @@
     "(Year 3) Advanced Astronautics/Ch 4/4.1/orbital elements (year 3).md",
     "images/Pasted image 20231215162303.png",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/great circle.md",
-    "images/Pasted image 20231215160937.png",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/spherical space.md",
-    "images/Pasted image 20231215160857.png",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/I use it a lot lol.md",
-    "images/0bde9f1b84aa83e67d0e4a40f93e7946f65e566619e44695bb5ff9dc7dc80ad4.png",
     "images/RPReplay_Final1697292176.mov",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/barycenter.md",
-    "images/7pHLQ-3621767167.gif",
-    "images/Orbit2-1065089236.gif",
-    "images/Pasted image 20231215141728.png",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/3D gravitational attraction.md",
-    "images/Pasted image 20231215141430.png",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/idk need to shitpost.md",
     "images/rapidsave.com_hmm-dw8gqxicc50b1.mp4",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1/distance on a sphere.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1/longitude.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1/spherical triangles.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.1",
     "(Year 3) Advanced Astronautics/Ch 4",
-    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/Spacecraft orbit design overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/satellite constellations.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/Walker-Delta and Walker-Star constellations.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
-    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/highly eccentric orbit (year 3).md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/Van Allen radiation belts.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/doppler effect.md",
     "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method",
     "images/RDT_20231205_230242.mp4",
     "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems",

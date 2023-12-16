@@ -25,7 +25,7 @@ There are many disadvantages that must also be considered:
 - The intensity of the signal also varies as distance varies
 - Latency varies with distance
 - For [[highly eccentric orbit (year 3)|HEO]] that are not synced with Earths rotation, they can have constant change in ground coverage, this can be an advantage for some use cases
-- Orbital perturbations ([[space drag]]) with potential for significant interference from the moon due to high [[ellipse|eccentricity]]
+- Orbital perturbations ([[space drag]]) with potential for significant interference from the moon due to high [[ellipse (year 2)|eccentricity]]
 - Passes through [[Van Allen radiation belts]], which can cause significant problems for the [[spacecraft maintenance problem]]
 
 The following visualises typical orbital drift for [[highly eccentric orbit (year 3)|HEO]]:

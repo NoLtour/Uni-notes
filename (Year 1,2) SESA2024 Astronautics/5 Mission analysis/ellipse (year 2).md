@@ -12,11 +12,11 @@ An ellipse has multiple properties that define it's shape:
 > ### $$ \frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 $$
 > ### $$c=\sqrt{a^{2} - b^{2}}$$
 >> where:
->> $a=$ [[ellipse|semi-major axis]] 
->> $2a=$ [[ellipse|major axis]] 
->> $b=$ [[ellipse|semi-minor axis]] 
->> $2b=$ [[ellipse|minor axis]] 
->> $E=\sqrt{1- \frac{b^{2}}{a^{2}}}=$ eccentricity 
+>> $a=$ [[ellipse (year 2)|semi-major axis]] 
+>> $2a=$ [[ellipse (year 2)|major axis]] 
+>> $b=$ [[ellipse (year 2)|semi-minor axis]] 
+>> $2b=$ [[ellipse (year 2)|minor axis]] 
+>> $e=\sqrt{1- \frac{b^{2}}{a^{2}}}=$ eccentricity 
 
 
 ^822c92

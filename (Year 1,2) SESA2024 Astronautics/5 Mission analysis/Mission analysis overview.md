@@ -13,7 +13,7 @@ This guy figured out planets orbit in ellipses, then he made a telescope and put
 KSP is unironically good introductory material.
 ![[1091_a8b32aa338d474d0.webm]]
 
-- [[ellipse]]
+- [[ellipse (year 2)]]
 - [[ellipse equation polar form]]
 - [[tangential and radial acceleration in orbital motion]]
 - [[specific orbital moment of momentum]]
@@ -28,7 +28,7 @@ KSP is unironically good introductory material.
 
 
 ## Expanded articles
-![[ellipse]]
+![[ellipse (year 2)]]
 ![[ellipse equation polar form]]
 ![[tangential and radial acceleration in orbital motion]]
 ![[specific orbital moment of momentum]]

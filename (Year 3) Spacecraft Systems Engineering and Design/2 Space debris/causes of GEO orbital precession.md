@@ -46,7 +46,7 @@ The long-term effects of solar radiation pressure on the eccentricity can be app
 
 The changes due to solar radiation pressure perturbations are likely to be greater in amplitude than the changes due to luni-solar perturbations (especially for high $C_{R}$ and area to mass ratio's).
 
-So [[orbital precession]] minimisation requires a high [[ellipse|eccentricity]], aka we target $e=0.0003$ since that's the max [[IDAC]] allows.
+So [[orbital precession]] minimisation requires a high [[ellipse (year 2)|eccentricity]], aka we target $e=0.0003$ since that's the max [[IDAC]] allows.
 
 #### Other trade off
 Eccentricity also effects the orbital volume of space the spacecraft will occupy, higher eccentricity reduces collision chance.

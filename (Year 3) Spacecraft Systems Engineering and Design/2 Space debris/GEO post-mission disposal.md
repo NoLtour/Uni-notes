@@ -22,7 +22,7 @@ Can you guess which one is cheap(ish) and not a terrible idea? It's move it out 
 >> $\Delta H=$ The change in perigee from [[obit selection|geostationary orbit]] of the [[perigee and apogee|perigee]] needed
 >> $C_{R}=$ solar radiation pressure coefficient
 >> $\frac{A}{m}=$ Cross sectional area to dry mass ration
->> $e=$ [[ellipse|eccentricity]]
+>> $e=$ [[ellipse (year 2)|eccentricity]]
 
 That [[orbital eccentricity]] is there to ensure they circularise their orbit, no point in raising the [[perigee and apogee|perigee]] if the [[perigee and apogee|apogee]] still intercepted GEO.
 

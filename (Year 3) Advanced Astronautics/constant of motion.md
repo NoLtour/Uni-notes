@@ -9,7 +9,7 @@ tags: []
 
 In the context of an Ordinary Differential Equation (ODE) describing the motion of a system, a constant of motion (CoM) is a quantity that remains unchanged over time along the trajectory or orbit of the system.
 
-In the context of orbits, one we're already familiar with would be [[specific orbital energy|orbital energy]] .
+In the context of orbits, one we're already familiar with would be [[specific orbital energy|orbital energy]], [[orbital semi-major axis|semi-major axis]], [[ellipse (year 2)|eccentricity]], [[perigee and apogee|periapsis]] ect.
 
 Constants of motion are expressed as functions of position and velocity and constant along orbital paths, for them to be useful we desire independence. Formally we can demonstrate independence by showing that one constant cannot be used in isolation to find the value of another constant of motion.
 
@@ -20,7 +20,7 @@ We can prove a constant of motion is in fact a constant of motion by taking it's
 
 ### Orbital case
 #### Constant
-Multiple constants of motion can be used to define an orbit, here we vary another [[constant of motion]] ([[ellipse|eccentricity]]) while keeping the [[orbital semi-major axis|semi-major axis]] the same:
+Multiple constants of motion can be used to define an orbit, here we vary another [[constant of motion]] ([[ellipse (year 2)|eccentricity]]) while keeping the [[orbital semi-major axis|semi-major axis]] the same:
 
 ![[Pasted image 20231215164821.png]]
 
@@ -34,7 +34,7 @@ $$\begin{align*}
 p &= \frac{|\vec{h}|^{2}}{\mu}
 \end{align*}$$
 
-On the other hand [[specific orbital moment of momentum|specific orbital angular momentum]] and [[ellipse|eccentricity]] are independent, since they do not fully define eachother:
+On the other hand [[specific orbital moment of momentum|specific orbital angular momentum]] and [[ellipse (year 2)|eccentricity]] are independent, since they do not fully define eachother:
 
 $$\begin{align*}
 \vec{e} \cdot \vec{e}&= 0 & \vec{e}&= \frac{\dot{\vec{r}}\times \vec{h}}{\mu} - \frac{\vec{r}}{|\vec{r}|}

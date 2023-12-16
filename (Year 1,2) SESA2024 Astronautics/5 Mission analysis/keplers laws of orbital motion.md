@@ -6,7 +6,7 @@ tags: []
 ## Kepler's laws of orbital motion
 
 The laws are:
-1) Planets orbit in [[ellipse]]s.
+1) Planets orbit in [[ellipse (year 2)]]s.
 2) Equal areas are swept in orbits in equal times.
 3) The square of the period of the planet is proportional to the cube of its mean distance from the Sun.
 
@@ -30,7 +30,7 @@ Since law 1 is [[it kinda is|obvious]] I'm only elaborating on 2 and 3. It is po
 >> $G=$ [[universal constant of gravitation|gravitational constant]]
 >> $M=$ mass of body being orbited
 >> $\tau=$ satellites orbital period
->> $a=$ satellite orbits [[ellipse|semi-major axis]]
+>> $a=$ satellite orbits [[ellipse (year 2)|semi-major axis]]
 
 ^e855e8
 
