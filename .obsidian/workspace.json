@@ -32,55 +32,43 @@
             }
           },
           {
-            "id": "6ff3d8b42432631c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 4/4.3/4.3 Orbit representation Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cefcbb937aef6a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 4/4.3/4.3 Orbit representation Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0a2dcf45d7d74368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
+                "file": "(Year 3) Advanced Astronautics/Ch 4/4.4/4.4 Time Dependence Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3dfcf7aac8e7b5bb",
+            "id": "d83f4d761ab228be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 4/4.3/rotating perifocal to reference frame.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/something Overview.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dec1640940ddf5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Advanced Astronautics/Ch 4/4.4/getting true anomaly from time for parabolic and hyperbolic orbits.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
+                "file": "(Year 3) Spacecraft Systems Engineering and Design/something Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,11 +192,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0a2dcf45d7d74368",
+  "active": "d83f4d761ab228be",
   "lastOpenFiles": [
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/something Overview.md",
+    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4/4.4 Time Dependence Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4/time and true anomaly from non zero start values.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4/because you see I am stupid.md",
+    "images/RDT_20231217_094700.mp4",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4/getting true anomaly from time for parabolic and hyperbolic orbits.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4/getting true anomaly from time for elliptic orbits.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4/time integral for orbital motion.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.3/4.3 Orbit representation Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.3/finding orbital alignment from eccentricity and angular momentum vectors.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.3/rotating perifocal to reference frame.md",
+    "images/Pasted image 20231217122146.png",
+    "images/Pasted image 20231217122031.png",
+    "images/Pasted image 20231217121723.png",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4/time along an elliptic orbit.md",
+    "images/Pasted image 20231217121204.png",
+    "images/Pasted image 20231217121121.png",
+    "images/Pasted image 20231217120643.png",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4/I mean why not give it a go.md",
+    "images/RDT_20231216_183015.mp4",
+    "(Year 3) Advanced Astronautics/Ch 4/4.4",
+    "(Year 3) Advanced Astronautics/Ch 4/4.3/finding orbital alignment from eccentricity and angular momentum vectors.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.3/perifocal coordinate frame.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/orbital elements and alignment.md",
     "images/2023-12-16 16-46-42.mp4",
@@ -222,35 +230,15 @@
     "images/InShot_20221118_010803725.mp4",
     "(Year 3) Advanced Astronautics/Ch 4/4.3",
     "(Year 3) Advanced Astronautics/Ch 4/4.2",
-    "images/Pasted image 20231216122302.png",
-    "images/Pasted image 20231216114847.png",
-    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.2/4.2 Orbit Properties Overview.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.2/orbit categories by eccentricity.md",
-    "images/Pasted image 20231216010807.png",
     "(Year 3) Advanced Astronautics/Ch 4/4.2/flight path angle.md",
     "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital path in ellipse form.md",
     "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
     "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/keplers laws of orbital motion.md",
     "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital moment of momentum.md",
-    "images/Pasted image 20231216002535.png",
-    "images/Pasted image 20231215200624.png",
-    "images/Pasted image 20231215200610.png",
-    "(Year 3) Advanced Astronautics/Ch 4/4.2/if this is the case please drop this course.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.2/deriving orbital properties from energy and eccentricity.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.2/eccentricity vector.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/ellipse (year 2).md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.2/standard gravitational parameter.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.2/constant of motion.md",
-    "(Year 3) Advanced Astronautics/specific angular momentum (year 3).md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1/4.1 Key orbital concepts Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1/astronautical reference frames.md",
     "images/RPReplay_Final1697292176.mov",
     "images/rapidsave.com_hmm-dw8gqxicc50b1.mp4",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1",
-    "(Year 3) Advanced Astronautics/Ch 4",
-    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method",
-    "images/RDT_20231205_230242.mp4"
+    "(Year 3) Advanced Astronautics/Ch 4/4.1"
   ]
 }
