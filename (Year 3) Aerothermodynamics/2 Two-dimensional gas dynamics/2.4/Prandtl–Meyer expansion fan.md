@@ -41,7 +41,7 @@ The following is derived from theory and shows you the angle changes required to
 > ### $$\begin{align*} \nu(M) &= \sqrt{ \frac{\gamma+1}{\gamma-1} } arctan\sqrt{ \frac{\gamma-1}{\gamma+1} (M^{2} - 1) } - \arctan\sqrt{M^{2} - 1}   \end{align*}$$
 >> where:
 >> $\nu(M)=$ the angle divergence (in radians) required to accelerate a flow from Mach 1 to target Mach $M$
->> $M=$ input Mach number 
+>> $M=$ output Mach number after the expansion fan
 >
 >
 > ### $$\begin{align*} \theta &= \nu(M_{2}) - \nu(M_{1})   \end{align*}$$
@@ -57,7 +57,7 @@ To start with we'll have to create a model for one of the individual infinitesim
 
 ![[Pasted image 20231026104457.png]]
 
-Since the fundemental mechanism at play are exactly what used for [[oblique shocks]], we can reuse some of the maths from there. We can get the Mach line angle from the [[oblique shock chart]], where $d\theta\approx0$. Which is [[oblique shock chart#^3557f5|this equation!]]
+Since the fundamental mechanism at play are exactly what used for [[oblique shocks]], we can reuse some of the maths from there. We can get the Mach line angle from the [[oblique shock chart]], where $d\theta\approx0$. Which is [[oblique shock chart#^3557f5|this equation!]]
 $$\begin{align*}
   \mu &=  \arctan \frac{1}{\sqrt{x^{2} + 1}} & &\to &  \tan \mu &=  \frac{1}{\sqrt{x^{2} + 1}}
 \end{align*}$$

@@ -22,13 +22,13 @@ We can see that [[Mach lines and domains of influence|characteristic lines]] ref
 The wall causes the [[Mach lines and domains of influence|characteristic line]] to change direction so it's [[method of characteristics|Riemann invariant]] will be:
 
 $$\begin{align*}
-R^{-}_{W} &= \mu_{W} + \theta_{W}
+R^{-}_{W} &= \nu_{W} + \theta_{W}
 \end{align*}$$
 
 We know that the flow MUST be tangential to the wall (Else we'd have some fucked vacuum or mass deletion... so yeah), this means that at the wall flow angle equals wall angle $\theta=\theta_{W}$). Which means $\theta_{W}$ is known, so we can find $\nu_{W}$ from it's incident [[Mach lines and domains of influence|characteristic line]]'s [[method of characteristics|Riemann invariant]]:
 
 $$\begin{align*}
-R^{-}_{A} &= \mu_{W} - \theta_{W} & &\to & R^{-}_{A} + \theta_{W} &= \mu_{W} 
+R^{-}_{A} &= \nu_{W} - \theta_{W} & &\to & R^{-}_{A} + \theta_{W} &= \nu_{W} 
 \end{align*}$$
 
 With these two known, finding $R^{-}_{W}$ is trivial.

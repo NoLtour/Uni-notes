@@ -92,9 +92,9 @@ We know $R^{+}_{A}$ and $R^{-}_{B}$, then along these lines we have an equation 
 Oh wait there is, it's point P:
 
 $$\begin{align*}
-\text{ R}^{+}_{A} &= \nu(M_{A})-\theta_{A} &&& \text{ R}^{+}_{B} &= \nu(M_{B})-\theta_{B} \\
+\text{ R}^{+}_{A} &= \nu(M_{A})-\theta_{A} &&& \text{ R}^{-}_{B} &= \nu(M_{B})+\theta_{B} \\
    && &\downarrow \text{At P}\\
-\text{ R}^{+}_{A} &= \nu(M_{P})-\theta_{P} &&& \text{ R}^{+}_{B} &= \nu(M_{P})-\theta_{P} \\
+\text{ R}^{+}_{A} &= \nu(M_{P})-\theta_{P} &&& \text{ R}^{-}_{B} &= \nu(M_{P})+\theta_{P} \\
    && &\downarrow \text{Solve}\\
  \nu(M_{P}) &=  \frac{\text{R}^{-}_{B}+\text{R}^{+}_{A}}{2} &&&\theta_{P} &=\frac{\text{R}^{-}_{B}-\text{R}^{+}_{A}}{2} \\
 \end{align*}$$

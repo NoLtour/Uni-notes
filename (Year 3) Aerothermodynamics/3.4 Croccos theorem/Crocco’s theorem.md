@@ -16,6 +16,8 @@ tags:
 
 What this equation means is that If stagnation enthalpy is constant everywhere and the flow is irrotational and steady, then the entropy is constant everywhere ([[homentropic flow]]).
 
+$$\begin{align*} T \frac{dS}{dn} &= \frac{dh_{0}}{dn} +u \omega &&\to& T \frac{dS}{dn} &= 0 +0 &&\to&  \frac{dS}{dn} &= 0\end{align*}$$
+
 ### Derivation
 #### Euler n-equation
 
