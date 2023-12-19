@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Exam practice/Astro/Answers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Exam practice/Astro/Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,23 @@
   },
   "active": "d83f4d761ab228be",
   "lastOpenFiles": [
-    "(Year 3) Aerothermodynamics/4.3 Potential flow equations for compressible flow/linearized compressible flow.md",
+    "(Year 3) Exam practice/Aero/SESA3029Exam1617S1_final.pdf",
+    "(Year 3) Exam practice/Aero/SESA3029Exam1718S1_final.pdf",
+    "(Year 3) Exam practice/Aero/SESA3029Exam1819S1_final.pdf",
+    "(Year 3) Exam practice/Aero/SESA3029Exam1920S1_final.pdf",
+    "(Year 3) Exam practice/Aero/SESA3029_exam_2021_22final(1).pdf",
+    "(Year 3) Exam practice/Aero/SESA3029Exam2223Sem1-A_final.pdf",
+    "(Year 3) Exam practice/Aero/SESA3029_Revision_Week8_2023-24.pdf",
+    "(Year 3) Exam practice/Aero/SESA3029Exam2223Feedback(1).pdf",
+    "(Year 3) Exam practice/Aero/SESA3029_exam_feedback_2021-22-final(1).pdf",
+    "(Year 3) Exam practice/Aero/SESA3029_exam_feedback_2019-20.pdf",
+    "(Year 3) Exam practice/Aero/SESA3029_exam_feedback_2018-19m.pdf",
+    "images/Pasted image 20231219101909.png",
+    "images/Pasted image 20231219101851.png",
+    "images/Pasted image 20231219101840.png",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Exam practice/Astro/Answers.md",
+    "(Year 3) Aerothermodynamics/4.3 Potential flow equations for compressible flow/linearized compressible flow.md",
     "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/4.2 Effect of Mach number on airfoil flow Overview.md",
     "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/2D CFD for supersonic airfoil examples.md",
     "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/O-grid and C-grid.md",
@@ -169,27 +184,12 @@
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.6/2.6 Laval nozzle overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/mass flowrate through a choked nozzle.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.5/supersonic flow past a tilted flat plate.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.3/2.3 Regular reflections, Mach reflections and viscous effects overview.md",
-    "images/RDT_20231217_094700.mp4",
     "images/Pasted image 20231217122146.png",
     "images/Pasted image 20231217122031.png",
     "images/Pasted image 20231217121723.png",
     "images/Pasted image 20231217121204.png",
     "images/Pasted image 20231217121121.png",
     "images/Pasted image 20231217120643.png",
-    "images/RDT_20231216_183015.mp4",
-    "(Year 3) Advanced Astronautics/Ch 4/4.4",
-    "images/2023-12-16 16-46-42.mp4",
-    "images/Pasted image 20231216164220.png",
-    "images/Pasted image 20231216160501.png",
-    "images/Pasted image 20231216131912.png",
-    "images/Pasted image 20231216123935.png",
-    "images/InShot_20221118_010803725.mp4",
-    "(Year 3) Advanced Astronautics/Ch 4/4.3",
-    "(Year 3) Advanced Astronautics/Ch 4/4.2",
-    "images/RPReplay_Final1697292176.mov",
-    "images/rapidsave.com_hmm-dw8gqxicc50b1.mp4",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1"
+    "images/Pasted image 20231216164220.png"
   ]
 }
