@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Exam practice/Astro/Answers.md",
+                "file": "(Year 3) Exam practice/Space systems/Answers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Exam practice/Astro/Answers.md",
+                "file": "(Year 3) Exam practice/Space systems/Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,15 @@
   },
   "active": "d83f4d761ab228be",
   "lastOpenFiles": [
+    "(Year 3) Exam practice/Aero/Equation booklet 2021a.pdf",
+    "images/Pasted image 20231219102838.png",
+    "images/Pasted image 20231219102830.png",
+    "images/Pasted image 20231219102819.png",
+    "(Year 3) Exam practice/Space systems/SESA3041_2020_21.pdf",
+    "(Year 3) Exam practice/Space systems/SESA3041_2022_23.pdf",
+    "(Year 3) Exam practice/Space systems/SESA3041_2021_22.pdf",
+    "(Year 3) Exam practice/Astro/Answers.md",
+    "(Year 3) Exam practice/Space systems/Answers.md",
     "(Year 3) Exam practice/Aero/SESA3029Exam1617S1_final.pdf",
     "(Year 3) Exam practice/Aero/SESA3029Exam1718S1_final.pdf",
     "(Year 3) Exam practice/Aero/SESA3029Exam1819S1_final.pdf",
@@ -152,15 +161,10 @@
     "(Year 3) Exam practice/Aero/SESA3029_exam_2021_22final(1).pdf",
     "(Year 3) Exam practice/Aero/SESA3029Exam2223Sem1-A_final.pdf",
     "(Year 3) Exam practice/Aero/SESA3029_Revision_Week8_2023-24.pdf",
-    "(Year 3) Exam practice/Aero/SESA3029Exam2223Feedback(1).pdf",
-    "(Year 3) Exam practice/Aero/SESA3029_exam_feedback_2021-22-final(1).pdf",
-    "(Year 3) Exam practice/Aero/SESA3029_exam_feedback_2019-20.pdf",
-    "(Year 3) Exam practice/Aero/SESA3029_exam_feedback_2018-19m.pdf",
     "images/Pasted image 20231219101909.png",
     "images/Pasted image 20231219101851.png",
     "images/Pasted image 20231219101840.png",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-    "(Year 3) Exam practice/Astro/Answers.md",
     "(Year 3) Aerothermodynamics/4.3 Potential flow equations for compressible flow/linearized compressible flow.md",
     "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/4.2 Effect of Mach number on airfoil flow Overview.md",
     "(Year 3) Aerothermodynamics/4.2 Effect of Mach number on airfoil flow/2D CFD for supersonic airfoil examples.md",
@@ -183,13 +187,9 @@
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.7/types of nozzle expansion state.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.6/2.6 Laval nozzle overview.md",
     "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/mass flowrate through a choked nozzle.md",
-    "(Year 3) Aerothermodynamics/2 Two-dimensional gas dynamics/2.4/converging diverging nozzles.md",
     "images/Pasted image 20231217122146.png",
     "images/Pasted image 20231217122031.png",
     "images/Pasted image 20231217121723.png",
-    "images/Pasted image 20231217121204.png",
-    "images/Pasted image 20231217121121.png",
-    "images/Pasted image 20231217120643.png",
-    "images/Pasted image 20231216164220.png"
+    "images/Pasted image 20231217121204.png"
   ]
 }
