@@ -17,7 +17,8 @@ Can you guess which one is cheap(ish) and not a terrible idea? It's move it out 
 ### Valid graveyard orbit
 [[IDAC]] guidelines state that two conditions should be fulfilled to achieve a reasonable GEO graveyard orbit:
 
-> ### $$\begin{align*} \Delta H  &\geq 235\times10^{3}\:m + C_{R}\frac{A}{m} &&\text{and}& e&\leq 0.003\end{align*}$$
+> ### $$\begin{align*} \Delta H  &\geq 235\times10^{3}\:m + 10^{6} C_{R}\frac{A}{m} &&\text{and}& e&\leq 0.003\end{align*}$$
+> ### $$\begin{align*} \Delta H  &\geq 235 \:km + 10^{3} C_{R}\frac{A}{m} &&\text{and}& e&\leq 0.003\end{align*}$$
 >> where:
 >> $\Delta H=$ The change in perigee from [[obit selection|geostationary orbit]] of the [[perigee and apogee|perigee]] needed
 >> $C_{R}=$ solar radiation pressure coefficient

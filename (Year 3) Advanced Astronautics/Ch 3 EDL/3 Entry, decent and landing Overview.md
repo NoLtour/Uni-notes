@@ -47,3 +47,21 @@ The math's seems far more vague? I think for this one we just need to understand
 - [[challenge of designing for re-entry]]
 
 ## Expanded articles
+![[landing types]]
+![[non-thrusting entry terms ]]
+![[equations of motion for re-entry]]
+![[atmospheric model for re-entry]] 
+![[lifting re-entry and ballistic re-entry]]
+![[ballistic coefficient]]
+![[vehicle shape and ballistic coefficient]]
+![[ballistic entry velocity equation]]
+![[ballistic entry time equation]]
+![[ballistic entry maximum deceleration equation]]
+![[ballistic entry max heating equation]]
+![[re-entry corridor]] 
+![[lifting entry velocity equations]]  
+![[lifting entry cross range]]
+![[lifting entry paths 
+![[heat management in EDL]]
+![[entry radio blackout]]
+![[challenge of designing for re-entry]]

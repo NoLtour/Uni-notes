@@ -24,7 +24,7 @@ This is achieved through this flattening of the airfoil's top.
 
 ### Area rule
 
-The are rule is where we maintain a smooth streamwise variation of total cross sectional area of the vehicle:
+The are rule is where we maintain a smooth stream wise variation of total cross sectional area of the vehicle:
 
 ![[Pasted image 20231123192157.png]]
 
