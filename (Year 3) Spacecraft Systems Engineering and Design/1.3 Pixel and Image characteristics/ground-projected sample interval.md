@@ -7,9 +7,9 @@ tags: []
 
 [[remote sensing (aerospace)|Spatial resolution]] can be defined using the [[ground-projected sample interval]] (kinda it's inverse):
 
-GSD refers to the physical distance on the ground that each pixel in the image represents. It is determined by the pixel size and the altitude of the satellite. Lower GSD values mean smaller ground coverage per pixel, which leads to higher spatial detail in the image.
+GIFOV refers to the physical distance on the ground that each pixel in the image represents. It is determined by the pixel size and the altitude of the satellite. Lower GIFOV values mean smaller ground coverage per pixel, which leads to higher spatial detail in the image.
 
-> ### $$\begin{align*} \text{GSI}  &= w \times \frac{H}{f}  \end{align*}$$
+> ### $$\begin{align*} \text{GIFOV}  &= w \times \frac{H}{f}  \end{align*}$$
 > ### $$\begin{align*} \text{GSI}  &= d \times \frac{H}{f}  \end{align*}$$
 >> where:
 >> $w=$ [[sensor sample terms|inter-detector spacing]]

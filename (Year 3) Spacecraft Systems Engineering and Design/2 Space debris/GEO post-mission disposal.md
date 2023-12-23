@@ -17,10 +17,12 @@ Can you guess which one is cheap(ish) and not a terrible idea? It's move it out 
 ### Valid graveyard orbit
 [[IDAC]] guidelines state that two conditions should be fulfilled to achieve a reasonable GEO graveyard orbit:
 
-> ### $$\begin{align*} \Delta H  &\geq 235\times10^{3}\:m + 10^{6} C_{R}\frac{A}{m} &&\text{and}& e&\leq 0.003\end{align*}$$
+> ### $$\begin{align*} \Delta H  &\geq 235\times10^{3}\:m + 10^{6}C_{R}\frac{A}{m} &&\text{and}& e&\leq 0.003\end{align*}$$
 > ### $$\begin{align*} \Delta H  &\geq 235 \:km + 10^{3} C_{R}\frac{A}{m} &&\text{and}& e&\leq 0.003\end{align*}$$
+> ### $$\begin{align*} r_{p} &= a_{geo} + \Delta H  &&& r_{a} &= r_{p} \frac{1+e}{1-e} \end{align*}$$
 >> where:
->> $\Delta H=$ The change in perigee from [[obit selection|geostationary orbit]] of the [[perigee and apogee|perigee]] needed
+>> $\Delta H=$ The perigee increase from circular geostationary orbit to comply with [[IDAC]]
+>> $a_{geo}=$ The [[orbital semi-major axis|semi-major axis]] of the geostationary satellite
 >> $C_{R}=$ solar radiation pressure coefficient
 >> $\frac{A}{m}=$ Cross sectional area to dry mass ration
 >> $e=$ [[ellipse (year 2)|eccentricity]]

@@ -12,7 +12,7 @@ Fundamental geometric relationships limit where on the surface of a sphere a poi
 > ### $$\begin{align*} E &= \frac{\pi}{2} -\theta  - \alpha  \end{align*}$$
 > ### $$\begin{align*} R &= \frac{R_{E}\sin\alpha}{\sin \left( \frac{\pi}{2} - E - \alpha\right) }  \end{align*}$$
 > ### $$\begin{align*} \cos\alpha_{max} &= \frac{R_{E}}{R_{E+H}} \end{align*}$$
-> ### $$\begin{align*} \cos \alpha   &= \frac{R_{E}\cos E}{R_{E}+H} - E \end{align*}$$
+> ### $$\begin{align*}  \alpha   &= \arccos \left(\frac{R_{E}\cos E}{R_{E}+H}\right) - E \end{align*}$$
 > ### $$\begin{align*} B &= 2 \alpha R_{E}\end{align*}$$
 >> where:
 >> $H=$ orbital height 
