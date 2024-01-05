@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "truncc",
     "image cent"
-  ]
+  ],
+  "accentColor": ""
 }
