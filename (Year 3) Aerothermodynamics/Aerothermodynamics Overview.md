@@ -41,7 +41,7 @@ Module 5:
 4) [[5.4 Radiation heat transfer Overview]]
 5) [[5.5 Heat diffusion in 1D discretised systems Overview]]
 6) [[5.6 Time variant heat diffusion in 1D discretised systems Overview]]
-7) 2D problem, too complex for exam?
+7) [[5.7 discretised 2D heat flow]]
 8) [[Heat exchangers Log mean temperature difference method Overview]]
 9) [[number of transfer units method|Heat exchangers Number of transfer units method Overview]]
 

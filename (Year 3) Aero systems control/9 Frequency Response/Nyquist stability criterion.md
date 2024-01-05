@@ -7,7 +7,7 @@ tags: []
 
 One's titled [[bode plot stability criteria]] but this is [[Nyquist stability criterion]], but I can't change it for my notes ([[what do you mean I am being a twat|annoying]]).
 
-> ### $$\begin{align*} \\\text{Unsable if:}&& Z &\neq0 \\\\\text{Nyquist stability criterion:}&& N&= P-Z  \end{align*}$$
+> ### $$\begin{align*} \\\text{Unsable if:}&& Z &\neq0 \\\\\text{Nyquist stability criterion:}&& Z&= P-N  \end{align*}$$
 > ### $$\begin{align*} N &= \text{Number of counter clockwise encirclements around -1 on the Nyquist diagram} \end{align*}$$
 >> where:
 >> $P=$ Number of unstable [[control system loop types|open-loop]] poles

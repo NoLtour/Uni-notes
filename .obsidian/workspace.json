@@ -8,67 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91f117f60112d1a8",
+            "id": "f7f1af4df2ac16bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, S1) revision notes/Spacecraft systems exam notes.md",
+                "file": "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4d332b7d8ae16a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/pressure coefficient.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36572fa61fcc898d",
+            "id": "c6a42afcd9b56902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
           {
-            "id": "fdbbb4917ff0139b",
+            "id": "c904a43e5ea929b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/experiment design for the Taguchi method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8571c0734d79eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/GEO post-mission disposal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63ae7b2ce03b930e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/scanning methods.md",
+                "file": "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pressure coef",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/experiment design for the Taguchi method.md",
+                "file": "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/pressure coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,53 +182,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fdbbb4917ff0139b",
+  "active": "4d332b7d8ae16a6d",
   "lastOpenFiles": [
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi optimisation analysis.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/experiment design for the Taguchi method.md",
-    "(Year 3, S1) revision notes/Spacecraft systems exam notes.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/scanning methods.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/GEO post-mission disposal.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/Space Debris Mitigation Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
-    "(Year 1,2) SESA2024 Astronautics/7 Propulsion intro/Intro into propulsion overview.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/impulsive orbital transfers.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/specific orbital energy.md",
-    "(Year 1,2) SESA2024 Astronautics/3 Launch Vehicles/the basic rocket equation.md",
-    "(Year 1,2) SESA2024 Astronautics/3 Launch Vehicles/rocket science.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/Pixel and image characteristics Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/ground-projected sample interval.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.3 Pixel and Image characteristics/sensor sample terms.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.1 Mission Proposal/Mission Proposal Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/1.2 Payload selection and remote sensing/Payload selection and remote sensing Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/Spacecraft orbit design overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/calculating orbital coverage.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/Mission analysis overview.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/perigee and apogee.md",
+    "(Year 3) Aero systems control/9 Frequency Response/Nyquist plots.md",
+    "(Year 3) Aero systems control/9 Frequency Response/Nyquist stability criterion.md",
+    "(Year 3) Aero systems control/9 Frequency Response/bode plot stability criteria.md",
+    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/partial fractions fast method.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/eigenvalues and eigenvectors.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space system controllability.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/matrix rank.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/matrix in echelon form.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/17 Integration 3/partial fractions.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/effect of additional system poles.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/first order system impulse response.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/system transfer function feature definitions.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/block diagram parts.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/first order system step response.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/Prandtl number.md",
+    "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
+    "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
+    "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",
+    "(Year 3) Aerothermodynamics/Eq books",
+    "(Year 3) Aerothermodynamics/New folder",
     "images/Pasted image 20231223140244.png",
     "images/Pasted image 20231223133602.png",
     "images/Pasted image 20231223133518.png",
     "images/Pasted image 20231223133023.png",
     "images/Pasted image 20231223124924.png",
     "images/Pasted image 20231223123958.png",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/perigee and apogee radius.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital semi-major axis.md",
     "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Ch2 Problem Sheet - Solutions.pdf",
     "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Space Debris Guidelines and Standards Problem Sheet.pdf",
     "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Ch1 Problem Sheet - Solutions.pdf",
     "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Mission Selection Payload Selection and Remote Sensing Problem Sheet.pdf",
     "(Year 3, S1) revision notes/Spacecraft sheets",
-    "(Year 3) Spacecraft Systems Engineering and Design/4 Orbit Design/Walker-Delta and Walker-Star constellations.md",
-    "(Year 3, S1) revision notes",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/Space debris Overview.md",
-    "(Year 3) Exam practice/Aero/Equation booklet 2021a.pdf",
     "images/Pasted image 20231219102838.png",
     "images/Pasted image 20231219102830.png",
     "images/Pasted image 20231219102819.png",
-    "(Year 3) Exam practice/Space systems/SESA3041_2020_21.pdf",
-    "(Year 3) Exam practice/Space systems/SESA3041_2022_23.pdf",
-    "(Year 3) Exam practice/Space systems/SESA3041_2021_22.pdf",
     "images/Pasted image 20231219101909.png"
   ]
 }
