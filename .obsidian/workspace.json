@@ -25,9 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/pressure coefficient.md",
-                "mode": "source",
+                "file": "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "618d2daaf4d412cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pressure coef",
+                "query": "Reynolds number",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/pressure coefficient.md",
+                "file": "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +194,12 @@
   },
   "active": "4d332b7d8ae16a6d",
   "lastOpenFiles": [
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/convection heat transfer coefficient.md",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/32 Introduction to viscous flow/Reynolds number.md",
+    "(Year 2) Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/approximating a turbulent BL profile.md",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/pressure coefficient.md",
     "(Year 3) Aero systems control/9 Frequency Response/Nyquist plots.md",
     "(Year 3) Aero systems control/9 Frequency Response/Nyquist stability criterion.md",
     "(Year 3) Aero systems control/9 Frequency Response/bode plot stability criteria.md",
@@ -204,12 +220,6 @@
     "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
     "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/system transfer function feature definitions.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/block diagram parts.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/first order system step response.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
-    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/Prandtl number.md",
     "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
     "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
     "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",
