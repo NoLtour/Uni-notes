@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
+                "file": "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
+                "file": "(Year 3) Aero systems control/7 PID Control/PID controller.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Reynolds number",
+                "query": "Laplace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
+                "file": "(Year 3) Aero systems control/7 PID Control/PID controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +194,16 @@
   },
   "active": "4d332b7d8ae16a6d",
   "lastOpenFiles": [
+    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
+    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
+    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/derivative of Laplace transform.md",
+    "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
     "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/convection heat transfer coefficient.md",
@@ -203,23 +213,13 @@
     "(Year 3) Aero systems control/9 Frequency Response/Nyquist plots.md",
     "(Year 3) Aero systems control/9 Frequency Response/Nyquist stability criterion.md",
     "(Year 3) Aero systems control/9 Frequency Response/bode plot stability criteria.md",
-    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/partial fractions fast method.md",
     "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
-    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/eigenvalues and eigenvectors.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/state space system controllability.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
     "(Year 3) Aero systems control/6 State-space and MIMO Systems/system observability.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/matrix rank.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/10 Matrices 3/matrix in echelon form.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/17 Integration 3/partial fractions.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/effect of additional system poles.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/first order system impulse response.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/second order system step response.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
     "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
     "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
     "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",
