@@ -13,33 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "4d332b7d8ae16a6d",
+            "id": "336574f2cd73e425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aero systems control/7 PID Control/PID controller.md",
+                "file": "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "618d2daaf4d412cd",
+            "id": "7622a63d32539ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital mean motion.md",
-                "mode": "source",
-                "source": false
+                "file": "(Year 3) Aerothermodynamics/5.3 Turbulent convection/5.3 Turbulent flow, use of Reynolds analogy Overview.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -49,38 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/obit selection.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c6a42afcd9b56902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c904a43e5ea929b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
+                "file": "(Year 2) Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "period",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital mean motion.md",
+                "file": "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,34 +180,34 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "618d2daaf4d412cd",
+  "active": "336574f2cd73e425",
   "lastOpenFiles": [
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi optimisation analysis.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi Method Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/practical post mission disposal in LEO.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/Space Debris Mitigation Overview.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/GEO post-mission disposal.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/obit selection.md",
-    "(Year 1,2) SESA2024 Astronautics/3 Launch Vehicles/the basic rocket equation.md",
-    "(Year 3) Aero systems control/7 PID Control/PID controller.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/IDAC.md",
-    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
-    "(Year 3) Aero systems control/7 PID Control/PID control Overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/multivariable systems in state space form.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/Laplace Transform overview.md",
-    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/Transfer functions and block diagrams Overview.md",
-    "(Year 3) Aero systems control/3 Transfer functions and block diagrams/transfer function variable names.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/4 Laplace transform/derivative of Laplace transform.md",
-    "(Year 3) Aerothermodynamics/4.5 Ackeret theory for supersonic aerofoils/Ackeret theory.md",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/parallel-flow heat exchanger.md",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/Heat exchangers Log mean temperature difference method Overview.md",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/heat exchanger example.md",
+    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
     "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/convection heat transfer coefficient.md",
-    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/32 Introduction to viscous flow/Reynolds number.md",
-    "(Year 2) Aerodynamics/2 Incompressible Viscous flow/3 Laminar boundary layer/approximating a turbulent BL profile.md",
-    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/pressure coefficient.md",
+    "(Year 3) Aerothermodynamics/number of transfer units method.md",
+    "(Year 3) Aerothermodynamics/5.3 Turbulent convection/5.3 Turbulent flow, use of Reynolds analogy Overview.md",
+    "(Year 2) Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
+    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
+    "(Year 3) Aero systems control/7 PID Control/PID controller.md",
+    "(Year 3) Aerothermodynamics/4.6 Optimum shape of aerofoils for supersonic flight/optimum shape of aerofoils for supersonic flight.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+    "(Year 2) Aerodynamics/Aerodynamics overview.md",
+    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/4.4 Prandtl-Glauert transformation Overview.md",
+    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/5.6 Time variant heat diffusion in 1D discretised systems Overview.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/obit selection.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs with inhomogeneous boundary conditions.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables for the elliptic PDEs.md",
+    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital mean motion.md",
+    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi optimisation analysis.md",
     "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
     "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
     "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",

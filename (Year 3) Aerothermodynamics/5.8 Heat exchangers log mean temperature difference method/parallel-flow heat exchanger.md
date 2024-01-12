@@ -8,7 +8,7 @@ tags:
 
 ### Equation
 
-> ### $$\begin{align*} \dot{Q}  &=  \ln (\Delta T_{lm}) h' A &&&  \ln\frac{\Delta T_{2}}{\Delta T_{1}}  &= - \left(\frac{1}{C_{h}}+ \frac{1}{C_{c}}\right)h' A \end{align*}$$
+> ### $$\begin{align*} \dot{Q}  &=  \Delta T_{lm}  h' A &&&  \ln\frac{\Delta T_{2}}{\Delta T_{1}}  &= - \left(\frac{1}{C_{h}}+ \frac{1}{C_{c}}\right)h' A \end{align*}$$
 > ### $$\begin{align*} \frac{  \Delta T_{1} - \Delta T_{2}   }{\ln\frac{\Delta T_{1}}{\Delta T_{2}}} &= \Delta T_{lm}   \end{align*}$$
 > ### $$\begin{align*} \Delta T &= T_{h} - T_{c}  &&& \Delta T_{1} &= T_{h,i} - T_{c,i}  &&&  \Delta T_{2} &= T_{h,o} - T_{c,o}  \end{align*}$$
 >> where:
