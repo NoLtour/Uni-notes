@@ -28,18 +28,6 @@
             }
           },
           {
-            "id": "7622a63d32539ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7a0e022d00f27844",
             "type": "leaf",
             "state": {
@@ -52,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,14 +163,16 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "7622a63d32539ddd",
+  "active": "336574f2cd73e425",
   "lastOpenFiles": [
+    "2021-12-09.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
     "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
     "(Year 3) Advanced Astronautics/Ch 1 Power System/1.5 Design Process/1.5 Design process and trades for the power system overview.md",
     "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
     "(Year 3) Advanced Astronautics/Ch 4/4.1/4.1 Key orbital concepts Overview.md",
     "(Year 3) Advanced Astronautics/Ch 1 Power System/1.3 Photovoltaic-Battery System/1.3 Photovoltaic-Battery System Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
     "(Year 2) Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
     "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
     "(Year 2) Aerodynamics/Aerodynamics overview.md",
@@ -195,7 +184,6 @@
     "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/parallel-flow heat exchanger.md",
     "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/Heat exchangers Log mean temperature difference method Overview.md",
     "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/heat exchanger example.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
     "(Year 3) Aerothermodynamics/number of transfer units method.md",
     "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
     "(Year 3) Aero systems control/7 PID Control/PID controller.md",
@@ -203,7 +191,6 @@
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/4.4 Prandtl-Glauert transformation Overview.md",
     "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
     "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
     "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",
