@@ -13,50 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "336574f2cd73e425",
+            "id": "6731e415eee3d9df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
+                "file": "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "7622a63d32539ddd",
+            "id": "0b48a9e76ef099cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/5.3 Turbulent convection/5.3 Turbulent flow, use of Reynolds analogy Overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7a0e022d00f27844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 2) Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
+                "file": "(Year 1,2) SESA2024 Astronautics/10 Thermal control/total radiation absorption transmittance and reflectance.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "maintenance problem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
+                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,34 +169,34 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "336574f2cd73e425",
+  "active": "075671ccff8c4b69",
   "lastOpenFiles": [
-    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/parallel-flow heat exchanger.md",
-    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/Heat exchangers Log mean temperature difference method Overview.md",
-    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/heat exchanger example.md",
-    "(Year 3) Aerothermodynamics/5.8 Heat exchangers log mean temperature difference method/counter-flow heat exchanger.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-    "(Year 3) Aerothermodynamics/number of transfer units method.md",
-    "(Year 3) Aerothermodynamics/5.3 Turbulent convection/5.3 Turbulent flow, use of Reynolds analogy Overview.md",
-    "(Year 2) Aerodynamics/5 finite wing theory/Finite wing theory overview.md",
-    "(Year 3) Aero systems control/9 Frequency Response/Frequency Response Overview.md",
-    "(Year 3) Aero systems control/7 PID Control/PID controller.md",
-    "(Year 3) Aerothermodynamics/4.6 Optimum shape of aerofoils for supersonic flight/optimum shape of aerofoils for supersonic flight.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "(Year 2) Aerodynamics/Aerodynamics overview.md",
-    "(Year 3) Aerothermodynamics/4.4 Prandtl-Glauert transformation/4.4 Prandtl-Glauert transformation Overview.md",
-    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/5.6 Time variant heat diffusion in 1D discretised systems Overview.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/obit selection.md",
-    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
-    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
-    "(Year 3) Aero systems control/4 Response of dynamic systems/Response of dynamic systems Overview.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs with inhomogeneous boundary conditions.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables for the elliptic PDEs.md",
-    "(Year 1,2) SESA2024 Astronautics/5 Mission analysis/orbital mean motion.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/3 Taguchi method/Taguchi optimisation analysis.md",
+    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.3/4.3 Orbit representation Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.2/4.2 Orbit Properties Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.3 Photovoltaic-Battery System/1.3 Photovoltaic-Battery System Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.5 Design Process/1.5 Design process and trades for the power system overview.md",
+    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/total radiation absorption transmittance and reflectance.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.1/Newtons second law in non inertial frame.md",
+    "(Year 3) Advanced Astronautics/Ch 4/4.1/4.1 Key orbital concepts Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 3 EDL/3 Entry, decent and landing Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/Oppenheim radiation network.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/view factor and radiation exchange.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/infrared emissivity.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/solar absorptivity.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology/2.3 Design Methodology Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/brief description of thermal control methods.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/2.1 Thermal Control System intro Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/effect of temperature on solar panel output.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/effect of angle on solar panel output.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/initial estimation of sub system mass.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/(source I made it the fuck up).md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/selection of system voltage.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/yes I did use that word.md",
+    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
     "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
     "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
     "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",

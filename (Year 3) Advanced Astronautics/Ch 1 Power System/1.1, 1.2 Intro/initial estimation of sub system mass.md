@@ -5,7 +5,7 @@ tags: []
 
 ## Initial estimation of sub system mass
 
-When starting subsystem design you need some ballpark idea of how large certain systems should probably be... we engineers are quite good at this and have determined a perfect and accurate method, we call it [[guessing|(source I made it the fuck up)]].
+When starting subsystem design you need some ballpark idea of how large certain systems should probably be... we engineers are quite good at this and have determined a perfect and accurate method, we call it [[(source I made it the fuck up)|guessing]].
 
 ### Power subsystem
 

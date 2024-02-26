@@ -10,6 +10,7 @@ Any 2 surface's with a view of one another can emit radiation that can be absorb
 > ### $$\begin{align*} Q_{net,1\to2}  &= A_{1} F_{1\to2} \varepsilon_{1} \sigma (T_{1}^{4} - T_{2}^{4})  \end{align*}$$
 > ### $$\begin{align*} Q_{net,2\to1}  &= A_{2} F_{2\to1} \varepsilon_{2} \sigma (T_{2}^{4} - T_{1}^{4})  \end{align*}$$
 > ### $$\begin{align*} A_{1} F_{1\to2} &= A_{2} F_{2\to1} \end{align*}$$
+> ### $$\begin{align*} \sum\limits F_{1\to i} &= 1 \end{align*}$$
 >> where:
 >> $Q_{net,a\to b}=$ Heat transfer from $a$ to $b$ 
 >> $F_{a\to b}=$ [[view factor]] from $a$ to $b$

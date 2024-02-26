@@ -9,9 +9,9 @@ tags: []
 
 > ### $$\begin{align*} m\ddot{\vec{x}}  &=  \left[ \sum\limits\vec{F}(s) \right] - m \ddot{\vec{x}}_{f} \end{align*}$$
 >> where:
->> $x=$ The moving objects position (in the [[non-inertial frame]]) 
->> $x_{f}=$ The position of the [[non-inertial frame]] relative to an [[inertial frame of reference|inertial frame]]
->> $\vec{F}=$ A force acting on the object
+>> $\vec{x}=$ The moving objects position (in the [[non-inertial frame]]) 
+>> $\vec{x}_{f}=$ The position of the [[non-inertial frame]] relative to an [[inertial frame of reference|inertial frame]]
+>> $\vec{F}=$ A force acting on the object (in the [[non-inertial frame]]) 
 >> $m=$ The mass of the moving object
 
 We often describe this additional term ($m \ddot{\vec{x}}_{f}$) as a "fictitious force", it is an imaginary force acting proportional and opposite to the "absolute" acceleration of the reference frame.

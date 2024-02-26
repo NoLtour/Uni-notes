@@ -7,8 +7,8 @@ tags: []
 
 The [[spacecraft electrical bus|bus]] voltage is critical, as it effects much of the electrical system design. 
 
-### [[Minmaxing|yes I did use that word]] voltage
-
+### [[yes I did use that word|Minmaxing]] voltage
+ 
 #### Why it should increase forever
 Ideally you want a really high bus voltage, since it reduces electrical losses in wires improving efficiency and reducing probably undesirable heating. Think back to the power equation:
 

@@ -41,13 +41,14 @@ The "resistance"
 
 $$\begin{align*}
 R_{1} &= \frac{\varepsilon_{IR}}{1-\varepsilon_{IR}} A_{A} & R_{2} &= \frac{\varepsilon_{S}}{1-\varepsilon_{S}} A_{S} & R_{3} &= \frac{\varepsilon_{IR}}{1-\varepsilon_{IR}} A_{B}\\
-&= 0.754 &&& &= 0.754
+&= 0.754 &&=(not\:used)& &= 0.754
 \end{align*}$$
 
 others:
 
 $$\begin{align*}
-R_{4} &= A_{A} F_{A\to S} & R_{5} &= A_{B} F_{B\to S} & R_{6} &= A_{A} F_{A\to B}
+R_{4} &= A_{A} F_{A\to S} & R_{5} &= A_{B} F_{B\to S} & R_{6} &= A_{A} F_{A\to B}\\
+&= 0.319 & &= 0.319 & &= 0.812
 \end{align*}$$
 
 Then we can create set's of simultaneous equations for nodes:
@@ -75,8 +76,6 @@ $$\begin{align*}
 {T}_{B}^{4} &= 1.33\times10^{10} & T_{B}&= 340\\
 {J}_{B} &= 753\\
 \end{align*}$$
+ 
 
-Error not getting right ans https://docs.google.com/spreadsheets/d/1k1AZ5Wgv3xKkt-p3K0CtuVLnrkaoljeTRJmpkcM5Fsg/edit#gid=0
-
-
-![[Pasted image 20231121155517.png]]
+ 
