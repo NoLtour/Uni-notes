@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cfdd525fecbe94ed",
+        "id": "920bb3941347f2ad",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f1af4df2ac16bc",
+            "id": "c7b153a08a5b2a53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6731e415eee3d9df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0b48a9e76ef099cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) SESA2024 Astronautics/10 Thermal control/total radiation absorption transmittance and reflectance.md",
-                "mode": "preview",
+                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
+                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,53 +143,52 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "075671ccff8c4b69",
+  "active": "c7b153a08a5b2a53",
   "lastOpenFiles": [
-    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.3/4.3 Orbit representation Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.2/4.2 Orbit Properties Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.3 Photovoltaic-Battery System/1.3 Photovoltaic-Battery System Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/1.1, 1.2 Power systems Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.5 Design Process/1.5 Design process and trades for the power system overview.md",
+    "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/2.1 Wing Components Overview.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/torsion box.md",
+    "images/Pasted image 20240227190848.png",
+    "images/416141_1_En_8_Fig9_HTML-1086562357.png",
+    "(Year 3) Aircraft Structures/2 Wing structural details/crack retardation.md",
+    "images/Pasted image 20240227190430.png",
+    "images/Pasted image 20240227185459.png",
+    "images/Pasted image 20240227184943.png",
+    "images/Pasted image 20240227184848.png",
+    "(Year 3) Aircraft Structures/2 Wing structural details/on crack and retarded.md",
+    "images/z9tbhcpob8ab1.jpg",
+    "(Year 3) Aircraft Structures/2 Wing structural details/stringer.md",
+    "images/Pasted image 20240227184204.png",
+    "(Year 3) Aircraft Structures/1 Intro/longeron.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/skin.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/stiffener.md",
+    "images/Pasted image 20240227183611.png",
+    "(Year 3) Aircraft Structures/2 Wing structural details/ribs.md",
+    "images/Pasted image 20240227182810.png",
+    "(Year 3) Aircraft Structures/2 Wing structural details/wing structural components names.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/spar.md",
     "(Year 1,2) SESA2024 Astronautics/10 Thermal control/total radiation absorption transmittance and reflectance.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1/Newtons second law in non inertial frame.md",
-    "(Year 3) Advanced Astronautics/Ch 4/4.1/4.1 Key orbital concepts Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 3 EDL/3 Entry, decent and landing Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/Oppenheim radiation network.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/view factor and radiation exchange.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/infrared emissivity.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/solar absorptivity.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.3 Design Methodology/2.3 Design Methodology Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.2 System options/brief description of thermal control methods.md",
+    "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details",
+    "(Year 3) Aircraft Structures/1 Intro/aircraft structures key terms.md",
+    "(Year 3) Aircraft Structures/1 Intro/made up by me.md",
+    "images/video0-1.mp4",
+    "(Year 3) Aircraft Structures/1 Intro/stressed skin.md",
+    "(Year 3) Aircraft Structures/1 Intro/rigid frame.md",
+    "(Year 3) Aircraft Structures/1 Intro/monocoque.md",
+    "(Year 3) Aircraft Structures/1 Intro",
+    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/spacecraft maintenance problem.md",
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/2.1 Thermal Control System intro Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/effect of temperature on solar panel output.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/effect of angle on solar panel output.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/initial estimation of sub system mass.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/(source I made it the fuck up).md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/selection of system voltage.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/yes I did use that word.md",
-    "(Year 3) Aerothermodynamics/5.1 5.2 Conduction and convection heat transfer/5.1 5.2 Conduction and convection heat transfer Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
+    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
     "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
     "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
     "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",
     "(Year 3) Aerothermodynamics/Eq books",
     "(Year 3) Aerothermodynamics/New folder",
-    "images/Pasted image 20231223140244.png",
-    "images/Pasted image 20231223133602.png",
-    "images/Pasted image 20231223133518.png",
-    "images/Pasted image 20231223133023.png",
-    "images/Pasted image 20231223124924.png",
-    "images/Pasted image 20231223123958.png",
     "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Ch2 Problem Sheet - Solutions.pdf",
-    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Space Debris Guidelines and Standards Problem Sheet.pdf",
-    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Ch1 Problem Sheet - Solutions.pdf",
-    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Mission Selection Payload Selection and Remote Sensing Problem Sheet.pdf",
-    "(Year 3, S1) revision notes/Spacecraft sheets",
-    "images/Pasted image 20231219102838.png",
-    "images/Pasted image 20231219102830.png",
-    "images/Pasted image 20231219102819.png",
-    "images/Pasted image 20231219101909.png"
+    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Space Debris Guidelines and Standards Problem Sheet.pdf"
   ]
 }
