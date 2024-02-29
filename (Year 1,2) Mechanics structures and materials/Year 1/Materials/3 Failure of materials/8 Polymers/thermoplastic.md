@@ -7,3 +7,4 @@ tags: ["Question","QFormat3"]
 ## Thermoplastic
 This is a plastic [[polymers|polymer]] material that becomes pliable or moldable at a certain elevated temperature and solidifies upon cooling.
 
+Generally quite recyclable as you can remould them by heating.

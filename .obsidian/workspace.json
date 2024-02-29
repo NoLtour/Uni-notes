@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aircraft Structures/2 Wing structural details/2.2 Composite Wings Overview.md",
+                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aircraft Structures/2 Wing structural details/2.2 Composite Wings Overview.md",
+                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,20 @@
   },
   "active": "c7b153a08a5b2a53",
   "lastOpenFiles": [
-    "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/2.2 Composite Wings Overview.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/joining composites.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/aeroelastic tailoring.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/isotropic material properties.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/anisotropic material properties.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/u stupid or somtin.md",
+    "images/Doohicky_Corp.mp4",
+    "images/Pasted image 20240229142942.png",
+    "(Year 3) Aircraft Structures/2 Wing structural details/composites in aircraft structures.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/delamination.md",
+    "images/220px-Delamination-CFRP.jpg",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/8 Polymers/thermosetting polymers.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/8 Polymers/thermoplastic.md",
+    "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/2.1 Wing Components Overview.md",
     "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/torsion box.md",
@@ -164,32 +176,19 @@
     "(Year 3) Aircraft Structures/1 Intro/longeron.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/skin.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/stiffener.md",
-    "images/Pasted image 20240227183611.png",
     "(Year 3) Aircraft Structures/2 Wing structural details/ribs.md",
-    "images/Pasted image 20240227182810.png",
     "(Year 3) Aircraft Structures/2 Wing structural details/wing structural components names.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/spar.md",
     "(Year 1,2) SESA2024 Astronautics/10 Thermal control/total radiation absorption transmittance and reflectance.md",
     "(Year 3) Aircraft Structures/2 Wing structural details",
     "(Year 3) Aircraft Structures/1 Intro/aircraft structures key terms.md",
-    "(Year 3) Aircraft Structures/1 Intro/made up by me.md",
     "images/video0-1.mp4",
-    "(Year 3) Aircraft Structures/1 Intro/stressed skin.md",
-    "(Year 3) Aircraft Structures/1 Intro/rigid frame.md",
-    "(Year 3) Aircraft Structures/1 Intro/monocoque.md",
     "(Year 3) Aircraft Structures/1 Intro",
-    "(Year 3) Spacecraft Systems Engineering and Design/Spacecraft Systems Engineering and Design Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.4 Array Performance/1.4 Array Performance Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/spacecraft maintenance problem.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/2.1 Thermal Control System intro Overview.md",
-    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.4 Basic analytical equations and relations/2.4 Basic Analytical Equations and Relations Overview.md",
-    "(Year 3) Advanced Astronautics/Advanced Astronautics Overview.md",
     "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
     "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
     "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",
     "(Year 3) Aerothermodynamics/Eq books",
     "(Year 3) Aerothermodynamics/New folder",
-    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Ch2 Problem Sheet - Solutions.pdf",
-    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Space Debris Guidelines and Standards Problem Sheet.pdf"
+    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Ch2 Problem Sheet - Solutions.pdf"
   ]
 }
