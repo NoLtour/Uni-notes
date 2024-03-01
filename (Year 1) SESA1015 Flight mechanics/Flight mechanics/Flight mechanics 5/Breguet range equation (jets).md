@@ -13,7 +13,7 @@ It is an equation that can be used to find the total ange of an aircraft.
 > ### $$R = \frac{1}{s} V\frac{L}{D} \ln\left(1+\frac{W_f}{W_s}\right)$$ 
 >> where:
 >> $R=$ range
->> $V=$ [[True airspeed]]
+>> $V=$ [[true airspeed]]
 >> $s=$ [[specific fuel consumption (aircraft)|s.f.c]]
 >> $\frac{L}{D}=$ [[lift to drag ratio]]
 >> $W_f=$ starting fuel weight

@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7b153a08a5b2a53",
+            "id": "0e105c22982463ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+                "file": "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "405a857900bd894f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+                "file": "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +143,29 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "405a857900bd894f",
+  "active": "0e105c22982463ec",
   "lastOpenFiles": [
+    "(Year 3) Aircraft Structures/3/calibrated airspeed.md",
+    "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
+    "(Year 3) Aircraft Structures/3/V-n diagram.md",
+    "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+    "images/Pasted image 20240301185244.png",
+    "(Year 3) Aircraft Structures/3/maximum load factor.md",
+    "(Year 3) Aircraft Structures/3/symmetric manoeuvre.md",
+    "(Year 3) Aircraft Structures/3/or as I call them expendable meat sacks.md",
+    "images/RDT_20231224_213141.mp4",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/pitching moment coefficient.md",
+    "(Year 3) Aircraft Structures/AircraftStructuralDesign_v2.9.pdf",
+    "(Year 3) Aircraft Structures/3",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/aircraft geometry/Mean chord.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 3/aerodynamic centre.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 4/stalling speed.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/true airspeed.md",
+    "(Year 3) Aircraft Structures/3/aka primary school physics.md",
+    "images/IMG_2968.jpg",
+    "images/Pasted image 20240301174321.png",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
+    "images/Pasted image 20240301173905.png",
     "(Year 3) Aircraft Structures/2 Wing structural details/2.2 Composite Wings Overview.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/joining composites.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/aeroelastic tailoring.md",
@@ -169,37 +179,17 @@
     "images/220px-Delamination-CFRP.jpg",
     "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/8 Polymers/thermosetting polymers.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/8 Polymers/thermoplastic.md",
-    "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/2.1 Wing Components Overview.md",
     "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/torsion box.md",
     "images/Pasted image 20240227190848.png",
     "images/416141_1_En_8_Fig9_HTML-1086562357.png",
-    "(Year 3) Aircraft Structures/2 Wing structural details/crack retardation.md",
     "images/Pasted image 20240227190430.png",
     "images/Pasted image 20240227185459.png",
-    "images/Pasted image 20240227184943.png",
-    "images/Pasted image 20240227184848.png",
-    "(Year 3) Aircraft Structures/2 Wing structural details/on crack and retarded.md",
-    "images/z9tbhcpob8ab1.jpg",
-    "(Year 3) Aircraft Structures/2 Wing structural details/stringer.md",
-    "images/Pasted image 20240227184204.png",
-    "(Year 3) Aircraft Structures/1 Intro/longeron.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/skin.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/stiffener.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/ribs.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/wing structural components names.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/spar.md",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/total radiation absorption transmittance and reflectance.md",
     "(Year 3) Aircraft Structures/2 Wing structural details",
-    "(Year 3) Aircraft Structures/1 Intro/aircraft structures key terms.md",
     "images/video0-1.mp4",
     "(Year 3) Aircraft Structures/1 Intro",
     "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
     "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
-    "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",
-    "(Year 3) Aerothermodynamics/Eq books",
-    "(Year 3) Aerothermodynamics/New folder",
-    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Ch2 Problem Sheet - Solutions.pdf"
+    "(Year 3) Aerothermodynamics/Eq books/IFT.pdf"
   ]
 }

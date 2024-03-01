@@ -1,6 +1,9 @@
 ---
-aliases: [""]
-tags: ["Question","QFormat3"]
+aliases:
+  - max lift coefficient
+tags:
+  - Question
+  - QFormat3
 ---
 
 #### What is
