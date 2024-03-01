@@ -26,13 +26,13 @@ lunarEmissionPMMin = 0 # W/m^2
 solarEmissionPMMax = 1426 # W/m^2
 solarEmissionPMMin = 0 # W/m^2
 
-internalDissipationMax = 8 # W
-internalDissipationMin = 3 # W
+internalDissipationMax = 7 # W
+internalDissipationMin = 3.5 # W
 
 
 sunFacingCrossSection  = 0.1*0.2 # m^2
 moonFacingCrossSection = 0.1*0.2 # m^2
-totalSurfaceArea       = 0.1*0.1*( 2*1 + 2*3 + 3*1 )*2
+totalSurfaceArea       = 0.1*0.1*( 2*1 + 2*3 + 3*1 )*2 # m^2
 
 emVals = np.linspace(0, 1, 1000)
 abVals = 1-np.linspace(0, 1, 1000)

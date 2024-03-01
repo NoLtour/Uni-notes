@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "405a857900bd894f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +154,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "c7b153a08a5b2a53",
+  "active": "405a857900bd894f",
   "lastOpenFiles": [
     "(Year 3) Aircraft Structures/2 Wing structural details/2.2 Composite Wings Overview.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/joining composites.md",
