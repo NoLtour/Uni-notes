@@ -12,4 +12,4 @@ tags: ["Question","QFormat3"]
 >> $V =$  Velocity
 >> $C_D=$ [[pitching moment coefficient]]
 >> $S=$ [[refrence wing area]]
->> $l=$ [[typical length|Reference length]]
+>> $l=$ [[typical length|Reference length]] (usually $l=\bar{c}$, [[Mean chord]])

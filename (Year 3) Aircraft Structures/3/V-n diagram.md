@@ -19,6 +19,4 @@ n &= \frac{\frac{1}{2} \rho S C_{L} V^{2}}{W} &&\to& n &= \frac{\frac{1}{2} S \f
 
 Looking at how load factor changes for different densities, we'll need [[V-n diagram]]s for different altitudes. The mass value's also of interest, since the [[V-n diagram]] will change depending on cargo and fuel.
 
-![[Pasted image 20240301185244.png]]
-
-
+![[aircraft design speeds#Aircraft design speeds]]

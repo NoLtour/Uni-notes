@@ -14,7 +14,7 @@ Alternatively (the better format subbing in for [[relative density (planes)]]):
 
 > $$ V_E \cdot \sqrt{ \rho_0 }= V \cdot \sqrt{ \rho } $$ 
 >> where:
->> $V_E=$ [[Equivalent Airspeed]]
+>> $V_E=$ [[equivalent airspeed]]
 >> $V=$ [[true airspeed]]
 >> $\rho_0=$ Air density at sea level
 >> $\rho=$ Local air density
