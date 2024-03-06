@@ -10,6 +10,6 @@ tags: ["Question","QFormat3"]
 >> $M =$ Pitching moment
 >> $\rho =$ density of air
 >> $V =$  Velocity
->> $C_D=$ [[Pitching moment coefficient]]
+>> $C_D=$ [[pitching moment coefficient]]
 >> $S=$ [[refrence wing area]]
->> $l=$ [[typical length|Reference length]]
+>> $l=$ [[typical length|Reference length]] (usually $l=\bar{c}$, [[Mean chord]])

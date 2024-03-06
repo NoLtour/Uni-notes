@@ -46,7 +46,7 @@ Hence focusing on speed:
 > $$ D = A'V^{2} + \frac{B'}{V^{2}} $$ 
 >> where:
 >> $D=$ Drag 
->> $V=$ [[True airspeed]]
+>> $V=$ [[true airspeed]]
 >> $A'=$ A constant $=\frac{1}{2}\rho S C_{Do}$
 >> $B'=$ A constant $=\frac{2 K}{ \pi A} \cdot \frac{ W^{2}}{ \rho S }$
 >> (They are only constants in steady flight)

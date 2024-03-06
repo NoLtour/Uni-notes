@@ -27,7 +27,7 @@ Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from
 >> where:
 >> $C_{M_{CG}} =$  moment coefficient around the centre of gravity
 >> $x_{AC} =$ distance between aerodynamic centre and centre of gravity
->> $C_{m_0} =$ ?!?
+>> $C_{m_0} =$ [[pitching moment coefficient]]
 >> $c =$ [[Mean chord|Mean aerodynamic chord]]
 >> $C_L =$ [[lift coefficient]]
 >> $h =$ a constant

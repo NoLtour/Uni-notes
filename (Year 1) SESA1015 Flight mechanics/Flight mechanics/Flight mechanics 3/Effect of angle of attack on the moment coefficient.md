@@ -6,7 +6,7 @@ tags: ["Question","QFormat3","SESA1015"]
 #### What is the
 ## Effect of angle of attack on the moment coefficient
 #### How the angle of attack effects forces on the airfoil
-Pressure moves with the angle of attack, which effects the [[Pitching moment coefficient]].
+Pressure moves with the angle of attack, which effects the [[pitching moment coefficient]].
 ![[Pasted image 20211021193231.png]]
 
 #### How the angle of attack effects moments
@@ -17,12 +17,12 @@ This graph presents some important informataion, mainly the difference between t
 
 #### Mathamatical representation
 ![[Pasted image 20211025214835.png]]
-The variation of the [[Pitching moment coefficient]] is:
+The variation of the [[pitching moment coefficient]] is:
 
 > $$ C_m = C_{mo} - h C_L $$ 
 >> where:
->> $C_m =$ [[Pitching moment coefficient]]
->> $C_{mo} =$ [[Pitching moment coefficient]] at zero lift
+>> $C_m =$ [[pitching moment coefficient]]
+>> $C_{mo} =$ [[pitching moment coefficient]] at zero lift
 >> $h =$ a constant
 >> $C_L =$ [[lift coefficient]]
 

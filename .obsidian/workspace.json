@@ -8,14 +8,86 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7b153a08a5b2a53",
+            "id": "0e105c22982463ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc015690010f687c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aircraft Structures/3/load per unit length on a wing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92522cf86ecea238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "8fd6cd1c7322488d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32565d21a5d3b9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aircraft Structures/3/3.3 Total Loading on the Wing Overview.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5f5675a5003386d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e5a30b76cfb1031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aircraft Structures/3/P-n diagram.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -143,52 +215,52 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "c7b153a08a5b2a53",
+  "active": "0e105c22982463ec",
   "lastOpenFiles": [
-    "(Year 3) Aircraft Structures/2 Wing structural details/2.2 Composite Wings Overview.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/joining composites.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/aeroelastic tailoring.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/isotropic material properties.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/anisotropic material properties.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/u stupid or somtin.md",
-    "images/Doohicky_Corp.mp4",
-    "images/Pasted image 20240229142942.png",
-    "(Year 3) Aircraft Structures/2 Wing structural details/composites in aircraft structures.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/delamination.md",
-    "images/220px-Delamination-CFRP.jpg",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/8 Polymers/thermosetting polymers.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/3 Failure of materials/8 Polymers/thermoplastic.md",
+    "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
+    "images/Pasted image 20240302211633.png",
+    "(Year 3) Aircraft Structures/3/full load and light load wing forces.md",
+    "images/Pasted image 20240302210319.png",
     "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/2.1 Wing Components Overview.md",
-    "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/torsion box.md",
-    "images/Pasted image 20240227190848.png",
-    "images/416141_1_En_8_Fig9_HTML-1086562357.png",
-    "(Year 3) Aircraft Structures/2 Wing structural details/crack retardation.md",
-    "images/Pasted image 20240227190430.png",
-    "images/Pasted image 20240227185459.png",
-    "images/Pasted image 20240227184943.png",
-    "images/Pasted image 20240227184848.png",
-    "(Year 3) Aircraft Structures/2 Wing structural details/on crack and retarded.md",
-    "images/z9tbhcpob8ab1.jpg",
-    "(Year 3) Aircraft Structures/2 Wing structural details/stringer.md",
-    "images/Pasted image 20240227184204.png",
-    "(Year 3) Aircraft Structures/1 Intro/longeron.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/skin.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/stiffener.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/ribs.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/wing structural components names.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/spar.md",
-    "(Year 1,2) SESA2024 Astronautics/10 Thermal control/total radiation absorption transmittance and reflectance.md",
+    "(Year 3) Aircraft Structures/3/3.3 Total Loading on the Wing Overview.md",
+    "(Year 3) Aircraft Structures/3/equations for loading forces on a wing.md",
+    "images/Pasted image 20240302203746.png",
+    "images/Pasted image 20240302203650.png",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
+    "(Year 3) Aircraft Structures/3/I am just vibing to this music.md",
+    "images/20231104_祈祷.mp4",
+    "(Year 3) Aircraft Structures/3/load per unit length on a wing.md",
+    "images/Pasted image 20240302193756.png",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
+    "images/The Binding of Isaac - My Innermost Apocalypse Recreated - .mp3",
+    "(Year 3) Aircraft Structures/3/3.2 Tail and gust load factor Overview.md",
+    "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
+    "(Year 3) Aircraft Structures/3/effect of gusts on load factor after gust alleviation factor.md",
+    "(Year 3) Aircraft Structures/3/effect of gusts on load factor.md",
+    "(Year 3) Aircraft Structures/3/mathamaticians can cope and seeth.md",
+    "images/e17b3612e79aa510f2b218ff7ca08d014d9a8996b2b9420256ccdb138a0afcc8 1.png",
+    "(Year 3) Aircraft Structures/3/gust V-n diagram.md",
+    "images/Pasted image 20240302183530.png",
+    "images/Pasted image 20240302183225.png",
+    "images/Pasted image 20240302175426.png",
+    "images/Pasted image 20240302173102.png",
+    "(Year 3) Aircraft Structures/3/P-n diagram.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/Pitching moment equation.md",
+    "(Year 3) Aircraft Structures/3/aircraft design speeds.md",
+    "(Year 3) Aircraft Structures/3/V-n diagram.md",
+    "(Year 3) Aircraft Structures/3/equivalent airspeed and load factor relation.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/pitot-static tube.md",
+    "images/RDT_20231224_213141.mp4",
+    "(Year 3) Aircraft Structures/Slides n stuff/AircraftStructuralDesign_v2.9.pdf",
+    "(Year 3) Aircraft Structures/3",
+    "images/Doohicky_Corp.mp4",
     "(Year 3) Aircraft Structures/2 Wing structural details",
-    "(Year 3) Aircraft Structures/1 Intro/aircraft structures key terms.md",
     "images/video0-1.mp4",
     "(Year 3) Aircraft Structures/1 Intro",
-    "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf",
-    "(Year 3) Aerothermodynamics/Eq books/NST.pdf",
-    "(Year 3) Aerothermodynamics/Eq books/IFT.pdf",
-    "(Year 3) Aerothermodynamics/Eq books",
-    "(Year 3) Aerothermodynamics/New folder",
-    "(Year 3, S1) revision notes/Spacecraft sheets/SESA3041-6079 Ch2 Problem Sheet - Solutions.pdf"
+    "(Year 3) Aerothermodynamics/Eq books/obshock_dist.pdf"
   ]
 }
