@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+                "file": "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maintenance problem",
+                "query": "curl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+                "file": "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,11 +218,11 @@
   },
   "active": "0e105c22982463ec",
   "lastOpenFiles": [
+    "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
     "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "images/Pasted image 20240302211633.png",
     "(Year 3) Aircraft Structures/3/full load and light load wing forces.md",
     "images/Pasted image 20240302210319.png",
-    "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
     "(Year 3) Aircraft Structures/3/3.3 Total Loading on the Wing Overview.md",
     "(Year 3) Aircraft Structures/3/equations for loading forces on a wing.md",
     "images/Pasted image 20240302203746.png",
