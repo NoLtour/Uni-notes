@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/1U Vectors 1/dot product (vectors).md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/1U Vectors 1/dot product (vectors).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,6 +218,10 @@
   },
   "active": "0e105c22982463ec",
   "lastOpenFiles": [
+    "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
+    "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/1U Vectors 1/unit vector.md",
+    "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
     "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
     "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "images/Pasted image 20240302211633.png",
@@ -252,9 +256,6 @@
     "(Year 3) Aircraft Structures/3/P-n diagram.md",
     "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/Pitching moment equation.md",
     "(Year 3) Aircraft Structures/3/aircraft design speeds.md",
-    "(Year 3) Aircraft Structures/3/V-n diagram.md",
-    "(Year 3) Aircraft Structures/3/equivalent airspeed and load factor relation.md",
-    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/pitot-static tube.md",
     "images/RDT_20231224_213141.mp4",
     "(Year 3) Aircraft Structures/Slides n stuff/AircraftStructuralDesign_v2.9.pdf",
     "(Year 3) Aircraft Structures/3",
