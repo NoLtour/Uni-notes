@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "c94579144e36c6b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "fc015690010f687c",
             "type": "leaf",
             "state": {
@@ -91,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +226,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0e105c22982463ec",
+  "active": "c94579144e36c6b0",
   "lastOpenFiles": [
     "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "images/Pasted image 20240302211633.png",
