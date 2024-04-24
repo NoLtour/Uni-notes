@@ -8,96 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e105c22982463ec",
+            "id": "c94579144e36c6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+                "file": "(Year 3, my IP) SLAM research/Maths/Featureless pose adjustment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c94579144e36c6b0",
+            "id": "dfe5de6386b7c2a8",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "fc015690010f687c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aircraft Structures/3/load per unit length on a wing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92522cf86ecea238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8fd6cd1c7322488d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32565d21a5d3b9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aircraft Structures/3/3.3 Total Loading on the Wing Overview.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5f5675a5003386d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e5a30b76cfb1031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3) Aircraft Structures/3/P-n diagram.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -176,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
+                "file": "(Year 3, my IP) SLAM research/Maths/Featureless pose adjustment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,8 +154,9 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "c94579144e36c6b0",
+  "active": "dfe5de6386b7c2a8",
   "lastOpenFiles": [
+    "(Year 3, my IP) SLAM research/Maths/Featureless pose adjustment.md",
     "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "images/Pasted image 20240302211633.png",
     "(Year 3) Aircraft Structures/3/full load and light load wing forces.md",
