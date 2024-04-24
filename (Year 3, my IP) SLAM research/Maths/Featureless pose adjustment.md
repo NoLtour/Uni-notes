@@ -2,8 +2,8 @@
 Windows are masked according to the certainty present in each
 $$\begin{align*}
 M_{cert} &= \text{abs}(F_{r} \circ F_{t})\\\\
-W_{r} &= F_{r} \circ M_{cert}\\
-W_{t} &= F_{t} \circ M_{cert}\\
+W_{r} &= F_{r}^{\circ 3} \circ M_{cert}\\
+W_{t} &= F_{t}^{\circ 3} \circ M_{cert}\\
 \end{align*}$$
 Convolution (discrete):
 
