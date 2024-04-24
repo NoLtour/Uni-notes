@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e105c22982463ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/1U Vectors 1/dot product (vectors).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc015690010f687c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aircraft Structures/3/load per unit length on a wing.md",
-                "mode": "source",
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "316616a89cfa0f37",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           },
@@ -91,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curl",
+                "query": "divergance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -145,8 +144,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/1U Vectors 1/dot product (vectors).md",
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,9 +214,15 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0e105c22982463ec",
+  "active": "316616a89cfa0f37",
   "lastOpenFiles": [
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/divergence theorem.md",
     "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/flux integrals.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
+    "(Year 3) Aircraft Structures/3/load per unit length on a wing.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/1U Vectors 1/dot product (vectors).md",
     "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/del operator.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/1U Vectors 1/unit vector.md",
     "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/curl of a vector.md",
@@ -234,7 +238,6 @@
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
     "(Year 3) Aircraft Structures/3/I am just vibing to this music.md",
     "images/20231104_祈祷.mp4",
-    "(Year 3) Aircraft Structures/3/load per unit length on a wing.md",
     "images/Pasted image 20240302193756.png",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
@@ -246,16 +249,11 @@
     "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
     "(Year 3) Aircraft Structures/3/effect of gusts on load factor after gust alleviation factor.md",
     "(Year 3) Aircraft Structures/3/effect of gusts on load factor.md",
-    "(Year 3) Aircraft Structures/3/mathamaticians can cope and seeth.md",
     "images/e17b3612e79aa510f2b218ff7ca08d014d9a8996b2b9420256ccdb138a0afcc8 1.png",
-    "(Year 3) Aircraft Structures/3/gust V-n diagram.md",
     "images/Pasted image 20240302183530.png",
     "images/Pasted image 20240302183225.png",
     "images/Pasted image 20240302175426.png",
     "images/Pasted image 20240302173102.png",
-    "(Year 3) Aircraft Structures/3/P-n diagram.md",
-    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/Pitching moment equation.md",
-    "(Year 3) Aircraft Structures/3/aircraft design speeds.md",
     "images/RDT_20231224_213141.mp4",
     "(Year 3) Aircraft Structures/Slides n stuff/AircraftStructuralDesign_v2.9.pdf",
     "(Year 3) Aircraft Structures/3",
