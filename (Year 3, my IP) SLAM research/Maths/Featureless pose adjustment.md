@@ -24,7 +24,7 @@ E_{dif} &= W_{r} - W_{t} \\
 
 Interest mask, representing the region where both overlap:
 $$\begin{align*}
-M_{overlap} &= (W_{r} > 0) \land (W_{t} > 0)
+M_{overlap,ij} &= (W_{r,ij} > 0) \land (W_{t,ij} > 0)
 \end{align*}$$
 
 Scaling multiplier:
@@ -35,9 +35,9 @@ l &= \min\left( \sum  [W_{r} \circ (W_{r} >0)],\:\: \sum  [W_{t} \circ (W_{t} >0
 Convolution:
 
 $$\begin{align*}
-E_{dx} &= [(E_{dif} \:*\: K_{dx} ) \circ M_{overlap}]\:lk_{x} \\
+E_{dx} &= [(E_{dif} \:*\: K_{dx} ) \circ M_{overlap}]\: \frac{k_{x}}{l} \\
 
-E_{dy} &= [(E_{dif} \:*\: K_{dy} ) \circ M_{overlap}]\:lk_{y}\\
+E_{dy} &= [(E_{dif} \:*\: K_{dy} ) \circ M_{overlap}]\: \frac{k_{y}}{l}\\
 \end{align*}$$
 
 total error:
@@ -49,7 +49,7 @@ e_{y} &= \sum\limits E_{dy}
 arrays for x and y, given in real distances and with SOMETHING as origin:
 
 $$\begin{align*}
-X &= \\
+X_{ij} &=  \\
 Y &= 
 \end{align*}$$
 
@@ -73,14 +73,28 @@ E_{\alpha} &= T_{x} \circ E_{dx} + T_{y} \circ E_{dy}
 This is bad because reasons, a mask is applied to remove bad
 
 $$\begin{align*}
-M_{edx} &= (E_{dx} !=0)\circ e_{x}\\
-M_{edy} &= (E_{dy} !=0)\circ e_{y}
+M_{edx,ij} &= \begin{cases}
+    1 & \text{if } E_{dx,ij} \:!= 0 \\
+    0 & \text{else }
+\end{cases}\\\\
+M_{edy,ij} &= \begin{cases}
+    1 & \text{if } E_{dy,ij} \:!= 0 \\
+    0 & \text{else }  
+\end{cases}\\
 \end{align*}$$
 So now:
 $$\begin{align*}
-E_{\alpha} &= T_{x} \circ (E_{dx} - M_{edx}) + T_{y} \circ (E_{dy} - M_{edy})
+E_{\alpha} &= T_{x} \circ \left[E_{dx} - M_{edx} \left(  \frac{e_{x}}{\sum\limits M_{edx}} \right) \right] + T_{y} \circ \left[E_{dy} - M_{edy} \left(  \frac{e_{y}}{\sum\limits M_{edy}} \right) \right]
 \end{align*}$$
 $$\begin{align*}
-e_{\alpha} &= - \sum\limits E_{\alpha}
+e_{\alpha} &= k_{\alpha}\sum\limits E_{\alpha}
 \end{align*}$$
 
+local translation error vector:
+$$\begin{align*}
+v_{le} &= \begin{bmatrix} e_{lx}\\e_{ly} \end{bmatrix} \:\:(?) &&& t_{c} &=\begin{bmatrix} y/R \\ x/R\end{bmatrix} \:\:(?) &&& e_{l\alpha} &= \frac{v_{le}\cdot t_{e}}{R} \:\:(?)
+\end{align*}$$
+
+$$\begin{align*}
+e_{l\alpha} &= e_{lx} \frac{y}{R^{2}} + e_{ly} \frac{x}{R^{2}} =  e_{lx} t_{x} + e_{ly} t_{y}     \:\:\:(?)
+\end{align*}$$
