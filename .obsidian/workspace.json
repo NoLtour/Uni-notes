@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0654176e45d4e6ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c5b0d052819d40ea",
             "type": "leaf",
             "state": {
@@ -143,11 +155,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "c5b0d052819d40ea",
+  "active": "0654176e45d4e6ec",
   "lastOpenFiles": [
     "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
     "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
     "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
+    "images/Pasted image 20240429132222.png",
     "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "images/Pasted image 20240302211633.png",
     "(Year 3) Aircraft Structures/3/full load and light load wing forces.md",
@@ -178,11 +191,9 @@
     "images/Pasted image 20240302183530.png",
     "images/Pasted image 20240302183225.png",
     "images/Pasted image 20240302175426.png",
-    "images/Pasted image 20240302173102.png",
     "(Year 3) Aircraft Structures/3/P-n diagram.md",
     "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/Pitching moment equation.md",
     "(Year 3) Aircraft Structures/3/aircraft design speeds.md",
-    "(Year 3) Aircraft Structures/3/V-n diagram.md",
     "images/RDT_20231224_213141.mp4",
     "(Year 3) Aircraft Structures/Slides n stuff/AircraftStructuralDesign_v2.9.pdf",
     "(Year 3) Aircraft Structures/3",
