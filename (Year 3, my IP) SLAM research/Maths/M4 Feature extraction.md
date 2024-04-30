@@ -74,3 +74,12 @@ W_{m,ij} &= \sqrt{ W_{Cdy,ij}^{2} + W_{Cdx,ij}^{2} } \:\:\: (?)
 $$\begin{align*}
 \alpha_{cm} &= \text{atan2}\left(  \sum\limits W_{Cdy,ij}^{3}, \: W_{Cdx,ij}^{3}\right) \:\: (?)
 \end{align*}$$
+
+eucild
+
+$$\begin{align*}
+s &= \sum\limits (D_{1} - D_{2})^{2} \:\:\:(?)
+\end{align*}$$
+$$\begin{aligned}
+n = \text{argmin}  \sum\limits (D_{m} - D_{i})^{2}
+\end{aligned}$$
