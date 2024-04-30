@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
+                "file": "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -158,8 +158,8 @@
   "active": "0654176e45d4e6ec",
   "lastOpenFiles": [
     "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
-    "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
     "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
+    "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
     "images/Pasted image 20240429132222.png",
     "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "images/Pasted image 20240302211633.png",
