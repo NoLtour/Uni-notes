@@ -78,8 +78,8 @@ $$\begin{align*}
 eucild
 
 $$\begin{align*}
-s &= \sum\limits (D_{1} - D_{2})^{2} \:\:\:(?)
+s &= \sum\limits_{n} (D_{1,n} - D_{2,n})^{2} \:\:\:(?)
 \end{align*}$$
 $$\begin{aligned}
-n = \text{argmin}  \sum\limits (D_{m} - D_{i})^{2}
+i_{min} = \underset{i}{\text{argmin}}   \sum\limits_{n} (D_{x,n} - D_{i,n})^{2} \:\: (?)
 \end{aligned}$$
