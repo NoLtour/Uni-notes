@@ -1,6 +1,6 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "l",
+  "replaceText": "L",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,
