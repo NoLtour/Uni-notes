@@ -23,9 +23,11 @@
             "id": "316616a89cfa0f37",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "2024-04-24.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/Vector calculus Overview.md",
+                "file": "2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,6 +218,8 @@
   },
   "active": "316616a89cfa0f37",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2024-04-24.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/divergence theorem.md",
     "(Year 2) Aerodynamics/1 Mathematical and Numerical concepts/divergence operator.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/8 Vector calculus/flux integrals.md",
@@ -247,8 +251,6 @@
     "(Year 3) Aircraft Structures/3/3.2 Tail and gust load factor Overview.md",
     "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
     "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
-    "(Year 3) Aircraft Structures/3/effect of gusts on load factor after gust alleviation factor.md",
-    "(Year 3) Aircraft Structures/3/effect of gusts on load factor.md",
     "images/e17b3612e79aa510f2b218ff7ca08d014d9a8996b2b9420256ccdb138a0afcc8 1.png",
     "images/Pasted image 20240302183530.png",
     "images/Pasted image 20240302183225.png",
