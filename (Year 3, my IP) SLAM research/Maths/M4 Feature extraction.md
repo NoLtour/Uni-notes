@@ -83,3 +83,4 @@ s &= \sum\limits_{n} (D_{1,n} - D_{2,n})^{2} \:\:\:(?)
 $$\begin{aligned}
 i_{min} = \underset{i}{\text{argmin}}   \sum\limits_{n} (D_{x,n} - D_{i,n})^{2} \:\: (?)
 \end{aligned}$$
+
