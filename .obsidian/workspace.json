@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M2 Map construction.md",
+                "file": "(Year 3, my IP) SLAM research/Concurrent/Thermal maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M2 Map construction.md",
+                "file": "(Year 3, my IP) SLAM research/Concurrent/Thermal maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,9 +169,11 @@
   },
   "active": "0654176e45d4e6ec",
   "lastOpenFiles": [
+    "(Year 3, my IP) SLAM research/Maths/M2 Map construction.md",
+    "(Year 3, my IP) SLAM research/Concurrent/Thermal maths.md",
+    "(Year 3, my IP) SLAM research/Concurrent",
     "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
     "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
-    "(Year 3, my IP) SLAM research/Maths/M2 Map construction.md",
     "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
     "(Year 3, my IP) SLAM research/Diagrams drawIO/IPFinal.drawio",
     "images/Pasted image 20240429132222.png",
@@ -207,7 +209,6 @@
     "(Year 3) Aircraft Structures/3",
     "images/Doohicky_Corp.mp4",
     "(Year 3) Aircraft Structures/2 Wing structural details",
-    "images/video0-1.mp4",
-    "(Year 3) Aircraft Structures/1 Intro"
+    "images/video0-1.mp4"
   ]
 }
