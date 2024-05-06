@@ -18,3 +18,10 @@ Q_{out} &= T^{4}_{v} \sigma \varepsilon_{v} A_{total} \:\:\: (?)
 $$\begin{align*}
 Q_{heaters} &= Q_{out,cold} - Q_{in,cold}
 \end{align*}$$
+
+Radiator sizing
+
+$$\begin{align*}
+ &= 
+\end{align*}$$
+
