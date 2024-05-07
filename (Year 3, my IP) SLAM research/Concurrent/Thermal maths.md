@@ -21,6 +21,16 @@ $$\begin{align*}
 Q_{heaters} &= Q_{out,cold} - Q_{in,cold}
 \end{align*}$$
 
+Heat flux through MLI surfaces
+
+$$\begin{align*}
+q_{MLI}(T_{e}, \:T_{i}) &= h'(T_{e} - T_{i}) + \varepsilon' \sigma (T_{h}^{4} - T_{i}^{4} )
+\end{align*}$$
+
+$$\begin{align*}
+ &= 
+\end{align*}$$
+
 Radiator sizing
 
 $$\begin{align*}
