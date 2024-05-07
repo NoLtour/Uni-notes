@@ -11,6 +11,8 @@ $$\begin{align*}
 Q_{in} &= q_{l} \alpha_{v} A_{lf} + q_{s} \alpha_{v} A_{sf} + Q_{dis} \:\:\: (?)
 \end{align*}$$
 
+WRONG, E_IR AND E_SOLAR ARE DIFFERENT, APPROXIMATION INVALID!!!!!!!!!
+
 $$\begin{align*}
 Q_{out} &= T^{4}_{v} \sigma \varepsilon_{v} A_{total} \:\:\: (?)
 \end{align*}$$
