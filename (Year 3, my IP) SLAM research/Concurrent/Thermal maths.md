@@ -68,6 +68,6 @@ Q_{max\:heater} &= A_{rad} T^{4}_{t,cold} \sigma \varepsilon_{rad} - Q_{nat,cold
 Thermal mass
 
 $$\begin{align*}
- dT &= \frac{dt}{mc_{p}} \left[Q_{in} - T_{t}^{4}  \sigma \left(\sum\limits_{n} \varepsilon_{n} A_{n} \right) \right] \:\:\: (?)
+ dT &= \frac{dt}{mc_{p}} \left[ \left(\sum\limits_{n} Q_{in,n} \right)- T_{t}^{4}  \sigma \left(\sum\limits_{n} \varepsilon_{n} A_{n} \right) \right] \:\:\: (?)
 \end{align*}$$
 
