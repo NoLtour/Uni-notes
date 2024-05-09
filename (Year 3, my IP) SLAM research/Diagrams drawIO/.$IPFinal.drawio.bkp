@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-03T15:15:00.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="ljruQu2FOUJGK6WSOWej" version="21.2.1" type="device" pages="2">
+<mxfile host="Electron" modified="2024-05-03T15:15:03.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="M4rIz1h6tTRB2UBUgZ_F" version="21.2.1" type="device" pages="2">
   <diagram name="Page-1" id="u1wSchKi9RXzSd62CMVV">
     <mxGraphModel dx="2091" dy="1426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -794,9 +794,6 @@
         </mxCell>
         <mxCell id="u9YmAV1_AW0XwQbUbV0A-92" value="Successful&amp;nbsp;scan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="-1007" y="-390" width="93" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="u9YmAV1_AW0XwQbUbV0A-94" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="-570" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
