@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
-                "mode": "source",
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "divergance",
+                "query": "PDE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +171,8 @@
   },
   "active": "10720dfb8f4025f2",
   "lastOpenFiles": [
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/separation of variables for the elliptic PDEs.md",
+    "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
     "(Year 3) Aircraft Structures/3/3.3 Total Loading on the Wing Overview.md",
     "(Year 3) Aircraft Structures/3/3.2 Tail and gust load factor Overview.md",
@@ -182,7 +185,6 @@
     "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md",
     "(Year 3) Aircraft Structures/3/maximum load factor.md",
     "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
-    "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
     "(Year 3) Aircraft Structures/1 Intro/aircraft structures key terms.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/2.1 Wing Components Overview.md",
@@ -207,7 +209,6 @@
     "images/Pasted image 20240302203746.png",
     "images/Pasted image 20240302203650.png",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
-    "(Year 3) Aircraft Structures/3/I am just vibing to this music.md",
     "images/20231104_祈祷.mp4",
     "images/Pasted image 20240302193756.png",
     "images/The Binding of Isaac - My Innermost Apocalypse Recreated - .mp3",
