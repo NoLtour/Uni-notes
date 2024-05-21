@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
+                "file": "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "10720dfb8f4025f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15a5dfa206aae5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3) Aircraft Structures/3/effect of gusts on load factor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
+                "file": "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,20 +168,30 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "c5b0d052819d40ea",
+  "active": "10720dfb8f4025f2",
   "lastOpenFiles": [
-    "(Year 3) Aircraft Structures/1 Intro/aircraft structures key terms.md",
-    "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
     "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
-    "(Year 3) Aircraft Structures/2 Wing structural details/2.1 Wing Components Overview.md",
+    "(Year 3) Aircraft Structures/3/3.3 Total Loading on the Wing Overview.md",
+    "(Year 3) Aircraft Structures/3/3.2 Tail and gust load factor Overview.md",
+    "(Year 3) Aircraft Structures/3/effect of gusts on load factor.md",
+    "(Year 3) Aircraft Structures/3/effect of gusts on load factor after gust alleviation factor.md",
+    "(Year 3) Aircraft Structures/3/P-n diagram.md",
     "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
+    "(Year 3) Aircraft Structures/3/V-n diagram.md",
+    "(Year 3) Aircraft Structures/3/aircraft design speeds.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md",
+    "(Year 3) Aircraft Structures/3/maximum load factor.md",
+    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
+    "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
+    "(Year 3) Aircraft Structures/1 Intro/1 Intro Overview.md",
+    "(Year 3) Aircraft Structures/1 Intro/aircraft structures key terms.md",
+    "(Year 3) Aircraft Structures/2 Wing structural details/2.1 Wing Components Overview.md",
     "(Year 3) Aircraft Structures/2 Wing structural details/2.2 Composite Wings Overview.md",
     "(Year 3) Aircraft Structures/8",
     "(Year 3) Aircraft Structures/7",
     "(Year 3) Aircraft Structures/6",
     "(Year 3) Aircraft Structures/4",
     "(Year 3) Aircraft Structures/5",
-    "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
     "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
     "(Year 3, my IP) SLAM research/Concurrent/Thermal maths.md",
@@ -168,7 +203,6 @@
     "images/Pasted image 20240302211633.png",
     "(Year 3) Aircraft Structures/3/full load and light load wing forces.md",
     "images/Pasted image 20240302210319.png",
-    "(Year 3) Aircraft Structures/3/3.3 Total Loading on the Wing Overview.md",
     "(Year 3) Aircraft Structures/3/equations for loading forces on a wing.md",
     "images/Pasted image 20240302203746.png",
     "images/Pasted image 20240302203650.png",
@@ -176,20 +210,11 @@
     "(Year 3) Aircraft Structures/3/I am just vibing to this music.md",
     "images/20231104_祈祷.mp4",
     "images/Pasted image 20240302193756.png",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
     "images/The Binding of Isaac - My Innermost Apocalypse Recreated - .mp3",
-    "(Year 3) Aircraft Structures/3/3.2 Tail and gust load factor Overview.md",
-    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 7/load factor.md",
     "images/e17b3612e79aa510f2b218ff7ca08d014d9a8996b2b9420256ccdb138a0afcc8 1.png",
     "images/Pasted image 20240302183530.png",
     "images/Pasted image 20240302183225.png",
     "images/Pasted image 20240302175426.png",
-    "(Year 3) Aircraft Structures/3/P-n diagram.md",
-    "(Year 1) SESA1015 Flight mechanics/Flight mechanics/Flight mechanics 2/Pitching moment equation.md",
-    "(Year 3) Aircraft Structures/3/aircraft design speeds.md",
     "images/RDT_20231224_213141.mp4"
   ]
 }
