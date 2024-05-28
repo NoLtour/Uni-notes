@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-                "mode": "preview",
-                "source": true
+                "file": "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+                "file": "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +145,9 @@
   },
   "active": "d43cbdfa4df18c11",
   "lastOpenFiles": [
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
+    "(Year 3, my IP) SLAM research/Maths/Results.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/general case of second order linear ODEs.md",
@@ -171,7 +171,6 @@
     "(Year 3) Aircraft Structures/3/3.2 Tail and gust load factor Overview.md",
     "(Year 3) Aircraft Structures/3/3.4 Comparison of Full Load and Light Load Cases Overview.md",
     "(Year 3) Aircraft Structures/3/3.3 Total Loading on the Wing Overview.md",
-    "(Year 3) Aircraft Structures/3/V-n diagram.md",
     "(Year 3, my IP) SLAM research/Concurrent",
     "(Year 3, my IP) SLAM research/Diagrams drawIO/IPFinal.drawio",
     "images/Pasted image 20240429132222.png",

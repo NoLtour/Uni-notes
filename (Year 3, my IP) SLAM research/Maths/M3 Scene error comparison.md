@@ -15,5 +15,5 @@ A[i,j] &= \big|\Omega[i,j]\big| \:\:(?)
 \end{align*}$$
 
 $$\begin{align*}
-\omega  &= \frac{\sum\limits^{N-1}_{i=0} \sum\limits^{M-1}_{j=0} -\min\big(\Omega[i,j], \:0\big)  }{\sum\limits^{N-1}_{i=0} \sum\limits^{M-1}_{j=0} A[i,j] } \:\:(?)
+\omega  &= \frac{\sum\limits^{N-1}_{i=0} \sum\limits^{M-1}_{j=0} -\min\big(\Omega[i,j], \:0\big)  }{\sum\limits^{N-1}_{i=0} \sum\limits^{M-1}_{j=0} |A[i,j]| } \:\:(?)
 \end{align*}$$
