@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
+                "file": "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
+                "file": "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +156,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "d43cbdfa4df18c11",
+  "active": "96c2d6eaf05c9340",
   "lastOpenFiles": [
     "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
     "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
+    "(Year 3, my IP) SLAM research/Maths/M2 Map construction.md",
     "(Year 3, my IP) SLAM research/Maths/Results.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
@@ -182,7 +184,6 @@
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
     "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
     "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
-    "(Year 3) Aircraft Structures/3/3.2 Tail and gust load factor Overview.md",
     "(Year 3, my IP) SLAM research/Concurrent",
     "(Year 3, my IP) SLAM research/Diagrams drawIO/IPFinal.drawio",
     "images/Pasted image 20240429132222.png",

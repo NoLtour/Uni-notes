@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 16,
-  "cssTheme": "Subtlegold",
+  "baseFontSize": 20,
+  "cssTheme": "",
   "enabledCssSnippets": [
     "truncc",
     "image cent"
   ],
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "moonstone"
 }
