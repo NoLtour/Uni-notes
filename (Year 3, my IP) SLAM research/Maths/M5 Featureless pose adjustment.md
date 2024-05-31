@@ -89,5 +89,5 @@ v_{le} &= \begin{bmatrix} e_{lx}\\e_{ly} \end{bmatrix} \:\:(49) &&& t_{c} &=\beg
 \end{align*}$$
 
 $$\begin{align*}
-e_{l\alpha} &= e_{lx} \frac{y}{R^{2}} + e_{ly} \frac{x}{R^{2}} =  e_{lx} t_{x} + e_{ly} t_{y}     \:\:\:(52)
+e_{l\alpha} &= \frac{e_{lx} t_{x} + e_{ly} t_{y}}{R}=e_{lx} \frac{y}{R^{2}} + e_{ly} \frac{x}{R^{2}}      \:\:\:(52)
 \end{align*}$$
