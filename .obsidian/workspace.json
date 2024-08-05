@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
-                "mode": "source",
+                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
+                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +158,16 @@
   },
   "active": "96c2d6eaf05c9340",
   "lastOpenFiles": [
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/2b Strain in multiple directions shear/Shear strain in multiple directions notes.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/2a Strain in multiple directions introduction/Strain in multiple directions notes.md",
+    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/5.6 Time variant heat diffusion in 1D discretised systems Overview.md",
+    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
+    "(Year 3) Aerothermodynamics/5.7 discretised 2D heat flow.md",
+    "(Year 3) Aerothermodynamics/number of transfer units method.md",
+    "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
     "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
     "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
     "(Year 3, my IP) SLAM research/Maths/M2 Map construction.md",
@@ -168,22 +178,12 @@
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/general case of second order linear ODEs.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
     "(Year 1,2) Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
     "(Year 1,2) Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "(Year 1,2) Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
-    "(Year 3) Spacecraft Systems Engineering and Design/2 Space debris/space debris.md",
-    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/1D discretised time variant heat diffusion.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/5 Stress transformation/Stress transformation notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/poisson's ratio.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
-    "(Year 3) Aircraft Structures/3/3.1 Aircraft Loads Overview.md",
-    "(Year 3) Aircraft Structures/Aircraft Structures Overview.md",
     "(Year 3, my IP) SLAM research/Concurrent",
     "(Year 3, my IP) SLAM research/Diagrams drawIO/IPFinal.drawio",
     "images/Pasted image 20240429132222.png",
