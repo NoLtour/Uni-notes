@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b59e06d2dde41523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 4) Advanced Aero Management/Lecture  1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+                "file": "(Year 4) Advanced Aero Management/Lecture  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +168,20 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "96c2d6eaf05c9340",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
+    "(Year 3) Spacecraft Propulsion/week 1_intro to propulsion_V13_240929.pdf",
+    "(Year 3) Spacecraft Propulsion/Week 1.htm",
+    "(Year 3) Spacecraft Propulsion",
+    "New folder",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_7.pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_6.pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_5.pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_4.pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_3.pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_2.pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_1(1).pdf",
+    "(Year 4) Advanced Aero Management/Lecture  1.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
@@ -182,27 +206,15 @@
     "(Year 1,2) Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
     "(Year 1,2) Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
     "(Year 1,2) Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
-    "(Year 3, my IP) SLAM research/Concurrent",
-    "(Year 3, my IP) SLAM research/Diagrams drawIO/IPFinal.drawio",
     "images/Pasted image 20240429132222.png",
     "images/Pasted image 20240302211633.png",
     "images/Pasted image 20240302210319.png",
     "images/Pasted image 20240302203746.png",
     "images/Pasted image 20240302203650.png",
-    "images/20231104_祈祷.mp4",
     "images/Pasted image 20240302193756.png",
-    "images/The Binding of Isaac - My Innermost Apocalypse Recreated - .mp3",
     "images/e17b3612e79aa510f2b218ff7ca08d014d9a8996b2b9420256ccdb138a0afcc8 1.png",
     "images/Pasted image 20240302183530.png",
     "images/Pasted image 20240302183225.png",
-    "images/Pasted image 20240302175426.png",
-    "images/RDT_20231224_213141.mp4",
-    "(Year 3) Aircraft Structures/Slides n stuff/AircraftStructuralDesign_v2.9.pdf",
-    "(Year 3) Aircraft Structures/3",
-    "images/Doohicky_Corp.mp4",
-    "(Year 3) Aircraft Structures/2 Wing structural details",
-    "images/video0-1.mp4"
+    "images/Pasted image 20240302175426.png"
   ]
 }
