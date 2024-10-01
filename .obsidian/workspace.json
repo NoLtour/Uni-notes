@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79ded63a00883545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 3.5) Metamaterials/A/Derivation of the stiffness matrix of a hybrid cell wall.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bc8dfbfc028dbac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PDE",
+                "query": "First moment of ar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +181,16 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "96c2d6eaf05c9340",
+  "active": "bc8dfbfc028dbac8",
   "lastOpenFiles": [
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/first moment of area.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
+    "(Year 3.5) Metamaterials/A/Root Metamaterial Page.md",
+    "(Year 3.5) Metamaterials/A/Derivation of the stiffness matrix of a hybrid cell wall.md",
+    "(Year 3.5) Metamaterials/A/sussy boi.md",
+    "images/good_ol_general_lee-3-1-1.mp4",
+    "(Year 3.5) Metamaterials/A",
+    "(Year 3.5) Metamaterials",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
@@ -179,11 +212,6 @@
     "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/general case of second order linear ODEs.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
     "(Year 3, my IP) SLAM research/Concurrent",
     "(Year 3, my IP) SLAM research/Diagrams drawIO/IPFinal.drawio",
     "images/Pasted image 20240429132222.png",
@@ -200,9 +228,6 @@
     "images/Pasted image 20240302175426.png",
     "images/RDT_20231224_213141.mp4",
     "(Year 3) Aircraft Structures/Slides n stuff/AircraftStructuralDesign_v2.9.pdf",
-    "(Year 3) Aircraft Structures/3",
-    "images/Doohicky_Corp.mp4",
-    "(Year 3) Aircraft Structures/2 Wing structural details",
-    "images/video0-1.mp4"
+    "(Year 3) Aircraft Structures/3"
   ]
 }
