@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "10d3271adeb45d44",
+        "id": "be451d50fd8c90ca",
         "type": "tabs",
         "children": [
           {
-            "id": "d43cbdfa4df18c11",
+            "id": "d6a2b450a8b4c37c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/basic rules of probability.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96c2d6eaf05c9340",
+            "id": "352f2169ec186da2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79ded63a00883545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 3.5) Metamaterials/A/Derivation of the stiffness matrix of a hybrid cell wall.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/generalised Bayes theorem.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bc8dfbfc028dbac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
-                "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/generalised Bayes theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,12 +156,24 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "bc8dfbfc028dbac8",
+  "active": "352f2169ec186da2",
   "lastOpenFiles": [
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/first moment of area.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
-    "(Year 3.5) Metamaterials/A/Root Metamaterial Page.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/basic rules of probability.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/Basics of probability.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/generalised Bayes theorem.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/probability convention for advanced management.md",
+    "images/Pasted image 20241001141358.png",
+    "images/Pasted image 20241001141347.png",
+    "images/Pasted image 20241001141314.png",
+    "images/Pasted image 20241001141251.png",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/13 Statistics 1/mutually exclusive events.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
     "(Year 3.5) Metamaterials/A/Derivation of the stiffness matrix of a hybrid cell wall.md",
+    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
+    "(Year 4) Advanced Aero Management/1 Introduction",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/first moment of area.md",
+    "(Year 3.5) Metamaterials/A/Root Metamaterial Page.md",
     "(Year 3.5) Metamaterials/A/sussy boi.md",
     "images/good_ol_general_lee-3-1-1.mp4",
     "(Year 3.5) Metamaterials/A",
@@ -205,13 +192,6 @@
     "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
     "(Year 3, my IP) SLAM research/Maths/M2 Map construction.md",
     "(Year 3, my IP) SLAM research/Maths/Results.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/inhomogeneous PDEs.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/Second order ODEs overview.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/1 Second order ODEs/general case of second order linear ODEs.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
     "(Year 3, my IP) SLAM research/Concurrent",
     "(Year 3, my IP) SLAM research/Diagrams drawIO/IPFinal.drawio",
     "images/Pasted image 20240429132222.png",
@@ -222,12 +202,7 @@
     "images/20231104_祈祷.mp4",
     "images/Pasted image 20240302193756.png",
     "images/The Binding of Isaac - My Innermost Apocalypse Recreated - .mp3",
-    "images/e17b3612e79aa510f2b218ff7ca08d014d9a8996b2b9420256ccdb138a0afcc8 1.png",
-    "images/Pasted image 20240302183530.png",
-    "images/Pasted image 20240302183225.png",
-    "images/Pasted image 20240302175426.png",
     "images/RDT_20231224_213141.mp4",
-    "(Year 3) Aircraft Structures/Slides n stuff/AircraftStructuralDesign_v2.9.pdf",
-    "(Year 3) Aircraft Structures/3"
+    "(Year 3) Aircraft Structures/Slides n stuff/AircraftStructuralDesign_v2.9.pdf"
   ]
 }
