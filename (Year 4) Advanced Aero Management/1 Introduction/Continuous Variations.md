@@ -18,8 +18,20 @@ The functions:
 - [[cumulative distribution function]]
 - [[reliability function]]
 - [[hazard function]]
+
 Nice thing about these, is any single one can be used to define the other. 
 
-- [[distribution functions]]
+
+- [[continuous distribution functions]]
+- [[binomial coefficient]]
+- [[discrete distribution functions]]
 
 ## Expanded articles
+![[frequency histogram 
+![[probability density function]]
+![[cumulative distribution function]]
+![[reliability function]]
+![[hazard function]] 
+![[continuous distribution functions]]
+![[binomial coefficient]]
+![[discrete distribution functions]]

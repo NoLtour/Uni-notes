@@ -9,4 +9,5 @@ tags:
 #### Week 1
 1) [[Basics of probability]]
 2) [[Continuous Variations]]
+3) [[Parameter Estimation]]
 
