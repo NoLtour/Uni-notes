@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PDE",
+                "query": "path:\"(Year 4) FEA Solid Mechanics/Slides/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,8 +165,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b59e06d2dde41523",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
+    "(Year 4) FEA Solid Mechanics/Slides/Lecture 04 Lab1 Intro-to-ANSYS-2024.pdf",
+    "(Year 4) FEA Solid Mechanics/Slides/Lecture 02-03 PMTPE (1).pdf",
+    "(Year 4) FEA Solid Mechanics/Slides/Lecture 01 Introduction(1).pdf",
+    "(Year 4) FEA Solid Mechanics/Slides",
+    "(Year 4) FEA Solid Mechanics",
     "(Year 4) Advanced Aero Management/Lecture  1.md",
     "images/good_ol_general_lee-3-1-1.mp4",
     "images/Pasted image 20241001141358.png",
@@ -186,10 +191,6 @@
     "(Year 3.5) Metamaterials",
     "(Year 3) Spacecraft Propulsion/week 1_intro to propulsion_V13_240929.pdf",
     "(Year 3) Spacecraft Propulsion/Week 1.htm",
-    "(Year 3) Spacecraft Propulsion",
-    "New folder",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_7.pdf",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_6.pdf",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
