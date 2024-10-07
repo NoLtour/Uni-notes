@@ -8,4 +8,5 @@ tags:
 
 #### Week 1
 1) [[Basics of probability]]
+2) [[Continuous Variations]]
 
