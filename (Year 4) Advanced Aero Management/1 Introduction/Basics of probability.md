@@ -12,3 +12,6 @@ tags:
 - [[generalised Bayes theorem]]
 
 ## Expanded articles
+![[probability convention for advanced management]]
+![[basic rules of probability]]
+![[generalised Bayes theorem]]

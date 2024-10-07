@@ -4,45 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "10d3271adeb45d44",
+        "id": "62133c349940f2c1",
         "type": "tabs",
         "children": [
           {
-            "id": "d43cbdfa4df18c11",
+            "id": "418fb9cf11fc7056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
+                "file": "(Year 4) Advanced Aero Management/distribution functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96c2d6eaf05c9340",
+            "id": "f6c86052d9b015f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b59e06d2dde41523",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
+                "file": "(Year 4) Advanced Aero Management/cumulative distribution function.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(Year 4) Advanced Aero Management/distribution functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,18 +155,42 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "b59e06d2dde41523",
+  "active": "418fb9cf11fc7056",
   "lastOpenFiles": [
+    "images/Pasted image 20241007110755.png",
+    "images/Pasted image 20241007110657.png",
+    "images/Pasted image 20241007110643.png",
+    "(Year 4) Advanced Aero Management/not my mistake or problem.md",
+    "images/A-wimba-way-1697447400995.mp4",
+    "(Year 4) Advanced Aero Management/distribution functions.md",
+    "images/Pasted image 20241007105841.png",
+    "images/Pasted image 20241007105824.png",
+    "images/Pasted image 20241007105819.png",
+    "images/Pasted image 20241007105816.png",
+    "images/Pasted image 20241007105401.png",
+    "images/Pasted image 20241007105348.png",
+    "images/Pasted image 20241007105319.png",
+    "images/Pasted image 20241007105118.png",
+    "(Year 4) Advanced Aero Management/cumulative distribution function.md",
+    "(Year 4) Advanced Aero Management/absolutes are for suckers we make shit work.md",
+    "images/aM40V31_460sv.mp4",
+    "(Year 4) Advanced Aero Management/Continuous Variations.md",
+    "(Year 4) Advanced Aero Management/hazard function.md",
+    "(Year 4) Advanced Aero Management/reliability function.md",
+    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
+    "(Year 4) Advanced Aero Management/the annoying thing about stats is its really fucking useful.md",
+    "images/Clown_Pranks_Medbay.webm",
+    "(Year 4) Advanced Aero Management/probability density function.md",
+    "(Year 4) Advanced Aero Management/frequency histogram.md",
+    "(Year 4) Advanced Aero Management/aka the main purpose of engineering.md",
+    "images/tumblr_ryb6f5F89x1a5khs5.mp4",
+    "(Year 4) Advanced Aero Management/1 Introduction/Basics of probability.md",
+    "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
     "(Year 4) Advanced Aero Management/Lecture  1.md",
     "images/good_ol_general_lee-3-1-1.mp4",
-    "images/Pasted image 20241001141358.png",
-    "images/Pasted image 20241001141347.png",
-    "images/Pasted image 20241001141314.png",
-    "images/Pasted image 20241001141251.png",
-    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
     "(Year 4) Advanced Aero Management/1 Introduction/probability convention for advanced management.md",
     "(Year 4) Advanced Aero Management/1 Introduction/generalised Bayes theorem.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/Basics of probability.md",
     "(Year 4) Advanced Aero Management/1 Introduction/basic rules of probability.md",
     "(Year 4) Advanced Aero Management/1 Introduction",
     "(Year 3.5) Metamaterials/A/sussy boi.md",
@@ -186,31 +200,8 @@
     "(Year 3.5) Metamaterials",
     "(Year 3) Spacecraft Propulsion/week 1_intro to propulsion_V13_240929.pdf",
     "(Year 3) Spacecraft Propulsion/Week 1.htm",
-    "(Year 3) Spacecraft Propulsion",
-    "New folder",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_7.pdf",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_6.pdf",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
     "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/Statics 2 overview.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/2b Strain in multiple directions shear/Shear strain in multiple directions notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/2a Strain in multiple directions introduction/Strain in multiple directions notes.md",
-    "(Year 3) Aerothermodynamics/5.6 Time variant heat diffusion in 1D discretised systems/5.6 Time variant heat diffusion in 1D discretised systems Overview.md",
-    "(Year 3) Aerothermodynamics/Aerothermodynamics Overview.md",
-    "(Year 3) Aerothermodynamics/5.7 discretised 2D heat flow.md",
-    "(Year 3) Aerothermodynamics/number of transfer units method.md",
-    "(Year 3, my IP) SLAM research/Maths/M5 Featureless pose adjustment.md",
-    "(Year 3, my IP) SLAM research/Maths/M4 Feature extraction.md",
-    "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
-    "(Year 3, my IP) SLAM research/Maths/M2 Map construction.md",
-    "(Year 3, my IP) SLAM research/Maths/Results.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/5 wave equation/Wave equation overview.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 2/Year 2 Maths overall read order.md",
-    "images/Pasted image 20240429132222.png",
-    "images/Pasted image 20240302211633.png",
-    "images/Pasted image 20240302210319.png",
-    "images/Pasted image 20240302203746.png",
-    "images/Pasted image 20240302203650.png",
-    "images/Pasted image 20240302193756.png"
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md"
   ]
 }
