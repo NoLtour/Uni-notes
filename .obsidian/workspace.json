@@ -49,9 +49,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
+                "file": "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy for a spring.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9547a78a99cbf50a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4a6728e54d615ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
+                "file": "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy for a spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,9 +206,15 @@
   },
   "active": "e0118e0a9a3c4570",
   "lastOpenFiles": [
-    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
+    "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy.md",
+    "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy for a spring.md",
+    "images/Pasted image 20241008165234.png",
+    "(Year 4) FEA Solid Mechanics/Principle of Minimum Total Potential Energy Overview.md",
+    "images/Pasted image 20241008162414.png",
+    "(Year 4) FEA Solid Mechanics/FEA Solid Mechanics Navigation Page.md",
     "(Year 4) Advanced Aero Management/1 Introduction/Parameter Estimation.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation.md",
     "(Year 4) Advanced Aero Management/1 Introduction/continuous distribution functions.md",
     "images/Pasted image 20241008111453.png",
     "(Year 4) Advanced Aero Management/1 Introduction/numerical maximum likelihood estimation.md",
@@ -204,8 +234,6 @@
     "images/tumblr_ryb6f5F89x1a5khs5.mp4",
     "images/aM40V31_460sv.mp4",
     "images/Pasted image 20241007110755.png",
-    "images/Pasted image 20241007110657.png",
-    "images/Pasted image 20241007110643.png",
     "images/Clown_Pranks_Medbay.webm",
     "images/A-wimba-way-1697447400995.mp4",
     "(Year 4) Advanced Aero Management/1 Introduction/the annoying thing about stats is its really fucking useful.md",
@@ -222,10 +250,6 @@
     "(Year 4) FEA Solid Mechanics/Slides/Lecture 01 Introduction(1).pdf",
     "(Year 4) FEA Solid Mechanics/Slides",
     "(Year 4) Advanced Aero Management/Lecture  1.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/probability convention for advanced management.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/generalised Bayes theorem.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/Basics of probability.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/basic rules of probability.md",
-    "(Year 3.5) Metamaterials/A/sussy boi.md"
+    "(Year 4) Advanced Aero Management/1 Introduction/probability convention for advanced management.md"
   ]
 }

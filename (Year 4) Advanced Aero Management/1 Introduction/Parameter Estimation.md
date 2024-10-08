@@ -21,3 +21,6 @@ There are lot's of methods for finding these parameters, and all useful estimati
 - [[numerical maximum likelihood estimation]]
 - [[maximum likelihood estimation confidence]]
 ## Expanded articles
+![[maximum likelihood estimation]]
+![[numerical maximum likelihood estimation]]
+![[maximum likelihood estimation confidence]]
