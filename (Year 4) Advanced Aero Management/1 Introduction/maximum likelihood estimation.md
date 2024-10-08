@@ -1,6 +1,8 @@
 ---
 aliases:
   - MLE
+  - likelihood estimation function
+  - log likelihood estimation function
 tags:
 ---
 
@@ -16,13 +18,15 @@ Put mathematically it's below, note that we don't need to take the log but doing
 >> where:
 >> $f(t;\theta)=$ some [[continuous distribution functions|continuous distribution function]] where the form is known but its parameters $\theta$ aren't known
 >> $t_{i}=$ a sample value
->> $l(\theta)=$ is the log of $L(\theta)$
+>> $l(\theta)=$ is the log of $L(\theta)$ ([[maximum likelihood estimation|log likelihood estimation function]])
 >> $L(\theta)=$ is the overall probability density that some combination of $\theta$ parameters is correct
 >> $\theta=$ the parameters associated with $f(t)$
 >> $j=$ the index of the parameter ($\theta_{j}$) being found
 
+^6e1413
 
-#### Example
+
+#### Example 1
 
 It makes more sense if it's been demonstrated, the following is demonstration using the [[continuous distribution functions|gaussian distribution]]:
 
@@ -34,7 +38,7 @@ Here our parameter set is $\mu$ and $\sigma$, so:
 
 $$\begin{align*}
  \log f(t;\mu,\sigma) &= \log \left[ \frac{1}{\sigma \sqrt{2\pi}} \exp\left[-\frac{1}{2} \left(\frac{t-\mu}{\sigma}\right)^{2} \right] \right] &&\to& 
- l(\mu, \sigma) &=  -\frac{1}{2} \left(\frac{t-\mu}{\sigma}\right)^{2} - \log \sigma \sqrt{2\pi} 
+\log( f) &=  -\frac{1}{2} \left(\frac{t-\mu}{\sigma}\right)^{2} - \log \sigma \sqrt{2\pi} 
 \end{align*}$$
 
 This can then be subbed into the $l$ function:
@@ -72,4 +76,17 @@ $$\begin{align*}
 
 If this looks familiar, that's because it is. Congrats on deriving the [[mean value by integration|mean]] and [[standard deviation for probabability functions|standard deviation]].
 
+#### Example 2
 
+We'll also do it for the [[continuous distribution functions|exponential distrobution]]:
+
+$$\begin{align*}
+f(t) &= \lambda e^{-\lambda t} &&\to& \log f(t) &= \log (\lambda) - \lambda t
+\end{align*}$$
+
+$$\begin{align*}
+&& \text{sub}&\text{ in} &&& \text{}&\text{} &&& &\frac{\partial}{\partial \lambda}\text{} &&& \text{s}&\text{olve} &\\
+l(\theta) &= \sum\limits^{n}_{i=1} \log f(t_{i} ; \theta)   &&\to&  l(\lambda) &= \sum\limits^{n}_{i=1} \log (\lambda) - \lambda t &&\to&  l(\lambda) &=n\log (\lambda) - \lambda \sum\limits^{n}_{i=1}  t &&\to& \frac{\partial l}{\partial \lambda} &= \frac{n}{\lambda} - \sum\limits^{n}_{i=1}  t &&\to& \frac{n}{\sum\limits^{n}_{i=1}  t} &= \lambda
+\end{align*}$$
+
+It's acc not so hard huh.

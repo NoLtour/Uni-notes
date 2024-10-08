@@ -15,9 +15,9 @@ There are lot's of methods for finding these parameters, and all useful estimati
 - Efficient – the estimator should be consistent with a standard deviation in that estimate smaller than any other estimator for the same population
 - Sufficient – the estimator should use all of the information about the parameter that the data sample possesses
 
-
 #### Contents
 
 - [[maximum likelihood estimation]]
-- 
+- [[numerical maximum likelihood estimation]]
+- [[maximum likelihood estimation confidence]]
 ## Expanded articles

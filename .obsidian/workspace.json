@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/Parameter Estimation.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/Parameter Estimation.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/Parameter Estimation.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,10 +182,13 @@
   },
   "active": "e0118e0a9a3c4570",
   "lastOpenFiles": [
-    "(Year 4) Advanced Aero Management/maximum likelihood estimation.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/Parameter Estimation.md",
     "(Year 4) Advanced Aero Management/1 Introduction/continuous distribution functions.md",
-    "(Year 4) Advanced Aero Management/Parameter Estimation.md",
-    "(Year 4) Advanced Aero Management/numerical instability.md",
+    "images/Pasted image 20241008111453.png",
+    "(Year 4) Advanced Aero Management/1 Introduction/numerical maximum likelihood estimation.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/numerical instability.md",
     "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
     "(Year 4) Advanced Aero Management/1 Introduction/Continuous Variations.md",
     "(Year 4) Advanced Aero Management/1 Introduction/discrete distribution functions.md",
@@ -203,7 +206,6 @@
     "images/Pasted image 20241007110755.png",
     "images/Pasted image 20241007110657.png",
     "images/Pasted image 20241007110643.png",
-    "images/Pasted image 20241007105841.png",
     "images/Clown_Pranks_Medbay.webm",
     "images/A-wimba-way-1697447400995.mp4",
     "(Year 4) Advanced Aero Management/1 Introduction/the annoying thing about stats is its really fucking useful.md",
@@ -224,9 +226,6 @@
     "(Year 4) Advanced Aero Management/1 Introduction/generalised Bayes theorem.md",
     "(Year 4) Advanced Aero Management/1 Introduction/Basics of probability.md",
     "(Year 4) Advanced Aero Management/1 Introduction/basic rules of probability.md",
-    "(Year 3.5) Metamaterials/A/sussy boi.md",
-    "(Year 3.5) Metamaterials/A/Derivation of the stiffness matrix of a hybrid cell wall.md",
-    "(Year 3.5) Metamaterials/A/Root Metamaterial Page.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md"
+    "(Year 3.5) Metamaterials/A/sussy boi.md"
   ]
 }
