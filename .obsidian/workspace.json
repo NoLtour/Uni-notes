@@ -8,79 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d43cbdfa4df18c11",
+            "id": "e0118e0a9a3c4570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 3, my IP) SLAM research/Maths/M3 Scene error comparison.md",
+                "file": "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96c2d6eaf05c9340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b59e06d2dde41523",
+            "id": "5d93c9d5cee0483a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "e0118e0a9a3c4570",
+            "id": "f6f3498281a45c18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy for a spring.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/continuous distribution functions.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "9547a78a99cbf50a",
+            "id": "e3f6889383d73a21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a6728e54d615ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/cumulative distribution function.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"(Year 4) FEA Solid Mechanics/Slides/\" ",
+                "query": "covariance matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy for a spring.md",
+                "file": "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,52 +179,53 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "e0118e0a9a3c4570",
+  "active": "9dba8c53e0736664",
   "lastOpenFiles": [
-    "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy.md",
-    "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy for a spring.md",
-    "images/Pasted image 20241008165234.png",
-    "(Year 4) FEA Solid Mechanics/Principle of Minimum Total Potential Energy Overview.md",
-    "images/Pasted image 20241008162414.png",
-    "(Year 4) FEA Solid Mechanics/FEA Solid Mechanics Navigation Page.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/Parameter Estimation.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/Multi-variate Distributions Overview.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/constructing independent multivariate distributions.md",
     "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/multivariate normal distribution.md",
+    "images/Pasted image 20241012172856.png",
     "(Year 4) Advanced Aero Management/1 Introduction/continuous distribution functions.md",
-    "images/Pasted image 20241008111453.png",
+    "images/Pasted image 20241012172714.png",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/multivariate maximum likelihood estimation.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/I am so glad we don't have to derive it.md",
+    "images/Snapinsta.app_video_311038476_841857377602587_1130552688192751968_n.mp4",
+    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/Continuous Variations Overview.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/I would say suffer but it means not on exam.md",
+    "images/Supernaturalheavyorderly_283c83_11336497.mp4",
+    "images/Pasted image 20241012163258.png",
+    "images/Pasted image 20241012163144.png",
+    "images/Pasted image 20241012163119.png",
+    "images/Pasted image 20241012162918.png",
+    "images/Pasted image 20241012162001.png",
+    "images/Pasted image 20241012161816.png",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/covariance matrix.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/multivariate models.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/univariate models.md",
+    "images/Pasted image 20241012154444.png",
+    "(Year 4) Advanced Aero Management/1 Introduction/cumulative distribution function.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/good luck visualising a 6D space.md",
+    "images/tHUNDERBOLTS_OF_LIGHTNIN.mp4",
+    "images/Pasted image 20241012152558.png",
+    "(Year 4) Advanced Aero Management/1 Introduction/Parameter Estimation Overview.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/Basics of probability Overview.md",
+    "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy for a spring.md",
+    "(Year 4) FEA Solid Mechanics/principle of minimum total potential energy.md",
+    "(Year 4) FEA Solid Mechanics/Principle of Minimum Total Potential Energy Overview.md",
+    "(Year 4) FEA Solid Mechanics/FEA Solid Mechanics Navigation Page.md",
     "(Year 4) Advanced Aero Management/1 Introduction/numerical maximum likelihood estimation.md",
     "(Year 4) Advanced Aero Management/1 Introduction/numerical instability.md",
-    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/Continuous Variations.md",
     "(Year 4) Advanced Aero Management/1 Introduction/discrete distribution functions.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/binomial coefficient.md",
-    "images/Pasted image 20241007155830.png",
-    "images/Pascal's_triangle_5.svg.png",
-    "images/Pasted image 20241007154937.png",
-    "images/Pasted image 20241007154922.png",
-    "images/Pasted image 20241007152609.png",
-    "images/Pasted image 20241007152554.png",
     "(Year 4) Advanced Aero Management/Slides/Tutorial_1(1).pdf",
     "(Year 4) FEA Solid Mechanics/Slides/Tutorial_1(1).pdf",
     "images/tumblr_ryb6f5F89x1a5khs5.mp4",
     "images/aM40V31_460sv.mp4",
-    "images/Pasted image 20241007110755.png",
     "images/Clown_Pranks_Medbay.webm",
     "images/A-wimba-way-1697447400995.mp4",
-    "(Year 4) Advanced Aero Management/1 Introduction/the annoying thing about stats is its really fucking useful.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/reliability function.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/probability density function.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/not my mistake or problem.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/hazard function.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/frequency histogram.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/cumulative distribution function.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/aka the main purpose of engineering.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/absolutes are for suckers we make shit work.md",
-    "(Year 4) FEA Solid Mechanics/Slides/Lecture 04 Lab1 Intro-to-ANSYS-2024.pdf",
-    "(Year 4) FEA Solid Mechanics/Slides/Lecture 02-03 PMTPE (1).pdf",
-    "(Year 4) FEA Solid Mechanics/Slides/Lecture 01 Introduction(1).pdf",
-    "(Year 4) FEA Solid Mechanics/Slides",
-    "(Year 4) Advanced Aero Management/Lecture  1.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/probability convention for advanced management.md"
+    "(Year 4) FEA Solid Mechanics/Slides/Lecture 04 Lab1 Intro-to-ANSYS-2024.pdf"
   ]
 }

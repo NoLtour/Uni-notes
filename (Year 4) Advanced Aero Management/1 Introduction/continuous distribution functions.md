@@ -5,7 +5,7 @@ aliases:
   - gaussian distribution
   - normal distribution
   - mean time to failure
-  - exponential distrobution
+  - exponential distribution
   - Weibull distribution
   - distribution functions
   - continuous distribution function

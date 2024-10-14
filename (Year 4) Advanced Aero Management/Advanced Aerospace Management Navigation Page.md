@@ -6,8 +6,13 @@ tags:
 
 ## Advanced Aerospace Management
 
-#### Week 1
-1) [[Basics of probability]]
-2) [[Continuous Variations]]
-3) [[Parameter Estimation]]
+#### Introduction
+1) [[Basics of probability Overview]]
+2) [[Continuous Variations Overview]]
+3) [[Parameter Estimation Overview]]
 
+#### Multivariate PDFs
+1) [[Multi-variate Distributions Overview]]
+
+#### Censorship
+1) [[]]

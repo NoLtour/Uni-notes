@@ -1,6 +1,6 @@
 {
-  "findText": "- ",
-  "replaceText": "!",
+  "findText": "\\log",
+  "replaceText": "\\ln",
   "useRegEx": false,
   "selOnly": true,
   "caseInsensitive": false,
