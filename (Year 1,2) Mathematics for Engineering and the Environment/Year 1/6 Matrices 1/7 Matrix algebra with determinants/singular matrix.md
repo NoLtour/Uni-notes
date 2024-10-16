@@ -1,6 +1,10 @@
 ---
-aliases: ["non-singular matrix"]
-tags: ["Question","QFormat3"]
+aliases:
+  - non-singular matrix
+  - singular
+tags:
+  - Question
+  - QFormat3
 ---
 
 #### What is a

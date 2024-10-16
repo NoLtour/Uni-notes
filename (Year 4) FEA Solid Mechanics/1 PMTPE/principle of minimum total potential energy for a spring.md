@@ -58,4 +58,6 @@ $$\begin{align*}
  \begin{pmatrix}k_{1} + k_{2} & -k_{2} \\ -k_{2} & k_{2} \end{pmatrix}^{-1} \begin{pmatrix} F_{1} \\ F_{2} \end{pmatrix} &=  \begin{pmatrix} q_{1} \\ q_{2} \end{pmatrix}
 \end{align*}$$
 
-It's not so hard to invert this matrix and keep it all analytical... but cba rn lol.
+It's not so hard to invert this matrix and keep it all analytical... but cba rn lol. 
+
+We can see that this method works, and theoretically could be scaled further. Thing is, doing all these steps is already long, and will only become longer...

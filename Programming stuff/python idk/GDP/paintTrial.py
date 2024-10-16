@@ -22,7 +22,7 @@ plt.figure(1)
 plt.imshow( image_np )
 plt.show(block=False)
 
-pallet = np.array([ [ 255, 200, 0 ],[ 255, 200, 100 ], [ 90, 90, 255 ], [ 0, 0, 0 ], [255,255,255], [90,90,90], [200,200,200], [200,200,200] ])
+pallet = np.array([ [ 255, 200, 0 ],[ 255, 200, 100 ], [ 150, 200, 210 ], [ 0, 0, 0 ], [255,255,255], [90,90,90], [200,200,200], [200,100,50] ])
 
 outputImageIndxs = []
 
@@ -37,7 +37,7 @@ for pixel in flatImage:
         if ( newDist < shortestDist ):
             shortestDist = newDist
             shortestCol = colourIndx
-            
+
 
     outputImageIndxs.append( shortestCol )
 
