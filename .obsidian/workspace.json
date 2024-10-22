@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8f6f46d4db340111",
+        "id": "10d3271adeb45d44",
         "type": "tabs",
         "children": [
           {
-            "id": "18b410c0ef237451",
+            "id": "e0118e0a9a3c4570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/3 Censorship/Censored Data Overview.md",
+                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Censored Data Overview"
+              "title": "Deflection in beams notes"
             }
           },
           {
-            "id": "67d2337156db31dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Relationships between distributed load, shear force and bending moment"
-            }
-          },
-          {
-            "id": "433a8e0bc1891016",
+            "id": "5d93c9d5cee0483a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,35 +36,47 @@
             }
           },
           {
-            "id": "67eb717d25832288",
+            "id": "f6f3498281a45c18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/3 Censorship/right and left censored data.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/continuous distribution functions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "right and left censored data"
+              "title": "continuous distribution functions"
             }
           },
           {
-            "id": "cd0641d3ba54172e",
+            "id": "e3f6889383d73a21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/2 Multivariate PDFs/multivariate normal distribution.md",
-                "mode": "preview",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/cumulative distribution function.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "multivariate normal distribution"
+              "title": "cumulative distribution function"
+            }
+          },
+          {
+            "id": "acbb6538c2e4de2a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beam bending",
+                "query": "bending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,8 +138,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
+                "file": "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +168,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relationships between distributed load, shear force and bending moment"
+              "title": "Backlinks for Deflection in beams notes"
             }
           },
           {
@@ -217,38 +214,39 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "67d2337156db31dd",
+  "active": "acbb6538c2e4de2a",
   "lastOpenFiles": [
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
-    "(Year 4) Advanced Aero Management/3 Censorship/censored maximum likelihood estimation.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation.md",
-    "(Year 4) Advanced Aero Management/3 Censorship/right and left censored data.md",
-    "(Year 4) Advanced Aero Management/3 Censorship/interval censored data.md",
-    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/multivariate normal distribution.md",
-    "(Year 4) Advanced Aero Management/3 Censorship/Censored Data Overview.md",
     "images/Pasted image 20241018170033.png",
     "images/Pasted image 20241018165615.png",
     "images/Pasted image 20241018164524.png",
-    "(Year 4) Advanced Aero Management/3 Censorship",
-    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
-    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/Multi-variate Distributions Overview.md",
-    "(Year 4) FEA Solid Mechanics/2 Elastic rods/Elastic rods in tension and compression Overview.md",
-    "(Year 4) FEA Solid Mechanics/FEA Solid Mechanics Navigation Page.md",
-    "(Year 4) FEA Solid Mechanics/1 PMTPE/Principle of Minimum Total Potential Energy Overview.md",
-    "(Year 4) FEA Solid Mechanics/2 Elastic rods",
-    "(Year 4) FEA Solid Mechanics/Slides/Lecture 05-09 Rods in Tension and Compression(1).pdf",
-    "(Year 4) FEA Solid Mechanics/1 PMTPE/shortcuts for PMTPE for springs.md",
-    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/6 Matrices 1/7 Matrix algebra with determinants/singular matrix.md",
     "images/Pasted image 20241016150214.png",
     "images/Pasted image 20241016145450.png",
+    "(Year 4) FEA Solid Mechanics/Slides/Lecture 05-09 Rods in Tension and Compression(1).pdf",
+    "(Year 4) FEA Solid Mechanics/2 Elastic rods/Elastic rods in tension and compression Overview.md",
+    "(Year 4) FEA Solid Mechanics/2 Elastic rods",
+    "(Year 4) FEA Solid Mechanics/1 PMTPE/shortcuts for PMTPE for springs.md",
+    "(Year 4) FEA Solid Mechanics/1 PMTPE/principle of minimum total potential energy.md",
+    "(Year 4) FEA Solid Mechanics/1 PMTPE/Principle of Minimum Total Potential Energy Overview.md",
     "(Year 4) FEA Solid Mechanics/1 PMTPE/principle of minimum total potential energy for a spring.md",
     "(Year 4) FEA Solid Mechanics/1 PMTPE",
-    "(Year 4) FEA Solid Mechanics/1 PMTPE/principle of minimum total potential energy.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/cumulative distribution function.md",
-    "(Year 4) Advanced Aero Management/1 Introduction/continuous distribution functions.md",
+    "(Year 4) Advanced Aero Management/Slides/Tutorial_2(1).pdf",
+    "(Year 4) Advanced Aero Management/3 Censorship/right and left censored data.md",
+    "(Year 4) Advanced Aero Management/3 Censorship/interval censored data.md",
+    "(Year 4) Advanced Aero Management/3 Censorship/censored maximum likelihood estimation.md",
+    "(Year 4) Advanced Aero Management/3 Censorship/Censored Data Overview.md",
+    "(Year 4) Advanced Aero Management/3 Censorship",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
+    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
+    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
     "(Year 4) Advanced Aero Management/2 Multivariate PDFs",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/Multi-variate Distributions Overview.md",
     "(Year 4) Advanced Aero Management/2 Multivariate PDFs/constructing independent multivariate distributions.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/multivariate normal distribution.md",
     "images/Pasted image 20241012172856.png",
+    "(Year 4) Advanced Aero Management/1 Introduction/continuous distribution functions.md",
     "images/Pasted image 20241012172714.png",
     "(Year 4) Advanced Aero Management/2 Multivariate PDFs/multivariate maximum likelihood estimation.md",
     "(Year 4) Advanced Aero Management/1 Introduction/maximum likelihood estimation confidence.md",
@@ -260,10 +258,9 @@
     "images/Pasted image 20241012163258.png",
     "images/Pasted image 20241012163144.png",
     "images/Pasted image 20241012163119.png",
+    "images/Pasted image 20241012162918.png",
     "(Year 4) Advanced Aero Management/2 Multivariate PDFs/covariance matrix.md",
-    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/multivariate models.md",
     "images/tHUNDERBOLTS_OF_LIGHTNIN.mp4",
-    "(Year 4) Advanced Aero Management/Slides/Tutorial_1(1).pdf",
-    "(Year 4) FEA Solid Mechanics/Slides/Tutorial_1(1).pdf"
+    "(Year 4) Advanced Aero Management/Slides/Tutorial_1(1).pdf"
   ]
 }
