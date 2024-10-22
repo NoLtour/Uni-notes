@@ -23,3 +23,8 @@ Things like the purity, geometry and defects will likely be somewhat correlated,
 - [[multivariate maximum likelihood estimation]]
 - [[constructing independent multivariate distributions]]
 ## Expanded articles
+![[univariate models]]
+![[multivariate models]]
+![[multivariate normal distribution]]
+![[multivariate maximum likelihood estimation]]
+![[constructing independent multivariate distributions]]

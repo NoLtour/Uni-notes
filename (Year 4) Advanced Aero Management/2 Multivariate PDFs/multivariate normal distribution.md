@@ -9,8 +9,7 @@ tags:
 We can take the [[univariate models|univariate]] [[continuous distribution functions|gaussian distribution]] function, and get the generalised [[multivariate models|multivariate]] form:
 
 > ### $$\begin{align*}  \text{Univariate:}&& f(x)  &= \frac{1}{\sigma \sqrt{2\pi}} \exp\left[-\frac{1}{2} \left(\frac{x-\mu}{\sigma}\right)^{2} \right] \\  \text{Multivariate:}&& f(\boldsymbol{x})  &= \frac{1}{\sqrt{(2\pi)^{p}\det\boldsymbol{\Sigma}}} \exp \left[-\frac{1}{2} (\boldsymbol{x} - \boldsymbol{\mu})^{T} \boldsymbol{\Sigma}^{-1} (\boldsymbol{x}-\boldsymbol{\mu}) \right]  \end{align*}$$
-> ### $$\begin{align*}  \boldsymbol{x} &= \begin{pmatrix} x_{1}\\ x_{2}\\...\\x_{n} \end{pmatrix} &&& \boldsymbol{\mu} &= \begin{pmatrix} \mu_{1}\\\mu_{3}\\...\\\mu_{n} \end{pmatrix} &&&
-\boldsymbol{\Sigma} &=\begin{bmatrix} \Sigma_{11} & \Sigma_{12} & \cdots & \Sigma_{1n} \\ \Sigma_{21} & \Sigma_{22} & \cdots & \Sigma_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ \Sigma_{n1} & \Sigma_{n2} & \cdots & \Sigma_{nn} \end{bmatrix} \end{align*}$$
+> ### $$\begin{align*}  \boldsymbol{x} &= \begin{pmatrix} x_{1}\\ x_{2}\\...\\x_{n} \end{pmatrix} &&& \boldsymbol{\mu} &= \begin{pmatrix} \mu_{1}\\\mu_{3}\\...\\\mu_{n} \end{pmatrix} &&&\boldsymbol{\Sigma} &=\begin{bmatrix} \Sigma_{11} & \Sigma_{12} & \cdots & \Sigma_{1n} \\ \Sigma_{21} & \Sigma_{22} & \cdots & \Sigma_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ \Sigma_{n1} & \Sigma_{n2} & \cdots & \Sigma_{nn} \end{bmatrix} \end{align*}$$
 >> where:
 >> $f(...)=$ the [[probability density function]]
 >> $x=$ some parameter

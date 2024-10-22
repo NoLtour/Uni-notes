@@ -15,4 +15,4 @@ tags:
 1) [[Multi-variate Distributions Overview]]
 
 #### Censorship
-1) [[]]
+1) [[Censored Data Overview]]
