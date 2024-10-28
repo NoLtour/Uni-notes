@@ -11,6 +11,6 @@ tags: ["Question","QFormat3"]
 > ### $$ k = \frac{3EI}{L^{3}} $$ 
 >> where:
 >> $k=$ [[spring constant]]
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $I=$ [[second moment of area]]
 >> $L=$ unloaded length of beam

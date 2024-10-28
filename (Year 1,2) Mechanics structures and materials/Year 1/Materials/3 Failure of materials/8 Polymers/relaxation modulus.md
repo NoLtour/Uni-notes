@@ -12,7 +12,7 @@ tags: ["Question","QFormat3"]
 >> $E_r(t)=$ The relaxation modulus as a function of time
 >> $\sigma_t=$ The time dependent stress
 
-This is basically a [[youngs modulus]] that changes over time, so can be used to model [[creep (materials)|creep]].
+This is basically a [[Youngs modulus]] that changes over time, so can be used to model [[creep (materials)|creep]].
 
 ![[Pasted image 20211208165745.png]]
 

@@ -9,7 +9,7 @@ This is when a [[crystalline materials|crystalline material]] is composed of a s
 ![[Pasted image 20211024105328.png]]
 
 ### Properties
-It is anisotropic, so it has different properies in different directions/planes. This can lead to it have large differences in things like [[youngs modulus]] and [[ultimate tensile strength]] in different directions along the crystal.
+It is anisotropic, so it has different properies in different directions/planes. This can lead to it have large differences in things like [[Youngs modulus]] and [[ultimate tensile strength]] in different directions along the crystal.
 
 Monocrystalline materials can be used to make things such as turbine blades, this is because they have very high strengths in certain directions while also having low thermal creep.
 

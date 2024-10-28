@@ -11,7 +11,7 @@ Proved in [[Griffith approach]].
 > ### $$ \sigma_f = \sqrt\frac{2E\gamma}{\pi a} $$ 
 >> where:
 >> $\sigma_f=$ Critical stress (fracture stress)
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\gamma=$ Surface energy per unit area ($J/m^{2}$)
 >> $a=$ radius of crack
 

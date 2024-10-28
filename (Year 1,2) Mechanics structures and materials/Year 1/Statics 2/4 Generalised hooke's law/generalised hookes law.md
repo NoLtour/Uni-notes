@@ -21,7 +21,7 @@ Now for the cube you can use the following equations for things and stuff:
 >> where:
 >> $\varepsilon=$ strain in some axis
 >> $\sigma=$ stress in some axis
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 
 #### Shear
@@ -30,7 +30,7 @@ The equations for $\varepsilon_{xy},\varepsilon_{xz},\varepsilon_{yz}$ are all t
 >> where:
 >> $\varepsilon_{xy}=$ shear strain in xy
 >> $\sigma_{xy}=$ shear stress in xy
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 
 ### Stress
@@ -44,7 +44,7 @@ Same as for [[plane stress (generalised hookes law)|plane stress]], we can use t
 >> where:
 >> $\varepsilon=$ strain in some axis
 >> $\sigma=$ stress in some axis
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 
 #### Shear
@@ -52,5 +52,5 @@ Same as for [[plane stress (generalised hookes law)|plane stress]], we can use t
 >> where:
 >> $\varepsilon_{xy}=$ shear strain in xy
 >> $\sigma_{xy}=$ shear stress in xy
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]

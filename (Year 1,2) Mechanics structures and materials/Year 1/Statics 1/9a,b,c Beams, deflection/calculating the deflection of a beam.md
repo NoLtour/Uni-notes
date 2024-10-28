@@ -14,7 +14,7 @@ When we measure deflection we take it in respect to the origional strait beam's 
 > ### $$ v = -\frac{1}{EI} \left(\int \left(\int M \cdot dx\right) \cdot dx\right)$$
 >> where:
 >> $M=$ Moment 
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $I=$ [[second moment of area]] 
 >> $v=$ Displacement from strait position
 >> $x=$ Distance along the beam

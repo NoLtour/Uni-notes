@@ -11,7 +11,7 @@ So basically take the [[generalised hookes law]] equations and assume that $\sig
 >> where:
 >> $\sigma_{xx}=\sigma_{yy}=\sigma_{zz}=\sigma_{H}$ 
 >> $\sigma_{H}=$ [[hydrostatic stress]]
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 
 Note that sometimes the [[bulk modulus]] is used:

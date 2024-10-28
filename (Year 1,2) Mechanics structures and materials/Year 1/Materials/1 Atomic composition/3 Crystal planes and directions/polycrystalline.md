@@ -9,4 +9,4 @@ This is when a [[crystalline materials|crystalline material]] is composed of man
 ![[Pasted image 20211024110549.png]]
 
 ### Properties
-It is isotropic, so it will have the same properties in all directions giving it a uniform [[youngs modulus]] in all axis'.
+It is isotropic, so it will have the same properties in all directions giving it a uniform [[Youngs modulus]] in all axis'.

@@ -19,7 +19,7 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 > ### $$ \varepsilon_{yy} = \frac{1}{E} (\sigma_{yy} - \nu \sigma_{xx} ) $$ 
 > ### $$ \varepsilon_{zz} = -\frac{\nu}{E} (\sigma_{xx} + \sigma_{yy} ) $$ 
 >> where:
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\varepsilon=$ strain in some axis
 >> $\sigma_{xx}=$ stress in xx
 >> $\sigma_{yy}=$ stress in yy
@@ -32,7 +32,7 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 
 > ### $$ \varepsilon_{xy} = \frac{1+\nu}{E} (\sigma_{xy}) $$ 
 >> where:
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\varepsilon_{xy}=$ shear strain in xy
 >> $\sigma_{xx}=$ shear stress in xy
 >> $\nu=$ [[poisson's ratio]]
@@ -47,7 +47,7 @@ With lots of subbing in and rearranging you can get the following stress equatio
 > ### $$ \sigma_{zz} = 0 $$
 >> where:
 >> $\sigma=$ stress in some axis
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 >> $\varepsilon_{xx}=$ strain in x
 >> $\varepsilon_{yy}=$ strain in y
@@ -58,6 +58,6 @@ With lots of subbing in and rearranging you can get the following stress equatio
 > ### $$ \sigma_{xy} = \frac{E}{1+\nu} \varepsilon_{xy} $$ 
 >> where:
 >> $\sigma_{xy}=$ shear stress in xy
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 >> $\varepsilon_{xy}=$ shear strain in xy

@@ -25,12 +25,17 @@ $$\begin{align*}
  U &= \frac{1}{2} \begin{pmatrix} q_{1}\\ q_{2} \end{pmatrix}^{T} \begin{pmatrix} k & -k\\-k & k \end{pmatrix}\begin{pmatrix}q_{1}\\q_{2}\end{pmatrix} &&\to& U&= \frac{1}{2} \{q\}^{T}[K] \{q\} 
 \end{align*}$$
 
-Note that we call $[K]$ a stiffness matrix.
+^ef3930
+
+Note that we call $[K]$ a [[stiffness matrix]].
 
 Then the potential energy is trivial:
 $$\begin{align*}
 V &= -(F_{1} q_{1} + F_{2} q_{2}) &&\to& V &= -\begin{pmatrix} F_{1} & F_{2} \end{pmatrix} \begin{pmatrix}q_{1}\\q_{2}\end{pmatrix} &&\to& V &= -\begin{pmatrix} F_{1} \\ F_{2} \end{pmatrix}^{T} \begin{pmatrix}q_{1}\\q_{2}\end{pmatrix} &&\to& V&= \{F\}^{T}\{q\} 
 \end{align*}$$
+
+^1ce236
+
 ### Combining springs
 
 Ok, so lets take what was solved in [[principle of minimum total potential energy for a spring#Two springs]], but add a reaction this time:

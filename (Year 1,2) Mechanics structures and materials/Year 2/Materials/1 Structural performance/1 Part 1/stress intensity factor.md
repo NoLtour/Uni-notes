@@ -23,7 +23,7 @@ The stress intensity factor, K, is used in fracture mechanics to predict the str
 >> $r=$  polar coordiantes, distance from crack tip
 >> $a=$ crack radius 
 >> $\gamma=$ material yield stress
->> $E=$ stiffness ([[youngs modulus]])
+>> $E=$ stiffness ([[Youngs modulus]])
 >> $K=$ Stress intensity factor, describes magnitude of local stresses for a particular crack tip
 >> $K_{C}=$ [[critical stress intensity factor]]
 >> $Q=$ Shape factor for 

@@ -15,7 +15,7 @@ But getting the force of a neglibible sized points kinda useless (shock), now if
 Well guess what, it's called calculus and you already knew that, remember when you [[kekekkw|asked your teacher]] "but when will I use this?" well now (bitch).
 
 ### Math
-I'm going to use [[youngs modulus]] and [[longitudinal strain in a beam#Implications]].
+I'm going to use [[Youngs modulus]] and [[longitudinal strain in a beam#Implications]].
 
 $$ \begin{align*}
 F =& \int \int \sigma_{xx}\cdot dy\cdot dz & \sigma_{xx} =& \frac{Ey}{R}\\

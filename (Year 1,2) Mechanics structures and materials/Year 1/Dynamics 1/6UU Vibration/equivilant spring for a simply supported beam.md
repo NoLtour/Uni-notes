@@ -11,7 +11,7 @@ tags: ["Question","QFormat3"]
 > ### $$ k = \frac{48EI}{L^{3}} $$ 
 >> where:
 >> $k=$ equivalent [[spring constant]]
->> $E=$ [[youngs modulus]] of the beam material
+>> $E=$ [[Youngs modulus]] of the beam material
 >> $I=$ [[second moment of area]] of the beam
 >> $L=$ length of beam
 >> The force is applied at the centre of the beam

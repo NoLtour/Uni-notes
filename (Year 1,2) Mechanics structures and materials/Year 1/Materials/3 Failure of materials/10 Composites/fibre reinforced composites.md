@@ -31,9 +31,9 @@ E_c V_c &= E_m V_m + E_f V_f & V_c &= V_m + V_f\\
 &\end{align*}$$
 > ### $$ E_c = \frac{E_m V_m + E_f V_f}{V_m + V_f} $$ 
 >> where:
->> $E_c=$ [[youngs modulus]] of composite (longitudional) 
->> $E_f=$ [[youngs modulus]] of fibres (longitudional) 
->> $E_m=$[[youngs modulus]] of matrix (longitudional) 
+>> $E_c=$ [[Youngs modulus]] of composite (longitudional) 
+>> $E_f=$ [[Youngs modulus]] of fibres (longitudional) 
+>> $E_m=$[[Youngs modulus]] of matrix (longitudional) 
 >> $V_f=$ volume of fibres
 >> $V_m=$ volume of matrix
 
@@ -52,9 +52,9 @@ E_c  &= \frac{E_m E_f (A_m+A_f) }{A_mE_f  + A_fE_m}& V &\propto A\\
 \end{align*}$$
 > ### $$ E_c  = E_m E_f \frac{ V_m+V_f }{V_mE_f  + V_fE_m} $$ 
 >> where:
->> $E_c=$ [[youngs modulus]] of composite (transverse) 
->> $E_f=$ [[youngs modulus]] of fibres (transverse) 
->> $E_m=$[[youngs modulus]] of matrix (transverse) 
+>> $E_c=$ [[Youngs modulus]] of composite (transverse) 
+>> $E_f=$ [[Youngs modulus]] of fibres (transverse) 
+>> $E_m=$[[Youngs modulus]] of matrix (transverse) 
 >> $V_f=$ volume of fibres
 >> $V_m=$ volume of matrix
 

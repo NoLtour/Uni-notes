@@ -25,7 +25,7 @@ Of course in reality everything has [[random idk|unexpected behaviour]], so for 
 - The beam is bent into a circular arc
 - The radius of curviture of the circle is large compared to the thickness of the beam
 - Tensile and compressive stresses act longitudionaly
-- The beam is expressing linear elastic behaviour and has the same [[youngs modulus]] for both tension and compression
+- The beam is expressing linear elastic behaviour and has the same [[Youngs modulus]] for both tension and compression
 
 #### Explenation of what that means
 This is what we mean by "modelling it as a circular arc", this is exagerated though. In reality we would model it as a much more gentle curve.

@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### How do you go about
 ## Calculating truss deformation
-The extention of the [[truss]] can be calculated using [[youngs modulus]] subbing in equations of [[Stress]] and [[Strain]].
+The extention of the [[truss]] can be calculated using [[Youngs modulus]] subbing in equations of [[Stress]] and [[Strain]].
 
 ![[Pasted image 20211022232807.png]]
 

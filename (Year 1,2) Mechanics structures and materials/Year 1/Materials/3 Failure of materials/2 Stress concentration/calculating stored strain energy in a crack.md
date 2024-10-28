@@ -10,4 +10,4 @@ tags: ["Question","QFormat3"]
 >> $U_E=$  Stored strain energy
 >> $\sigma_0=$ stress across the material
 >> $a=$ radius of crack
->> $E=$ [[youngs modulus]] of material
+>> $E=$ [[Youngs modulus]] of material

@@ -11,6 +11,6 @@ tags: ["Question","QFormat3"]
 > ### $$ k = \frac{EA}{L} $$ 
 >> where:
 >> $k=$ [[spring constant]]
->> $E=$ [[youngs modulus]]
+>> $E=$ [[Youngs modulus]]
 >> $A=$ cross sectional area
 >> $L=$ unloaded length of rod
