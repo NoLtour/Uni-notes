@@ -21,3 +21,6 @@ tags:
 #### Reliability
 1) [[Distributing random numbers Overview]]
 2) [[Systems Reliability Models Overview]]
+3) [[Reliability Model Advanced Components Overview]]
+4) [[Reliability Importance Metrics Overview]]
+5) [[Competing Risk Models and Fault Trees Overview]]
