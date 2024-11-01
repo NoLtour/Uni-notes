@@ -24,3 +24,4 @@ tags:
 3) [[Reliability Model Advanced Components Overview]]
 4) [[Reliability Importance Metrics Overview]]
 5) [[Competing Risk Models and Fault Trees Overview]]
+6) [[Load Sharing Systems Overview]]

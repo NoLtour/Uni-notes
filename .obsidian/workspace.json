@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a4b61877eb6b87d7",
+        "id": "12840d29a7adc128",
         "type": "tabs",
         "children": [
           {
-            "id": "45de27ab7208aebb",
+            "id": "d537e0f9ab53985b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/4 Reliability/Competing Risk Models and Fault Trees Overview.md",
+                "file": "(Year 4) FEA Solid Mechanics/1 PMTPE/Principle of Minimum Total Potential Energy Overview.md",
                 "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Competing Risk Models and Fault Trees Overview"
-            }
-          },
-          {
-            "id": "ff84e8973d52c397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 4) Advanced Aero Management/1 Introduction/cumulative distribution function.md",
-                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cumulative distribution function"
-            }
-          },
-          {
-            "id": "93400646804b7985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 4) Advanced Aero Management/4 Reliability/Birnbaum importance measure.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Birnbaum importance measure"
-            }
-          },
-          {
-            "id": "cdcdc6993a16d767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(Year 4) Advanced Aero Management/4 Reliability/m-out-of-n balanced model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "m-out-of-n balanced model"
+              "title": "Principle of Minimum Total Potential Energy Overview"
             }
           }
         ]
@@ -94,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bending",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -145,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/4 Reliability/Competing Risk Models and Fault Trees Overview.md",
+                "file": "(Year 4) FEA Solid Mechanics/1 PMTPE/Principle of Minimum Total Potential Energy Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Competing Risk Models and Fault Trees Overview"
+              "title": "Backlinks for Principle of Minimum Total Potential Energy Overview"
             }
           },
           {
@@ -201,39 +159,46 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "45de27ab7208aebb",
+  "active": "d537e0f9ab53985b",
   "lastOpenFiles": [
+    "(Year 4) FEA Solid Mechanics/FEA Solid Mechanics Navigation Page.md",
+    "(Year 4) FEA Solid Mechanics/2 Elastic rods/Elastic rods in tension and compression Overview.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/basic rules of probability.md",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/conservation of energy in flow notes.md",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/cavitation.md",
+    "(Year 1,2) Thermodynamics/Thermofluids (year 1)/25 Conservation of energy in flow/enjoy bitch.md",
+    "(Year 3) Aero systems control/7 PID Control/proportional controller.md",
+    "(Year 3) Aero systems control/7 PID Control/proof not needed bozo.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/spacecraft maintenance problem.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/humanity students be like.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/selection of system voltage.md",
+    "(Year 3) Advanced Astronautics/Ch 1 Power System/1.1, 1.2 Intro/yes I did use that word.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/State-space and MIMO Systems Overview.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/stability in state space.md",
+    "(Year 3) Aero systems control/6 State-space and MIMO Systems/my hands hurt from handling too much latex.md",
+    "2022-10-09.md",
+    "2022-05-26.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/12 analytical and numerical solutions/numerical and analytical solutions.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/4 Differential Equations 1/12 analytical and numerical solutions/mild case of being trash.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/2.1 Thermal Control System intro Overview.md",
+    "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/absolute pandamonium.md",
     "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/Reliability Importance Metrics Overview.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/Systems Reliability Models Overview.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/Competing Risk Models and Fault Trees Overview.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/fault tree analysis.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/Load Sharing Systems Overview.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/load-sharing systems.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/load-sharing system examples.md",
+    "images/Pasted image 20241031155847.png",
+    "images/Pasted image 20241031155837.png",
+    "images/Pasted image 20241031155827.png",
+    "images/Pasted image 20241031155804.png",
+    "images/Pasted image 20241031155754.png",
+    "images/Pasted image 20241031155742.png",
+    "images/Pasted image 20241031155733.png",
+    "images/Pasted image 20241031155724.png",
+    "images/Pasted image 20241031155712.png",
+    "(Year 4) Advanced Aero Management/4 Reliability/recursion.md",
     "images/Pasted image 20241031115225.png",
-    "(Year 4) Advanced Aero Management/4 Reliability/competing risk model.md",
-    "images/Pasted image 20241031115044.png",
-    "images/Pasted image 20241031115033.png",
-    "images/Pasted image 20241031115021.png",
-    "(Year 4) Advanced Aero Management/1 Introduction/cumulative distribution function.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/upgrading function measure.md",
-    "images/Pasted image 20241031102802.png",
-    "images/Pasted image 20241031102743.png",
-    "images/Pasted image 20241031102735.png",
-    "images/Pasted image 20241031102622.png",
-    "images/Pasted image 20241031102604.png",
-    "images/Pasted image 20241031102555.png",
-    "(Year 4) Advanced Aero Management/4 Reliability/Birnbaum importance measure.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/importance metrics notation.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/Criticality importance measure.md",
     "(Personal) Electronics stuff/CircuitsSaved/StepperDriver.txt",
-    "(Year 4) Advanced Aero Management/4 Reliability/Reliability Model Advanced Components Overview.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/multistate components.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/yooooo litterally me.md",
     "images/20180523_Rigel Theatre - LUNA [Vocal].mp3",
-    "(Year 4) Advanced Aero Management/4 Reliability/inactive redundancy.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/m-out-of-n balanced model.md",
-    "(Year 4) FEA Solid Mechanics/2 Elastic rods/PMTPE in rods.md",
-    "(Year 4) FEA Solid Mechanics/1 PMTPE/shortcuts for PMTPE for springs.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/complex reliability model.md",
     "(Year 4) Advanced Aero Management/AeroManagement.drawio",
     "(Year 4) Advanced Aero Management/Slides/Lecture_14(1).pdf",
     "(Year 4) Advanced Aero Management/Slides/Lecture_13(1).pdf",
@@ -241,13 +206,6 @@
     "(Year 4) Advanced Aero Management/Slides/Lecture_11.pdf",
     "(Year 4) Advanced Aero Management/Slides/Lecture_10.pdf",
     "(Year 4) Advanced Aero Management/Slides/Lecture_9.pdf",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_8(1).pdf",
-    "(Year 4) FEA Solid Mechanics/FEA Solid Mechanics Navigation Page.md",
-    "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/Beams in Bending and Shape Functions Overview.md",
-    "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/beam elements in pure bending.md",
-    "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/Euler-Bernoulli hypothesis assumptions.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/3,4 Pin jointed trusses/Youngs modulus.md",
-    "(Year 4) FEA Solid Mechanics/2 Elastic rods/shape function.md",
-    "(Year 4) FEA Solid Mechanics/2 Elastic rods/Elastic rods in tension and compression Overview.md"
+    "(Year 4) Advanced Aero Management/Slides/Lecture_8(1).pdf"
   ]
 }
