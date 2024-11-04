@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) FEA Solid Mechanics/1 PMTPE/Principle of Minimum Total Potential Energy Overview.md",
-                "mode": "preview",
+                "file": "(Personal) Electronics stuff/1 Foundation Topics/1 Material Science/Electrical Material Science Overview.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Principle of Minimum Total Potential Energy Overview"
+              "title": "Electrical Material Science Overview"
             }
           }
         ]
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 214.5
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 4) FEA Solid Mechanics/1 PMTPE/Principle of Minimum Total Potential Energy Overview.md",
+                "file": "(Personal) Electronics stuff/1 Foundation Topics/1 Material Science/Electrical Material Science Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Principle of Minimum Total Potential Energy Overview"
+              "title": "Backlinks for Electrical Material Science Overview"
             }
           },
           {
@@ -161,6 +161,11 @@
   },
   "active": "d537e0f9ab53985b",
   "lastOpenFiles": [
+    "(Personal) Electronics stuff/Electronics Engineer Root Page.md",
+    "(Personal) Electronics stuff/1 Foundation Topics/1 Material Science/Electrical Material Science Overview.md",
+    "(Personal) Electronics stuff/1 Foundation Topics/1 Material Science",
+    "(Personal) Electronics stuff/1 Foundation Topics",
+    "(Year 4) FEA Solid Mechanics/1 PMTPE/Principle of Minimum Total Potential Energy Overview.md",
     "(Year 4) FEA Solid Mechanics/FEA Solid Mechanics Navigation Page.md",
     "(Year 4) FEA Solid Mechanics/2 Elastic rods/Elastic rods in tension and compression Overview.md",
     "(Year 4) Advanced Aero Management/1 Introduction/basic rules of probability.md",
@@ -184,8 +189,6 @@
     "(Year 3) Advanced Astronautics/Ch 2 Thermal Control System/2.1 Intro/absolute pandamonium.md",
     "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
     "(Year 4) Advanced Aero Management/4 Reliability/Load Sharing Systems Overview.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/load-sharing systems.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/load-sharing system examples.md",
     "images/Pasted image 20241031155847.png",
     "images/Pasted image 20241031155837.png",
     "images/Pasted image 20241031155827.png",
@@ -195,7 +198,6 @@
     "images/Pasted image 20241031155733.png",
     "images/Pasted image 20241031155724.png",
     "images/Pasted image 20241031155712.png",
-    "(Year 4) Advanced Aero Management/4 Reliability/recursion.md",
     "images/Pasted image 20241031115225.png",
     "(Personal) Electronics stuff/CircuitsSaved/StepperDriver.txt",
     "images/20180523_Rigel Theatre - LUNA [Vocal].mp3",
@@ -204,8 +206,6 @@
     "(Year 4) Advanced Aero Management/Slides/Lecture_13(1).pdf",
     "(Year 4) Advanced Aero Management/Slides/Lecture_12.pdf",
     "(Year 4) Advanced Aero Management/Slides/Lecture_11.pdf",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_10.pdf",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_9.pdf",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_8(1).pdf"
+    "(Year 4) Advanced Aero Management/Slides/Lecture_10.pdf"
   ]
 }
