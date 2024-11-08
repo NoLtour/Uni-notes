@@ -78,3 +78,19 @@ U &= ... &&\to& U &= \frac{1}{2} EI \begin{pmatrix} q_{1}\\q_{2}\\q_{3}\\q_{4} \
 
 There you go, we have the stiffness matrix!
 
+#### Combining Elements
+
+![[Pasted image 20241108163303.png]]
+
+What if we have a 3 node beam, with different stiffness values? Well the method simply follows what was outlined in [[shortcuts for PMTPE for springs]], we can simply combine the matrices expected across each of the nodes using the work on this page. 
+![[Pasted image 20241108163523.png]]
+
+The main difference is consideration of the boundary condition, we now have a moment reaction in addition to the wall reaction:
+
+![[Pasted image 20241108163603.png]]
+
+Of course the matrix will be [[singular matrix|singular]] because boundary conditions are undefined, so we add the zero constraint to $q_{1}$ and $q_{2}$ which results in:
+
+![[Pasted image 20241108163730.png]]
+
+Which we can solve for $q$, then later extract reactions if desired.

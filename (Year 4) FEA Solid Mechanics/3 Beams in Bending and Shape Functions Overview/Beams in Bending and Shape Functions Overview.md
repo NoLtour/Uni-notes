@@ -9,5 +9,7 @@ tags:
 #### Intro and contents
 - [[shape function]]
 - [[beam elements in pure bending]]
+- [[stresses and strains in pure bending FEA]]
+- 
 
 ## Expanded articles

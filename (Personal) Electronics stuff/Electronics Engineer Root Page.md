@@ -18,3 +18,10 @@ tags:
 8) AC analysis
 9) Electric fields and forces
 10) Electromagnetism
+
+## Mechatronics
+1) Core principles
+2) System level integration
+3) Modelling tools
+4) [[Robotic Systems Overview]]
+5) tbc

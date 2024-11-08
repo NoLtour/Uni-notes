@@ -25,3 +25,5 @@ tags:
 4) [[Reliability Importance Metrics Overview]]
 5) [[Competing Risk Models and Fault Trees Overview]]
 6) [[Load Sharing Systems Overview]]
+7) [[Reliability Within Design Overview]]
+8) [[Optimisation for robustness Overview]]
