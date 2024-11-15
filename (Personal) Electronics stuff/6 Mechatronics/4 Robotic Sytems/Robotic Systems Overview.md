@@ -8,34 +8,12 @@ tags:
 
 ### Overview
 
-We've broken all of ROS into everything needed to understand it, all aims are listed out in the lower sections. 
+We've broken all of ROS into everything needed to understand it, starting from the fundamentals and moving onto more advanced stuff.
 
 The notes pages themselves are:
 - [[ROS Fundamentals Overview]]
 
-## Fundamentals
 
-- **Learn the purpose of ROS and ROS2**
-  - Understand what ROS (Robot Operating System) is, why it is essential for robotics, and the key differences between ROS and ROS2.
-  - Understand why ROS2 was developed, its improvements over ROS, and how it addresses shortcomings in ROS (e.g., real-time, multi-platform support, and DDS communication).
-
-- **The architecture underpinning ROS and ROS2**
-  - Learn the high-level architecture of ROS and ROS2 and what makes them effective for building robotic systems.
-    - **Communication**: How ROS and ROS2 handle communication (ROS uses custom transport, ROS2 uses DDS).
-    - **Platforms**: What platforms ROS and ROS2 can run on (e.g., Linux, Windows, macOS for ROS2).
-    - **Safety and real-time requirements**: Why ROS2 is more suitable for real-time and safety-critical applications.
-
-- **What are packages, nodes, and workspaces**
-  - Learn the basic components of ROS and ROS2:
-    - **Packages**: What they are and how they organize ROS software.
-    - **Nodes**: The smallest unit of execution within ROS, responsible for specific tasks (e.g., sensor data processing).
-    - **Workspaces**: How they manage and compile packages.
-
-- **What are topics, services, and actions**
-  - Understand the communication mechanisms in ROS:
-    - **Topics**: Publish/subscribe communication model for continuous data exchange.
-    - **Services**: Request/response communication for synchronous tasks.
-    - **Actions**: Long-running tasks with feedback.
 ## Intermediate
 
 - **Message types and design**

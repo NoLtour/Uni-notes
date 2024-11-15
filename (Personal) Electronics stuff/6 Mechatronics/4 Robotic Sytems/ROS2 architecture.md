@@ -61,3 +61,16 @@ The messages defined in ROS 2 are actually of great importance for interoperabil
 ROS 2 also effectively uses the [[DDS quality of services|quality of services]] (QOS) defined in the [[ROS2 layers|DDS middleware]]. For example, while continuously updated sensor data is sent unreliably, a command sent to the robot to do a job can be sent reliably. Matching the rich quality of service features in DDS with the topics is an important design decision. Ready-made service quality profiles that can be used according to the type of data are defined and the service quality related to newly defined topics is determined by selecting one of these profiles.
 
 The QOS profiles defined in ROS 2 are known by service, sensor data, parameters and default. For example, the parameters use the reliable service quality value while the sensor data uses the best effort QOS value.
+
+#### Platforms
+
+The neat thing about ROS2 is it's very multiplatform, it can run on:
+- Linux
+- Mac
+- Windows
+
+Which is to say, anything that can run a proper OS can host ROS2, which is not something that could be said for [[Robot Operating System|classic ROS]]!
+
+Beyond running on relatively high level hardware, it can also run on [[microcontrollers]]. This is where [[micro-ROS]] comes in.
+
+

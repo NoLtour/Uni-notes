@@ -4,38 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "01ddadee8257da5e",
+        "id": "88631e81e7aad0a7",
         "type": "tabs",
         "children": [
           {
-            "id": "d537e0f9ab53985b",
+            "id": "659222a7c053606f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/Beams in Bending and Shape Functions Overview.md",
+                "file": "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beams in Bending and Shape Functions Overview"
+              "title": "Advanced Aerospace Management Navigation Page"
             }
           },
           {
-            "id": "1a545154ca290c9d",
+            "id": "387e7c2708624291",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/beam elements in pure bending.md",
+                "file": "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/Maintenance and Inspection Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "beam elements in pure bending"
+              "title": "Maintenance and Inspection Overview"
+            }
+          },
+          {
+            "id": "1303d3c33dc9400a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Personal) Electronics stuff/Electronics Engineer Root Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electronics Engineer Root Page"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/Beams in Bending and Shape Functions Overview.md",
+                "file": "(Personal) Electronics stuff/Electronics Engineer Root Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +142,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Beams in Bending and Shape Functions Overview"
+              "title": "Backlinks for Electronics Engineer Root Page"
             }
           },
           {
@@ -173,53 +188,53 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "d537e0f9ab53985b",
+  "active": "1303d3c33dc9400a",
   "lastOpenFiles": [
-    "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/stresses and strains in pure bending FEA.md",
-    "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/beam elements in pure bending.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/engineer's bending theory.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/Statics 1 read order.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/7b Bending of beams/Bending of beams notes.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Structures/2 Beam bendin/bending a beam with assymetric cross sections.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Structures/2 Beam bendin/Bending of arbitrary cross section beams overview.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Structures/Structures year 2 read order.md",
-    "(Year 1,2) Mechanics structures and materials/Year 2/Structures/Beams under torsion overview.md",
-    "(Year 1,2) Mechanics structures and materials/Year 1/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
-    "(Year 4) FEA Solid Mechanics/3 Beams in Bending and Shape Functions Overview/Beams in Bending and Shape Functions Overview.md",
-    "images/Pasted image 20241108163730.png",
-    "images/Pasted image 20241108163603.png",
-    "images/Pasted image 20241108163523.png",
-    "images/Pasted image 20241108163303.png",
-    "(Year 4) FEA Solid Mechanics/FEA Solid Mechanics Navigation Page.md",
-    "(Year 4) FEA Solid Mechanics/2 Elastic rods/Elastic rods in tension and compression Overview.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/Robotic Systems Overview.md",
+    "(Personal) Electronics stuff/Electronics Engineer Root Page.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/ROS Fundamentals Overview.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/ROS packages and workspaces.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/manifest file.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/YAML file.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/ROS2 service definition.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/key-value pairs.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/Cirno.md",
+    "images/The Lady Cirno's Impeccable Arithmetic Seminarium.mp4",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/JSON file.md",
+    "images/976E4384-3A87-405D-8905-947C659007E1.png",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/JavaScript.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/header file.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/CMake.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/CMakeLists.txt.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/software package.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/micro-ROS.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/ROS2 architecture.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/microcontrollers.md",
     "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/Optimisation for robustness Overview.md",
-    "images/Pasted image 20241107190643.png",
-    "(Year 4) Advanced Aero Management/4 Reliability/surrogate modelling.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/optimisation under uncertainty.md",
-    "images/Pasted image 20241107185931.png",
-    "(Year 4) Advanced Aero Management/4 Reliability/Pareto front.md",
-    "images/Pasted image 20241107185902.png",
-    "images/Pasted image 20241107184414.png",
-    "images/Pasted image 20241107184212.png",
-    "images/Pasted image 20241107184107.png",
-    "(Year 4) Advanced Aero Management/4 Reliability/convolution.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/absolutely integrable.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/aleatory and epistemic uncertainty.md",
-    "(Year 4) Advanced Aero Management/4 Reliability/we ball.md",
-    "images/bad_piggies-1.mp4",
-    "(Year 4) Advanced Aero Management/4 Reliability/stochastic.md",
-    "(Personal) Electronics stuff/1 Foundation Topics/1 Material Science/Electrical Material Science Overview.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems",
-    "(Personal) Electronics stuff/6 Mechatronics",
-    "(Personal) Electronics stuff/1 Foundation Topics/1 Material Science",
-    "(Personal) Electronics stuff/1 Foundation Topics",
-    "(Personal) Electronics stuff/CircuitsSaved/StepperDriver.txt",
-    "images/20180523_Rigel Theatre - LUNA [Vocal].mp3",
-    "(Year 4) Advanced Aero Management/AeroManagement.drawio",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_14(1).pdf",
-    "(Year 4) Advanced Aero Management/Slides/Lecture_13(1).pdf"
+    "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/Maintenance and Inspection Overview.md",
+    "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/maintenance optimization.md",
+    "images/Pasted image 20241114150138.png",
+    "images/Pasted image 20241114145010.png",
+    "images/Pasted image 20241114144741.png",
+    "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/expected number of failures.md",
+    "images/Pasted image 20241114133135.png",
+    "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/maintenance key definitions.md",
+    "(Year 4) Advanced Aero Management/5 Maintenance Scheduling",
+    "(Year 4) FEA Solid Mechanics/4 Dynamics/Dynamics in FEA Overview.md",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_16.pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_17.pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_18(1).pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_19(1).pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_20(1).pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_21(1).pdf",
+    "(Year 4) Advanced Aero Management/Slides/Lecture_15.pdf",
+    "(Year 4) FEA Solid Mechanics/Slides/Lecture_21(1).pdf",
+    "(Year 4) FEA Solid Mechanics/4 Dynamics/solving linear oscillatory FEA systems in the absence of external force.md",
+    "images/Pasted image 20241114105939.png",
+    "(Year 3) Aero systems control/Aero Systems Control Overview.md",
+    "images/Pasted image 20241113164417.png",
+    "images/Pasted image 20241113160452.png",
+    "images/Pasted image 20241113154558.png",
+    "images/Pasted image 20241113154214.png"
   ]
 }

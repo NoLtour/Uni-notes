@@ -1,0 +1,6 @@
+---
+aliases: ["javascript"]
+tags: []
+---
+
+## JavaScript
