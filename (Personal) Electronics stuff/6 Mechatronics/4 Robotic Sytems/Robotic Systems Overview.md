@@ -12,6 +12,7 @@ We've broken all of ROS into everything needed to understand it, starting from t
 
 The notes pages themselves are:
 - [[ROS Fundamentals Overview]]
+- [[Gazebo Fundamentals Overview]]
 
 
 ## Intermediate
