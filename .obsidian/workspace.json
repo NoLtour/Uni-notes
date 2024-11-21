@@ -4,51 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "88631e81e7aad0a7",
+        "id": "d4f0e1428c3e0607",
         "type": "tabs",
         "children": [
           {
-            "id": "659222a7c053606f",
+            "id": "f995c49a9bd8dce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
-                "mode": "source",
-                "source": false
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/Parameter Estimation Overview.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Advanced Aerospace Management Navigation Page"
+              "title": "Parameter Estimation Overview"
             }
           },
           {
-            "id": "387e7c2708624291",
+            "id": "cf20a85634bda801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/Gazebo Fundamentals Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/13 Statistics 1/standard deviation for probabability functions.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Gazebo Fundamentals Overview"
-            }
-          },
-          {
-            "id": "8cd73d481dd394c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "standard deviation for probabability functions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/Gazebo Fundamentals Overview.md",
+                "file": "(Year 4) Advanced Aero Management/1 Introduction/Parameter Estimation Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gazebo Fundamentals Overview"
+              "title": "Backlinks for Parameter Estimation Overview"
             }
           },
           {
@@ -186,40 +173,41 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "387e7c2708624291",
+  "active": "f995c49a9bd8dce2",
   "lastOpenFiles": [
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/Robotic Systems Overview.md",
+    "(Year 1,2) Mathematics for Engineering and the Environment/Year 1/13 Statistics 1/standard deviation for probabability functions.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/Parameter Estimation Overview.md",
+    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/Reliability Importance Metrics Overview.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/Reliability Model Advanced Components Overview.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/Distributing random numbers Overview.md",
+    "(Year 4) Advanced Aero Management/3 Censorship/Censored Data Overview.md",
+    "(Year 4) Advanced Aero Management/3 Censorship/censored maximum likelihood estimation.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/continuous distribution functions.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/hazard function.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/competing risk model.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/load-sharing systems.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/Load Sharing Systems Overview.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/Criticality importance measure.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/Birnbaum importance measure.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/complex reliability model.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/binomial coefficient.md",
+    "(Year 4) Advanced Aero Management/1 Introduction/Continuous Variations Overview.md",
+    "(Year 4) Advanced Aero Management/4 Reliability/Systems Reliability Models Overview.md",
+    "(Year 4) Advanced Aero Management/2 Multivariate PDFs/Multi-variate Distributions Overview.md",
     "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/Gazebo Fundamentals Overview.md",
+    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/Robotic Systems Overview.md",
     "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/ROS Fundamentals Overview.md",
     "(Personal) Electronics stuff/Electronics Engineer Root Page.md",
     "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/Maintenance and Inspection Overview.md",
     "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/ROS packages and workspaces.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/manifest file.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/YAML file.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/ROS2 service definition.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/key-value pairs.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/Cirno.md",
     "images/The Lady Cirno's Impeccable Arithmetic Seminarium.mp4",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/JSON file.md",
     "images/976E4384-3A87-405D-8905-947C659007E1.png",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/JavaScript.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/header file.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/CMake.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/CMakeLists.txt.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/software package.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/micro-ROS.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/ROS2 architecture.md",
-    "(Personal) Electronics stuff/6 Mechatronics/4 Robotic Sytems/microcontrollers.md",
-    "(Year 4) Advanced Aero Management/Advanced Aerospace Management Navigation Page.md",
-    "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/maintenance optimization.md",
     "images/Pasted image 20241114150138.png",
     "images/Pasted image 20241114145010.png",
     "images/Pasted image 20241114144741.png",
-    "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/expected number of failures.md",
     "images/Pasted image 20241114133135.png",
-    "(Year 4) Advanced Aero Management/5 Maintenance Scheduling/maintenance key definitions.md",
     "(Year 4) Advanced Aero Management/5 Maintenance Scheduling",
-    "(Year 4) FEA Solid Mechanics/4 Dynamics/Dynamics in FEA Overview.md",
     "(Year 4) Advanced Aero Management/Slides/Lecture_16.pdf",
     "(Year 4) Advanced Aero Management/Slides/Lecture_17.pdf",
     "(Year 4) Advanced Aero Management/Slides/Lecture_18(1).pdf",
@@ -228,7 +216,6 @@
     "(Year 4) Advanced Aero Management/Slides/Lecture_21(1).pdf",
     "(Year 4) Advanced Aero Management/Slides/Lecture_15.pdf",
     "(Year 4) FEA Solid Mechanics/Slides/Lecture_21(1).pdf",
-    "(Year 4) FEA Solid Mechanics/4 Dynamics/solving linear oscillatory FEA systems in the absence of external force.md",
     "images/Pasted image 20241114105939.png",
     "images/Pasted image 20241113164417.png",
     "images/Pasted image 20241113160452.png",
